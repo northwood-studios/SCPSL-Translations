@@ -1,6 +1,6 @@
 Ok, commençons...\nApprendre les bases du tir rend définitivement le jeu... <i>plus facile</i>.\nRamassez le pistolet qui vient d'atterrir sur le plateau.
 Tutorial2_Curtain
-Bon, vous venez de ramasser l'arme la plus merdique du jeu. Habituez-vous, parce qu'elle vous sortira de certaines situations assez tendus. Oh, et c'est bon d'avoir des munitions. Il est difficile d'en trouver dans le jeu, alors tiré aussi efficacement que possible.
+Bon, vous venez de ramasser l'arme la plus merdique du jeu. Habituez-vous, parce qu'elle vous sortira de certaines situations assez tendues. Oh, et c'est bon d'avoir des munitions. Il est difficile d'en trouver dans le jeu, alors tirez aussi efficacement que possible.
 Tutorial2_GiveAmmo
 Rappelez-vous que les tirs à la tête abattront votre adversaire plus rapidement. Si vous n'avez plus de munitions dans ce test, je vous en donnerai plus !
 <color=#00FF58>Utilisez <b>R</b> pour recharger,\n<b>bouton droit de la souris</b> pour viser\net <b>gauche</b> pour tirer.</color>
@@ -11,11 +11,11 @@ Hey, vous êtes plutôt bon tireur !
 Tutorial2_Jumpin
 J'espérais vraiment de plus grandes compétences, c'est vraiment dommage.
 Tutorial2_GivenNTFRifle
-Ok, j'espère que vous detestez cette arme autant que moi, mettons cette arme de côté, et prenons une vraie arme. Celui-ci a une vision nocturne qui rend la prise de vue plus facile.\nVous devriez savoir que zoomer ou viser avec n'importe quelle arme garantit une meilleure précision et une plus grande réduction du recul.
+Ok, j'espère que vous détestez cette arme autant que moi, mettons cette arme de côté, et prenons une vraie arme. Celui-ci a une vision nocturne qui rend la prise de vue plus facile.\nVous devriez savoir que zoomer ou viser avec n'importe quelle arme garantit une meilleure précision et une plus grande réduction du recul.
 Tutorial2_Preset
 Tutorial2_Curtain
 Tutorial2_Curtain
-Je peux voir que vous avez deja maîtrisé les bases ! J'ai préparé un defi pour vous.\nVous avez 20 secondes pour tuer autant d'adversaires que vous le pouvez.\nCommençons !
+Je peux voir que vous avez déjà maîtrisé les bases ! J'ai préparé un defi pour vous.\nVous avez 20 secondes pour tuer autant d'adversaires que vous le pouvez.\nCommençons !
 Prêt ? 3, 2, 1... GO !
 Tutorial2_Preset
 Tutorial2_Curtain
@@ -23,6 +23,6 @@ Tutorial2_Curtain
 Tutorial2_ResultText
 Tutorial2_Curtain
 Le temps est écoulé !
-Rappelez-vous que vous pouvez toujours revoir ce tutoriel à l'avenir\nsi vous voulez monter vos compétences !\nA plus tard !
+Rappelez-vous que vous pouvez toujours revoir ce tutoriel à l'avenir\nsi vous voulez monter vos compétences !\nÀ plus tard !
 
 Tutorial2_MoreAmmo

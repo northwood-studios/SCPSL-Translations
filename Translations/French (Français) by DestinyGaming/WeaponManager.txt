@@ -1,7 +1,7 @@
 Utilisez n'importe quelle touche fléchée pour commencer ...
-Naviguer - Touches fléchées HAUT/BAS \nSélectionner - Touches fléchées DROITE \n Retour - Touches fléchées GAUCHE
+Naviguer - Touches fléchées HAUT/BAS \nSélectionner - Touche fléchée DROITE \n Retour - Touche fléchée GAUCHE
 [var_name]\n\nType de munition: [var_atype]\nRéserve de munitions: [var_ares]\nTaille du chargeur: [var_mag]\n\nMax dégâts: [var_maxdmg]\nDommages effectifs: [var_effdmg]\nCoups par seconde: [var_sps]\n\nPersonnalisations disponibles: [var_custs]\n\nFLÈCHE DE DROITE POUR PERSONNALISER L'ARME
-Tu allez abandonner [var_nom]\nHAUT/BAS pour changer la quantité.\nFlèche DROITE pour lacher.\nFlèche gauche pour revenir.
+Vous allez laisser tomber [var_nom]\nHAUT/BAS pour changer la quantité.\nFlèche DROITE pour lâcher.\nFlèche gauche pour revenir.
 Pas assez de munitions à déposer (tapez [var_nom]). \nFlèche GAUCHE pour revenir.
 CANNON
 AUTRE
