@@ -1,0 +1,32 @@
+SON DES VOIX
+OK
+<size=35>FORCER LE DÉMARRAGE</size>
+RECONFINEMENT DE SCP-106\nFORCER LA PROCÉDURE
+Inverser l'axe vertical
+CONTINUER
+Annuler
+I N V E N T A I R E
+LUMINOSITÉ
+OPTIONS
+<size=75>DÉCONNEXION</size>
+LA BOMBE NUCLÉAIRE EST DÉSACTIVÉE
+ACCÈS REFUSÉ
+CHAT VOCAL
+INVENTAIRE PLEIN
+SENSIBILITÉ SOURIS
+PIRATAGE
+Ramassage...
+Augmenter la luminosité <b>aggrave considérablement l'immersion </b>en jeu.\nEssayez de définir cette valeur aussi bas que possible.\n<b>Il est recommandé de laisser la valeur par défaut.</b>
+[1] OUVRIR/FERMER LA PORTE\n[2] VERROUILLER LA PORTE*\n\n*Verrouiller la porte utilise la capacité spéciale
+LA PORTE A ÉTÉ VERROUILLÉE PAR SCP-079
+Mode plein écran
+Êtes-vous sûr de vouloir quitter le serveur ?
+Options de base. Liste complète des options dans le menu principal.
+EN ATTENTE DE JOUEURS
+CONTINUER
+CONTINUER
+VOLUME PRINCIPAL
+connecté(s)
+Vous vous êtes échappé et vous avez rejoint les unités NTF.
+Vous vous êtes echappé et vous avez rejoint l'insurrection du Chaos.
+VOUS ÊTES

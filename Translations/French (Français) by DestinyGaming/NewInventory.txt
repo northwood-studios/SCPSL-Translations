@@ -1,0 +1,31 @@
+Carte de concierge:Pas de description
+Carte de scientifique:Pas de description
+Carte du superviseur de recherche:Pas de description
+Carte du gestionnaire de zone:Pas de description
+Carte de garde:Pas de description
+Carte de recrue MTF:Pas de description
+Carte d'ingénieur du confinement:Pas de description
+Carte de lieutenant MTF:Pas de description
+Carte de commandant MTF:Pas de description
+Carte de l'administrateur du site:Pas de description
+Dispositif de l'insurrection du chaos
+Carte de l'O5
+Radio:SR = Courte portée \nMR = Moyenne portée \nLR = Longue Portée \nUR = Très longue portée \nUtilise de la batterie quand elle est lançée. La longue portée utilise plus de batterie.
+Pistolet COM-15:Pas de description
+Kit de premier secours:Soigne vos blessures mais pas vos problèmes de nuques.
+Flashlight:Que la lumière soit !
+Micro H.I.D.:Lanceur de décharge mobile à haute intensité.
+Pièce de monnaie:Pas de description
+Tasse:Pas de description
+Tablette de modification d'armes:Utilisé pour donner des munitions & pour modifier des armes
+Epsilon-11 Fusil Standard:Pas de description
+P90:Pas de description
+Dropped 5.56:Pas de description
+MP7:Pas de description
+M249:Pas de description
+Grenade à fragmentation:Boom !
+Grenade incapacitant:Fait mal aux yeux !!!
+Menottes:Clic gauche pour menotter, clic droit pour délier. \nMaintenez E sur quelqu'un qui est menotté dans votre équipe pour les libérer.
+Dropped 7.62:Pas de description.
+Dropped 9mm:Pas de description.
+USP:Pas de description.

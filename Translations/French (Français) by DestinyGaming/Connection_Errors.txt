@@ -1,0 +1,18 @@
+<size=80>VOUS AVEZ ÉTÉ EXPULSÉ</size>\nLe serveur a forcé l'arrêt de votre connexion.\n<size=26>\nVous avez été banni temporairement par un administrateur\nou vous ne remplissez pas les conditions du serveur (e.g. la connexion via steam).\nPour un temps de bannissement - les auteurs du jeu ne sont <u>pas</u> responsables de la durée du bannissement.\n</size>
+<size=80>ERREUR</size>\nL'hôte spécifié n'est pas disponible.
+<size=80>ERREUR</size>\nLa connection spécifié n'existe pas.
+<size=80>ERREUR</size>\nLe canal spécifié n'existe pas.
+<size=80>ERREUR</size>\nLe serveur est complet.
+<size=80>ERREUR</size>\nVous avez reçu de mauvais paquets.
+<size=80>ERREUR</size>\nConnexion perdue (connexion expiré).
+<size=80>ERREUR</size>\nConnexion perdue (connexion expiré).
+<size=80>ERREUR</size>\nL'opération n'est pas supportée.
+<size=80>ERREUR</size>\nMauvaise configuration du serveur (versions non compatible).
+<size=80>ERREUR</size>\nMauvaise configuration du serveur.
+<size=80>ERREUR</size>\nL'adresse fournie pour se connecter n'est pas valide ou n'a pas pu être résolue.
+<size=80>ERREUR</size>\nUn problème inattendu a été détecté !
+<size=80>VEUILLEZ PATIENTER</size>\n<size=35>Connexion en cours...</size>
+<size=80>REDEMARRAGE DU ROUND</size>\n<size=35>Le serveur redemarre le niveau...</size>
+<size=80>VEUILLEZ PATIENTER</size>\n<size=35>Chargement du tutoriel...</size>
+<size=80>INCOMPATIBILITÉ DE VERSION</size>\nVotre version de jeu est différente de celle du serveur\n(La votre - [your]; Serveur - [server])
+<size=80>CONNECTÉ</size>\n<size=35>Chargement du serveur...</size>
