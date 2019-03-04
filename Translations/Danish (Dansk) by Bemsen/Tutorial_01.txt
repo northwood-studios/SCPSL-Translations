@@ -1,0 +1,8 @@
+Velkommen til SCP: Secret Laboratory! Jeg er en af stemmerne fra spillet.\nLad mig intruducerer dig til de basale spil regler.\nPr�v at finde og checke toiletterne for et n�glekort.\n
+<color=#00FF58>Brug <b>W, A, S & D</b> for at bev�ge dig mod <b>toiletterne</b>\nBrug <b>E</b> for at <b>bruge</b> d�re og ting.</color>
+Godt, tag den.
+N�glekort er en af de mest basale ting i spillet, som ogs� giver adgang til l�ste omr�der .\nCheck de n�rmeste d�re, og pr�v at �bne dem med dit n�glekort.
+<color=#00FF58>Brug <b>TAB</b> for at �bne dit inventar.\n<b>Venstreklik</b> for at v�lge en ting\nand <b>h�jreklik</b> for at kaste den.
+Hvis du virkelig gerne vil flygte herfra - S� vil jeg forsl� at du finder et bedre n�glekort.
+Hvert n�glekort har hver deres adgang niveau. Du kan sammmenligne n�glekort ved at pege din mus over hvert kort i dit inventar.
+Tillykke! Du har nu gennemf�rt den f�rste del af tr�ningen!

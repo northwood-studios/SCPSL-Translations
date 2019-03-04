@@ -1,0 +1,31 @@
+Pedel n�glekort:Ingen beskrivelse
+Videnskabsmand n�glekort:Ingen beskrivelse
+Forsknings supervisor n�glekort:Ingen beskrivelse
+Zone Leder n�glekort:Ingen beskrivelse
+Sikkerhedvagts n�glekort:Ingen beskrivelse
+MTF Kadet n�glekort:Ingen beskrivelse
+Elektriker n�glekort:Ingen beskrivelse
+MTF L�jtnant n�glekort:Ingen beskrivelse
+MTF kommand�r n�glekort:Ingen beskrivelse
+Anl�gs-chef n�glekort:Ingen beskrivelse
+Kaos opr�rsgruppens adgangs apparat
+O5-niveau n�glekort
+Radio:SR = Kort afstand \nMR = Medium afstand \nLR = Lang afstand \nUR = Ultra afstand \nBruger batteri n�r t�ndt. Jo l�ngere afstand, jo st�rre batteriforbrug.
+COM-15 h�ndpistol:Ingen beskrivelse
+F�rstehj�lpsset:Heler dine skader.
+Lommelygte:Lad der v�re lys!
+Micro H.I.D.:Mobil h�j-instensitets elektrisk afladnings kaster.
+M�nt:Ingen beskrivelse
+Kop:Ingen beskrivelse
+Weapon Manager Tablet:Brugt til at kaste ammonition ned, og til at opgraderer v�ben.
+MTF-E11-SR:Ingen beskrivelse
+Project 90:Ingen beskrivelse
+Kastet 5.56:Ingen beskrivelse
+MP7:Ingen beskrivelse
+Logicer:Ingen beskrivelse
+H�ndgranat:Boom!
+Flashbang granat:Blinder dine fjender.
+Afbev�bner:Venstreklik afbev�bner, h�jreklik befrier. \nHold E p� en som er afbev�bnet fra dit hold, for at befrie dem.
+Kastet 7.62:Ingen beskrivelse.
+Kastet 9mm:Ingen beskrivelse.
+USP:Ingen beskrivelse.

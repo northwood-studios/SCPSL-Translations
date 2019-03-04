@@ -1,0 +1,62 @@
+TILSLUT
+LUK
+SKYGGE KVALITET
+INDSTILLINGER
+BASERET P� <i>SCP: CONTAINMENT BREACH</i>
+TILBAGE
+SPROG
+ANTIALIASING
+Skift detaljer:\n-ANTAL AF PIXEL LYS - Det maksimale antal af lyskilder, som kan have deres lys indl�st p� individuelle pixler.\n-V-Sync - Sl� synkronisering af genopfrisknings hastigheden og displayet til.
+TILSLUT SPIL
+POST\nPROCESSING
+CREDITS
+AFSLUT SPIL
+Fullscreen mode
+VIDEOINDSTILLINGER
+FARVE RETTELSE
+Indtast IP adresse...
+SK�RMOPL�SNING
+SPIL
+ANTAL AF PIXEL LYS
+SKYGGE TYPE
+SKYGGER
+OPRET SPIL
+Skift post-processing indstillinger. Disse �ndringer p�virker ikke spillets ydeevne. Standard indstillinger er anbefalet.
+Lys indl�snings mode:\nN�r slukket - f�r spillet til at se v�rre ud. Det er anbefalet at man kun slukker dette hvis man har en katoffel PC.
+V-SYNC
+TILSLUT
+KVALITETS INDSTILLINGER
+Skift skygge indstillinger. Ved at s�tte denne v�rdi ned, �ger m�ske spillets ydeevne.
+HOVEDMENU
+LYS INDL�SNINGS MODE
+BEV�GELSESSL�RING
+SKYGGE AFSTAND
+DETALJER
+3. SCP-914
+TUTORIALS
+ADVARSEL
+Gennemse ledige servere
+Vis den ikke igen
+Hvordan vil du tilslutte?
+SERVER BROWSER
+OKAY
+FIND SPIL
+2. At bruge v�ben
+Vi bruger discord som forum. Ingen installering n�dvendig.\n(klik logoet for at tilslutte)
+Som standard, vil serveren blive sat op p� dit lokale netv�rk.\nDine venner har brug for din direct IP adresse for at tilslutte.\nHvis du vil s�tte en offentlig server op, �ben LocalAdmin.exe and f�lg instruktionerne.\nHvis du har sp�rgsm�l, s� kontakt vores tekniske support (Linket ligger i hovedmenuen)
+1. Det basale
+Dette spil er stadig i en offentlig beta.\nDu vil m�ske opleve forbindelsesproblemer og mange andre fejl.\nSpillet som den er nu, reflekter ikke hvordan spillet ved se ud til sidst.
+4. (flere tutorials senere)
+DIREKTE TILSLUTNING
+TEKNISK SUPPORT / FORUM
+LYDSTYRKE
+Indtast IP adressen for den valgte server.
+HENTER DATA
+INGEN SERVERE LEDIGE
+TRYK ESC FOR AT LUKKE / ANNULLERE
+TASTER
+MAKSIMAL BLOD M�NGDE
+FPS GR�NSE
+FPS gr�nse virker ikke, n�r vSync er sl�et til!
+S�t standard
+Vi bruger Steam Discussions som forum. (Klik p� logoet under, for at �bne forumen)

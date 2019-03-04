@@ -1,0 +1,28 @@
+Okay, lad os starte...\nAt l�re de basale evner, n�r det g�lder skydning, g�r heltk klar spillet... <i>nemmere</i>.\nTag den pistol der lige landede p� bordet.
+Tutorial2_Curtain
+S�, du har lige taget de v�reste v�ben i hele spillet. Vend di til det, fordi den kan f� der ud af nogle slemme situationer. Det er self�lge ogs� godt at have noget ammunition. Det er sv�rt at finde ammunition i spillet, s� pr�v at skyde s� effektivit som muligt.
+Tutorial2_GiveAmmo
+Husk, at hovedskud vil dr�be din fjender hurtigere. Hvis du l�ber t�r for ammunition, skal jeg nok give dig mere!
+<color=#00FF58>Brug <b>R</b> for at genlade,\n<b>h�jreklik</b> for at sigte\nand <b>venstreklik</b> for at skyde.</color>
+Tutorial2_Result
+Udm�rket, du slog dem alle ihejlt med et eneste magasin!
+Tutorial2_Jumpin
+Hey, du er rimelig god til at skyde!
+Tutorial2_Jumpin
+Jeg h�bede virkelig p� at du kunne g�re det bedre, sikke en skuffelse.
+Tutorial2_GiveNTFRifle
+Okay, Jeg h�ber du hader dette v�ben lige s� meget som jeg g�r. Lad os putte leget�jet til side, og tage et rigtigt v�ben. Denne her har nattesyns sigtekorn, som g�r det nemmere at skyde.\nDu skal ogs� vide, at hvis du zoomer eller sigter med at v�ben, bliver du garanteret bedre n�jagtighed og en god m�ngde rekyl bliver reduceret.
+Tutorial2_Preset
+Tutorial2_Curtain
+Tutorial2_Curtain
+Jeg kan se du allerede har styr p� det! Jeg har forberedet en udfordring til dig.\nDu har 20 sekunder til at drabe s� mange fjender som muligt.\nLad os komme igang!
+Klar? 3, 2, 1... GO
+Tutorial2_Preset
+Tutorial2_Curtain
+
+Tutorial2_ResultText
+Tutorial2_Curtain
+Tiden er g�et!
+Husk at du altid kan vende tilbage til denne del af tr�ningen i fremtiden\nHvis du har lyst til at opfriske de evner!\nVi ses senere!
+
+Tutorial2_MoreAmmo

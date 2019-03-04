@@ -1,0 +1,5 @@
+DU D�DE
+Tryk {KEYBINDING_INTERACTION} for at placere <color=yellow>Weapon Manager Tableten</color>.
+Tryk {KEYBINDING_INTERACTION} for at tage <color=yellow>Weapon Manager Tableten tilbage</color>.
+Denne <color=yellow>arbejdsstation</color> har allerede en andens <color=yellow>Weapon Manager Tablet</color> forbundet.
+Du har brug for en <color=yellow>Weapon Manager Tablet</color> for at bruge denne <color=yellow>arbejdsstation</color>.
