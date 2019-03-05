@@ -22,10 +22,10 @@ Epsilon-11 Fusil Standard:Pas de description
 P90:Pas de description
 Dropped 5.56:Pas de description
 MP7:Pas de description
-M249:Pas de description
+LOGICER:Pas de description
 Grenade à fragmentation:Boom !
 Grenade incapacitant:Fait mal aux yeux !!!
-Menottes:Clic gauche pour menotter, clic droit pour délier. \nMaintenez E sur quelqu'un qui est menotté dans votre équipe pour les libérer.
+Désarmeur:Clic gauche pour menotter, clic droit pour délier. \nMaintenez E sur quelqu'un qui est menotté dans votre équipe pour le libérer.
 Dropped 7.62:Pas de description.
 Dropped 9mm:Pas de description.
 USP:Pas de description.
