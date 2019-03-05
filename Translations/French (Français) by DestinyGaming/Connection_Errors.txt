@@ -12,7 +12,7 @@
 <size=80>ERREUR</size>\nL'adresse fournie pour se connecter n'est pas valide ou n'a pas pu être résolue.
 <size=80>ERREUR</size>\nUn problème inattendu a été détecté !
 <size=80>VEUILLEZ PATIENTER</size>\n<size=35>Connexion en cours...</size>
-<size=80>REDEMARRAGE DU ROUND</size>\n<size=35>Le serveur redémarre le niveau...</size>
+<size=80>REDÉMARRAGE DU ROUND</size>\n<size=35>Le serveur redémarre le niveau...</size>
 <size=80>VEUILLEZ PATIENTER</size>\n<size=35>Chargement du tutoriel...</size>
 <size=80>INCOMPATIBILITÉ DE VERSION</size>\nVotre version de jeu est différente de celle du serveur\n(La votre - [your]; Serveur - [server])
 <size=80>CONNECTÉ</size>\n<size=35>Chargement du serveur...</size>
