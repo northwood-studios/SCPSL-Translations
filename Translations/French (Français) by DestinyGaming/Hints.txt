@@ -1,4 +1,4 @@
-Vous êtes informé de votre rôle lorsque le partie commence. Chaque rôle a différents objectifs dans lesquels ils ont besoins d'être accomplis. Si vous souhaitez en savoir plus, appuyez sur le bouton d'aide.
+Vous êtes informé de votre rôle lorsque le partie commence. Chaque rôles ont différents objectifs dans lesquels ils ont besoins d'être accomplis. Si vous souhaitez en savoir plus, appuyez sur le bouton d'aide.
 Certaines portes nécessitent un niveau d'accès spécifique. Trouvez la carte avec les autorisations appropriées et réessayez.
-La bombe nucléaire Alpha a été désactivé. Allez dans le silo dans la zone de confinement lourd pour l'allumer.
+La bombe nucléaire Alpha a été désactivée. Allez dans le silo dans la zone de confinement lourde pour la réactiver.
 SCP-294 nécessite une pièce de monnaie !
