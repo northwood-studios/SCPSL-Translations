@@ -1,5 +1,5 @@
-VOUS ETES MORT
-Appuyer sur {KEYBINDING_INTERACTION} pour placer la <color=yellow>Tablette de modification d'armes</color>.
-Appuyer sur {KEYBINDING_INTERACTION} pour ramasser la <color=yellow>Tablette de modification d'armes</color>.
+VOUS ÊTES MORT
+Appuyez sur {KEYBINDING_INTERACTION} pour placer la <color=yellow>Tablette de modification d'armes</color>.
+Appuyez sur {KEYBINDING_INTERACTION} pour ramasser la <color=yellow>Tablette de modification d'armes</color>.
 Ce <color=yellow>poste de travail</color> est déjà connecté à la <color=yellow>Tablette de modification d'armes</color> de quelqu'un d'autre.
 Vous avez besoin d'une <color=yellow>Tablette de modification d'armes</color> pour utiliser ce <color=yellow>poste de travail</color>.
