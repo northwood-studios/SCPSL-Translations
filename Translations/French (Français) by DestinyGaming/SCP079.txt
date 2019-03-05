@@ -1,5 +1,5 @@
 POUVOIR AUXILIAIRE
-EXPERIENCE
+EXPÉRIENCE
 FLUX CAMÉRA EN LIGNE
 APPUYEZ SUR [KEY] POUR FAIRE BASCULER LA CARTE DE SURVEILLANCE
 Expérience acquise :
@@ -8,6 +8,6 @@ Assistance à la mort de classe D
 Assistance à la mort de l'insurrection du chaos
 Assistance à la mort des NTF
 Assistance à la mort des scientifiques
-Assistance à la mort des SCP
+Assistance à la mort des SCPs
 PORTES VERROUILLÉES : [LOCKED_NUM]<size=25>CLIQUE DROIT POUR TOUTES LES DÉVERROUILLER </size>
 Interactions générales
