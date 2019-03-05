@@ -3,15 +3,15 @@ SUIVEZ SES ORDRES
 LE MÊME DEGRÉ DE PERMISSION
 Classe-D libre
 Scientifiques survivants
-Victimes des SCP
-SCP morts
+Victimes des SCPs
+SCPs morts
 Bombe nucléaire Alpha
 Explosée
 Non-utilisée
 Le prochain round débutera dans [time] secondes.
-CAPACITÉ SPECIALE
+CAPACITÉ SPÉCIALE
 CRÉER UN PORTAIL
 UTILISER LE PORTAIL
-VOUS ETES MORT
+VOUS ÊTES MORT
 Vous avez été tué par
 en tant que
