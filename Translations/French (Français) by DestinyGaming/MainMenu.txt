@@ -11,7 +11,7 @@ ANTICRÉNELAGE
 POST\nTRAITEMENT
 CRÉDITS
 QUITTER LE JEU
-PLEINE ÉCRAN
+PLEIN ÉCRAN
 RÉSOLUTION
 <size=25>CORRECTION DES COULEURS</size>
 Entrer une adresse IP...
@@ -22,7 +22,7 @@ ACTIVATION DES OMBRES
 OMBRES
 <size=30>CRÉER UNE PARTIE</size>
 Modifier les paramètres de post-traitement. Ces modifications n'affectent pas les performances. Il est recommandé de laisser les valeurs par défaut.
-Mode de rendu de la lumière:\nQuand il est faible, le jeu devient moche. Il est recommandé de le désactiver uniquement si vous avez une configuration très bas de gamme.
+Mode de rendu de la lumière:\nQuand il est faible, le jeu devient moins beau. Il est recommandé de le désactiver uniquement si vous avez une configuration très bas de gamme.
 Synchronisation verticale
 CONNEXION
 PARAMÈTRES DE RENDU
@@ -43,7 +43,7 @@ OK
 TROUVER UNE PARTIE
 2. UTILISATION DES ARMES
 Nous utilisons Discord comme un forum. Aucune installation n'est nécessaire.\n(cliquez sur le logo pour le rejoindre)
-Par défaut, le serveur sera configuré sur le réseau local.\nVos amis auront besoin de l'adresse IP directe pour se connecter.\nSi vous souhaitez configurer un serveur public, sélectionnez LocalAdmin.exe et suivez les instructions.\nSi vous avez des questions, n'hésitez pas a contacter notre support technique (lien dans le menu principal. Anglais et Polonais uniquement.)
+Par défaut, le serveur sera configuré sur le réseau local.\nVos amis auront besoin de l'adresse IP directe pour se connecter.\nSi vous souhaitez configurer un serveur public, sélectionnez LocalAdmin.exe et suivez les instructions.\nSi vous avez des questions, n'hésitez pas à contacter notre support technique (lien dans le menu principal. Anglais uniquement.)
 1. LES BASES
 Le jeu est toujours dans une version béta publique.\nVous pouvez rencontrer des problèmes de connexion et de nombreux autres bugs.\nLe jeu actuel ne reflète pas la version finale.
 4. (plus de tutoriels à venir)
