@@ -1,7 +1,7 @@
 SON DES VOIX
 OK
 <size=35>FORCER LE DÉMARRAGE</size>
-RECONFINEMENT DE SCP-106\nFORCER LA PROCÉDURE
+RE-CONFINEMENT DE SCP-106\nFORCER LA PROCÉDURE
 Inverser l'axe vertical
 CONTINUER
 Annuler
@@ -13,7 +13,7 @@ LA BOMBE NUCLÉAIRE EST DÉSACTIVÉE
 ACCÈS REFUSÉ
 CHAT VOCAL
 INVENTAIRE PLEIN
-SENSIBILITÉ SOURIS
+SENSIBILITÉE SOURIS
 PIRATAGE
 Ramassage...
 Augmenter la luminosité <b>aggrave considérablement l'immersion </b>en jeu.\nEssayez de définir cette valeur aussi bas que possible.\n<b>Il est recommandé de laisser la valeur par défaut.</b>
@@ -28,5 +28,6 @@ CONTINUER
 VOLUME PRINCIPAL
 connecté(s)
 Vous vous êtes échappé et vous avez rejoint les unités NTF.
-Vous vous êtes echappé et vous avez rejoint l'insurrection du Chaos.
+Vous vous êtes echappé et vous avez rejoint l'Insurrection du Chaos.
 VOUS ÊTES
+Temps de fuite : [escape_minutes] minutes et [escape_seconds] secondes
