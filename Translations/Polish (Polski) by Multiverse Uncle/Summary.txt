@@ -5,7 +5,7 @@ KLASA D WYGRYWA
 SYTUACJA PATOWA
 Są odpowiedzialne za śmierć [summary_scpfrags] istot ludzkich.
 Usunięto zagrożenie. To miejsce jest już ponownie bezpieczne.
-Cała ochrona placówki została podana terminacji.
+Cała ochrona placówki została poddana terminacji.
 Obie strony poniosły straty jak i bardzo zyskały. Zwycięzca jest nieokreślony.
 [summary_d_escaped] klas D uciekło
 [summary_s_escaped] naukowców przetrwało
