@@ -12,12 +12,12 @@ ODŁĄCZ
 GŁOWICA ALPHA WYŁĄCZONA
 ODMOWA DOSTĘPU
 CZAT GŁOSOWY
-EKWIPUNEK JEST PEŁNY
+EKWIPUNEK PEŁNY
 CZ. MYSZY
 HAKOWANIE
 PODNOSZENIE...
-Zwiększenie jasności <b>znacznie pogarsza klimat </b>gry.\nPostaraj się ustawić najniżej jak to konieczne.\n<b>Zaleca się pozostawić wartość domyślną.</b>
-[1] UŻYJ DRZWI\n[2] ZABLOKUJ*\n\n*Blokowanie drzwi używa specjalnej umiejętności.
+Zwiększenie jasności <b>znacznie pogarsza klimat </b>gry.\nPostaraj się ustawić najniżej jak tylko możliwe.\n<b>Zaleca się pozostawić wartość domyślną.</b>
+[1] UŻYJ DRZWI\n[2] ZABLOKUJ*\n\n*Blokowanie drzwi używa specjalnej umiejętności. 
 DRZWI ZABLOKOWANE PRZEZ SCP-079
 Tryb pełnoekranowy
 Czy na pewno chcesz opuścić ten serwer?
@@ -30,4 +30,4 @@ połączonych
 Uciekłeś jako Naukowiec i zasiliłeś jednostki Nine-Tailed Fox.
 Uciekłeś jako Klasa D i zasiliłeś szeregi Rebelii Chaosu.
 TWOJA ROLA
-Escape time: [escape_minutes] minutes and [escape_seconds] seconds
+Czas ucieczki: [escape_minutes] minut i [escape_seconds] sekund
