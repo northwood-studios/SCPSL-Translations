@@ -1,4 +1,4 @@
-Zabij wszystkich\nNie pozwól nikomu uciec\nKooperuj z innymi <color=#f00>SCP</color><color=#ffff00>\nNamierz swoją ofiarę, i kliknij <color=#00ff00>lewy przycisk myszy</color> by jej złamać kark\nPoruszasz się wtedy, kiedy nikt na ciebie nie patrzy\nStajesz się szybszy, gdy masz mniej HP</color>
+Zabij wszystkich\nNie pozwól nikomu uciec\nKooperuj z innymi <color=#f00>SCP</color><color=#ffff00>\nNamierz swoją ofiarę, i kliknij <color=#00ff00>lewy przycisk myszy</color> by złamać jej kark\nPoruszasz się wtedy, kiedy nikt na ciebie nie patrzy\nStajesz się szybszy, gdy masz mniej HP</color>
 Ucieknij z placówki\nWspółpracuj z <color=#008f1e>Rebelią Chaosu</color>\nUnikaj zagrożenia
 Wkrótce się odrodzisz
 Zabij wszystkich\nNie pozwól nikomu uciec\nKooperuj z innymi <color=#f00>SCP</color><color=#ffff00>\nUmiesz przechodzić przez drzwi i bramy\nNamierz swoją ofiarę i kliknij <color=#00ff00>lewy przycisk myszy</color>, by ją zranić i wysłać do swojego Wymiaru Łuzowego\nKliknij <color=#00ff00>TAB</color>, by otworzyć Menu swojej umiejętności, która pozwala na teleportowanie się</color>
