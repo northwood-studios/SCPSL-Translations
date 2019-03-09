@@ -10,7 +10,7 @@ Skręcony kark u podstawy czaszki.
 Nie przetrwał spotkania z SCP-106.
 Został 'wyleczony' z pomoru.
 nieznana.
-To ciało <b>[user]</b>, był [class]!\n\nPrzyczyna zgonu: [cause]
+To był <b>[user]</b>, jako [class]!\n\nPrzyczyna zgonu: [cause]
 Został rozszarpany na strzępy przez SCP-096.
 Potężne ugryzienie w czaszkę.
 Stopiony przez silnie żrącą substancję.
