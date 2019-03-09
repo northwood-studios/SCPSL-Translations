@@ -16,7 +16,7 @@ EKWIPUNEK PEŁNY
 CZ. MYSZY
 HAKOWANIE
 PODNOSZENIE...
-Zwiększenie jasności <b>znacznie pogarsza klimat </b>gry.\nPostaraj się ustawić najniżej jak tylko możliwe.\n<b>Zaleca się pozostawić wartość domyślną.</b>
+Zwiększenie jasności <b>znacznie pogarsza klimat </b>gry.\nPostaraj się ustawić ją najniżej jak tylko to możliwe.\n<b>Zaleca się pozostawić wartość domyślną.</b>
 [1] UŻYJ DRZWI\n[2] ZABLOKUJ*\n\n*Blokowanie drzwi używa specjalnej umiejętności.
 DRZWI ZABLOKOWANE PRZEZ SCP-079
 Tryb pełnoekranowy
