@@ -70,7 +70,7 @@ OK
 ZNAJDŹ GRĘ
 2. Bronie
 Używamy Discorda jako forum. Instalacja niewymagana.\n(kliknij na logo poniżej, aby dołączyć)
-Domyślnie serwer uruchomi się w sieci lokalnej.\nTwoi znajomi będą potrzebowali Twojego IP, aby dołączyć.\nJeżeli chcesz stworzyć serwer publiczny, otwórz LocalAdmin.exe i postępuj zgodnie z instrukcjami.\nJeżeli masz wątpliwości, zapytaj naszą pomoc techniczą (link w menu głównym)
+Domyślnie serwer uruchomi się w sieci lokalnej.\nTwoi znajomi będą potrzebowali Twojego IP, aby dołączyć.\nJeżeli chcesz stworzyć serwer publiczny, otwórz LocalAdmin.exe i postępuj zgodnie z instrukcjami.\nJeżeli masz wątpliwości, zapytaj naszą pomoc techniczną (link w menu głównym)
 1. Podstawy
 Prezentowana gra to otwarta beta.\nMożesz doświadczyć wielu błędów.\nAktualny stan nie świadczy o wersji finalnej.
 4. (więcej poradników później)
