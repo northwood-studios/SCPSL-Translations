@@ -6,7 +6,7 @@ Pomóż <color=#FFFF7CFF>naukowcom</color> w ucieczce\nWyeliminuj zagrożenie\nI
 Zabij wszystkich\nNie pozwól nikomu uciec\nKooperuj z innymi <color=#f00>SCP</color><color=#ffff00>\nNamierz swoją ofiarę i kliknij <color=#00ff00>lewy przycisk myszy</color>, by ją natychmiastowo zabić\nPrzytrzymaj <color=#00ff00>E</color> na osobie którą zabiłeś, aby przemienić ją w </color><color=#f00>SCP-049-2</color><color=#ffff00>\nTwoje przemienianie staje się tym szybsze, im masz mniej HP</color>
 Ucieknij z placówki\nWspółpracuj z <color=#0096FF>Nine-Tailed Fox</color>\nUnikaj zagrożenia
 Zabij wszystkich\nNie pozwól nikomu uciec\nKooperuj z innymi <color=#f00>SCP</color>
-Pomóż <color=#FF8E00>personelu klasy D</color> w ucieczce\nWyeliminuj każdą przeszkodę
+Pomóż <color=#FF8E00>personelowi klasy D</color> w ucieczce\nWyeliminuj każdą przeszkodę
 Zabij wszystkich\nNie pozwól nikomu uciec\nKooperuj z innymi <color=#f00>SCP</color><color=#ffff00>\nJesteś nieśmiały\nWpadasz w furię kiedy jakaś osoba cię na ciebie spojrzy\nPodczas furii jesteś o wiele szybszy, wywarzasz drzwi oraz <color=#00ff00>lewym przyciskiem myszy</color> zabijasz każdego kogo spotkasz\nPo furii się na chwilę uspokajasz</color>
 Zabij wszystkich\nNie pozwól nikomu uciec\nKooperuj z innymi <color=#f00>SCP</color><color=#ffff00>\n<color=#00ff00>Lewym przyciskiem myszy</color> atakujesz spotkaną ci osobę</color>
 Pomóż <color=#FFFF7CFF>naukowcom</color> w ucieczce\nWyeliminuj zagrożenie\nInstruuj kadetów i ochroniarzy\nWykonuj rozkazy od Dowódcy
