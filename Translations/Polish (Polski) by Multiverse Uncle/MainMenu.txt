@@ -53,7 +53,7 @@ Tryb renderowania świateł:\nKiedy wyłączone - pogarsza znacznie wygląd gry.
 V-SYNC
 POŁĄCZ
 USTAWIENIA JAKOŚCI
-Zmień preferencje cieni. Ustawienie tych suwaków przy niższych wartościach mogą zwiększyć płynność gry.
+Zmień preferencje cieni. Ustawienie tych suwaków przy niższych wartościach może zwiększyć płynność gry.
 MENU GŁÓWNE
 USTAWIENIA RENDEROWANIA ŚWIATEŁ
 ROZMYCIE W RUCHU
