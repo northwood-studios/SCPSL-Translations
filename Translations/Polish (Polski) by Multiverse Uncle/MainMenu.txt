@@ -25,8 +25,35 @@ Zmień ustawienia post-processingu. Nie wpływają one na wydajności. Zalecane 
 Tryb renderowania świateł:\nKiedy wyłączone - pogarsza znacznie wygląd gry. Zalecane jest takie ustawienie tylko wtedy jeżeli posiadasz słaby sprzęt
 V-SYNC
 POŁĄCZ
+DOŁĄCZ
+ZAMKNIJ
+ROZDZIELCZOŚĆ CIENI
+USTAWIENIA
+NA PODSTAWIE <i>SCP: CONTAINMENT BREACH</i>
+POWRÓT
+JĘZYK
+ANTIALIASING
+Objaśnienia detali:\n-LICZBA ŚWIATEŁ - maksymalna liczba źródeł światła, których jest renderowane na poszczególnych pikselach.\n-V-Sync - synchronizuje ilość FPS to częstotliwości monitora.
+DOŁĄCZ DO GRY
+POST\nPROCESSING
+AUTORZY
+WYJDŹ
+Tryb pełnoekranowy
+USTAWIENIA EKRANU
+KOREKCJA KOLORÓW
+Wpisz adres IP...
+ROZDZIELCZOŚĆ
+GRAJ
+LICZBA ŚWIATEŁ
+TYP CIENI
+CIENIE
+STWÓRZ GRĘ
+Zmień ustawienia post-processingu. Nie wpływają one na wydajności. Zalecane jest pozostawienie domyślnych ustawień.
+Tryb renderowania świateł:\nKiedy wyłączone - pogarsza znacznie wygląd gry. Zalecane jest takie ustawienie tylko wtedy jeżeli posiadasz słaby sprzęt
+V-SYNC
+POŁĄCZ
 USTAWIENIA JAKOŚCI
-Zmień preferencje cieni. Ustawienie tych suwaków przy niższych wartościach mogą zwiększyć płynność gry. 
+Zmień preferencje cieni. Ustawienie tych suwaków przy niższych wartościach mogą zwiększyć płynność gry.
 MENU GŁÓWNE
 USTAWIENIA RENDEROWANIA ŚWIATEŁ
 ROZMYCIE W RUCHU
