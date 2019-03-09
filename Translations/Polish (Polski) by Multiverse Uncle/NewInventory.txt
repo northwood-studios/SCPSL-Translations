@@ -1,13 +1,13 @@
-Karta Woźnego:No description 
-Karta Naukowca:No description 
-Karta Inspektora Nadzorującego:No description 
-Karta Zarządcy Strefy:No description 
-Karta Ochroniarza:No description 
-Karta Kadeta MTF:No description 
-Karta Technika Zabezpieczeń:No description 
-Karta Porucznika MTF:No description 
-Karta Dowódcy MTF:No description 
-Karta Administratora Placówki:No description 
+Karta Woźnego:No description
+Karta Naukowca:No description
+Karta Inspektora Nadzorującego:No description
+Karta Zarządcy Strefy:No description
+Karta Ochroniarza:No description
+Karta Kadeta MTF:No description
+Karta Technika Zabezpieczeń:No description
+Karta Porucznika MTF:No description
+Karta Dowódcy MTF:No description
+Karta Administratora Placówki:No description
 Urządzenie włamujące Rebelii Chaosu
 Karta Rady O5
 Radio:SR = Krótki Zasięg \nMR = Średni Zasięg \nLR = Długi Zasięg \nUR = Ultra Zasięg \nZużywa baterię kiedy włączone.\nWiększy zasięg zużywa więcej baterii.
