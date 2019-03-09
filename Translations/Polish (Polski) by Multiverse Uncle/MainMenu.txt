@@ -49,7 +49,7 @@ TYP CIENI
 CIENIE
 STWÓRZ GRĘ
 Zmień ustawienia post-processingu. Nie wpływają one na wydajności. Zalecane jest pozostawienie domyślnych ustawień.
-Tryb renderowania świateł:\nKiedy wyłączone - pogarsza znacznie wygląd gry. Zalecane jest takie ustawienie tylko wtedy jeżeli posiadasz słaby sprzęt
+Tryb renderowania świateł:\nKiedy wyłączone - pogarsza znacznie wygląd gry. Zalecane jest wyłączenie tego tylko wtedy jeżeli posiadasz słaby sprzęt
 V-SYNC
 POŁĄCZ
 USTAWIENIA JAKOŚCI
