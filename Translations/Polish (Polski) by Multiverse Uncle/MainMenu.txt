@@ -1,3 +1,21 @@
+DOŁĄCZ
+ZAMKNIJ
+ROZDZIELCZOŚĆ CIENI
+USTAWIENIA
+NA PODSTAWIE <i>SCP: CONTAINMENT BREACH</i>
+POWRÓT
+JĘZYK
+ANTIALIASING
+Objaśnienia detali:\n-LICZBA ŚWIATEŁ - maksymalna liczba źródeł światła, których jest renderowane na poszczególnych pikselach.\n-V-Sync - synchronizuje ilość FPS to częstotliwości monitora.
+DOŁĄCZ DO GRY
+POST\nPROCESSING
+AUTORZY
+WYJDŹ
+Tryb pełnoekranowy
+USTAWIENIA EKRANU
+KOREKCJA KOLORÓW
+Wpisz adres IP...
+ROZDZIELCZOŚĆ
 GRAJ
 LICZBA ŚWIATEŁ
 TYP CIENI
