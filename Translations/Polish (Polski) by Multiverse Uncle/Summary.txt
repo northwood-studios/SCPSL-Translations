@@ -13,5 +13,5 @@ Eksplozja głowicy Alpha pozbawiła życia [summary_warhead_kills] istot.
 Głowica Alpha nie została zdetonowana podczas misji.
 Misja zajęła [summary_round_minutes] minut i [summary_round_seconds] sekund.
 [summary_scp_terminated] unieszkodliwionych podmiotów SCP.
-następna runda zacznie się za [summary_next_round_countdown] sekund.
+Następna runda zacznie się za [summary_next_round_countdown] sekund.
 Zadałeś ogółem [summary_damages] obrażeń, oraz zabiłeś [summary_kills] graczy.
