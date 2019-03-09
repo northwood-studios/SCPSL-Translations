@@ -33,7 +33,7 @@ NA PODSTAWIE <i>SCP: CONTAINMENT BREACH</i>
 POWRÓT
 JĘZYK
 ANTIALIASING
-Objaśnienia detali:\n-LICZBA ŚWIATEŁ - maksymalna liczba źródeł światła, których jest renderowane na poszczególnych pikselach.\n-V-Sync - synchronizuje ilość FPS to częstotliwości monitora.
+Objaśnienia detali:\n-LICZBA ŚWIATEŁ - maksymalna liczba źródeł światła, które są renderowane na poszczególnych pikselach.\n-V-Sync - synchronizuje ilość FPS do częstotliwości monitora.
 DOŁĄCZ DO GRY
 POST\nPROCESSING
 AUTORZY
