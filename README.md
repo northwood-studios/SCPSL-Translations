@@ -18,7 +18,7 @@ It is our main goal to __only have one__ translation per language.
 ## From GitHub:
 1. Open a file and click "Edit this file".
    - This will automatically make a fork of the repo on your account.
-2. After you are satisfied with your changes, go to point 7 above 
+2. After you are satisfied with your changes, go to point 7 above
 ***
 # EncodingNormalizer   
 `EncodingNormalizer.exe` is an application, which ensures correct encoding and formatting in translation files.
