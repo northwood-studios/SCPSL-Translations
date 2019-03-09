@@ -3,7 +3,7 @@ Ucieknij z placówki\nWspółpracuj z <color=#008f1e>Rebelią Chaosu</color>\nUn
 Wkrótce się odrodzisz
 Zabij wszystkich\nNie pozwól nikomu uciec\nKooperuj z innymi <color=#f00>SCP</color><color=#ffff00>\nUmiesz przechodzić przez drzwi i bramy\nNamierz swoją ofiarę i kliknij <color=#00ff00>lewy przycisk myszy</color>, by ją zranić i wysłać do swojego Wymiaru Łuzowego\nKliknij <color=#00ff00>TAB</color>, by otworzyć Menu swojej umiejętności, która pozwala na teleportowanie się</color>
 Pomóż <color=#FFFF7CFF>naukowcom</color> w ucieczce\nWyeliminuj zagrożenie\nInstruuj kadetów oraz ochroniarzy\nWykonuj rozkazy od Dowódcy
-Zabij wszystkich\nNie pozwól nikomu uciec\nKooperuj z innymi <color=#f00>SCP</color><color=#ffff00>\nNamierz swoją ofiarę i kliknij <color=#00ff00>lewy przycisk myszy</color>, by ją natychmiastowo zabić\nPrzytrzymaj <color=#00ff00>E</color> na osobie którą zabiłeś, by go przemienić w </color><color=#f00>SCP-049-2</color><color=#ffff00>\nTwoje przemienianie staje się szybsze, gdy masz mniej HP</color>
+Zabij wszystkich\nNie pozwól nikomu uciec\nKooperuj z innymi <color=#f00>SCP</color><color=#ffff00>\nNamierz swoją ofiarę i kliknij <color=#00ff00>lewy przycisk myszy</color>, by ją natychmiastowo zabić\nPrzytrzymaj <color=#00ff00>E</color> na osobie którą zabiłeś, aby przemienić ją w </color><color=#f00>SCP-049-2</color><color=#ffff00>\nTwoje przemienianie staje się tym szybsze, im masz mniej HP</color>
 Ucieknij z placówki\nWspółpracuj z <color=#0096FF>Nine-Tailed Fox</color>\nUnikaj zagrożenia
 Zabij wszystkich\nNie pozwól nikomu uciec\nKooperuj z innymi <color=#f00>SCP</color>
 Pomóż <color=#FF8E00>personelu klasy D</color> w ucieczce\nWyeliminuj każdą przeszkodę
