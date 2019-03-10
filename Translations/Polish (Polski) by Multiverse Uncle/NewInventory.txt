@@ -27,5 +27,5 @@ Granat Odłamkowy:Kaboom!
 Granat Błyskowy:Oślepia przeciwnika.
 Rozbrajacz:Lewym rozbrajasz, prawym uwalniasz. \nPrzytrzymaj E na kimś kto jest rozbrojony w twojej drużynie, by go uwolnić.
 Upuszczone 7.62:Debug Item.
-Upuszczone 9mm:Spolszczona wersja\n8.0.1
+Upuszczone 9mm:Debug Item.
 Pistolet USP:No description.
