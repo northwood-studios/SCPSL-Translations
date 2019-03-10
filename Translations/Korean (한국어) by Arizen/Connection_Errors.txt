@@ -1,0 +1,19 @@
+﻿<size=80>추방되었습니다.</size>\n서버가 강제로 연결을 중단시켰습니다.\n<size=26>\n관리자에 의해서 차단을 당했을수도 있습니다.\n또는 서버가 요구하는 사항을 충족시키지 않았습니다. (예시: 스팀 연결).\nFor possible time bans - the game authors are <u>not</u> responsible.\n</size>
+<size=80>연결 끊어짐</size>\n명시된 호스트가 존재하지 않습니다.
+<size=80>연결 끊어짐</size>\n명시된 연결 ID가 존재하지 않습니다.
+<size=80>연결 끊어짐</size>\n명시된 채널이 존재하지 않습니다.
+<size=80>연결 끊어짐</size>\n서버가 가득 찼습니다.
+<size=80>연결 끊어짐</size>\n잘못된 패킷을 수신했습니다.
+<size=80>연결 끊어짐</size>\n연결 유실 (시간 초과).
+<size=80>연결 끊어짐</size>\n연결 유실 (시간 초과).
+<size=80>연결 끊어짐</size>\nOperation is not supported.
+<size=80>연결 끊어짐</size>\n서버 설정이 잘못되었습니다 (버전이 호환되지 않음).
+<size=80>연결 끊어짐</size>\n서버 설정이 잘못되었습니다.
+<size=80>연결 끊어짐</size>\n잘못된 서버 주소 입니다..
+<size=80>연결 끊어짐</size>\n예상치 못한 문제가 발생하였습니다!
+<size=80>기다려 주세요</size>\n<size=35>연결중...</size>
+<size=80>라운드 재시작</size>\n<size=35>라운드가 재시작중입니다...</size>
+<size=80>기다려 주세요</size>\n<size=35>튜토리얼을 불러오는중...</size>
+<size=80>버전 불일치</size>\n게임 버전이 서버와 호환되지 않습니다.\n(버전 - [your]; 서버 - [server])
+<size=80>연결됨</size>\n<size=35>로딩중...</size>
+<size=35>시설을 불러오는중...</size>
