@@ -17,7 +17,7 @@ Change details:\n-PIXEL LIGHT COUNT - maximum number of light sources that have 
 IP 주소 입력...
 화면 해상도
 플레이
-PIXEL LIGHT COUNT
+픽셀 단위 조명 
 그림자 타입
 그림자
 게임 생성
