@@ -12,6 +12,6 @@ Cured of a plague.
 Unknown cause of death.
 It's <b>[user]</b>'s body, they were [class]!\n\nCause of death: [cause]
 Was torn to pieces by SCP-096.
-Powerful bite to cranium.
-Melted by strongly corrosive substance.
+Powerful bite to the cranium.
+Melted by highly corrosive substance.
 Post-explosion wounds.
