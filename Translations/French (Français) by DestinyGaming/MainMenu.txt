@@ -6,7 +6,7 @@ BASÉ SUR <i>SCP: CONTAINMENT BREACH</i>
 RETOUR
 LANGUE
 ANTICRÉNELAGE
-- SYNC. VERTICALE - Synchronise le taux de rafraîchissement avec celui de l'écran\n- LUMIÈRES PAR PIXEL - Nombre maximal de sources lumineuses sur les pixels\n- ANTICRÉNELAGE - Lisse les lignes et les contours des objets
+Détails des modifications: \n-NOMBRE DE PIXELS - Nombre maximal de sources lumineuses dont la lumière est restituée sur des pixels individuels. \n-Sync. verticale - Active la synchronisation avec le taux de rafraîchissement du périphérique d'affichage.
 <size=30>REJOINDRE UNE PARTIE</size>
 POST\nTRAITEMENT
 CRÉDITS
@@ -22,11 +22,11 @@ ACTIVATION DES OMBRES
 OMBRES
 <size=30>CRÉER UNE PARTIE</size>
 Modifier les paramètres de post-traitement. Ces modifications n'affectent pas les performances. Il est recommandé de laisser les valeurs par défaut.
-Mode de rendu de la lumière:\nQuand il est faible, le jeu devient moins beau. Il est recommandé de le désactiver uniquement si vous avez une configuration très bas de gamme.
+Mode de rendu de la lumière:\nQuand il est faible, le jeu devient moins beau. Il est recommandé de le désactiver uniquement si vous avez une configuration bas de gamme.
 Synchronisation verticale
 CONNEXION
 PARAMÈTRES DE RENDU
-Modifier les préférences d'ombres. Les réglages de ces curseurs avec des valeurs inférieures peuvent augmenter la fluidité du jeu.
+Modifier les préférences d'ombres. La configuration de ces curseurs avec des valeurs inférieures peut augmenter la fluidité du jeu.
 <size=75>MENU PRINCIPAL</size>
 MODE RENDU DE LUMIÈRE
 Flou de mouvement
