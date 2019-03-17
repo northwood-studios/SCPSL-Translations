@@ -60,7 +60,3 @@ OK
 Лимит FPS не работает когда включен V-Sync!
 По умолчанию
 Мы используем Обсуждения Steam в качестве форума. (Кликните на логотип ниже чтобы перейти на форум)
-
-//Перевод выполнен командой HeLL Project - лучшее сообщество по игре SCP: Secret Laboratory в СНГ.
-//VK.com: https://vk.com/scpslrus
-//Discord: https://discord.me/scpslrus)

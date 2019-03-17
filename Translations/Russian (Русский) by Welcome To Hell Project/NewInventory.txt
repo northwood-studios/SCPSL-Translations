@@ -29,7 +29,3 @@ Logicer:Описание\nотсутствует
 Патроны 7.62:Описание\nотсутствует.
 Патроны 9мм:Описание\nотсутствует.
 USP:Описание\nотсутствует.
-
-//Перевод выполнен командой HeLL Project - лучшее сообщество по игре SCP: Secret Laboratory в СНГ.
-//VK.com: https://vk.com/scpslrus
-//Discord: https://discord.me/scpslrus)

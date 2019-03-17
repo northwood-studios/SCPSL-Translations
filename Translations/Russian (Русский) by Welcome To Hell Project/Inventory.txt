@@ -28,7 +28,3 @@ Logicer\n\n<size=14>Этот лёгкий пулемёт является час
 Разоружатель\n\n<size=14>Связать противника - нажмите ЛКМ.\nРазвязать - нажмите ПКМ.\n\nЗажмите клавишу E чтобы развязать товарища.</size>
 Патроны
 Патроны
-
-//Перевод выполнен командой HeLL Project - лучшее сообщество по игре SCP: Secret Laboratory в СНГ.
-//VK.com: https://vk.com/scpslrus
-//Discord: https://discord.me/scpslrus)

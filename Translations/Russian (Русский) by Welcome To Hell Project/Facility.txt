@@ -31,7 +31,3 @@
 Вам удалось сбежать. Вы присоединились к группе Повстанцев Хаоса.
 ТЕПЕРЬ ВЫ
 Вы совершили побег за: [escape_minutes] минут и [escape_seconds] секунд
-
-//Перевод выполнен командой HeLL Project - лучшее сообщество по игре SCP: Secret Laboratory в СНГ.
-//VK.com: https://vk.com/scpslrus
-//Discord: https://discord.me/scpslrus)

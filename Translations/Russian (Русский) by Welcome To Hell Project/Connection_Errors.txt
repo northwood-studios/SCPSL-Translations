@@ -17,7 +17,3 @@
 <size=80>НЕСОВПАДЕНИЕ ВЕРСИЙ</size>\nВерсия вашей игры отличается от версии сервера.\n(Игра - [your]; Сервер - [server])
 <size=80>СОЕДИНЕНИЕ УСТАНОВЛЕНО</size>\n<size=35>Идёт загрузка уровня...</size>
 <size=35>Идёт загрузка уровня...</size>
-
-//Перевод выполнен командой HeLL Project - лучшее сообщество по игре SCP: Secret Laboratory в СНГ.
-//VK.com: https://vk.com/scpslrus
-//Discord: https://discord.me/scpslrus)

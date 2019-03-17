@@ -15,7 +15,3 @@ STALEMATE
 [summary_scp_terminated] Объектов SCP было уничтожено
 Следующий раунд начнётся через: [summary_next_round_countdown] секунд.
 Вы нанесли [summary_damages] урона и убили [summary_kills] игроков.
-
-//Перевод выполнен командой HeLL Project - лучшее сообщество по игре SCP: Secret Laboratory в СНГ.
-//VK.com: https://vk.com/scpslrus
-//Discord: https://discord.me/scpslrus)
