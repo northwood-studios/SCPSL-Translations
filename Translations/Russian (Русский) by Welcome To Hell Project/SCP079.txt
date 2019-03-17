@@ -1,13 +1,21 @@
-AUXILIARY POWER
-EXPERIENCE
-CAMERA FEED ONLINE
-PRESS [KEY] TO TOGGLE THE SURVEILLANCE MAP
-Experience gained:
-Cooperative work
-Class-D termination assist
-C. I. termination assist
-MTF termination assist
-Scientist termination assist
-SCP termination assist
-LOCKED DOORS: [LOCKED_NUM]<size=25>RIGHT MOUSE BUTTON TO UNLOCK ALL</size>
-General interactions
+﻿РЕЗЕРВНОЕ ПИТАНИЕ
+ОПЫТ
+СИГНАЛ С КАМЕРЫ ОНЛАЙН
+НАЖМИТЕ КЛАВИШУ [KEY] ЧТОБЫ ОТКРЫТЬ КАРТУ НАБЛЮДЕНИЯ
+Получено опыта:
+Работа в кооперации
+Помощь в уничтожении Сотрудника Класса D
+Помощь в уничтожении Повстанца Хаоса
+Помощь в уничтожении Мобильного Оперативника
+Помощь в уничтожении Научного Сотрудника
+Помощь в уничтожении SCP Объекта
+ЗАПЕРТО ДВЕРЕЙ: [LOCKED_NUM]<size=25>НАЖМИТЕ ПКМ ЧТОБЫ РАЗБЛОКИРОВАТЬ ВСЕ ДВЕРИ</size>
+Обычное взаимодействие
+Система подвержена атаке!
+Зоны с обнаруженными угрозами отмечены на карте
+ВНИМАНИЕ!
+Объекты SCP{0}МОГ & Охрана{1}Научные Сотрудники{2}Сотрудники Класса D{3}Повстанцы Хаоса{4}
+
+//Перевод выполнен командой HeLL Project - лучшее сообщество по игре SCP: Secret Laboratory в СНГ.
+//VK.com: https://vk.com/scpslrus
+//Discord: https://discord.me/scpslrus)

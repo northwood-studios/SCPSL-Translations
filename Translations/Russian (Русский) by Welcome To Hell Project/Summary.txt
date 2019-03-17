@@ -1,4 +1,4 @@
-Раунд завершён! Победа за:
+﻿Раунд завершён! Победа за:
 SCP
 MTF
 Class-D
@@ -14,7 +14,7 @@ STALEMATE
 Выполнение миссии заняло: [summary_round_minutes] минут и [summary_round_seconds] секунд.
 [summary_scp_terminated] Объектов SCP было уничтожено
 Следующий раунд начнётся через: [summary_next_round_countdown] секунд.
-You have dealed [summary_damages] damages, and killed [summary_kills] players.
+Вы нанесли [summary_damages] урона и убили [summary_kills] игроков.
 
 //Перевод выполнен командой HeLL Project - лучшее сообщество по игре SCP: Secret Laboratory в СНГ.
 //VK.com: https://vk.com/scpslrus
