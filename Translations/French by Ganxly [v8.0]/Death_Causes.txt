@@ -1,0 +1,17 @@
+﻿Mort d'une explosion.
+La chute a achevé sa vie.
+<color=#ff0000>Utilisé comme sacrifice pour recontenir SCP-106.</color>
+<color=#ff0000>Perdu dans la dimension de poche de SCP-106.</color>
+<color=#ff0000>C'est un reste de SCP-106.</color>
+Décharges électriques à haute densité.
+Écrasé par une structure lourde.
+Il y a beaucoup de blessures par balles sur le corps, c'est probablement du <color=#ffff00>[ammotype]</color> qui a été utilisée.
+<color=#ff0000>Nuque brisée à la base du crâne.</color>
+<color=#ff0000>N'a pas survécu à sa rencontre avec SCP-106.</color>
+<color=#ff0000>Soigné de la peste.</color>
+Cause de la mort inconnue.
+C'est le corps de <b>[user]</b>, il était [class] !\n\nCause de la mort : [cause]
+<color=#ff0000>Mis en pièces par SCP-096.</color>
+<color=#ff0000>Morsure puissante au crâne.</color>
+Rongé par une substance fortement corrosive.
+Blessures de post-explosion.

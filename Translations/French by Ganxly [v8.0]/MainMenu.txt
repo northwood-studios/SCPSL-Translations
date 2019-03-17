@@ -1,0 +1,63 @@
+﻿JOUER
+FERMER
+QUALITÉ DES OMBRES
+PARAMÈTRES
+BASE SUR <i>SCP: CONTAINMENT BREACH</i> | Translation by Ganxly
+RETOUR
+<size=60>LANGUE</size>
+ANTICRÉNELAGE
+Changer les détails :\n- NOMBRE DE PIXELS DE LUMIÈRE : nombre maximum de sources lumineuses par pixel.\n- SYNC. VERTICALE : Synchroniser la fréquence de rafraîchissement du périphérique d'affichage.\n- ANTICRÉNELAGE : Lisse les pixels pour éviter l'effet escalier.
+<size=36>REJOINDRE UNE PARTIE</size>
+POST\nTRAITEMENT
+CRÉDITS
+QUITTER LE JEU
+Mode plein écran
+PARAMÈTRES ÉCRAN
+CORRECTION COULEUR
+Entrez l'adresse IP...
+RÉSOLUTION DE L'ÉCRAN
+JOUER
+Lumières par pixel
+TYPES D'OMBRES
+OMBRES
+<size=36>CRÉER UNE PARTIE</size>
+Modifier les paramètres de post-traitement,\nCes paramètres n'affectent pas la performance,\n Laisser la valeur par défaut est recommandé.
+Rendu de la lumière :\nLorsqu'il est OFF : rend la qualité du jeu pire, il est seulement recommandé de le désactiver pour les petites configurations.
+Synchronisation verticale
+CONNEXION
+GRAPHISMES
+Changer les préférences des ombres,\n Réduire cette valeur augmentera la fluidité du jeu. 
+MENU PRINCIPAL
+MODE DE RENDU DE LA LUMIÈRE
+FLOU CINÉTIQUE
+DISTANCE DES OMBRES
+DÉTAILS
+3. SCP-914
+TUTORIELS
+ATTENTION
+Voir les serveurs disponibles
+Ne plus voir ce message
+De quelle manière voulez-vous vous connecter ?
+NAVIGATEUR DE SERVEURS
+D'ACCORD
+TROUVER UNE PARTIE
+2. L'Utilisation des armes
+Nous utilisons discord comme un forum, aucune installation n’est requise.\n(cliquez sur le logo pour rejoindre)
+Par défaut, le serveur est défini sur votre réseau local.\nVos amis aurons besoin de votre IP publique pour se connecter.\nSi vous voulez créer un serveur public, ouvrez LocalAdmin.exe et suivez les instructions.\nSi vous avez des questions, vous pouvez contacter notre support technique (lien au menu principal)
+1. Les bases
+Le jeu est toujours en bêta.\nVous pouvez rencontrer des bugs en jeu ainsi que des bugs de connexion.\nL'état actuel ne reflète pas la version finale.
+4. (plus de tutoriels plus tard)
+CONNEXION DIRECTE
+SUPPORT TECHNIQUE / FORUM
+VOLUME DU SON
+Entrez l'adresse IP spécifique du serveur.
+TÉLÉCHARGEMENT DES DONNÉES
+AUCUN SERVEUR DISPONIBLE
+APPUYEZ SUR ÉCHAP POUR FERMER / ANNULER
+CONTRÔLES
+<size=25>QUANTITÉ MAXIMUM DE SANG</size>
+Limite IPS
+Limite de IPS ne fonctionne pas si la V-Sync est active
+Réglages par défaut
+Nous utilisons les discussions de Steam comme forum. (Cliquez sur le logo ci-dessous pour ouvrir le forum)
+

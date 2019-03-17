@@ -1,0 +1,19 @@
+﻿<size=80>VOUS AVEZ ÉTÉ ÉJECTÉ</size>\nLe serveur a terminé la connexion.\n<size=26>\nVous avez probablement été banni temporairement par les administrateurs\nou vous n'avez pas les exigences requises du serveur (Redémarrez Steam).\nPour les bans du serveur : les auteurs du jeu ne sont PAS responsables.\n</size>
+<size=80>DÉCONNECTÉ</size>\nL'hôte spécifié n'est pas disponible.
+<size=80>DÉCONNECTÉ</size>\nL'Identifiant de connexion spécifié n'existe pas.
+<size=80>DÉCONNECTÉ</size>\nLe canal spécifié n'existe pas.
+<size=80>DÉCONNECTÉ</size>\nLe serveur est plein.
+<size=80>DÉCONNECTÉ</size>\nMauvais paquet Reçu.
+<size=80>DÉCONNECTÉ</size>\nConnexion perdue (expirée).
+<size=80>DÉCONNECTÉ</size>\nConnexion perdue (expirée).
+<size=80>DÉCONNECTÉ</size>\nL'opération n'est pas supportée.
+<size=80>DÉCONNECTÉ</size>\nMauvaise config du serveur (version incompatible).
+<size=80>DÉCONNECTÉ</size>\nMauvaise config du serveur.
+<size=80>DÉCONNECTÉ</size>\nL'adresse spécifiée est invalide ou ne peut être résolue.
+<size=80>DÉCONNECTÉ</size>\nUn problème inattendu est arrivé !
+<size=80>VEUILLEZ PATIENTER</size>\n<size=35>Établissement de la connexion...</size>
+<size=80>REDÉMARRAGE DE LA PARTIE</size>\n<size=35>Le serveur redémarre la partie...</size>
+<size=80>VEUILLEZ PATIENTER</size>\n<size=35>Chargement du tutoriel...</size>
+<size=80>INCOMPATIBILITÉE DE VERSION</size>\nLa version de votre jeu est différente du serveur\n(La votre : [your]; Celle du serveur : [server])
+<size=80>CONNEXION</size>\n<size=35>Chargement de la partie...</size>
+<size=35>Chargement de l'installation...</size>

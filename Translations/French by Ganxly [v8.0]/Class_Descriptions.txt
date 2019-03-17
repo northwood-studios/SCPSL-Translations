@@ -1,0 +1,17 @@
+﻿Tue toutes les personnes.\nEmpêche tout le monde de fuir.\nCoopère avec les autres <color=#ffff00>SCPs.</color><color=#ffa500ff>\nClic gauche + Z en visant le malheureux pour le tuer.\nTu es plus rapide quand tes PV sont bas.</color>
+Échappe-toi de la Fondation.\nCoopère avec l'<color=#008f1e>Insurrection du Chaos.</color>\nÉvite les autres équipes.
+Tu vas bientôt réapparaître.
+Tue toutes les personnes.\nEmpêche tout le monde de fuir.\nCoopère avec les autres <color=#ffff00>SCPs.</color><color=#ffa500ff>\nTu peux traverser les portes en marchant.\nClic gauche sur tes ennemis pour les téléporter dans ta dimension.\nMaintiens la touche TAB pour accéder à tes compétences.</color>
+Aide <color=#FFFF7CFF>les Scientifiques</color> à s'échapper.\n<color=#ffa500ff>Menotte les Classe-D, tue-les s'ils sont hostiles ou ignore-les et accomplis ta mission.</color>\nSuis les ordres du commandant et instruis tes soldats.
+Tue toutes les personnes.\nEmpêche tout le monde de fuir.\nCoopère avec les autres <color=#ffff00>SCPs.</color><color=#ffa500ff>\nClic gauche pour tuer tes ennemis.\nMaintiens E sur une personne que <color=#ffff00>TU</color> as tué pour le transformer en zombie.</color>
+Échappe-toi de la Fondation.\nCoopère avec la FIM <color=#0096FF>Epsilon-11</color>\nÉvite les autres équipes.
+Tue toutes les personnes.\nEmpêche tout le monde de fuir.\nCoopère avec les autres <color=#ffff00>SCPs.</color>
+Aide <color=#FF8E00> les Classe-D</color> à s'échapper\n<color=#ffff00>Menotte les Scientifiques, tue-les s'ils sont hostiles ou ignore-les et accomplis ta mission.</color>
+Tue toutes les personnes.\nEmpêche tout le monde de fuir.\nCoopère avec les autres <color=#ffff00>SCPs.</color><color=#ffa500ff>\nTu deviens enragé quand les humains te regardent.\nTu vas plus vite, tu peux tuer tes ennemis avec Clic gauche.\nTu peux aussi détruire les portes avec Clic gauche ou E.</color>
+Tue toutes les personnes.\nEmpêche tout le monde de fuir.\nCoopère avec les autres <color=#ffff00>SCPs.</color><color=#ffa500ff>\nClic gauche pour attaquer.\nTes attaques sont plus rapides quand tes PV sont bas.</color>
+Aide <color=#FFFF7CFF>les Scientifiques</color> à s'échapper.\n<color=#ffa500ff>Menotte les Classe-D, tue-les s'ils sont hostiles ou ignore-les et accomplis ta mission.</color>\nSuis les ordres du commandant et instruis tes soldats.
+Aide <color=#FFFF7CFF>les Scientifiques</color> à s'échapper.\n<color=#ffa500ff>Menotte les Classe-D, tue-les s'ils sont hostiles ou ignore-les et accomplis ta mission.</color>\nInstruis tes soldats.
+Aide <color=#FFFF7CFF>les Scientifiques</color> à s'échapper.\n<color=#ffa500ff>Menotte les Classe-D, tue-les s'ils sont hostiles ou ignore-les et accomplis ta mission.</color>\nSuis les ordres de tes supérieurs.
+Suis les étapes pour terminer la mission.
+Aide <color=#FFFF7CFF>les Scientifiques</color> à s'échapper.\n<color=#ffa500ff>Menotte les Classe-D, tue-les s'ils sont hostiles ou ignore-les et accomplis ta mission.</color>
+Tue toutes les personnes.\nEmpêche tout le monde de fuir.\nCoopère avec les autres <color=#ffff00>SCPs.</color><color=#ffa500ff>\nTu peux parler avec ton équipe avec A et tu peux parler avec les humains pour leur tendre un piège avec V.</color>

@@ -1,0 +1,7 @@
+﻿Utilise les flèches du clavier pour commencer...
+Naviguer : Flèches HAUT/BAS \nSélectionner : Flèche de DROITE \nRetour : Flèche de GAUCHE
+[var_name]\n\nTypes de munitions : [var_atype]\nMunitions restantes : [var_ares]\nTaille du magasin : [var_mag]\n\nDégât max : [var_maxdmg]\nDégât efficace : [var_effdmg]\nTirs par seconde : [var_sps]\n\nModifications disponible : [var_custs]\n\nFLÈCHE DE DROITE POUR MODIFIER
+Vous allez laisser tomber [var_nom]\nFlèches HAUT/BAS pour changer la quantité.\nFlèche DROITE pour laisser tomber.\nFlèche GAUCHE pour annuler.
+Pas assez de munitions à déposer <color=yellow>(type [var_nom])</color> . \nFlèche GAUCHE pour annuler.
+BARIL
+AUTRE

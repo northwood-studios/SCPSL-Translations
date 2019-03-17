@@ -1,0 +1,33 @@
+﻿VOLUME DES VOIX
+OUI
+<size=34>FORCER LE DÉMARRAGE</size>
+PROCÉDURE DE RE-CONFINEMENT\nDE SCP-106
+Inverser l'axe Y
+RÉSUMÉ
+Annuler
+I N V E N T A I R E
+LUMINOSITÉ
+PARAMÈTRES
+<size=70>DÉCONNEXION</size>
+L'OGIVE ALPHA EST DÉSACTIVÉE
+ACCÈS REFUSÉ
+CHAT VOCAL
+INVENTAIRE COMPLET
+SENSIBILITÉ SOURIS
+PIRATAGE
+RAMASSER...
+L'augmentation de la luminosité <b>diminue l'immersion</b> du jeu.\n<b>Il est recommandé de garder la valeur par défaut.</b>
+[1] OUVRIR/FERMER LA PORTE\n[2] VERROUILLER LA PORTE*\n\n*Le verrouillage d'une porte utilise votre compétence spéciale.
+PORTE VERROUILLÉE PAR SCP-079
+Mode plein écran
+Êtes-vous sûr de vouloir quitter ce serveur ?
+Options de base : pour modifier autre chose, allez au menu principal.
+EN ATTENTE DE JOUEURS...
+RÉSUMÉ
+CONTINUER
+VOLUME PRINCIPAL
+EN LIGNE
+Tu as rejoint la FIM Epsilon-11.
+Tu as rejoint l'Insurrection du Chaos.
+VOUS ÊTES
+Échappé en : [escape_minutes] minutes et [escape_seconds] secondes

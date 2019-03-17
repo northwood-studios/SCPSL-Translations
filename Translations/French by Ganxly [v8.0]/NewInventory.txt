@@ -1,0 +1,31 @@
+﻿Carte d'accès de Concierge : Pas de description.
+Carte d'accès de Scientifique : Pas de description.
+Carte d'accès de Scientifique majeur : Pas de description.
+Carte d'accès du Directeur de zone : Pas de description.
+Carte d'accès de Garde : Pas de description.
+Carte d'accès de Cadet Epsilon-11 : Pas de description.
+Carte d'accès de l'Ingénieur de confinement : Pas de description.
+Carte d'accès de Lieutenant Epsilon-11 : Pas de description.
+Carte d'accès de Commandant Epsilon-11 : Pas de description.
+Carte d'accès du Directeur du site : Pas de description.
+Dispositif de l'Insurrection du Chaos
+Carte d'accès des O5
+Radio :<color=#00ff00>SR</color> = Courte portée \n<color=#ffff00>MR</color> = Moyenne portée \n<color=#ffa500ff>LR</color> = Longue portée \n<color=#ff0000>UR</color> = Ultra portée \nLa consommation augmente avec la portée de la fréquence.
+Pistolet COM-15 : Pas de description.
+Trousse de premiers secours : Permet de soigner vos blessures.
+Lampe torche : <color=#ffff00>" Que la lumière soit ! "</color>
+Micro H.I.D : Lanceur mobile de décharges électriques à haute densité. \n<color=#ffa500ff>Courte portée.</color>\n\n<color=#ff0000>Une seule utilisation avec 10 secondes de chargement.</color>
+Pièce : <color=#ffa500ff>Cela semble être 50 cents !</color>
+Gobelet : Un gobelet contenant un fluide non identifié.
+Gestionnaire d'armes : Pour déposer vos munitions et modifier vos armes à l'aide du poste de travail.
+MTF-E11-SR :<color=#0096FF> Équipement standard de la FIM Epsilon-11.</color>
+Projet 90 : Pas de description.
+Laisser tomber 5.56 : Pas de description.
+MP7 : Pas de description.>
+Logicer :<color=#008f1e> Équipement standard de l'Insurrection du Chaos.</color>
+Grenade à fragmentation : <color=#ff0000>Boom !</color>
+Grenade incapacitante : Aveugle l'ennemi.
+Désarmeur : Désarme l'ennemi en le menottant et en vidant son inventaire.
+Laisser tomber 7.62 : Pas de description.
+Laisser tomber 9mm : Pas de description.
+USP : Pas de description.
