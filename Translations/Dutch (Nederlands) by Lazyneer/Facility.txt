@@ -25,7 +25,7 @@ Basis instelling. Volledige lijst van instellingen zijn in het hoofd menu.
 WACHTEN OP SPELERS
 SAMENVATTING
 DOORGAAN
-HOOFD VOLIME
+HOOFD VOLUME
 verbonden
 Je bent ontsnapt als de Wetenschapper.
 Je bent ontsnapt as de Klasse-D Personeel.
