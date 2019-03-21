@@ -1,5 +1,0 @@
-사망하였습니다.
-{KEYBINDING_INTERACTION} 눌러서 시스템을 작동할수 있습니다. <color=yellow>무기 매니저 시스템</color>사용 가능.
-{KEYBINDING_INTERACTION} 눌러서 시스템을 가져갈수 있습니다. <color=yellow>무기 매니저 시스템</color> 사용 종료.
-지금 <color=yellow>작업장</color>을 지금 누군가 <color=yellow>무기 매니저 시스템</color> 사용 중.
-당신은 <color=yellow>무기 매니저 시스템</color>이 있어야 하고 <color=yellow>작업장</color> 에서 사용가능합니다.
