@@ -1,0 +1,30 @@
+수위 키카드\n<size=14><color=#ffc>SCP 격리: 티어 1</color></size>\n<size=16>\n격리실 접근: <color=#ff6600>낮음</color>\n무기고 접근: <color=#ff0000>불가</color>\n방송실 접근: <color=#ff0000>불가</color>\n\n검문소 통과: <color=#ff0000>불가</color>\n출입 게이트 통과: <color=#ff0000>불가</color>\n</size>
+과학자 키카드\n<size=14><color=#ffc>SCP 격리: 티어 2</color></size>\n<size=16>\n격리실 접근: <color=#ffff00>중간</color>\n무기고 접근: <color=#ff0000>불가</color>\n방송실 접근: <color=#ff0000>불가</color>\n\n검문소 통과: <color=#ff0000>불가</color>\n출입 게이트 통과: <color=#ff0000>불가</color>\n</size>
+수석 과학자 키카드\n<size=14><color=#ffc>SCP 격리: 티어 3</color></size>\n<size=16>\n격리실 접근: <color=#ffff00>중간</color>\n무기고 접근: <color=#ff0000>불가</color>\n방송실 접근: <color=#ff0000>불가</color>\n\n검문소 통과: <color=#ff0000>불가</color>\n출입 게이트 통과: <color=#ff0000>불가</color>\n</size>
+구역 관리자 키카드\n<size=14><color=#f77>관리: 티어 1</color></size>\n<size=16>\n격리실 접근: <color=#ff6600>낮음</color>\n무기고 접근: <color=#ff0000>불가</color>\n방송실 접근: <color=#ff0000>불가</color>\n\n검문소 통과: <color=#00ff00>가능</color>\n출입 게이트 통과: <color=#ff0000>불가</color>\n</size>
+경비 키카드\n<size=14><color=#cef>보안: 티어 1</color></size>\n<size=16>\n격리실 접근: <color=#ff6600>낮음</color>\n무기고 접근: <color=#ff6600>낮음</color>\n방송실 접근: <color=#ff0000>불가</color>\n\n검문소 통과: <color=#00ff00>가능</color>\n출입 게이트 통과: <color=#ff0000>불가</color>\n</size>
+선임 경비 키카드\n<size=14><color=#cef>보안: 티어 2</color></size>\n<size=16>\n격리실 접근: <color=#ffff00>중간</color>\n무기고 접근: <color=#ffff00>중간</color>\n방송실 접근: <color=#ff0000>불가</color>\n\n검문소 통과: <color=#00ff00>가능</color>\n출입 게이트 통과: <color=#ff0000>불가</color>\n</size>
+격리 엔지니어 키카드\n<size=14><color=#ffc>SCP 격리: 티어 4</color></size>\n<size=16>\n격리실 접근: <color=#00ff00>전부</color>\n무기고 접근: <color=#ff0000>불가</color>\n방송실 접근: <color=#00ff00>가능</color>\n\n검문소 통과: <color=#00ff00>가능</color>\n출입 게이트 통과: <color=#ff0000>불가</color>\n</size>
+특무대 부관 키카드\n<size=14><color=#cef>보안: 티어 3</color></size>\n<size=16>\n격리실 접근: <color=#ffff00>중간</color>\n무기고 접근: <color=#ffff00>중간</color>\n방송실 접근: <color=#ff0000>불가</color>\n\n검문소 통과: <color=#00ff00>가능</color>\n출입 게이트 통과: <color=#00ff00>가능</color>\n</size>
+특무대 지휘관 키카드\n<size=14><color=#cef>보안: 티어 4</color></size>\n<size=16>\n격리실 접근: <color=#ffff00>중간</color>\n무기고 접근: <color=#00ff00>전부</color>\n방송실 접근: <color=#00ff00>가능</color>\n\n검문소 통과: <color=#00ff00>가능</color>\n출입 게이트 통과: <color=#00ff00>가능</color>\n</size>
+시설 관리자 키카드\n<size=14><color=#f77>관리: 티어 2</color></size>\n<size=16>\n격리실 접근: <color=#00ff00>전부</color>\n무기고 접근: <color=#ff0000>불가</color>\n방송실 접근: <color=#00ff00>가능</color>\n\n검문소 통과: <color=#00ff00>가능</color>\n출입 게이트 통과: <color=#00ff00>가능</color>\n</size>
+혼돈의 반란 장치\n<size=14><color=#f77>관리: 티어 3</color></size>\n<size=16>\n격리실 접근: <color=#ffff00>중간</color>\n무기고 접근: <color=#00ff00>전부</color>\n방송실 접근: <color=#00ff00>가능</color>\n\n검문소 통과: <color=#00ff00>가능</color>\n출입 게이트 통과: <color=#00ff00>가능</color>\n</size>
+O5급 키카드\n<size=14><color=#f77>관리: 티어 4</color></size>\n<size=16>\n격리실 접근: <color=#00ff00>전부</color>\n무기고 접근: <color=#00ff00>전부</color>\n방송실 접근: <color=#00ff00>가능</color>\n\n검문소 통과: <color=#00ff00>가능</color>\n출입 게이트 통과: <color=#00ff00>가능</color>\n</size>
+무전기\n\n<size=14>SR = 단거리 \nMR = 중거리 \nLR = 장거리 \nUR = 초장거리 \n켜져있는 동안에는 배터리를 소모합니다. 거리가 늘어날수록 배터리 소모량은 늘어납니다.</size>
+COM15 권총\n\n<size=14>기본적인 자기방어용 권총입니다.</size>
+구급상자\n\n<size=14>부상을 치료할 수 있습니다.</size>
+손전등\n\n<size=14>"빛이 있으라!"</size>
+마이크로 HID\n\n<size=14>이동식 고휘도 방전 방출기입니다.</size> \n근거리용입니다.\n한 발만 사용할 수 있는 에너지만 가지고있습니다. \n10초가 지나야 작동합니다.</size>
+동전\n\n<size=14>50 센트짜리 동전입니다!</size>
+컵\n\n<size=14>뭔지모를 액체가 들어있는 컵입니다.</size>
+무기 관리자\n\n<size=14>사용자에 맞게 무기를 바꿉니다.</size>
+엡실론-11 표준소총\n\n<size=14>MTF의 표준 장비입니다.</size>
+프로젝트 90\n\n<size=14>P90 기관단총을 개선한 버전입니다.</size>
+탄약
+MP7\n\n<size=14>경비원의 표준 장비입니다.</size>
+로지카\n\n<size=14>경기관총입니다.\n혼돈의 반란 표준 장비입니다.</size>
+세열수류탄\n\n<size=14>쾅!</size>
+섬광탄\n\n<size=14>상대의 눈을 멀게합니다.</size>
+무장해제 장치\n\n<size=14>마우스 왼쪽 클릭으로 무장을 해제시키며, 마우스 오른쪽 클릭으로 풀 수 있습니다. \nE 키를 누르고있으면 팀에서 무장해제된 사람을 풀어줄 수 있습니다.</size>
+탄약
+탄약
