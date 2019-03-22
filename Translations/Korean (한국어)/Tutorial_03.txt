@@ -1,16 +1,15 @@
-Here we go! There is no round in which you won't have to use SCP-914. It's a special machine that allows you to change the access level of your keycards. Please enter the containment chamber.
-Look at the panel with the knob. It can be turned into 5 different positions.
-1:1 - changes the type of a keycard. For instance:\nthe Scientist keycard to a Guard keycard;\nor an MTF commander keycard to a Containment engineer keycard
-Fine - increases the level of the card, and Coarse - decreases it.
-Very fine and Rough are equivalents of Fine and Coarse. They're faster, but more risky.
-Tutorial3_GiveKeycard
-I just threw you a card somewhere on the floor.\nPick it up and try to upgrade it to the highest level - the O5 Keycard.
-<color=#00FF58>Set the knob to <b>Fine, Very fine or 1:1</b> to upgrade the keycard.
-What have you done? I didn't expect this... there's nothing interesting, go back to SCP-914!
-You did something wrong and you burned it. No problem, take another one.
-Oh, you did it again! Come on! Take the next one.
-You know what? Maybe I will give you 5 keycards for once?\nRemember, we want O5-level keycard, no ash.
-Ehh, you are doing it on purpose. Do you think this is funny? You know what I can do, and you can't prevent? Quitting the game! Yeah! Come back later when you a little smarter!
-Tutorial3_Quit
-Well done! With this card can enter anywhere! I see that you understand what SCP-914 is. I hope you will be able to use the acquired skills in normal gameplay. Good luck!
-
+자, 시작해봅시다. SCP-914를 사용하지 않는 라운드는 없습니다. SCP-914는 들고있는 키카드의 등급을 바꿀 수 있는 특별한 기계입니다. 격리실로 들어가주세요.
+손잡이가 있는 패널을 보십시오. 이 패널은 5가지 종류의 위치로 바꿀 수 있습니다.
+1:1 - 키카드의 종류를 변경합니다. 예를들면,\n과학자 키카드를 경비 키카드로 바꿉니다.\n특무대 지휘관 키카드를 격리 엔지니어 키카드로 바꿉니다.
+고움(Fine) - 카드 등급을 올립니다. 굵음(Coarse) - 카드 등급을 내립니다.
+매우 고움(Very Fine)과 매우 굵음(Rough)은 고움, 굵음과 동일합니다. 좀 더 빠르게 등급을 올리거나 내릴 수 있지만, 약간 위험합니다.
+튜토리얼3_키카드제공
+방금 바닥에 카드를 놓아두었습니다.\n가져가셔서 가장 높은 등급의 키카드인 O5 키카드로 업그레이드 해보십시오.
+<color=#00FF58>화살표가 <b>고움(Fine), 매우 고움(Very fine), 1:1</b>로 가도록 한다면 키카드가 업그레이드 될겁니다.
+뭐하시는겁니까? 전 이런걸 기대하진 않았습니다만... 별로 재밌지는 않으니 SCP-914로 돌아가시죠!
+설정을 잘못해서 태워버렸군요. 괜찮습니다. 다른 카드를 가져가세요.
+아, 이런. 또 태우셨군요! 여기 다른 카드를 가져가세요.
+혹시 아십니까? 제가 한 번에 5개의 키카드를 줄지?\n기억하십시오. 우린 타고남은 잿더미가 아니라 O5 등급의 키카드를 원합니다.
+어, 일부러 이런 식으로 하고있군요. 이게 재밌다고 생각하나요? 제가 할 수 있는거랑 당신이 할 수 없는게 뭔지 아십니까? 게임에서 나가는거에요! 예이! 돌아가서 좀 더 똑똑해져서 오시죠!
+튜토리얼3_나가기
+잘하셨습니다! 이 카드만 있으면 어디든지 출입하실 수 있습니다. SCP-914가 무엇인지 이해하셨으리라 봅니다. 당신이 일반 게임에서도 얻어낸 기술을 사용하실 수 있기를 바랍니다. 화이팅!
