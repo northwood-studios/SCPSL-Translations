@@ -1,8 +1,8 @@
-Stimmen Lautstaerke
+Stimmen Lautstärke
 Ja
 Starten
-SCP-106 Neu Einfang\nProzedur ueberschreiben
-Invertiere die Y-Axe
+SCP-106 Eindämmungs\nProzedur überschreiben
+Invertiere die Y-Achse
 Zusammenfassung
 Abbrechen
 I N V E N T A R
@@ -14,20 +14,20 @@ Zugriff verweigert
 Sprachchat
 Inventar ist voll
 Maus Empfindlichkeit
-Hacken
+Hacken...
 Hebe auf...
-Die zunehmende Helligkeit <b>verschlechtert die Stimmung</b> des Spiels erheblich.\nVersuche diesen Wert so niedrig wie moeglich setzen.\n<b>Der Standardwert ist empfohlen.</b>
-[1] Oeffne/Schliessen der Tuer\n[2] Tuer verschliessen*\n\n*Die Tuer verschliessen zu koennen ist die Spezialfaehigkeit.
-Tuer wurde von SCP-079 verschlossen
-Vollbild Modus
-Sicher, dass du den Server verlassen willst?
-Basis Einstellungen.\nEine Komplette liste von den Einstellungen sind im <b>Hauptmenu</b> zu finden.
+Das erhöhen der Helligkeit <b>verschlechtert die Stimmung</b> des Spiels erheblich.\nVersuche diesen Wert so niedrig wie möglich zu setzen.\n<b>Der Standardwert ist empfohlen.</b>
+[1] Öffnen/Schliessen der Tür\n[2] Tür verriegeln*\n\n*Die Tür verriegeln zu können ist die Spezialfähigkeit.
+Tür wurde von SCP-079 verriegelt
+Vollbildmodus
+Sicher dass du den Server verlassen willst?
+Basis Einstellungen.\nEine komplette Liste der Einstellungen ist im <b>Hauptmenü</b> zu finden.
 Warte auf Spieler
 Zusammenfassung
 Weiter
-Haupt Lautstaerke
-beigetreten
-Du bist als Wissenschaftler entkommen und tratest dem MTF bei.
-Du bist als Klasse-D entkommen und tratest dem Chaos Aufstand.
+Haupt Lautstärke
+Verbunden
+Du bist als Wissenschaftler entkommen und trittst dem MTF bei.
+Du bist als Klasse-D entkommen und trittst der Chaos Insurgency bei.
 Du bist
-Escape time: [escape_minutes] minutes and [escape_seconds] seconds
+Flucht Zeit: [escape_minutes] Minuten und [escape_seconds] Sekunden.
