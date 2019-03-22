@@ -1,5 +1,0 @@
-DU BIST GESTORBEN
-DRÜCKE {KEYBINDING_INTERACTION} UM DAS <color=yellow>WAFFEN VERWALTUNGS TABLET</color> einzulegen.
-DRÜCKE {KEYBINDING_INTERACTION} UM DAS <color=yellow>WWAFFEN VERWALTUNGS TABLET</color> aufzunehmen.
-In diesem <color=yellow>Arbeitsplatz</color> befindet sich das <color=yellow>Waffen Verwaltungs Tablet</color> von jemand anderem.
-Du brauchst ein <color=yellow>Waffen Verwaltungs Tablet</color> um diesen <color=yellow>Arbeitsplatz</color> zu nutzen.
