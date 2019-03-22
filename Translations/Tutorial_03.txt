@@ -1,0 +1,15 @@
+Los Geht's! Es gibt keine Runde in der du nicht SCP-914 benutzen musst. Es ist eine Maschine mit der du die Zugriffsstufe von Karten verändern kannst. Bitte betrete die Inputkammer.
+Schau auf das Panel mit dem Knopf. Es kann in 5 verschiedene Richtungen gedreht werden.
+1:1 - Ändert die Art der Schlüsselkarte. Zum Beispiel:\ndie Wissenschaftler Schlüsselkarte zu einer Wachen Schlüsselkarte;\noder von einer MTF Kommandat Schlüsselkarte zu einer Auffangkammer Ingenour Schlüsselkarte
+Fine - erhöht die Stufe der Karte, und Coarse - erniedrigt sie.
+Very fine und Rough sind gleich wie Fine und Coarse. Sie sind schneller, aber risikoreicher.
+Tutorial3_GiveKeycard
+Ich hab irgendwo eine Karte auf den Boden geworfen.\nNimm sie und versuch sie auf die höchste Stufe zu stellen - die O5 Schlüsselkarte.
+<color=#00FF58>Setz' den Knopf auf <b>Fine, Very fine oder 1:1</b> um die Schlüsselkarte zu verbessern.
+Was hast du getan? Das hab ich nicht erwartet... da ist nichts Interessantes, geh zurück zu SCP-914!
+Du hast was falsches gemacht, du hast sie verbrannt. Kein Problem, nimm noch eine.
+Oh, du hast es wieder getan! Komm schon! Nimm noch eine.
+Weißt du was? Vielleicht gebe ich dir 5 Karten auf einmal?\nDenk' dran', wir wollen eine O5 Schlüsselkarte, keine Asche.
+Ehh, du machst es um mich zu provozieren. Denkst du das ist witzig? Weißt du was ich kann, was du nicht verhindern kannst? Das spiel verlassen! Ja! Komm wieder wenn du schlauer bist!
+Tutorial3_Quit
+Gut gemacht! Die Schlüsselkarte kann alles! Ich verstehe du weißt was SCP-914 ist. Ich hoffe du kannst das im normalem Spiel anwenden. Viel Glück!

@@ -1,0 +1,17 @@
+Töte jeden.\nVerhindere dass jemand entkommt.\nKooperiere mit anderen <color=#f00>SCPs.</color><color=#ffff00>\nHalte Linksklick + W und ziele auf deinen Gegner um Ihn zu töten.\nDu bist schneller bei weniger HP.</color>
+Entkomme der Einrichtung.\nKooperiere mit der <color=#008f1e>Chaos Insurgency.</color>\nVermeide Kontakt zu anderen Teams.
+Du wirst bald wiederbelebt.
+Töte jeden.\nVerhindere dass jemand entkommt.\nKooperiere mit anderen <color=#f00>SCPs.</color><color=#ffff00>\nDu kannst durch Türen laufen.\nLinksklick schadet deinem Gegner und teleportiert Ihn in deine "Pocket dimension".\nHalte TAB um deine Fähigkeiten abzurufen.</color>
+Hilf <color=#FFFF7CFF>Wissenschaftlern</color> zu entkommen.\nNeutralisiere andere Objekte.\nGib deinen Soldaten Anweisungen. \nFolge den Anweisungen deiner Vorgesetzten.
+Töte jeden.\nVerhindere dass jemand entkommt.\nKooperiere mit anderen <color=#f00>SCPs.</color><color=#ffff00>\nDrücke Linksklick um deinen Gegner zu töten.\nHalte E auf eine Person die </color><color=#f00>du</color><color=#ffff00> getötet hast, um Sie zum Zombie zu machen.\nDesto weniger HP, desto schneller belebst du wieder.</color>
+Entkomme der Einrichtung.\nKooperiere mit dem <color=#0096FF>MTF.</color>\nVermeide Kontakt zu anderen Teams.
+Töte jeden.\nVerhindere dass jemand entkommt.\nKooperiere mit anderen <color=#f00>SCPs.</color>
+Hilf' dem <color=#FF8E00>Klasse-D Personal</color> zu entkommen.\nNeutralisiere andere Objekte.
+Töte jeden.\nVerhindere dass jemand entkommt.\nKooperiere mit anderen <color=#f00>SCPs.</color><color=#ffff00>\nWenn dich jemand anschaut, wirst du schneller und kannst Töten.</color>
+Töte jeden.\nVerhindere dass jemand entkommt.\nKooperiere mit anderen <color=#f00>SCPs.</color><color=#ffff00>\nDrücke Linksklick um jemand schnell zu töten.\nDu greifst schneller bei weniger HP an.</color>
+Hilf' <color=#FFFF7CFF>Wissenschaftlern</color> zu entkommen.\nNeutralisiere andere Objekte.\nGib deinen Soldaten Anweisungen. \nFolge den Anweisungen deiner Vorgesetzten.
+Hilf' <color=#FFFF7CFF>Wissenschaftlern</color> zu entkommen.\nNeutralisiere andere Objekte.\nGib deinen Soldaten Anweisungen.
+Hilf' <color=#FFFF7CFF>Wissenschaftlern</color> zu entkommen.\nNeutralisiere andere Objekte.\nFolge den Anweisungen deiner Vorgesetzten.
+Folge den Anweisungen um dein Ziel zu vervollständigen.
+Hilf' <color=#FFFF7CFF>Wissenschaftlern</color> zu entkommen.\nKooperiere mit dem <color=#0096FF>MTF.</color>\nNeutralisiere andere Objekte.
+Töte jeden.\nVerhindere dass jemand entkommt.\nKooperiere mit anderen <color=#f00>SCPs.</color>

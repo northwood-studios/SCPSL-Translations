@@ -1,0 +1,33 @@
+Stimmen Lautstärke
+Ja
+Starten
+SCP-106 Eindämmungs\nProzedur überschreiben
+Invertieren die Y-Achse
+Zusammenfassung
+Abbrechen
+I N V E N T A R
+Helligkeit
+Einstellungen
+Server verlassen
+Alpha Warhead ist deaktiviert
+Zugriff verweigert
+Sprachchat
+Inventar ist voll
+Maus Empfindlichkeit
+Hacken...
+Hebe auf...
+Das erhöhen der Helligkeit <b>verschlechtert die Stimmung</b> des Spiels erheblich.\nVersuche diesen Wert so niedrig wie möglich setzen.\n<b>Der Standardwert ist empfohlen.</b>
+[1] Öffnen/Schliessen der Tür\n[2] Tür verriegeln*\n\n*Die Tür verriegeln zu können ist die Spezialfähigkeit.
+Tür wurde von SCP-079 verriegelt
+Vollbildmodus
+Sicher dass du den Server verlassen willst?
+Basis Einstellungen.\nEine komplette Liste der Einstellungen ist im <b>Hauptmenü</b> zu finden.
+Warte auf Spieler
+Zusammenfassung
+Weiter
+Haupt Lautstärke
+Verbunden
+Du bist als Wissenschaftler entkommen und trittst dem MTF bei.
+Du bist als Klasse-D entkommen und trittst der Chaos Insurgency bei.
+Du bist
+Flucht Zeit: [escape_minutes] Minuten und [escape_seconds] Sekunden.
