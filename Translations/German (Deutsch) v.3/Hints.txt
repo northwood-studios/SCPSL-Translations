@@ -1,0 +1,4 @@
+Du wirst benachrichtigt welche Rolle du bist wenn die Runde startet. Jede Rolle hat verschiedene Ziele die sie erfüllen muss. Wenn du mehr wissen willst, drücke den Hilfeknopf.
+Manche Türen brauchen bestimmte Zugriffsstufen. Finde die Karte mit der zugehörigen Zugriffsstufe und versuche es erneut.
+Der Alpha-Sprengkopf wurde ausgeschaltet. Gehe zum Silo in der  Hochsicherheitszone um ihn anzuschalten.
+SCP-294 braucht eine Münze!

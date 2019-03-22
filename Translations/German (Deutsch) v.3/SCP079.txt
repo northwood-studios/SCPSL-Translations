@@ -1,0 +1,13 @@
+RESERVE ENERGIE
+ERFAHRUNG
+KAMERA ÜBERTRAGUNG ONLINE
+DRÜCKE [KEY] UM ZUR ÜBERWACHUNSKARTE ZU WECHSELN
+ERFAHRUNG GESAMT:
+Kooperierendes arbeiten
+Klasse-D terminations assist
+C. I. terminations assist
+MTF terminations assist
+Wissenschaftler terminations assist
+SCP terminations assist
+VERRIEGELTE TÜREN: [LOCKED_NUM]<size=25>RECHTSCLICK UM VERRIEGELUNG ABZUBRECHEN</size>
+Allgemeine Interaktionen
