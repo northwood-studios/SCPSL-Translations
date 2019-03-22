@@ -1,7 +1,0 @@
-Nutze eine Pfeiltaste deiner Tastatur um zu beginnen...
-Navigierung - Hoch/Runter Pfeiltaste \nAuswählen - Rechte Pfeiltaste \nZurück - Linke Pfeiltaste
-[var_name]\n\nMunitions typ: [var_atype]\nBesetzte Munition: [var_ares]\nMagazin Grösse: [var_mag]\n\nMaximaler Schaden: [var_maxdmg]\nEffektiver Schaden: [var_effdmg]\nSchüsse pro sekunde: [var_sps]\n\nMögliche Anpassungen: [var_custs]\n\nRechte Pfeiltaste um die Waffe anzupassen
-Du wirst [var_nom] fallen lassen.\nHOCH/RUNTER Pfeiltaste um die Anzahl zu verändern.\nRechte Pfeiltaste um Munition fallen zu lassen.\nLinke Pfeiltaste um zurück zu gehen.
-Nicht genug Munition um (type [var_nom]) fallen zu lassen. \nLinke Pfeiltaste um zurück zu gehen.
-Lauf
-Andere
