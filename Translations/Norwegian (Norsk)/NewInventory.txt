@@ -1,0 +1,31 @@
+Vaktmesterkort:Ingen beskrivelse
+Vitenskapspersonellkort:Ingen beskrivelse
+Forskningsveilederkort:Ingen beskrivelse
+Sonelederkort:Ingen beskrivelse
+Vaktkort:Ingen beskrivelse
+MTF-Kadettkort:Ingen beskrivelse
+Inneslutningsingeniørkort:Ingen beskrivelse
+MTF-Løytnantkort:Ingen beskrivelse
+MTF-Kommandørkort:Ingen beskrivelse
+Anleggssjefskort:Ingen beskrivelse
+Kaosopprørerenhet
+O5-kort
+Radio:SR = Kort rekkevidde \nMR = Middels rekkevidde \nLR = Lang rekkevidde \nUR = Ultra-rekkevidde \nBruker strøm når påslått. Lengre rekkedvidde bruker mer strøm.
+COM-15 Sidevåpen:Ingen beskrivelse
+Førstehjelpssett:Helbreder skadene dine.
+Lommelykt:La det bli lys!
+Micro H.I.D.:Bærbart høy-intensitetsutladningsvåpen.
+Mynt:Ingen beskrivelse
+Kopp:Ingen beskrivelse
+Våpentilpasnings-tablet:Brukes til å slippe ammunisjon & oppgradere våpen.
+MTF-E11-SR:Ingen beskrivelse
+Project 90:Ingen beskrivelse
+Sluppet 5.56:Ingen beskrivelse
+MP7:Ingen beskrivelse
+Logicer:Ingen beskrivelse
+Håndgranat:Boom!
+Sjokkgranat:Blender fiender.
+Avvæpner:Venstre museknapp avvæpner, høyre museknapp frigjør. \nHold inne E på noen som er avvæpnet på ditt lag for å frigjøre dem.
+Sluppet 7.62:Ingen beskrivelse.
+Sluppet 9mm:Ingen beskrivelse.
+USP:Ingen beskrivelse.

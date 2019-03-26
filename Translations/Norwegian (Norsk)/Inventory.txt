@@ -1,0 +1,30 @@
+Vaktmesterkort\n<size=14><color=#ffc>Inneslutning : Niv� 1</color></size>\n<size=16>\nInneslutningskammertilgang : <color=#ff6600>LAV</color>\nRustkammertilgang : <color=#ff0000>INGEN</color>\nPA-tilgang : <color=#ff0000>INGEN</color>\n\nSjekkpunktautorisasjon : <color=#ff0000>INGEN</color>\nInngangsport-autorisasjon : <color=#ff0000>INGEN</color>\n</size>
+Vitenskapspersonellkort\n<size=14><color=#ffc>Inneslutning : Niv� 2</color></size>\n<size=16>\nInneslutningskammertilgang : <color=#ffff00>MIDDELS</color>\nRustkammertilgang : <color=#ff0000>INGEN</color>\nPA-tilgang : <color=#ff0000>INGEN</color>\n\nSjekkpunktautorisasjon : <color=#ff0000>INGEN</color>\nInngangsport-autorisasjon : <color=#ff0000>INGEN</color>\n</size>
+Forskningsveilederkort\n<size=14><color=#ffc>Inneslutning : Niv� 3</color></size>\n<size=16>\nInneslutningskammertilgang : <color=#ffff00>MIDDELS</color>\nRustkammertilgang : <color=#ff0000>INGEN</color>\nPA-tilgang : <color=#ff0000>INGEN</color>\n\nSjekkpunktautorisasjon : <color=#ff0000>INGEN</color>\nInngangsport-autorisasjon : <color=#ff0000>INGEN</color>\n</size>
+Soneleder-kort\n<size=14><color=#f77>Administrasjon : Niv� 1</color></size>\n<size=16>\nInneslutningskammertilgang : <color=#ff6600>LAV</color>\nRustkammertilgang : <color=#ff0000>INGEN</color>\nPA-tilgang : <color=#ff0000>INGEN</color>\n\nSjekkpunktautorisasjon : <color=#00ff00>JA</color>\nInngangsport-autorisasjon : <color=#ff0000>INGEN</color>\n</size>
+Vaktkort\n<size=14><color=#cef>Sikkerhet : Niv� 1</color></size>\n<size=16>\nInneslutningskammertilgang : <color=#ff6600>LAV</color>\nRustkammertilgang : <color=#ff6600>LAV</color>\nPA-tilgang : <color=#ff0000>INGEN</color>\n\nSjekkpunktautorisasjon : <color=#00ff00>JA</color>\nInngangsport-autorisasjon : <color=#ff0000>INGEN</color>\n</size>
+Vaktsjefkort\n<size=14><color=#cef>Sikkerhet : Niv� 2</color></size>\n<size=16>\nInneslutningskammertilgang : <color=#ffff00>MIDDELS</color>\nRustkammertilgang : <color=#ffff00>MIDDELS</color>\nPA-tilgang : <color=#ff0000>INGEN</color>\n\nSjekkpunktautorisasjon : <color=#00ff00>JA</color>\nInngangsport-autorisasjon : <color=#ff0000>INGEN</color>\n</size>
+Inneslutningsingeni�rkort\n<size=14><color=#ffc>Inneslutning : Niv� 4</color></size>\n<size=16>\nInneslutningskammertilgang : <color=#00ff00>ALLE</color>\nRustkammertilgang : <color=#ff0000>INGEN</color>\nPA-tilgang : <color=#00ff00>JA</color>\n\nSjekkpunktautorisasjon : <color=#00ff00>JA</color>\nInngangsport-autorisasjon : <color=#ff0000>INGEN</color>\n</size>
+MTF-L�ytnantkort\n<size=14><color=#cef>Sikkerhet : Niv� 3</color></size>\n<size=16>\nInneslutningskammertilgang : <color=#ffff00>MIDDELS</color>\nRustkammertilgang : <color=#ffff00>MIDDELS</color>\nPA-tilgang : <color=#ff0000>INGEN</color>\n\nSjekkpunktautorisasjon : <color=#00ff00>JA</color>\nInngangsport-autorisasjon : <color=#00ff00>JA</color>\n</size>
+MTF-Kommand�rkort\n<size=14><color=#cef>Sikkerhet : Niv� 4</color></size>\n<size=16>\nInneslutningskammertilgang : <color=#ffff00>MIDDELS</color>\nRustkammertilgang : <color=#00ff00>ALLE</color>\nPA-tilgang : <color=#00ff00>JA</color>\n\nSjekkpunktautorisasjon : <color=#00ff00>JA</color>\nInngangsport-autorisasjon : <color=#00ff00>JA</color>\n</size>
+Anleggssjefkort\n<size=14><color=#f77>Administrasjon : Niv� 2</color></size>\n<size=16>\nInneslutningskammertilgang : <color=#00ff00>ALLE</color>\nRustkammertilgang : <color=#ff0000>INGEN</color>\nPA-tilgang : <color=#00ff00>JA</color>\n\nSjekkpunktautorisasjon : <color=#00ff00>JA</color>\nInngangsport-autorisasjon : <color=#00ff00>JA</color>\n</size>
+Kaosoppr�rerenhet\n<size=14><color=#f77>Administrasjon : Niv� 3</color></size>\n<size=16>\nInneslutningskammertilgang : <color=#ffff00>MIDDELS</color>\nRustkammertilgang : <color=#00ff00>ALLE</color>\nPA-tilgang : <color=#00ff00>JA</color>\n\nSjekkpunktautorisasjon : <color=#00ff00>JA</color>\nInngangsport-autorisasjon : <color=#00ff00>JA</color>\n</size>
+O5-kort\n<size=14><color=#f77>Administrasjon : Niv� 4</color></size>\n<size=16>\nInneslutningskammertilgang : <color=#00ff00>ALLE</color>\nRustkammertilgang : <color=#00ff00>ALLE</color>\nPA-tilgang : <color=#00ff00>JA</color>\n\nSjekkpunktautorisasjon : <color=#00ff00>JA</color>\nInngangsport-autorisasjon : <color=#00ff00>JA</color>\n</size>
+Radio\n\n<size=14>SR = Kort Rekkevidde \nMR = Middels Rekkevidde \nLR = Lang Rekkevidde \nUR = Ultra-rekkevidde \nBruker str�m n�r p�sl�tt. Lengre rekkevidde bruker mer str�m.</size>
+COM15-Pistol\n\n<size=14>Enkel pistol for selvforsvar.</size>
+F�rstehjelpssett\n\n<size=14>Helbreder skadene dine.</size>
+Lommelykt\n\n<size=14>"La det bli lys!"</size>
+MicroHID\n\n<size=14>B�rbart h�y-intensitetsutladningsv�pen. \nN�rkamp.\nHar nok energi til kun ett skudd. \n10 sekunder oppvarmingstid.</size>
+Mynt\n\n<size=14>Ser ut til � v�re en 50-�ring!</size>
+Kopp\n\n<size=14>En kopp med uidentifisert v�ske.</size>
+V�pentilpasser\n\n<size=14>Tilpass v�pnene dine.</size>
+Epsilon-11 Standardrifle\n\n<size=14>Standard NTF-utstyr.</size>
+Project 90\n\n<size=14>En forbedret versjon av P90-maskinpistolen.</size>
+Ammunisjon
+MP7\n\n<size=14>Standard vaktutstyr.</size>
+Logicer\n\n<size=14>Lett maskingev�r.\nStandard kaosoppr�rer-utstyr.</size>
+H�ndgranat\n\n<size=14>Boom!</size>
+Sjokkgranat\n\n<size=14>Blinds the opponents.</size>
+Avv�pner\n\n<size=14>Venstre museknapp avv�pner, h�yre museknapp frigj�r. \nHold inne E p� noen som er avv�pnet p� ditt lag for � frigj�re dem.</size>
+Ammunisjon
+Ammunisjon

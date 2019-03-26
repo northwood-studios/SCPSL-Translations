@@ -1,0 +1,17 @@
+Drep alle.\nIkke la noen r�mme.\nSamarbeid med andre <color=#f00>SCPer.</color><color=#ffff00>\nHold inne venstre museknapp+W og sikt p� fienden for � drepe.\nDu beveger deg raskere ved lavere helse.</color>
+R�m fra anlegget.\nSamarbeid med <color=#008f1e>oppr�rsstyrken.</color>\nUnng� andre lag.
+Du vil bli gjenopplivet straks.
+Drep alle.\nIkke la noen r�mme.\nSamarbeid med andre <color=#f00>SCPer.</color><color=#ffff00>\nDu kan g� gjennom d�rer.\nVenstre museknapp skader og teleporterer fiender til lommedimensjonen.\nHold inne TAB for � vise teleporteringsmuligheter.</color>
+Hjelp <color=#FFFF7CFF>vitenskapsmenn</color> med � r�mme.\nN�ytraliser alle andre.\nGi instrukser til soldatene dine. \nF�lg ordre fra dine overordnede.
+Drep alle.\nIkke la noen r�mme.\nSamarbeid med andre <color=#f00>SCPer.</color><color=#ffff00>\nBruk venstre museknapp dreper for � drepe.\nHold inne E mens du ser p� et lik </color><color=#f00>du</color><color=#ffff00> har drept for � "zombiefisere".\nDu "zombiefiserer" raskere ved lavere helse.</color>
+R�m fra anlegget.\nSamarbeid med <color=#0096FF>MTF-styrkene.</color>\nUnng� andre lag.
+Drep alle.\nIkke la noen r�mme.\nSamarbeid med andre <color=#f00>SCPer.</color>
+Hjelp <color=#FF8E00>Klasse D- personell</color> med � r�mme.\nN�ytraliser alle andre.
+Drep alle.\nIkke la noen r�mme.\nSamarbeid med andre <color=#f00>SCPer.</color>
+Drep alle.\nIkke la noen r�mme.\nSamarbeid med andre <color=#f00>SCPer.</color><color=#ffff00>\nBruk venstre museknapp for � angripe med en kort oppladning.\nDu angriper raskere ved lavere helse.</color>
+Help <color=#FFFF7CFF>scientists</color> escape.\nNeutralize other subjects.\nInstruct your soldiers. \nFollow the orders of your commanders.
+Hjelp <color=#FFFF7CFF>vitenskapsmenn</color> med � r�mme.\nN�ytraliser alle andre.\nGi instrukser til soldatene dine.
+Hjelp <color=#FFFF7CFF>vitenskapsmenn</color> med � r�mme.\nN�ytraliser alle andre.\nF�lg ordre fra dine overordnede.
+Fullf�r oppgavene for � fullf�re m�let.
+Hjelp <color=#FFFF7CFF>vitenskapsmenn</color> med � r�mme.\nSamarbeid med <color=#0096FF>MTF-styrkene</color>\nN�ytraliser alle andre.
+Drep alle.\nIkke la noen r�mme.\nSamarbeid med andre <color=#f00>SCPer.</color>

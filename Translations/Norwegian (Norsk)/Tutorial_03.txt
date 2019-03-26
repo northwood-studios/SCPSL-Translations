@@ -1,0 +1,15 @@
+Here we go! Det går aldri en runde uten at du er nødt til å bruke SCP-914. Det er en spesiell maskin som lar deg endre tilgangsnivå på nøkkelkort. Vennligst gå inn i inneslutningskammeret.
+Se på panelet med en bryter. Den kan skrus til fem forskjellige posisjoner.
+1:1 Endrer nøkkelkorttypen. For eksempel:\nthe Scientist keycard to a Guard keycard;\nor an MTF commander keycard to a Containment engineer keycard
+Fine øker tilgangsnivå, Coarse reduserer tilgangsnivå.
+Very fine og Rough gjør det samme som Fine og Coarse. De er raskere men også mer risikable.
+Tutorial3_GiveKeycard
+Jeg kastet nettopp et nøkkelkort på gulvet.\nPlukk det opp og prøv å oppgradere det til høyeste tilgangsnivå: O5.
+<color=#00FF58>Sett bryteren til <b>Fine, Very fine eller 1:1</b> for å oppgradere nøkkelkortet.
+Hva har du gjort? Dette var uventet... Det er ikke noe interessant her, gå tilbake til SCP-914!
+Du gjorde det feil og du brente det. Null problem, ta et nytt.
+Åh, du gjorde det igjen! Kom igjen! Ta et nytt.
+Vet du hva? Kanskje jeg bare skal gi deg fem kort?\nHusk, vi vil ha et O5-kort, ikke aske.
+Ehh, Du gjør det med vilje. Synes du dette er morsomt? Vet du hva jeg kan gjøre som du ikke kan forhindre? Avslutte spillet! Det stemmer! Kom tilbake senere når du er litt smartere!
+Tutorial3_Quit
+Godt gjort! Med dette kortet kommer du deg inn over alt! Jeg ser du skjønner hva SCP-914 er. Jeg håper du er i stand til å bruke de nye ferdighetene dine i spillet. Lykke til!

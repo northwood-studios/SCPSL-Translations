@@ -1,0 +1,13 @@
+HJELPESTRØM
+ERFARINGSPOENG
+CAMERA FEED ONLINE
+PRESS [KEY] TO TOGGLE THE SURVEILLANCE MAP
+ERFARINGSPOENG:
+Samarbeid
+Assistert klasse D-drap
+Assistert Kaosopprører-drap
+Assistert MTF-drap
+Assistert vitenskapspersonell-drap
+Assistert SCP-uskadeliggjøring
+LÅSTE DØRER: [LOCKED_NUM]<size=25>HØYRE MUSEKNAPP FOR Å LÅSE OPP ALLE</size>
+Generelle samhandlinger

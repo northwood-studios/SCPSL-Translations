@@ -1,0 +1,17 @@
+runden er ferdig!
+SCPENE VANT
+MTF VANT
+KLASSE D VANT
+FASTLÅST SITUASJON
+De er ansvarlige for drapet av [summary_scpfrags] mennesker.
+Trussel uskadeliggjort. Dette stedet er trygt igjen.
+Alt sikkerhetspersonell uskadeliggjort.
+Begge sider har lidd store tap og nytt store fordeler. Vinneren er usikker.
+[summary_d_escaped] klasse d-personell rømte
+[summary_s_escaped] forsker(e) overlevde
+Detonasjonen av Stridshode Alpha drepte [summary_warhead_kills] skapninger.
+Stridshode Alpha ble ikke detonert denne runden.
+Runden varte i [summary_round_minutes] minutter og [summary_round_seconds] sekunder.
+[summary_scp_terminated] uskadeliggjorte SCPer
+neste runde om [summary_next_round_countdown] sekunder.
+Du har gitt [summary_damages] skadepoeng og drept [summary_kills] spillere.

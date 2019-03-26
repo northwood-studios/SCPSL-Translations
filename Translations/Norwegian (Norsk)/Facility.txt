@@ -1,0 +1,32 @@
+STEMMEVOLUM
+Ja
+TVING START
+OVERSTYRING FOR SCP-106 GJENFANGINGS-\nPROSEDYRE
+Inverter Y-akse
+OPPSUMMERING
+Avbryt
+I N V E N T A R
+LYSSTYRKE
+INNSTILLINGER
+KOBLE FRA
+STRIDSHODE ALPHA ER DEAKTIVERT
+INGEN TILGANG
+STEMMECHAT
+INVENTAR OVERBELASTET
+MUSESENSITIVITET
+HACKER
+PLUKKER OPP...
+�kning av lysstyrken �delegger stemningen i spillet <b>betraktelig</b>.\nPr�v � sette denne verdien s� lavt som mulig.\n<b>Standardverdien anbefales.</b>
+[1] �PNE/LUKK D�R\n[2] L�S D�R*\n\n*L�sing av d�der bruker spesial-evnene.
+D�REN ER L�ST NED AV SCP-079
+Fullskjerm-modus
+Er du sikker p� at du vil forlate spillet?
+Enkle innstillinger. Full liste i hovedmenyen.
+VENTER P� SPILLERE
+OPPSUMMERING
+FORTSETT
+HOVEDVOLUM
+tilkoblet
+Du r�mte som vitenskapsmann og ble med i MTF-enhetene.
+Du r�mte som Klasse D-personnel og ble med i Oppr�rsstyrken.
+DU ER
