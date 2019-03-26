@@ -16,17 +16,17 @@ INVENTAR OVERBELASTET
 MUSESENSITIVITET
 HACKER
 PLUKKER OPP...
-�kning av lysstyrken �delegger stemningen i spillet <b>betraktelig</b>.\nPr�v � sette denne verdien s� lavt som mulig.\n<b>Standardverdien anbefales.</b>
-[1] �PNE/LUKK D�R\n[2] L�S D�R*\n\n*L�sing av d�der bruker spesial-evnene.
-D�REN ER L�ST NED AV SCP-079
+Økning av lysstyrken ødelegger stemningen i spillet <b>betraktelig</b>.\nPrøv å sette denne verdien så lavt som mulig.\n<b>Standardverdien anbefales.</b>
+[1] ÅPNE/LUKK DØR\n[2] LÅS DØR*\n\n*Låsing av dører bruker spesial-evnene.
+DØREN ER LÅST NED AV SCP-079
 Fullskjerm-modus
-Er du sikker p� at du vil forlate spillet?
+Er du sikker på at du vil forlate spillet?
 Enkle innstillinger. Full liste i hovedmenyen.
-VENTER P� SPILLERE
+VENTER PÅ SPILLERE
 OPPSUMMERING
 FORTSETT
 HOVEDVOLUM
 tilkoblet
-Du r�mte som vitenskapsmann og ble med i MTF-enhetene.
-Du r�mte som Klasse D-personnel og ble med i Oppr�rsstyrken.
+Du rømte som vitenskapsmann og ble med i MTF-enhetene.
+Du rømte som Klasse D-personnel og ble med i Opprørsstyrken.
 DU ER
