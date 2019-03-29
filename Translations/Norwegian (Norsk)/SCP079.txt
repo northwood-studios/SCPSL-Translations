@@ -1,7 +1,7 @@
 HJELPESTRØM
 ERFARINGSPOENG
-CAMERA FEED ONLINE
-PRESS [KEY] TO TOGGLE THE SURVEILLANCE MAP
+KAMERA STRØM PÅ
+TRYKK [KEY] FOR Å SKRU AV/PÅ OVERVÅKNINGS-KARTET
 ERFARINGSPOENG:
 Samarbeid
 Assistert klasse D-drap
@@ -11,7 +11,7 @@ Assistert vitenskapspersonell-drap
 Assistert SCP-uskadeliggjøring
 LÅSTE DØRER: [LOCKED_NUM]<size=25>HØYRE MUSEKNAPP FOR Å LÅSE OPP ALLE</size>
 Generelle samhandlinger
-You are being attacked!
-Generators have been highlighted on the map
-DANGER
-SCPs{0}MTF & Guards{1}Scientists{2}Class-D{3}Chaos Insurgents{4}
+Du blir angrepet!
+Generatorer har blitt merket på kartet!
+FARE
+SCP-ER{0}MTF & Anleggsvakter{1}Vitenskapsmenn{2}Klasse-D{3}Kaosopprørere{4}

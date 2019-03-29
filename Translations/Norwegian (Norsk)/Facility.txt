@@ -30,4 +30,4 @@ tilkoblet
 Du rømte som vitenskapsmann og ble med i MTF-enhetene.
 Du rømte som Klasse D-personnel og ble med i Opprørsstyrken.
 DU ER
-Escape time: [escape_minutes] minutes and [escape_seconds] seconds
+Flyktnings-tid: [escape_minutes] minutter og [escape_seconds] sekunder
