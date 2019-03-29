@@ -12,3 +12,6 @@ A proxima partida iniciara em [time] segundos.
 HABILIDADE ESPECIAL
 CRIAR BURACO
 USAR BURACO
+YOU DIED
+You were killed by
+as

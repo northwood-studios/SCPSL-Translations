@@ -16,3 +16,4 @@
 <size=80>ESPERE UM MOMENTO</size>\n<size=35>Carregando tutorial...</size>
 <size=80>VERSÃO IMCOPATÍVEL</size>\nA sua versão do jogo é diferente do server.\n(Sua versão - [your]; Versão do servidor - [server])
 <size=80>CONECTANDO</size>\n<size=35>Carregando a instalação</size>
+<size=35>Loading the facility...</size>

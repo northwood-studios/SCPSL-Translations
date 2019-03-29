@@ -28,3 +28,4 @@ Flashbang Grenade:Oslepí tvé nepřátele.
 Disarmer:Levým tlačítkem myši odzbrojíš a zatkneš nepřítele. \nDrž E pro propuštění hráče.
 Dropped 7.62:No description.
 Dropped 9mm:No description.
+USP:No description.

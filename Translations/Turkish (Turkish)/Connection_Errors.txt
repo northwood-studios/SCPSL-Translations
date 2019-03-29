@@ -15,3 +15,5 @@
 <size=80>EL YENIDEN BASLATMA</size>\n<size=35>Sunucu bolumu yeniden baslatiyor...</size>
 <size=80>LUTFEN BEKLEYIN</size>\n<size=35>Egitim yukleniyor...</size>
 <size=80>SURUM UYUMSUZLUGU</size>\nOyun surumunuz sunucuyla ayni degil\n(Sizinki - [your]; Sunucu - [server])
+<size=80>CONNECTED</size>\n<size=35>Loading the level...</size>
+<size=35>Loading the facility...</size>

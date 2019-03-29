@@ -59,3 +59,4 @@ MAX. VÉRMENNYISÉG
 FPS Limit
 FPS Limit nem működik, ha a vSync be van kapcsolva!
 Alapértelmezettek betöltése
+We use Steam Discussions as a forum. (Click the logo below to open the forum)

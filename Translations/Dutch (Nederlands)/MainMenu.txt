@@ -59,3 +59,4 @@ MAXIMAAL AANTAL BLOED
 FPS Limiet
 FPS Limiet als V-Sync aanstaat.
 Standaardwaarde
+We use Steam Discussions as a forum. (Click the logo below to open the forum)

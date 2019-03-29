@@ -16,3 +16,4 @@
 <size=80>ATTENDERE</size>\n<size=35>Caricamento tutorial...</size>
 <size=80>VERSIONE INCOMPATIBILE</size>\nLa tua versione del gioco è differente rispetto a quella del server\n(Your - [your]; Server - [server])
 <size=80>CONNESSO</size>\n<size=35>Caricamento del livello...</size>
+<size=35>Loading the facility...</size>

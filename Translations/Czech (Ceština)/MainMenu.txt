@@ -59,3 +59,4 @@ Maximální počet krve
 FPS Limit
 FPS limit nejde zapnout (V-Sync je zaplý)!
 Reset. nastavení
+We use Steam Discussions as a forum. (Click the logo below to open the forum)

@@ -11,3 +11,7 @@ Scientist drabs assist
 SCP drabs assist
 L�STE D�RE: [L�ST_NUM]<size=25>H�JREKLIK FOR AT �BNE D�RENE IGEN</size>
 Generele interageringer
+You are being attacked!
+Generators have been highlighted on the map
+DANGER
+SCPs{0}MTF & Guards{1}Scientists{2}Class-D{3}Chaos Insurgents{4}

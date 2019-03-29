@@ -59,3 +59,4 @@
 Ліміт FPS
 Ліміт FPS не працює, коли vSync ввімкнено!
 Встановити за промовчанням
+We use Steam Discussions as a forum. (Click the logo below to open the forum)

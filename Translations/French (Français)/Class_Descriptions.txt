@@ -14,3 +14,4 @@ Aidez les <color=#FFFF7CFF>scientifiques</color> à s'échapper\nNeutralisez les
 Aidez les <color=#FFFF7CFF>scientifiques</color> à s'échapper\nNeutralisez les autres sujets
 Suivez les directives.
 Aidez les <color=#FFFF7CFF>scientifiques</color> à s'échapper\nCoopérez avec les <color=#0096FF>MTF</color>\nNeutralisez les autres sujets
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#f00>SCPs.</color>

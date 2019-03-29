@@ -30,3 +30,4 @@ Hráčů
 Úspěšně jsi utekl jako vědec a připojíš se k jednotce MTF.
 Úspěšně jsi utekl jako personál Třídy-D a připojíš se k jednotce Vzbouřenců Chaosu.
 Jsi
+Escape time: [escape_minutes] minutes and [escape_seconds] seconds

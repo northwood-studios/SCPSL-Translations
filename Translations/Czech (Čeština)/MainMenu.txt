@@ -59,3 +59,4 @@ MAX BLOOD AMOUNT
 FPS Limit
 FPS Limit does not work when vSync is enabled!
 Set Default
+We use Steam Discussions as a forum. (Click the logo below to open the forum)

@@ -59,3 +59,4 @@ CREDITS
 FPS限制
 FPS限制在垂直同步开启时不会启用！
 恢复默认
+We use Steam Discussions as a forum. (Click the logo below to open the forum)

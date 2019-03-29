@@ -12,3 +12,6 @@ De volgende ronde zal starten in [time] seconden.
 SPECIALE VAARDIGHEID
 CREËER VERDWIJNGAT
 GEBRUIK VERDWIJNGAT
+YOU DIED
+You were killed by
+as

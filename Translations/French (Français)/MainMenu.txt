@@ -59,3 +59,4 @@ NIVEAU DE SANG
 Limite d'IPS
 La limite d'IPS ne fonctionne pas quand la sync. verticale est activée !
 Set Default
+We use Steam Discussions as a forum. (Click the logo below to open the forum)

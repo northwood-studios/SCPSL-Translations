@@ -59,3 +59,4 @@ QUANTIDADE DE SANGUE
 Limite de FPS
 Limite de FPS não funciona quando V-sync está ligado.
 Definir controles padrão
+We use Steam Discussions as a forum. (Click the logo below to open the forum)

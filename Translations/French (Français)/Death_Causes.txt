@@ -12,6 +12,6 @@ Guéri de la peste.
 inconnue.
 Il s'agit du corps de <b>[user]</b>, un [class] !\n\nCause de la mort : [cause]
 A été déchiré par SCP-096.
-
-
+Powerful bite to the cranium.
+Melted by highly corrosive substance.
 Post-explosion wounds.
