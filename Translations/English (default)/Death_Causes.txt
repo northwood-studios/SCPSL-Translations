@@ -1,15 +1,15 @@
-Died from an explosion.
+Vaporized by the Alpha Warheads.
 Shattered legs and feet suggest fatal trauma caused by a fall.
 Used as a sacrifice to re-contain SCP-106.
 Lost in the Pocket Dimension.
 It's a remnant of SCP-106.
 Severe electrical burns.
-Fatal blunt trauma; badly mutilated and pulped.
-Gunshot wounds from a [ammotype] weapon.
+Fatal blunt trauma; the body is badly mutilated and pulped.
+[ammotype] gunshot wounds across the body.
 Cervical fracture at the base of the skull.
 Did not survive the encounter with SCP-106.
 Cured of a plague.
-Unknown cause of death.
+Unknown.
 It's <b>[user]</b>'s body - they were [class]!\n\nCause of death: [cause]
 Massive lacerations and blood loss.
 Powerful bite to the cranium.
