@@ -1,19 +1,19 @@
-<size=80>DU ER BLEVET KICKED</size>\nServeren var tvunget til at stoppe forbindelsen.\n<size=26>\nDu er sikkert blevet midlertidig bandlyst af administratoren\eller ikke m�der kravene til serveren (e.g. forbindelse til Steam).\nVed midlertidige bandlysninger -  er spiludviklerne <u>ikke</u> ansvarlige.\n</size>
-<size=80>FORBINDELSE AFBRUDT</size>\nDen valgte v�rt er ikke tilg�ngelig.
-<size=80>FORBINDELSE AFBRUDT</size>\nDen valgte v�rts forbindelses-id eksistere ikke.
+<size=80>DU ER BLEVET KICKED</size>\nServeren var tvunget til at stoppe forbindelsen.\n<size=26>\nDu er sikkert blevet midlertidig bandlyst af administratoren\eller ikke møder kravene til serveren (e.g. forbindelse til Steam).\nVed midlertidige bandlysninger -  er spiludviklerne <u>ikke</u> ansvarlige.\n</size>
+<size=80>FORBINDELSE AFBRUDT</size>\nDen valgte vært er ikke tilgængelig.
+<size=80>FORBINDELSE AFBRUDT</size>\nDen valgte værts forbindelses-id eksistere ikke.
 <size=80>FORBINDELSE AFBRUDT</size>\nDen valgte kanal eksistere ikke.
 <size=80>FORBINDELSE AFBRUDT</size>\nServeren er fuld.
 <size=80>FORBINDELSE AFBRUDT</size>\nModtog forkert pakke.
 <size=80>FORBINDELSE AFBRUDT</size>\nForbindelsen mistet (timed out).
 <size=80>FORBINDELSE AFBRUDT</size>\nForbindelsen mistet (timed out).
-<size=80>FORBINDELSE AFBRUDT</size>\nOperationen er ikke underst�ttet.
-<size=80>FORBINDELSE AFBRUDT</size>\nForkert server config (version er ikke underst�ttet).
+<size=80>FORBINDELSE AFBRUDT</size>\nOperationen er ikke understøttet.
+<size=80>FORBINDELSE AFBRUDT</size>\nForkert server config (version er ikke understøttet).
 <size=80>FORBINDELSE AFBRUDT</size>\nForket server config.
 <size=80>FORBINDELSE AFBRUDT</size>\nAdressen er forkert eller kunne ikke findes.
-<size=80>FORBINDELSE AFBRUDT</size>\nEt uforventet problem er opst�et!
+<size=80>FORBINDELSE AFBRUDT</size>\nEt uforventet problem er opstået!
 <size=80>VENT VENLIGST</size>\n<size=35>Opretter forbindelse...</size>
 <size=80>RUNDE GENSTART</size>\n<size=35>Runden genstarter...</size>
-<size=80>VENT VENLIGST</size>\n<size=35>Indl�ser tutorial...</size>
-<size=80>VERSION UNDERST�TTES IKKE</size>\nDin version af spillet er anderledes end serverens\n(Din - [din]; Server - [server])
-<size=80>FORBUNDET</size>\n<size=35>Indl�ser spillet...</size>
-<size=35>Indl�ser anl�gget...</size>
+<size=80>VENT VENLIGST</size>\n<size=35>Indlæser tutorial...</size>
+<size=80>VERSION UNDERSTØTTES IKKE</size>\nDin version af spillet er anderledes end serverens\n(Din - [din]; Server - [server])
+<size=80>FORBUNDET</size>\n<size=35>Indlæser spillet...</size>
+<size=35>Indlæser anlægget...</size>
