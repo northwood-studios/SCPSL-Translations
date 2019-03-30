@@ -1,17 +1,17 @@
 Died from an explosion.
-The fall ended their life.
+Shattered legs and feet suggest fatal trauma caused by a fall.
 Used as a sacrifice to re-contain SCP-106.
 Lost in the Pocket Dimension.
 It's a remnant of SCP-106.
-High-voltage electric shock.
-Crushed by a heavy structure.
-There are many gunshot wounds on the body. Most likely, a [ammotype] ammo type was used.
-Snapped neck at the base of the skull.
+Severe electrical burns.
+Fatal blunt trauma; badly mutilated and pulped.
+Gunshot wounds from a [ammotype] weapon.
+Cervical fracture at the base of the skull.
 Did not survive the encounter with SCP-106.
 Cured of a plague.
 Unknown cause of death.
-It's <b>[user]</b>'s body, they were [class]!\n\nCause of death: [cause]
-Was torn to pieces by SCP-096.
+It's <b>[user]</b>'s body - they were [class]!\n\nCause of death: [cause]
+Massive lacerations and blood loss.
 Powerful bite to the cranium.
 Melted by highly corrosive substance.
-Post-explosion wounds.
+Shrapnel and third-degree burns caused by an explosion.
