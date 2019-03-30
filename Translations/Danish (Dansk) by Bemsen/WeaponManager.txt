@@ -1,7 +1,7 @@
 Brug hvilken som helt pil tast for at begynde...
-Naviger - OP/NED pil tasterne \nV�lg - H�JRE pil tast \nTilbage - VENSTRE pil tast
-[var_name]\n\nAmmunitionstype: [var_atype]\nReserve ammunition: [var_ares]\nMagasin st�rrelse: [var_mag]\n\nMaksimal skade: [var_maxdmg]\nEffektiv skade: [var_effdmg]\nSkud per sekund: [var_sps]\n\nMulige �ndringer: [var_custs]\n\nH�JRE PIL TAST FOR AT �NDRE V�BNET
-Du kommer til at kaste [var_nom]\nOP/NED pil tast for at skifte m�ngde.\nH�JRE pil tast for at kase.\nVENSTRE pil tast for at vende tilbage.
-Ikke nok ammunition til at kaste (type [var_nom]). \nVENSTRE pil tast for at g� tilbage.
-V�BENL�B
+Naviger - OP/NED pil tasterne \nVælg - HØJRE pil tast \nTilbage - VENSTRE pil tast
+[var_name]\n\nAmmunitionstype: [var_atype]\nReserve ammunition: [var_ares]\nMagasin størrelse: [var_mag]\n\nMaksimal skade: [var_maxdmg]\nEffektiv skade: [var_effdmg]\nSkud per sekund: [var_sps]\n\nMulige ændringer: [var_custs]\n\nHØJRE PIL TAST FOR AT ÆNDRE VÅBNET
+Du kommer til at kaste [var_nom]\nOP/NED pil tast for at skifte mængde.\nHØJRE pil tast for at kase.\nVENSTRE pil tast for at vende tilbage.
+Ikke nok ammunition til at kaste (type [var_nom]). \nVENSTRE pil tast for at gå tilbage.
+VÅBENLØB
 ANDRE
