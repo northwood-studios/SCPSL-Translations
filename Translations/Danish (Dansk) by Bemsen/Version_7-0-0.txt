@@ -1,4 +1,4 @@
-DU D�DE
+DU DØDE
 Tryk {KEYBINDING_INTERACTION} for at placere <color=yellow>Weapon Manager Tableten</color>.
 Tryk {KEYBINDING_INTERACTION} for at tage <color=yellow>Weapon Manager Tableten tilbage</color>.
 Denne <color=yellow>arbejdsstation</color> har allerede en andens <color=yellow>Weapon Manager Tablet</color> forbundet.
