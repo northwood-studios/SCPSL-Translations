@@ -1,17 +1,17 @@
 GIV ORDRE
-F�LG ORDRE
+FØLG ORDRE
 SAMME RANG
-Klasse-D personale slap v�k
-Videnskabsm�ndene overlevede
+Klasse-D personale slap væk
+Videnskabsmændene overlevede
 Drabt af SCP
 Drabte SCP'er
-Alpha Spr�nghoved
+Alpha Sprænghoved
 Sprunget
 Ubrugt
-Den n�ste runde starter om [tid] sekunder.
+Den næste runde starter om [tid] sekunder.
 SPECIAL EVNE
 SKAB ET JORDFALDSHUL
 BRUG JORDFALDSHULET
-DU D�DE
+DU DØDE
 Du blev drabt af
 som
