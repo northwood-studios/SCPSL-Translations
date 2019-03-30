@@ -12,6 +12,6 @@ Multiple surgical incisions & stitches can be seen.
 Unknown cause of death.
 It's <b>[user]</b>'s body - they were [class]!\n\nCause of death: [cause]
 Massive lacerations and blood loss.
-Powerful bite to the cranium.
+Large, deep bitemarks around the cranium is observed.
 Melted by a highly corrosive substance.
 Shrapnel and third-degree burns caused by an explosion.
