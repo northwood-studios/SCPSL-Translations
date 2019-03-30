@@ -10,7 +10,7 @@ MTF kommandør nøglekort:Ingen beskrivelse
 Anlægs-chef nøglekort:Ingen beskrivelse
 Kaos oprørsgruppens adgangs apparat
 O5-niveau nøglekort
-Radio:SR = Kort afstand \nMR = Medium afstand \nLR = Lang afstand \nUR = Ultra afstand \nBruger batteri n�r t�ndt. Jo l�ngere afstand, jo større batteriforbrug.
+Radio:SR = Kort afstand \nMR = Medium afstand \nLR = Lang afstand \nUR = Ultra afstand \nBruger batteri når tændt. Jo længere afstand, jo større batteriforbrug.
 COM-15 håndpistol:Ingen beskrivelse
 Førstehjælpssæt:Heler dine skader.
 Lommelygte:Lad der være lys!
