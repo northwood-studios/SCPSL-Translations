@@ -9,7 +9,7 @@ Fatal blunt trauma; the body is badly mutilated and pulped.
 Cervical fracture at the base of the skull.
 Did not survive the encounter with SCP-106.
 Cured of a plague.
-Unknown.
+Unknown cause of death.
 It's <b>[user]</b>'s body - they were [class]!\n\nCause of death: [cause]
 Massive lacerations and blood loss.
 Powerful bite to the cranium.
