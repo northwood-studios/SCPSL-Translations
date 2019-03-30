@@ -1,13 +1,13 @@
-Reservestr�m
+Reservestrøm
 ERFARING
 KAMERA FEED ONLINE
-TRYK [tast] FOR AT SL� OVERV�GNINGSKORTET TIL OG FRA
-Erfaring opn�et:
+TRYK [tast] FOR AT SLÅ OVERVÅGNINGSKORTET TIL OG FRA
+Erfaring opnået:
 Samarbejde
 Klasse-D drabs assist
 C. I. drabs assist
 MTF drabs assist
 Scientist drabs assist
 SCP drabs assist
-L�STE D�RE: [L�ST_NUM]<size=25>H�JREKLIK FOR AT �BNE D�RENE IGEN</size>
+LÅSTE DØRE: [LÅST_NUM]<size=25>HØJREKLIK FOR AT ÅBNE DØRENE IGEN</size>
 Generele interageringer
