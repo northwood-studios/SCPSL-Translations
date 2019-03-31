@@ -8,7 +8,7 @@ Fatal blunt trauma; the body is badly mutilated and pulped.
 [ammotype] gunshot wounds across the body.
 Cervical fracture at the base of the skull.
 Massive amounts of tissue decay is present on the body.
-Multiple surgical incisions & stitches can be seen.
+No clear trauma, but all vital systems appears to have stopped working.
 Unknown cause of death.
 It's <b>[user]</b>'s body - they were [class]!\n\nCause of death: [cause]
 Massive lacerations and blood loss.
