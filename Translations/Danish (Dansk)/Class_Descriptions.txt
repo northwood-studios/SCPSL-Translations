@@ -1,17 +1,17 @@
-Sl� alle ihjel.\nForhindre flugtfors�g.\nSamarbejd med andre <color=#f00>SCPs.</color><color=#ffff00>\nHold venstreklik+W og sigt mod din fjende for at dr�be.\nDu er hurtigere ved lavere HP.</color>
-Slip ud af anl�gget.\nSamarbejd med <color=#008f1e>Kaos Opr�rsgruppen.</color>\nUndg� de andre hold.
-Du genopst�r snart.
-Sl� alle ihjel.\nForhindre flugtfors�g.\nSamarbejd med andre <color=#f00>SCPs.</color><color=#ffff00>\nDu kan g� igennem d�re.\nVensteklik skader og sender fjenden til din dimension.\nHold TAB for at f� adgang til dine teleporteringsevener.</color>
-Hj�lp <color=#FFFF7CFF>Videnskabsm�nd</color> med at flygte.\nNeutraliser alle andre ting.\nGiv dine soldater ordre. \nF�lg ordrene fra dine kommanderne.
-Sl� alle ihjel.\nForhindre flugtfors�g.\nSamarbejd med andre <color=#f00>SCPs.</color><color=#ffff00>\nVenstreklik for at �jeblikkeligt dr�be fjender med ingen nedk�ling.\nHold E p� en person </color><color=#f00>du</color><color=#ffff00> har dr�bt, for at zombifisere.\nDu zombifisere hurtigere ved lavere HP.</color>
-Slip ud af anl�gget.\nSamarbejd med <color=#0096FF>MTF.</color>\nUndg� andre hold.
-Sl� alle ihjel.\nForhindre flugtfors�g.\nSamarbejd med andre <color=#f00>SCPs.</color>
-Hj�lp <color=#FF8E00>Klasse-D Personale</color> med at flygte.\nNeutraliser alle andre ting.
-Sl� alle ihjel.\nForhindre flugtfors�g.\nSamarbejd med andre <color=#f00>SCPs.</color>
-Sl� alle ihjel.\nForhindre flugtfors�g.\nSamarbejd med andre <color=#f00>SCPs.</color><color=#ffff00>\nVensteklik for at angribe, med en kort start-up tid.\nDu angriber hurtigere ved lavere HP.</color>
-Hj�lp <color=#FFFF7CFF>videnskabsm�nd</color> med at flygte.\nNeutraliser alle andre ting.\nGiv dine soldater ordre. \nF�lg ordrene fra dine kommanderne.
-Hj�lp <color=#FFFF7CFF>videnskabsm�nd</color> med at flygte.\nNeutraliser alle andre ting.\nGiv dine soldater ordre.
-Hj�lp <color=#FFFF7CFF>videnskabsm�nd</color> med at flygte.\nNeutraliser alle andre ting.\nF�lg ordrene fra dine kommanderene.
-L�s opgaverne for at klare dit m�l.
-Hj�lp <color=#FFFF7CFF>videnskabsm�nd</color> med at flygte\nSamarbejd med <color=#0096FF>MTF</color>\nNeutraliser alle andre ting.
-Sl� alle ihjel.\nForhindre flugtfors�g.\nSamarbejd med andre <color=#f00>SCPs.</color>
+Slå alle ihjel.\nForhindre flugtforsøg.\nSamarbejd med andre <color=#f00>SCPs.</color><color=#ffff00>\nHold venstreklik+W og sigt mod din fjende for at dræbe.\nDu er hurtigere ved lavere HP.</color>
+Slip ud af anlægget.\nSamarbejd med <color=#008f1e>Kaos Oprørsgruppen.</color>\nUndgå de andre hold.
+Du genopstår snart.
+Slå alle ihjel.\nForhindre flugtforsøg.\nSamarbejd med andre <color=#f00>SCPs.</color><color=#ffff00>\nDu kan gå igennem døre.\nVensteklik skader og sender fjenden til din dimension.\nHold TAB for at få adgang til dine teleporteringsevener.</color>
+Hjælp <color=#FFFF7CFF>Videnskabsmænd</color> med at flygte.\nNeutraliser alle andre ting.\nGiv dine soldater ordre. \nFølg ordrene fra dine kommanderne.
+Slå alle ihjel.\nForhindre flugtforsøg.\nSamarbejd med andre <color=#f00>SCPs.</color><color=#ffff00>\nVenstreklik for at øjeblikkeligt dræbe fjender med ingen nedkøling.\nHold E på en person </color><color=#f00>du</color><color=#ffff00> har dræbt, for at zombifisere.\nDu zombifisere hurtigere ved lavere HP.</color>
+Slip ud af anlægget.\nSamarbejd med <color=#0096FF>MTF.</color>\nUndgå andre hold.
+Slå alle ihjel.\nForhindre flugtforsøg.\nSamarbejd med andre <color=#f00>SCPs.</color>
+Hjælp <color=#FF8E00>Klasse-D Personale</color> med at flygte.\nNeutraliser alle andre ting.
+Slå alle ihjel.\nForhindre flugtforsøg.\nSamarbejd med andre <color=#f00>SCPs.</color>
+Slå alle ihjel.\nForhindre flugtforsøg.\nSamarbejd med andre <color=#f00>SCPs.</color><color=#ffff00>\nVensteklik for at angribe, med en kort start-up tid.\nDu angriber hurtigere ved lavere HP.</color>
+Hjælp <color=#FFFF7CFF>videnskabsmænd</color> med at flygte.\nNeutraliser alle andre ting.\nGiv dine soldater ordre. \nFølg ordrene fra dine kommanderne.
+Hjælp <color=#FFFF7CFF>videnskabsmænd</color> med at flygte.\nNeutraliser alle andre ting.\nGiv dine soldater ordre.
+Hjælp <color=#FFFF7CFF>videnskabsmænd</color> med at flygte.\nNeutraliser alle andre ting.\nFølg ordrene fra dine kommanderene.
+Løs opgaverne for at klare dit mål.
+Hjælp <color=#FFFF7CFF>videnskabsmænd</color> med at flygte\nSamarbejd med <color=#0096FF>MTF</color>\nNeutraliser alle andre ting.
+Slå alle ihjel.\nForhindre flugtforsøg.\nSamarbejd med andre <color=#f00>SCPs.</color>
