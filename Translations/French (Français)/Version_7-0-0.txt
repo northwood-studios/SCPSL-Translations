@@ -1,4 +1,4 @@
-VOUS ETES MORT 
+VOUS ETES MORT
 Appuyez sur {KEYBINDING_INTERACTION} pour poser la <color=yellow>tablette du gestionnaire d'armes</color>.
 Appuyez sur {KEYBINDING_INTERACTION} pour prendre la <color=yellow>tablette du gestionnaire d'armes</color>.
 Ce <color=yellow>poste de travail</color> est occupe par quelqu'un d'autre. <color=yellow>Tablette du gestionnaire d'armes</color> connecte.

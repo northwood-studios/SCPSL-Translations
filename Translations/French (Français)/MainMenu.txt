@@ -25,7 +25,7 @@ Rendu de la lumière :\nLorsqu'il est OFF : cela rend le jeu moins beau, il est 
 Synchronisation verticale
 CONNEXION
 GRAPHISMES
-Changer les préférences des ombres,\n Réduire cette valeur peut augmenter la fluidité du jeu. 
+Changer les préférences des ombres,\n Réduire cette valeur peut augmenter la fluidité du jeu.
 MENU PRINCIPAL
 MODE DE RENDU DE LA LUMIÈRE
 FLOU CINÉTIQUE
@@ -58,4 +58,4 @@ CONTRÔLES
 Limite IPS
 Limite de IPS ne fonctionne pas si la V-Sync est active
 Réglages par défaut
-We use Steam Discussions as a forum. (Click the logo below to open the forum) 
+We use Steam Discussions as a forum. (Click the logo below to open the forum)
