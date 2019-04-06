@@ -1,0 +1,17 @@
+Døde av en eksplosjon.
+Døde av et fall.
+Ofret for å gjenfange SCP-106.
+Tapt i Lommedimensjonen.
+Det er en levning fra SCP-106.
+Høyspenningssjokk.
+Knust av noe tungt.
+Det er mange skuddsår på liket. [ammotype]-ammunisjon er mest sannsynlig brukt.
+Brukket nakke ved kranialbasen.
+Overlevde ikke møtet med SCP-106.
+Kurert fra pesten.
+Ukjent dødsårsak.
+Det er <b>[user]</b>s lik, de var [class]!\n\nDødsårsak: [cause]
+Revet i filler av SCP-096.
+Kraftig bitt i kraniet.
+Smeltet av sterkt etsende substans.
+Eksplosjonsskader.

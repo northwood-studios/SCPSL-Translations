@@ -1,0 +1,19 @@
+<size=80>DU HAR BLITT SPARKET FRA SPILLET</size>\nTjeneren tvangslukket forbindelsen.\n<size=26>\nDu har muligens blitt utestengt av en administrator\neller møter ikke tjenerens krav (f.eks. forbindelse til Steam).\nUtviklerne er <u>ikke</u> ansvarlige for utestengninger.\n</size>
+<size=80>FRAKOBLET</size>\nDen angitte verten er ikke tilgjengelig.
+<size=80>FRAKOBLET</size>\nDen angitte forbindelses-IDen finnes ikke.
+<size=80>FRAKOBLET</size>\nDen angitte kanalen finnes ikke.
+<size=80>FRAKOBLET</size>\nSpillet er fullt.
+<size=80>FRAKOBLET</size>\nMottok feil pakke.
+<size=80>FRAKOBLET</size>\nMistet forbindselsen (tidsavbrudd).
+<size=80>FRAKOBLET</size>\nMistet forbindselsen (tidsavbrudd).
+<size=80>FRAKOBLET</size>\nHandlingen støttes ikke.
+<size=80>FRAKOBLET</size>\nFeil tjenerkonfigurasjon (versjonen er ikke kompatibel).
+<size=80>FRAKOBLET</size>\nFeil tjenerkonfigurasjon.
+<size=80>FRAKOBLET</size>\nAdressen er ugyldig eller kunne ikke løses.
+<size=80>FRAKOBLET</size>\nEt uventet problem har oppstått!
+<size=80>VENNLIGST VENT</size>\n<size=35>Kobler til...</size>
+<size=80>NY RUNDE</size>\n<size=35>Runden starter på nytt...</size>
+<size=80>VENNLIGST VENT</size>\n<size=35>Laster veiledning...</size>
+<size=80>VERSJONSINKOMPABILITET</size>\nDin versjon av spillet er annerledes enn tjenerens versjon\n(Din versjon - [your]; Tjenerens versjon - [server])
+<size=80>KOBLET TIL</size>\n<size=35>Laster nivå...</size>
+<size=35>Laster inn anlegget...</size>

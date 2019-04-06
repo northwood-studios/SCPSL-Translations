@@ -10,8 +10,8 @@ Both sides have suffered losses and benefited greatly. The winner is undetermine
 [summary_d_escaped] class-d escaped
 [summary_s_escaped] scientist(s) survived
 Alpha Warhead detonation terminated [summary_warhead_kills] beings.
-Alpha Warhead was not detonated during this misson.
+Alpha Warhead was not detonated during this mission.
 The mission took [summary_round_minutes] minutes and [summary_round_seconds] seconds.
 [summary_scp_terminated] terminated SCPs
 next round in [summary_next_round_countdown] seconds.
-You have dealed [summary_damages] damages, and killed [summary_kills] players.
+You have dealt [summary_damages] damage and killed [summary_kills] players.

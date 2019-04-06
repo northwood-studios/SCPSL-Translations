@@ -1,0 +1,17 @@
+Drep alle.\nIkke la noen rømme.\nSamarbeid med andre <color=#f00>SCPer.</color><color=#ffff00>\nHold inne venstre museknapp+W og sikt på fienden for å drepe.\nDu beveger deg raskere ved lavere helse.</color>
+Røm fra anlegget.\nSamarbeid med <color=#008f1e>opprørsstyrken.</color>\nUnngå andre lag.
+Du vil bli gjenopplivet straks.
+Drep alle.\nIkke la noen rømme.\nSamarbeid med andre <color=#f00>SCPer.</color><color=#ffff00>\nDu kan gå gjennom dører.\nVenstre museknapp skader og teleporterer fiender til lommedimensjonen.\nHold inne TAB for å vise teleporteringsmuligheter.</color>
+Hjelp <color=#FFFF7CFF>vitenskapsmenn</color> med å rømme.\nNøytraliser alle andre.\nGi instrukser til soldatene dine. \nFølg ordre fra dine overordnede.
+Drep alle.\nIkke la noen rømme.\nSamarbeid med andre <color=#f00>SCPer.</color><color=#ffff00>\nBruk venstre museknapp dreper for å drepe.\nHold inne E mens du ser på et lik </color><color=#f00>du</color><color=#ffff00> har drept for å "zombiefisere".\nDu "zombiefiserer" raskere ved lavere helse.</color>
+Røm fra anlegget.\nSamarbeid med <color=#0096FF>MTF-styrkene.</color>\nUnngå andre lag.
+Drep alle.\nIkke la noen rømme.\nSamarbeid med andre <color=#f00>SCPer.</color>
+Hjelp <color=#FF8E00>Klasse D- personell</color> med å rømme.\nNøytraliser alle andre.
+Drep alle.\nIkke la noen rømme.\nSamarbeid med andre <color=#f00>SCPer.</color>
+Drep alle.\nIkke la noen rømme.\nSamarbeid med andre <color=#f00>SCPer.</color><color=#ffff00>\nBruk venstre museknapp for å angripe med en kort oppladning.\nDu angriper raskere ved lavere helse.</color>
+Help <color=#FFFF7CFF>scientists</color> escape.\nNeutralize other subjects.\nInstruct your soldiers. \nFollow the orders of your commanders.
+Hjelp <color=#FFFF7CFF>vitenskapsmenn</color> med å rømme.\nNøytraliser alle andre.\nGi instrukser til soldatene dine.
+Hjelp <color=#FFFF7CFF>vitenskapsmenn</color> med å rømme.\nNøytraliser alle andre.\nFølg ordre fra dine overordnede.
+Fullfør oppgavene for å fullføre målet.
+Hjelp <color=#FFFF7CFF>vitenskapsmenn</color> med å rømme.\nSamarbeid med <color=#0096FF>MTF-styrkene</color>\nNøytraliser alle andre.
+Drep alle.\nIkke la noen rømme.\nSamarbeid med andre <color=#f00>SCPer.</color>

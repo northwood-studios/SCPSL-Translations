@@ -1,7 +1,0 @@
-Appuyez sur une flèche directionnelle pour commencer...
-Naviguer - flèches du HAUT/BAS \nSélectionner - flèche de DROITE \nRetour - flèche de GAUCHE
-[var_name]\n\nType de munitions: [var_atype]\nReserve ammo: [var_ares]\nTaille du chargeur: [var_mag]\n\nDégâts max: [var_maxdmg]\nDégâts effectifs: [var_effdmg]\nTirs par minute: [var_sps]\n\nPersonnalisations disponibles: [var_custs]\n\nFLÈCHE DE DROITE POUR PERSONNALISER
-HAUT / BAS - sélectionner la personnalisation\nDROITE - emplacement suivant\nGAUCHE - retour
-VISEUR
-CANON
-AUTRE

@@ -1,0 +1,17 @@
+HJELPESTRØM
+ERFARINGSPOENG
+KAMERA STRØM PÅ
+TRYKK [KEY] FOR Å SKRU AV/PÅ OVERVÅKNINGS-KARTET
+ERFARINGSPOENG:
+Samarbeid
+Assistert klasse D-drap
+Assistert Kaosopprører-drap
+Assistert MTF-drap
+Assistert vitenskapspersonell-drap
+Assistert SCP-uskadeliggjøring
+LÅSTE DØRER: [LOCKED_NUM]<size=25>HØYRE MUSEKNAPP FOR Å LÅSE OPP ALLE</size>
+Generelle samhandlinger
+Du blir angrepet!
+Generatorer har blitt merket på kartet!
+FARE
+SCP-ER{0}MTF & Anleggsvakter{1}Vitenskapsmenn{2}Klasse-D{3}Kaosopprørere{4}

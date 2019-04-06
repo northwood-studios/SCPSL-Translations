@@ -1,0 +1,31 @@
+Karta Woźnego:No description
+Karta Naukowca:No description
+Karta Inspektora Nadzorującego:No description
+Karta Zarządcy Strefy:No description
+Karta Ochroniarza:No description
+Karta Kadeta MTF:No description
+Karta Technika Zabezpieczeń:No description
+Karta Porucznika MTF:No description
+Karta Dowódcy MTF:No description
+Karta Administratora Placówki:No description
+Urządzenie włamujące Rebelii Chaosu
+Karta Rady O5
+Radio:SR = Krótki Zasięg \nMR = Średni Zasięg \nLR = Długi Zasięg \nUR = Ultra Zasięg \nZużywa baterię kiedy włączone.\nWiększy zasięg zużywa więcej baterii.
+Pistolet COM15:No description
+Apteczka:Pozwala opatrzyć rany.
+Latarka:"Niech się stanie światłość!".
+Micro H.I.D.:Mobilny miotacz wyładowań o wysokim napięciu.
+Moneta:Wygląda na ćwiartkę!
+Kubek:Zrobiony z plastiku.
+Tablet Menadżera Broni:Używa się do wyrzucania amunicji i modyfikowania broni.
+MTF-E11-SR:No description
+Project 90:No description
+Upuszczone 5.56:Debug Item.
+MP7:No description
+Logicer:No description
+Granat Odłamkowy:Kaboom!
+Granat Błyskowy:Oślepia przeciwnika.
+Rozbrajacz:Lewym rozbrajasz, prawym uwalniasz. \nPrzytrzymaj E na kimś kto jest rozbrojony w twojej drużynie, by go uwolnić.
+Upuszczone 7.62:Debug Item.
+Upuszczone 9mm:Debug Item.
+Pistolet USP:No description.

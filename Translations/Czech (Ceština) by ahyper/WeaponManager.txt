@@ -1,7 +1,0 @@
-Naviguj se pomoc� �ipek...
-Navigovat - UP/DOWN �ipky \nVyber pravou �ipku pro krok zp�t\nBack - LEFT arrow key
-[var_name]\n\nAmmo type: [var_atype]\nReserve ammo: [var_ares]\nMagazine size: [var_mag]\n\nMax damage: [var_maxdmg]\nEffective damage: [var_effdmg]\nShots per second: [var_sps]\n\nAvailable customizations: [var_custs]\n\nRIGHT ARROW KEY TO CUSTOMIZE THE WEAPON
-Pr�v� odhazuje� [var_nom]\nUP/DOWN �ipky a vyber kolik toho chce� odhodit.\nPrav� pro odhozen�.\nLev� nazp�t.
-Nem� dostatek n�boj� na odhozen� (type [var_nom]). \nLev� �ipka pro krok zp�t.
-BARREL
-OTHER

@@ -6,7 +6,7 @@ BASED ON <i>SCP: CONTAINMENT BREACH</i>
 BACK
 LANGUAGE
 ANTIALIASING
-Change details:\n-PIXEL LIGHT COUNT - maximum number of light sources that have their light rendered on individual pixels.\n-V-Sync - enable synchronising with the refresh rate of the display device.
+Change details:\n-PIXEL LIGHT COUNT - Maximum number of light sources that have their light rendered on individual pixels.\n-V-Sync - Enable synchronising with the refresh rate of the display device.
 JOIN GAME
 POST\nPROCESSING
 CREDITS
@@ -14,19 +14,19 @@ QUIT GAME
 Fullscreen mode
 SCREEN SETTINGS
 COLOR CORRECTION
-Enter IP address...
+Enter IP Address...
 SCREEN RESOLUTION
 PLAY
 PIXEL LIGHT COUNT
 SHADOW TYPE
 SHADOWS
 CREATE GAME
-Change post-processing settings. These changes are not affecting on performance. Leaving default values is recommended.
-Light rendering mode:\nWhen off - it makes the game look worse. It is recommended to disable it only if you have very low-end setup
+Change post-processing settings. These settings generally don't affect performance, leaving default values is recommended.
+Light rendering mode:\nWhen off, graphics quality is significantly reduced. Disabling this setting is only recommended for low-end computers.
 V-SYNC
 CONNECT
 QUALITY SETTINGS
-Change shadow preferences. Settings these sliders at lower values may increase gameplay smoothness.
+Change shadow preferences. Setting these sliders at lower values may increase gameplay smoothness.
 MAIN MENU
 LIGHT RENDERING MODE
 MOTION BLUR

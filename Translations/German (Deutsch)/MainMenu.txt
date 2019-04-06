@@ -59,3 +59,4 @@ Maximale Blut-Anzahl
 FPS Limit
 FPS Limit funktioniert nicht wenn V-Sync angeschaltet ist!
 Zuruecksetzen
+We use Steam Discussions as a forum. (Click the logo below to open the forum)

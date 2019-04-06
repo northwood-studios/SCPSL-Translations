@@ -1,5 +1,0 @@
-Zem�el jsi
-Zm��kni {KEYBINDING_INTERACTION} pro polo�en� <color=yellow>Weapon Manager Tablet</color>.
-Zm��kni {KEYBINDING_INTERACTION} pro sebr�n� <color=yellow>Weapon Manager Tablet</color>.
-Toto <color=yellow>workstation</color> ji� n�kdo pou��v�, nem��e� polo�it <color=yellow>Weapon Manager Tablet</color>.
-Pot�ebuje� <color=yellow>Weapon Manager Tablet</color> pro pou�it� <color=yellow>workstation</color>.

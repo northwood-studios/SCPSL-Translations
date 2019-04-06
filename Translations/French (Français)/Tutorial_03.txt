@@ -1,0 +1,15 @@
+Et c'est parti ! Il n'y a aucune partie ou vous n'allez pas utiliser SCP-914. C'est une machine spéciale qui permet de changer le niveau des cartes d'accès. S'il vous plait, entrez dans la zone de confinement.
+Regardez le panneau avec la poignée. Il peut être tourné dans 5 positions différentes.
+1:1 - Change le type de carte. Par exemple:\nla carte de scientifique à une carte de garde;\nou une carte de commandant Epsilon-11 à une carte d'ingénieur de confinement.
+Fine - augmente le niveau, et Coarse - réduit le niveau.
+Very fine et Rough sont les équivalents de Fine et Coarse. Ils sont plus rapides, mais plus dangereux.
+Tutorial3_GiveKeycard
+J'ai jeté une carte au sol.\nRécupérez-la et améliorez-la au meilleur niveau - la carte des O5.
+<color=#00FF58>Mettez la poignée sur <b>Fine, Very fine ou 1:1</b> pour améliorer la carte.
+Qu'avez-vous fait ? Je ne me doutais pas de ça ... il n'y a rien d'intéressant, retournez chez SCP-914!
+Vous avez fait quelque chose de mal et vous l'avez brûlé. Pas de problème, prenez-en une autre.
+Oh, vous l'avez encore fait! Allons! Prenez la suivante.
+Vous savez quoi ? Peut-être que je vais vous donner 5 cartes pour une fois ? Rappelez-vous, nous voulons une carte d'accès au niveau O5, pas des cendres.
+Ehh, vous le faites exprès ! Vous croyez que c'est marrant ? Vous savez ce que je peux faire... Et que vous ne pouvez pas anticiper ? Quitter le jeu ! Ouais ! Reviens plus tard, quand tu seras un peu plus intelligent !
+Tutorial3_Quit
+Bravo ! Avec cette carte vous pouvez entrer partout ! Je vois que vous comprenez l'intérêt de SCP-914. J'espère que vous serez en mesure d'utiliser les compétences acquises dans une partie normale. Bonne chance et amusez-vous bien !

@@ -1,0 +1,7 @@
+Naviguj se pomocí šipek...
+Navigovat - UP/DOWN šipky \nVyber pravou šipku pro krok zpět\nBack - LEFT arrow key
+[var_name]\n\nAmmo type: [var_atype]\nReserve ammo: [var_ares]\nMagazine size: [var_mag]\n\nMax damage: [var_maxdmg]\nEffective damage: [var_effdmg]\nShots per second: [var_sps]\n\nAvailable customizations: [var_custs]\n\nRIGHT ARROW KEY TO CUSTOMIZE THE WEAPON
+Právě odhazuješ [var_nom]\nUP/DOWN šipky a vyber kolik toho chceš odhodit.\nPravá pro odhození.\nLevá nazpět.
+Nemáš dostatek nábojů na odhození (type [var_nom]). \nLevá šipka pro krok zpět.
+BARREL
+OTHER

@@ -1,0 +1,17 @@
+runda dobiegła końca!
+SCP WYGRYWA
+MTF WYGRYWA
+KLASA D WYGRYWA
+SYTUACJA PATOWA
+Są odpowiedzialne za śmierć [summary_scpfrags] istot ludzkich.
+Usunięto zagrożenie. To miejsce jest już ponownie bezpieczne.
+Cała ochrona placówki została poddana terminacji.
+Obie strony poniosły straty jak i bardzo zyskały. Zwycięzca jest nieokreślony.
+[summary_d_escaped] klas D uciekło
+[summary_s_escaped] naukowców przetrwało
+Eksplozja głowicy Alpha pozbawiła życia [summary_warhead_kills] istot.
+Głowica Alpha nie została zdetonowana podczas misji.
+Misja zajęła [summary_round_minutes] minut i [summary_round_seconds] sekund.
+[summary_scp_terminated] unieszkodliwionych podmiotów SCP.
+Następna runda zacznie się za [summary_next_round_countdown] sekund.
+Zadałeś ogółem [summary_damages] obrażeń, oraz zabiłeś [summary_kills] graczy.

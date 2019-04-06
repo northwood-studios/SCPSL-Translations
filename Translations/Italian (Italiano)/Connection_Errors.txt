@@ -1,0 +1,19 @@
+<size=80>SEI STATO ESPULSO</size>\nIl server ha forzato lo stop della connessione.\n<size=26>\nProbabilmente sei stato bannato temporaneamente dell' amministratore\no non rientri nei parametri richiesti dal server (es. connessione a steam).\nPer possibili ban temporanei - gli autori del gioco non sono responsabili.\n</size>
+<size=80>DISCONNESSO</size>\nL'Host specificato non è disponibile.
+<size=80>DISCONNESSO</size>\nIl ConnectionID specificato non esiste.
+<size=80>DISCONNESSO</size>\nIl canale specificato non esiste.
+<size=80>DISCONNESSO</size>\nIl server è pieno.
+<size=80>DISCONNESSO</size>\nRicevuto il pacchetto errato.
+<size=80>DISCONNESSO</size>\nConnessione persa (tempo scaduto).
+<size=80>DISCONNESSO</size>\nConnessione persa (tempo scaduto).
+<size=80>DISCONNESSO</size>\nL'Operazione non è supportata.
+<size=80>DISCONNESSO</size>\nConfigurazione del server sbagliata (versione non compatibile).
+<size=80>DISCONNESSO</size>\nConfigurazione del server sbagliata.
+<size=80>DISCONNESSO</size>\nL'indirizzo inserito è invalido o insesistente.
+<size=80>DISCONNESSO</size>\nE' stato riscontrato un' errore inaspettato!
+<size=80>ATTENDERE</size>\n<size=35>Connessione...</size>
+<size=80>ROUND RICOMINCIATO</size>\n<size=35>Il server sta riavviando il livello...</size>
+<size=80>ATTENDERE</size>\n<size=35>Caricamento tutorial...</size>
+<size=80>VERSIONE INCOMPATIBILE</size>\nLa tua versione del gioco è differente rispetto a quella del server\n(Your - [your]; Server - [server])
+<size=80>CONNESSO</size>\n<size=35>Caricamento del livello...</size>
+<size=35>Loading the facility...</size>

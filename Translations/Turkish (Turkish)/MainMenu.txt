@@ -1,0 +1,62 @@
+KATIL
+KAPA
+GOLGE COZUNURLUGU
+AYARLAR
+<i>SCP: CONTAINMENT BREACH'DAN</i> ESINLENILDI
+GERI
+DIL
+ANTIALIASING
+DETAYLARI DEGISTIR:\n-PIKSEL ISIK SAYISI - kendi pikselleri icinde islenen isik kaynaklarinin maksimum sayisi.\n-V-Sync - Goruntu aygitinin yenileme sayisina gore oyunu esleyin.
+OYUNA KATIL
+ISLEM\nSONRASI
+YAPIMCILAR
+OYUNDAN CIK
+Tamekran modu
+EKRAN AYARLARI
+RENK DUZGUNLESTIRME
+IP adresini giriniz...
+EKRAN COZUNURLUGU
+OYNA
+PIKSEL ISIK SAYISI
+GOLGE TIPI
+GOLGELER
+OYUN OLUSTUR
+Islem sonrasi efektleri de�i�tirin. Bunlar performansi etikelemez. Varsayilan degerde birakmak onerilir.
+Isik isleme modu:\nKapali iken - oyunun daha kotu gozukmesine sebep olur. Bilgisayariniz gercekten kotuyse bu ayar� kapat�n�z
+DUSEY SENKRONIZASYON
+BAGLAN
+KALITE AYARLARI
+Golge tercihlerinizi degistirin. Bu kaydiricilari indirirseniz goruntu daha yumusak olabilir.
+ANA MENU
+LIGHT RENDERING MODE
+MOTION BLUR
+GOLGE MESAFESI
+DETAYLAR
+3. SCP-914
+ALISTIRMALAR
+UYARI
+Uygun sunuculara goz at
+Yeniden gosterme
+Nasil baglanmak istersiniz?
+SUNUCU LISTESI
+TAMAM
+SUNUCU BUL
+2. Silah kullanmak
+Biz Discordu forum olarak kullaniriz. Kurulum yapmak gerekmez.\n(katilmak icin logoya tiklayiniz)
+Varsayilan olarak, sunucular yerel agda kurulur.\nArkadaslariniz katilmak icin IP adresine ihtiyac duyacaktir\nEger herkese acik bir sunucu kurmak isterseniz, LocalAdmin.exe'yi secip verilen talimatlari takip edin.\nEger sorulariniz varsa, teknik destek ekibimize danisabilirsiniz(link ana menude)
+1. Temeller
+Birazdan sunulacak oyun hala acik betadadir.\nBaglanma ve oyun hatalariyla karsilasabilirsiniz.\nOyunun suanki hali tamamlanacak olan oyunu temsil etmez.
+4. (daha fazla alistirma sonradan gelecek)
+DIREK BAGLANMA
+TEKNIK DESTEK / FORUM
+SES YUKSEKLIGI
+Belirtilen sunucunun IP adresini giriniz.
+VERI INDRILIYOR
+HICBIR SUNUCU UYGUN DEGIL
+IPTAL ETMEK/KAPATMAK ICIN ESC TUSUNA BASINIZ
+KEY BINDING
+MAX BLOOD AMOUNT
+FPS Limit
+FPS Limit does not work when vSync is enabled!
+Set Default
+We use Steam Discussions as a forum. (Click the logo below to open the forum)

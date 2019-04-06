@@ -1,8 +1,0 @@
-¡Bievenido a SCP: Laboratorio Secreto! Soy uno de los narradores del juego.\nDejame explicarte los fundamentos del juego.\nIntenta buscar tarjetas de acceso en los baños.\n
-<color=#00FF58>Usa <b>W, A, S & D</b> para ir a los <b>baños</b>\nUsa <b>E</b> para <b>interactuar</b> con puertas y objetos.</color>
-Grandioso, ahora tómala.
-Las tarjetas de acceso son los objetos mas importantes del juego, te permiten entrar a zonas cerradas.\nBusca alguna puerta y trata de abrirla con la tarjeta.
-<color=#00FF58>Usa <b>TABULADOR</b> para abrir el inventario.\n<b>Botón izquierdo del ratón</b> para seleccionar un objeto\ny <b>derecho</b> para lanzarlo.
-Si realmente quieres escapar - Te sugiero encontrar una mejor tarjeta.
-Cada tarjeta tiene su propio nivel de acceso. Puedes comparar cada tarjeta pasando el cursor encima de cada una.
-¡Felicidades! ¡Has completado la primera parte del tutorial!

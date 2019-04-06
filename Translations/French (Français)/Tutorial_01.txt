@@ -1,0 +1,8 @@
+Bienvenue dans SCP : Secret Laboratory ! Je suis l'un des doubleurs de voix.\nLaissez-moi vous présenter les bases du jeu.\nEssayez de trouver les toilettes et ramassez une carte d'accès.\n
+<color=#00FF58>Appuyez sur <b>Z, Q, S & D</b> pour vous diriger vers les <b>toilettes</b>\nUtilisez <b>E</b> pour <b>interagir</b>avec les portes et les objets.</color>
+Génial, maintenant prenez-la.
+Les cartes sont l'un des éléments les plus importants du jeu, vous permettant d'entrer dans des endroits verrouillés.\nVérifiez les portes à proximité et essayez de les ouvrir avec votre carte.
+<color=#00FF58>Appuyez sur <b>TAB</b> pour ouvrir votre inventaire\n<b>CLIC GAUCHE</b> pour équiper un objet\n<b>CLIC DROIT</b> pour le lâcher.
+Si vous souhaitez vous échapper, je vous suggère de trouver une meilleure carte.
+Chaque carte a son niveau d'accès. Vous pouvez comparer les cartes en passant votre curseur au-dessus de chacune d'elle dans votre inventaire.
+Félicitations ! Vous venez de terminer la première partie du tutoriel !

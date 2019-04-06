@@ -12,3 +12,6 @@ Die naechste Runde startet in [time]sek.
 Spezialfaehigkeit
 Schlupfloch erstellen
 Schlupfloch benutzen
+YOU DIED
+You were killed by
+as

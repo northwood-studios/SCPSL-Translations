@@ -1,7 +1,0 @@
-Utilise les flèches du clavier pour commencer...
-Naviguer - Flèches HAUT/BAS \nSélectionner - Flèche de DROITE \nRetour - Flèche de GAUCHE
-[var_name]\n\nType de munitions: [var_atype]\nMunitions restantes: [var_ares]\nTaille du magasine: [var_mag]\n\nDommages maximum: [var_maxdmg]\nDommages efficace: [var_effdmg]\nTirs par seconde: [var_sps]\n\nModifications disponibles: [var_custs]\n\nFLÈCHE DE DROITE POUR MODIFIER
-You are going to drop [var_nom]\nUP/DOWN arrow keys to change quantity.\nRIGHT arrow to drop.\nLEFT arrow to back.
-Not enough ammo to drop (type [var_nom]). \nLEFT arrow to back.
-CANNON
-AUTRE
