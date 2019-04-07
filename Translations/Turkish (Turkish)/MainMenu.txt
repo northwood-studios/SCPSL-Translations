@@ -21,8 +21,8 @@ PIKSEL ISIK SAYISI
 GOLGE TIPI
 GOLGELER
 OYUN OLUSTUR
-Islem sonrasi efektleri de�i�tirin. Bunlar performansi etikelemez. Varsayilan degerde birakmak onerilir.
-Isik isleme modu:\nKapali iken - oyunun daha kotu gozukmesine sebep olur. Bilgisayariniz gercekten kotuyse bu ayar� kapat�n�z
+İşlem sonrası efektleri değiştirin. Bunlar performansı etkilemez. Varsayılan değerde bırakmanız önerilir.
+Işık işleme modu:\nKapalı iken - oyunun daha kötü gözükmesine sebep olur. Bilgisayarınız gerçekten kötüyse bu ayarı kapatınız
 DUSEY SENKRONIZASYON
 BAGLAN
 KALITE AYARLARI
