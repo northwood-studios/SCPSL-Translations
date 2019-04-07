@@ -1,19 +1,19 @@
 <size=80>ZOSTAŁEŚ WYRZUCONY</size>\nSerwer wymusił rozłączenie.\n<size=26>\nZostałeś prawdopodobnie czasowo zablokowany przez administratora\n lub nie spełniasz wymagań serwera (np. wersja gry).\nZa ewentualne blokady autorzy gry <b>nie</b> ponoszą odpowiedzialności.\n</size>
-<size=80>ODŁĄCZONO</size>\nWybrany host niedostępny.
-<size=80>ODŁĄCZONO</size>\nWybrany identyfikator połączeń nie istnieje.
-<size=80>ODŁĄCZONO</size>\nWybrany kanał nie istnieje.
-<size=80>ODŁĄCZONO</size>\nSerwer jest pełny.
-<size=80>ODŁĄCZONO</size>\nOtrzymano błędny pakiet.
-<size=80>ODŁĄCZONO</size>\nUtracono połączenie z serwerem (time-out).
-<size=80>ODŁĄCZONO</size>\nUtracono połączenie z serwerem (time-out).
-<size=80>ODŁĄCZONO</size>\nOperacja niewspierana.
-<size=80>ODŁĄCZONO</size>\nZłe ustawienia serwera (wersja gry).
-<size=80>ODŁĄCZONO</size>\nZłe ustawienia serwera.
-<size=80>ODŁĄCZONO</size>\nPodany adres nie mógł zostać rozszyfrowany, upewnij się, że jest poprawny.
-<size=80>ODŁĄCZONO</size>\nNieznany problem został wykryty!
+<size=80>ROZŁĄCZONO</size>\nWybrany host jest niedostępny.
+<size=80>ROZŁĄCZONO</size>\nWybrany identyfikator połączeń nie istnieje.
+<size=80>ROZŁĄCZONO</size>\nWybrany kanał nie istnieje.
+<size=80>ROZŁĄCZONO</size>\nSerwer jest pełny.
+<size=80>ROZŁĄCZONO</size>\nOtrzymano błędny pakiet.
+<size=80>ROZŁĄCZONO</size>\nUtracono połączenie z serwerem (time-out).
+<size=80>ROZŁĄCZONO</size>\nUtracono połączenie z serwerem (time-out).
+<size=80>ROZŁĄCZONO</size>\nOperacja niewspierana.
+<size=80>ROZŁĄCZONO</size>\nNieprawidłowe ustawienia serwera (niezgodna wersja gry).
+<size=80>ROZŁĄCZONO</size>\nNieprawidłowe ustawienia serwera.
+<size=80>ROZŁĄCZONO</size>\nPodany adres nie mógł zostać rozwiązany, upewnij się czy jest on poprawny.
+<size=80>ROZŁĄCZONO</size>\nWystąpił nieznany problem!
 <size=80>DOŁĄCZANIE</size>\n<size=35>Nawiązywanie połączenia...</size>
 <size=80>RESTART RUNDY</size>\n<size=35>Serwer restartuje poziom...</size>
 <size=80>PROSZĘ CZEKAĆ</size>\n<size=35>Ładowanie poradnika...</size>
-<size=80>NIEKOMPATYBILNOŚĆ WERSJI</size>\nTwoja wersja gry różni się od serwerowej\n(Twoja - [your]; Serwer - [server])
+<size=80>NIEZGODNOŚĆ WERSJI</size>\nTwoja wersja gry różni się od wersji serwera\n(Twoja - [your]; Serwer - [server])
 <size=80>POŁĄCZONO</size>\n<size=35>Ładowanie placówki...</size>
 <size=35>Ładowanie placówki...</size>
