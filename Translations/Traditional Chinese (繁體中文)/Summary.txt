@@ -14,4 +14,4 @@ Alpha Warhead 核彈頭在這次任務中未被引爆。
 這次任務耗時 [summary_round_minutes] 分 [summary_round_seconds] 秒。
 [summary_scp_terminated] 個 SCP 被殲滅了。
 下回合將在 [summary_next_round_countdown] 秒後開始。
-You have dealt [summary_damages] damage and killed [summary_kills] players.
+你造成了 [summary_damages] 點傷害，並擊殺了 [summary_kills] 個玩家。
