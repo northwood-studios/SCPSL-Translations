@@ -5,9 +5,9 @@ Decayed in the Pocket Dimension.
 It's a remnant of SCP-106.
 Severe electrical burns.
 Fatal blunt trauma; the body is badly mutilated and pulped.
-[ammotype] gunshot wounds across the body.
+[ammotype] gunshot wounds.
 Cervical fracture at the base of the skull.
-Massive amounts of tissue decay is present on the body.
+Massive amounts of tissue decay are present on the body.
 Sudden cessation of life signs. No clear trauma.
 Unknown cause of death.
 It's <b>[user]</b>'s body - they were [class]!\n\nCause of death: [cause]
