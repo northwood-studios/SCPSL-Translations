@@ -1,0 +1,7 @@
+按下方向鍵來開始...
+操縱 - 向上/下方向鍵 \n選擇 - 向右方向鍵 \n返回 - 向左方向鍵
+[var_name]\n\n彈藥類型: [var_atype]\n後備彈藥: [var_ares]\n彈匣大小: [var_mag]\n\n最大傷害: [var_maxdmg]\n弱點傷害: [var_effdmg]\n每秒射擊: [var_sps]\n\n可用自定義配件: [var_custs]\n\n向右方向鍵去自定義武器
+上/下 - 選擇自定義\n右 - 下一格\n左 - 返回
+瞄具
+槍管
+其他
