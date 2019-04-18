@@ -1,31 +1,31 @@
-Janitor Keycard:No description
-Scientist Keycard:No description
-Research Supervisor Keycard:No description
-Zone Manager Keycard:No description
-Guard Keycard:No description
-MTF Cadet Keycard:No description
-Containment Engineer Keycard:No description
-MTF Lieutenant Keycard:No description
-MTF Commander Keycard:No description
-Facility Manager Keycard:No description
-Chaos Insurgency Access Device
-O5-level Keycard
-Radio:SR = Short Range \nMR = Medium Range \nLR = Long Range \nUR = Ultra Range \nUses battery while on. Longer range means higher battery use.
-COM-15 Sidearm:No description
-First AID Kit:Heals your injuries.
-Flashlight:Let there be light!
-Micro H.I.D.:Mobile high-intensity electrical discharge thrower.
-Coin:No description
-Cup:No description
-Weapon Manager Tablet:Used to drop ammo & upgrade your weapons.
-MTF-E11-SR:No description
-Project 90:No description
-Dropped 5.56:No description
-MP7:No description
-Logicer:No description
-Frag Grenade:Boom!
-Flashbang Grenade:Blinds your enemies.
-Disarmer:Left click disarms, right click unties. \nHold E on someone who is disarmed on your team to free them.
-Dropped 7.62:No description.
-Dropped 9mm:No description.
-USP:No description.
+Gondnok kártya:Nincs leírás. 
+Tudós kártya:Nincs leírás. 
+Kutatási témavezetői kártya:Nincs leírás. 
+Zóna menedzser kártya:Nincs leírás. 
+Őr kártya:Nincs leírás. 
+MTF Kadét kártya:Nincs leírás. 
+"Containment" mérnök kártya kártya:Nincs leírás. 
+MTF Hadnagy kártya:Nincs leírás. 
+MTF Parancsnok kártya:Nincs leírás. 
+Létesítmény menedzser kártya:Nincs leírás. 
+Chaos Insurgency Hozzáférési Eszköz
+O5-szintű kártya
+Rádió:SR = Rövid hatótávolság \nMR = Közepes hatótávolság \nLR = Nagy hatótávolság \nUR = Ultra hatótávolság Energiát csak akkor használ, ha be van kapcsolva. Nagyobb hatótávolság esetén nagyobb a fogyasztás.
+COM-15 pisztoly:Nincs leírás.
+Medkit:Meggyógyítja a sérüléseidet.
+Zseblámpa:"S lőn világosság!"!
+Micro H.I.D.:Mobilis, nagy intenzitású elektromos kisülést szór.
+Érme:Nincs leírás.
+Csésze:Nincs leírás.
+Fegyver menedzser tablet:Eldobhatod a lőszeredet & fejlesztheted a fegyvereidet.
+MTF-E11-SR:Nincs leírás.
+Projekt 90:Nincs leírás.
+Eldobott 5.56:Nincs leírás.
+MP7:Nincs leírás.
+Logicer:Nincs leírás.
+Repeszgránát:Boom!
+Villanógránát:Megvakítja az ellenfeleidet.
+Lefegyverző:Bal klikk lefegyverez, jobb klikk eltávolítja a bilincset. \nTartsd lenyomva az E-t, hogy felszabadíts valakit a csapatodból.
+Eldobott 7.62:Nincs leírás.
+Eldobott 9mm:Nincs leírás.
+USP: Nincs leírás.
