@@ -1,17 +1,17 @@
-AUXILIARY POWER
-EXPERIENCE
-CAMERA FEED ONLINE
-PRESS [KEY] TO TOGGLE THE SURVEILLANCE MAP
-Experience gained:
-Cooperative work
-Class-D termination assist
-C. I. termination assist
-MTF termination assist
-Scientist termination assist
-SCP termination assist
-LOCKED DOORS: [LOCKED_NUM]<size=25>RIGHT MOUSE BUTTON TO UNLOCK ALL</size>
-General interactions
-You are being attacked!
-Generators have been highlighted on the map
-DANGER
-SCPs{0}MTF & Guards{1}Scientists{2}Class-D{3}Chaos Insurgents{4}
+TARTALÉKENERGIA
+TAPASZTALAT
+KAMERA HÁLÓZAT ONLINE
+NYOMD MEG A [KEY]-T, HOGY ELÖHOZD A TÉRKÉPET
+Tapasztalat megszerezve:
+Csapatmunka
+Segítség D-osztályú likvidálásában
+Segítség C. I. likvidálásában
+Segítség MTF likvidálásában
+Segítség Tudós likvidálásában
+Segítség SCP likvidálásában
+LEZÁRT AJTÓK: [LOCKED_NUM]<size=25>JOBB KLIKKEL MINDET KINYITOD</size>
+Általános interakciók
+Támadás alatt vagy!
+A generátorok ki lettek jelölve a térképen
+VESZÉLY
+SCP-k{0}MTF & Őrök{1}Tudósok{2}D-osztály{3}Chaos ügynökök{4}
