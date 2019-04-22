@@ -30,4 +30,4 @@ forbundet
 Du slap væk som en videnskabmand, og sluttede dig til MTF tropperne.
 Du slap væk som en Klasse-D, og sluttede dig til Kaos Oprørsgruppen.
 DU ER
-Flugttid: [flugt_minutter] minutter og [flugt_sekunder] sekunder
+Flugttid: [escape_minutes] minutter og [escape_seconds] sekunder

@@ -5,12 +5,12 @@ Forsvundet i Pocket-Dimension.
 Rester fra SCP-106.
 Højspændings-elektrisk shock.
 Knust af en tungt struktur.
-Der er mange skudsår på kroppen. Højst sandsynligt, et [ammunitionstype] skud blev brugt.
+Der er mange skudsår på kroppen. Højst sandsynligt, et [ammotype] skud blev brugt.
 Brækket nakke.
 Overlevede ikke et møde med SCP-106.
 Kurereret fra pesten.
 Ukendet dødsårsag.
-Det er <b>[bruger]</b>'s lig, de var [klasse]!\n\nDødsårsag: [årsag]
+Det er <b>[user]</b>'s lig, de var [class]!\n\nDødsårsag: [cause]
 Flået i stykker af SCP-096.
 Kraftigt bid mod kraniumet.
 Smeltet af en stærkt ætsende substans.
