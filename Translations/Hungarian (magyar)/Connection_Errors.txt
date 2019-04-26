@@ -3,7 +3,7 @@
 <size=80>SZÉTKAPCSOLVA</size>\nA kijelölt kapcsolat azonosítója nem létezik.
 <size=80>SZÉTKAPCSOLVA</size>\nA kijelölt csatorna nem létezik.
 <size=80>SZÉTKAPCSOLVA</size>\nA szerver tele van.
-<size=80>SZÉTKAPCSOLVA</size>\nReceived wrong packet.
+<size=80>SZÉTKAPCSOLVA</size>\nHelytelen csomag érkezett.
 <size=80>SZÉTKAPCSOLVA</size>\nA kapcsolat megszakadt (időtúllépés).
 <size=80>SZÉTKAPCSOLVA</size>\nA kapcsolat megszakadt (időtúllépés).
 <size=80>SZÉTKAPCSOLVA</size>\nA művelet nem támogatott.
