@@ -1,6 +1,6 @@
 Here we go! There is no round in which you won't have to use SCP-914. It's a special machine that allows you to change the access level of your keycards. Please enter the containment chamber.
 Look at the panel with the knob. It can be turned into 5 different positions.
-1:1 - changes the type of a keycard. For instance:\nthe Scientist keycard to a Guard keycard;\nor an MTF commander keycard to a Containment engineer keycard
+1:1 - changes the type of a keycard. For instance:\nthe Scientist keycard to a Guard keycard\nor an MTF commander keycard to a Containment engineer keycard
 Fine - increases the level of the card, and Coarse - decreases it.
 Very fine and Rough are equivalents of Fine and Coarse. They're faster, but more risky.
 Tutorial3_GiveKeycard
