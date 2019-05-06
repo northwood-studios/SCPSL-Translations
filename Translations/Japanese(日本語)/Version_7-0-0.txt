@@ -1,5 +1,5 @@
 死亡 しました
-{KEYBINDING_INTERACTION} を押して <color=yellow>Weapon Manager Tablet</color>. を置いてください.
-{KEYBINDING_INTERACTION} を押して <color=yellow>Weapon Manager Tablet</color>. を拾ってください.
+{KEYBINDING_INTERACTION} を押して <color=yellow>Weapon Manager Tablet</color> を置いてください.
+{KEYBINDING_INTERACTION} を押して <color=yellow>Weapon Manager Tablet</color> を拾ってください.
 この <color=yellow>workstation</color> は既に誰かの <color=yellow>Weapon Manager Tablet</color> が接続されています.
-貴方は <color=yellow>workstation</color> を使うために <color=yellow>Weapon Manager Tablet</color> が必要です.
+<color=yellow>workstation</color> を使用するには <color=yellow>Weapon Manager Tablet</color> が必要です.
