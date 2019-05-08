@@ -1,5 +1,0 @@
-死亡 しました
-{KEYBINDING_INTERACTION} を押して <color=yellow>ウェポン マネージャー タブレット</color> を置いてください。
-{KEYBINDING_INTERACTION} を押して <color=yellow>ウェポン マネージャー タブレット</color> を拾ってください。
-この <color=yellow>ワークステーション</color> は既に誰かの <color=yellow>ウェポン マネージャー タブレット</color> が接続されています。
-<color=yellow>ワークステーション</color> を使用するには <color=yellow>ウェポン マネージャー タブレット</color> が必要です。
