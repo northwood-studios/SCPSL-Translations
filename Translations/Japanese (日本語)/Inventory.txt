@@ -1,0 +1,30 @@
+用務員 キーカード\n<size=14><color=#ffc>SCP 財団 : Tier 1</color></size>\n<size=16>\n収容室 アクセス : <color=#ff6600>低</color>\n武器庫 アクセス : <color=#ff0000>無</color>\n放送室 アクセス : <color=#ff0000>無</color>\n\nチェックポイント 権限 : <color=#ff0000>無</color>\nエントランスゲート 権限 : <color=#ff0000>無</color>\n</size>
+科学者 キーカード\n<size=14><color=#ffc>SCP 財団 : Tier 2</color></size>\n<size=16>\n収容室 アクセス : <color=#ffff00>中</color>\n武器庫 アクセス : <color=#ff0000>無</color>\n放送室 アクセス : <color=#ff0000>無</color>\n\nチェックポイント 権限 : <color=#ff0000>無</color>\nエントランスゲート 権限 : <color=#ff0000>無</color>\n</size>
+主任 研究員 キーカード\n<size=14><color=#ffc>SCP 財団 : Tier 3</color></size>\n<size=16>\n収容室 アクセス : <color=#ffff00>中</color>\n武器庫 アクセス : <color=#ff0000>無</color>\n放送室 アクセス : <color=#ff0000>無</color>\n\nチェックポイント 権限 : <color=#ff0000>無</color>\nエントランスゲート 権限 : <color=#ff0000>無</color>\n</size>
+階層 管理者 キーカード\n<size=14><color=#f77>管理 : Tier 1</color></size>\n<size=16>\n収容室 アクセス : <color=#ff6600>低</color>\n武器庫 アクセス : <color=#ff0000>無</color>\n放送室 アクセス : <color=#ff0000>無</color>\n\nチェックポイント 権限 : <color=#00ff00>有</color>\nエントランスゲート 権限 : <color=#ff0000>無</color>\n</size>
+警備員 キーカード\n<size=14><color=#cef>警備 : Tier 1</color></size>\n<size=16>\n収容室 アクセス : <color=#ff6600>低</color>\n武器庫 アクセス : <color=#ff6600>低</color>\n放送室 アクセス : <color=#ff0000>無</color>\n\nチェックポイント 権限 : <color=#00ff00>有</color>\nエントランスゲート 権限 : <color=#ff0000>無</color>\n</size>
+上級 警備員 キーカード\n<size=14><color=#cef>警備 : Tier 2</color></size>\n<size=16>\n収容室 アクセス : <color=#ffff00>中</color>\n武器庫 アクセス : <color=#ffff00>中</color>\n放送室 アクセス : <color=#ff0000>無</color>\n\nチェックポイント 権限 : <color=#00ff00>有</color>\nエントランスゲート 権限 : <color=#ff0000>無</color>\n</size>
+財団 エンジニア キーカード\n<size=14><color=#ffc>SCP 財団 : Tier 4</color></size>\n<size=16>\n収容室 アクセス : <color=#00ff00>全</color>\n武器庫 アクセス : <color=#ff0000>無</color>\n放送室 アクセス : <color=#00ff00>有</color>\n\nチェックポイント 権限 : <color=#00ff00>有</color>\nエントランスゲート 権限 : <color=#ff0000>無</color>\n</size>
+MTF 士官 キーカード\n<size=14><color=#cef>警備 : Tier 3</color></size>\n<size=16>\n収容室 アクセス : <color=#ffff00>中</color>\n武器庫 アクセス : <color=#ffff00>中</color>\n放送室 アクセス : <color=#ff0000>無</color>\n\nチェックポイント 権限 : <color=#00ff00>有</color>\nエントランスゲート 権限 : <color=#00ff00>有</color>\n</size>
+MTF 指揮官 キーカード\n<size=14><color=#cef>警備 : Tier 4</color></size>\n<size=16>\n収容室 アクセス : <color=#ffff00>中</color>\n武器庫 アクセス : <color=#00ff00>全</color>\n放送室 アクセス : <color=#00ff00>有</color>\n\nチェックポイント 権限 : <color=#00ff00>有</color>\nエントランスゲート 権限 : <color=#00ff00>有</color>\n</size>
+施設 管理者 キーカード\n<size=14><color=#f77>管理 : Tier 2</color></size>\n<size=16>\n収容室 アクセス : <color=#00ff00>全</color>\n武器庫 アクセス : <color=#ff0000>無</color>\n放送室 アクセス : <color=#00ff00>有</color>\n\nチェックポイント 権限 : <color=#00ff00>有</color>\nエントランスゲート 権限 : <color=#00ff00>有</color>\n</size>
+カオス インサージェンシー デバイス\n<size=14><color=#f77>管理 : Tier 3</color></size>\n<size=16>\n収容室 アクセス : <color=#ffff00>中</color>\n武器庫 アクセス : <color=#00ff00>全</color>\n放送室 アクセス : <color=#00ff00>有</color>\n\nチェックポイント 権限 : <color=#00ff00>有</color>\nエントランスゲート 権限 : <color=#00ff00>有</color>\n</size>
+O5 level キーカード\n<size=14><color=#f77>管理 : Tier 4</color></size>\n<size=16>\n収容室 アクセス : <color=#00ff00>全</color>\n武器庫 アクセス : <color=#00ff00>全</color>\n放送室 アクセス : <color=#00ff00>有</color>\n\nチェックポイント 権限 : <color=#00ff00>有</color>\nエントランスゲート 権限 : <color=#00ff00>有</color>\n</size>
+ラジオ\n\n<size=14>短 = 短距離 \n中 = 中距離 \n長 = 長距離 \n極 = 極距離 \n使用中はバッテリーを消費します。 長距離であるほど多くのバッテリーを消費します。</size>
+COM15 ピストル\n\n<size=14>基本的な護身用ピストル。</size>
+メディキット\n\n<size=14>怪我を治療します。</size>
+フラッシュライト\n\n<size=14>"光あれ!"</size>
+MicroHID\n\n<size=14>可動式高強度放電放出機。 \n近距離。\n充分なエネルギーが一発分しかない。 \n巻き上げるまで10秒かかる。</size>
+コイン\n\n<size=14>50セントのようだ!</size>
+コップ\n\n<size=14>不明な液体が一杯。</size>
+ウェポンマネージャー\n\n<size=14>武器をカスタマイズする。</size>
+Epsilon-11 スタンダードライフル\n\n<size=14>九尾狐の標準装備。</size>
+Project 90\n\n<size=14>P90 SMGの改良版。</size>
+弾
+MP7\n\n<size=14>警備員の標準装備。</size>
+Logicer\n\n<size=14>ライトマシンガン。\nカオス インサージェンシーの標準装備。</size>
+フラグ グレネード\n\n<size=14>ばーん!</size>
+フラッシュ グレネード\n\n<size=14>敵の視界を奪う。</size>
+拘束機\n\n<size=14>左クリックで拘束、 右クリックで解除。 \n拘束されている味方に対してEキーを押すことで拘束状態を解く。</size>
+弾
+弾
