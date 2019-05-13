@@ -14,7 +14,7 @@ Radio:SR = Corto alcance \nMR = Alcance medio \nLR = Largo alcance \nUR = Alcanc
 COM-15 Sidearm:No description
 Kit de primeros auxilios : Cura tus heridas.
 Linterna:Que se haga la luz!
-Micro H.I.D.:Lanzador movil de descargas de alta corriente.
+Micro H.I.D.:Lanzador movil de descargas de alto voltaje.
 Moneda:Parecen ser 50 centimos!
 Vaso:Que contiene? Mejor no preguntes
 PDA para gestionar armas:Se usa para soltar municion y mejorar armas.
