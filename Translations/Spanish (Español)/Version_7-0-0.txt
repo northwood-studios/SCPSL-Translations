@@ -1,4 +1,4 @@
-YOU DIED
+HAS MUERTO
 Press {KEYBINDING_INTERACTION} to place the <color=yellow>Weapon Manager Tablet</color>.
 Press {KEYBINDING_INTERACTION} to pick up the <color=yellow>Weapon Manager Tablet</color>.
 This <color=yellow>workstation</color> already has someone else's <color=yellow>Weapon Manager Tablet</color> connected.

@@ -1,17 +1,18 @@
-Asesina a todos\nNo dejes escapar a nadie\nCoopera con los demás <color=#f00>SCPs</color><size=11><color=##EAF6FF>\nMantén click izquierdo y muevete hacia al enemigo para matarlo.\nA menos vida, más rápido.</color></size>
-Escapa de la instalación\nCoopera con <color=#008f1e>Los Insurgentes del Caos</color>\nEvita a los demás
-Reaparecerás pronto.
-Asesina a todos\nNo dejes escapar a nadie\nCoopera con los demás <color=#f00>SCPs</color><size=11><color=##EAF6FF>\nPuedes caminar a través de cualquier puerta.\nTu ataque daña y envia a la gente a tu dimensión.\nMantén TAB para las habilidades.</color></size>
-Ayuda a los <color=#FFFF7CFF>científicos</color> a escapar\nNeutraliza a los demás sujetos
-Asesina a todos\nNo dejes escapar a nadie\nCoopera con los demás <color=#f00>SCPs</color><size=11><color=##EAF6FF>\nTu ataque no tiene tiempo de reutilización.\nMantén E en un cuerpo que </color><color=#f00>tú</color><color=#EAF6FF> has matado para zombificar.\nZombificas más rápido con menos vida.</color></size>
-Escapa de la instalación\nCoopera con los <color=#0096FF>MTF</color>\nEvita a los demás
-Asesina a todos\nNo dejes escapar a nadie\nCoopera con los demás <color=#f00>SCPs</color><size=11><color=##EAF6FF>\nTienes acceso total solo a las instalaciones subterráneas.\nPuedes abrir puertas que el resto de SCPs no puede.\nCierra y bloquea puertas para atrapar a la gente.\nSobrecarga puertas tesla para matar.</color></size>
-Ayuda a los <color=#FF8E00>Clase-D</color> a escapar\nNeutraliza a los demás
-Asesina a todos\nNo dejes escapar a nadie\nCoopera con los demás <color=#f00>SCPs</color><color=##EAF6FF><size=11>\nTe enfadas si la gente te mira y por los sonidos de disparos.\nAl enfurecerse, corres rápido y rompes puertas cerradas.\nDespués hay ~10 segundos donde te normalizas y eres vulnerable.</size></color>
-Asesina a todos\nNo dejes escapar a nadie\nCoopera con los demás <color=#f00>SCPs</color><color=##EAF6FF><size=11>\nProtege a SCP-049, funcionas mejor en grupo.</size></color>
-Ayuda a los <color=#FFFF7CFF>científicos</color> a escapar\nNeutraliza a los demás
-Ayuda a los <color=#FFFF7CFF>científicos</color> a escapar\nNeutraliza a los demás
-Ayuda a los <color=#FFFF7CFF>científicos</color> a escapar\nNeutraliza a los demás
-Completa los objetivos para ganar.
-Help <color=#FFFF7CFF>scientists</color> to escape\nCooperate with <color=#0096FF>MTF</color>\nNeutralize other subjects
-Kill everyone.\nPrevent escape.\nCooperate with other <color=#f00>SCPs.</color>
+Elimina a todos.\nEvita que escapen los <color=#FFFF7CFF>Cientificos</color> y <color=#FF8E00>Clase D </color> .\nCoopera con otros <color=#f00>SCPs.</color><color=#ffff00>\nManten W+clic izquierdo mientras apuntas a alguien para matar.\nTe mueves mas rapido con menos salud.</color>
+Escapa de las instalaciones.\nCoopera con los  <color=#008f1e>Insurgentes del caos.</color>\nEvita al resto.
+Reapareceras pronto.
+Elimina a todos.\nEvita que escapen los <color=#FFFF7CFF>Cientificos</color> y <color=#FF8E00>Clase D </color> \nCoopera con otros <color=#f00>SCPs.</color><color=#ffff00>\nPuedes atravesar puertas.\nClic izquierdo para herir y teletransportar al objetivo a tu dimension.\nManten TAB para ver tus habilidades.</color>
+Ayuda a los <color=#FFFF7CFF>Cientificos</color> a escapar \nNeutraliza a los demas .\nOrdena a los subordinados . \nSigue ordenes de tu superior.
+Elimina a todos.\nEvita que escapen los <color=#FFFF7CFF>Cientificos</color> y <color=#FF8E00>Clase D </color> \nCoopera con otros <color=#f00>SCPs.</color><color=#ffff00>\nTu ataque es instanteno y mata de un solo impacto.\nManten E a un cadaver que  </color><color=#f00>TU</color><color=#ffff00> hayas matado para revivir a un zombie .\nCon menos salud reanimas mas rapido.</color>
+Escapa de las instalaciones.\nCoopera con la <color=#0096FF>MTF.</color>\nEvita al resto.
+Elimina a todos.\nEvita que escapen los <color=#FFFF7CFF>Cientificos</color> y  <color=#FF8E00>Clase D </color> \nCoopera con otros <color=#f00>SCPs.</color>
+Ayuda a los <color=#FF8E00>Clase D </color> a escapar \nNeutraliza al resto.
+Elimina a todos.\nEvita que escapen los <color=#FFFF7CFF>Cientificos</color> y <color=#FF8E00>Clase D </color> \nCoopera con otros <color=#f00>SCPs.</color><color=#ffff00>\nEres pasivo hasta que te miran.\nSi te miran matas con un solo ataque,te mueves rapido y puedes romper puertas.\nEse estado es temporal y al acabar volveras a ser pasivo.</color>
+Elimina a todos.\nEvita que escapen los <color=#FFFF7CFF>Cientificos</color> y <color=#FF8E00>Clase D </color> \nCoopera con otros<color=#f00>SCPs.</color><color=#ffff00>\nClic izquierdo para atacar a tus enemigos.\nAtacas mas rapido con menos salud.</color>
+Ayuda a los <color=#FFFF7CFF>Cientificos</color> a escapar\nNeutraliza al resto.\nOrdena a tus subordinados. \nSigue las ordenes de tu comandante.
+Ayuda a los <color=#FFFF7CFF>Cientificos</color> a escapar\nNeutraliza al resto.\nOrdena a tus subordinados.
+Ayuda a los <color=#FFFF7CFF>Cientificos</color> a escapar\nNeutraliza al resto.\nSigue las ordenes de tus superiores.
+Completa tareas para cumplir tu objetivo
+Ayuda a los <color=#FFFF7CFF>Cientificos</color> a escapar\nCoopera con la <color=#0096FF>MTF</color>\nNeutraliza al resto
+Elimina a todos.\nEvita que escapen los <color=#FFFF7CFF>Cientificos</color> y <color=#FF8E00>Clase D </color> \nCoopera con otros <color=#f00>SCPs.</color> <color=#ffff00>\nEres ciego,tu vision se basa en la ecolocalizacion\nSolo podras ver a tus victimas si hacen ruido o si estan muy cerca.</color>
+Elimina a todos.\nEvita que escapen los <color=#FFFF7CFF>Cientificos</color> y <color=#FF8E00>Clase D </color> \nCoopera con otros <color=#f00>SCPs.</color> <color=#ffff00>\nEres ciego,tu vision se basa en el ecolocalizacion\nSolo podras ver a tus victimas si hacen ruido o si estan muy cerca.</color>

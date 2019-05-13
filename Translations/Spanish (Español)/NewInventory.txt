@@ -1,31 +1,31 @@
-Janitor Keycard:No description
-Scientist Keycard:No description
-Research Supervisor Keycard:No description
-Zone Manager Keycard:No description
-Guard Keycard:No description
-MTF Cadet Keycard:No description
-Containment Engineer Keycard:No description
-MTF Lieutenant Keycard:No description
-MTF Commander Keycard:No description
-Facility Manager Keycard:No description
-Chaos Insurgency Access Device
-O5-level Keycard
-Radio:SR = Short Range \nMR = Medium Range \nLR = Long Range \nUR = Ultra Range \nUses battery while on. Longer range means higher battery use.
+Tarjeta de conserje:No description 
+Tarjeta de cientifico:No description 
+Tarjeta de jefe de investigacion:No description 
+Tarjeta de administrador de zona:No description 
+Tarjeta de Guardia de seguridad:No description 
+Tarjeta de Cadete:No description 
+Tarjeta de ingeniero de contencion:No description 
+Tarjeta de teniente de la NTF:No description 
+Tarjeta de comandante de la NTF:No description 
+Tarjeta de administrador de instalacion:No description 
+Dispositivo de los Insurgentes del caos
+Tarjeta de miembro del consejo O5
+Radio:SR = Corto alcance \nMR = Alcance medio \nLR = Largo alcance \nUR = Alcance Maximo \nUsa bateria mientras esta enchufada. Cuanto mas alcance mas consumo de bateria.
 COM-15 Sidearm:No description
-First AID Kit:Heals your injuries.
-Flashlight:Let there be light!
-Micro H.I.D.:Mobile high-intensity electrical discharge thrower.
-Coin:No description
-Cup:No description
-Weapon Manager Tablet:Used to drop ammo & upgrade your weapons.
+Kit de primeros auxilios : Cura tus heridas.
+Linterna:Que se haga la luz!
+Micro H.I.D.:Lanzador movil de descargas de alta corriente.
+Moneda:Parecen ser 50 centimos!
+Vaso:Que contiene? Mejor no preguntes
+PDA para gestionar armas:Se usa para soltar municion y mejorar armas.
 MTF-E11-SR:No description
 Project 90:No description
 Dropped 5.56:No description
 MP7:No description
 Logicer:No description
-Frag Grenade:Boom!
-Flashbang Grenade:Blinds your enemies.
-Disarmer:Left click disarms, right click unties. \nHold E on someone who is disarmed on your team to free them.
+Granada de fragmentacion:Boom!
+Granada cegadora :Ciega a tus enemigos!
+Desarmador:Clic izquierdo desarma, clic derecho libera. \nManten E en alguien desarmado para liberar.
 Dropped 7.62:No description.
 Dropped 9mm:No description.
 USP:No description.

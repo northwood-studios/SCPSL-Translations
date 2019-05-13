@@ -1,4 +1,4 @@
-Vale, empezemos...\nAprender a disparar sin duda hace el juego mucho más... <i>fácil</i>.\nCoje la pistola que se acaba de caer en la mesa.
+﻿Vale, empezemos...\nAprender a disparar sin duda hace el juego mucho más... <i>fácil</i>.\nCoje la pistola que se acaba de caer en la mesa.
 Tutorial2_Curtain
 Así que, acabas de cojer la peor arma en el juego. Acostúmbrate a ella, porque te sacará de más de un apuro. Oh, y es bueno tener algo de munición. Es difícil de encontrar en el juego, así que tan eficientemente como puedas.
 Tutorial2_GiveAmmo
