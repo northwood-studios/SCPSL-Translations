@@ -17,7 +17,7 @@ SENSIBILIDAD DEL RATON
 HACKEANDO
 RECOGIENDO...
 Aumentar el brillo <b>reduce de forma considerable la experiencia </b>de juego.\nIntenta fijar este valor tan bajo como puedas.\n<b>El valor por defecto es el recomendado.</b>
-[1] ABRIR/CERRAR PUERTA\n[2] Puerta bloqueada*\n\n*Bloquear puertas gasta la habilidad  especial 
+[1] ABRIR/CERRAR PUERTA\n[2] Puerta bloqueada*\n\n*Bloquear puertas gasta la habilidad  especial
 PUERTA BLOQUEADA POR SCP-079
 Modo pantalla completa
 Estas seguro que quieres abandonar el servidor?

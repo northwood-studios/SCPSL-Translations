@@ -1,13 +1,13 @@
-Tarjeta de conserje:No description 
-Tarjeta de cientifico:No description 
-Tarjeta de jefe de investigacion:No description 
-Tarjeta de administrador de zona:No description 
-Tarjeta de Guardia de seguridad:No description 
-Tarjeta de Cadete:No description 
-Tarjeta de ingeniero de contencion:No description 
-Tarjeta de teniente de la NTF:No description 
-Tarjeta de comandante de la NTF:No description 
-Tarjeta de administrador de instalacion:No description 
+Tarjeta de conserje:No description
+Tarjeta de cientifico:No description
+Tarjeta de jefe de investigacion:No description
+Tarjeta de administrador de zona:No description
+Tarjeta de Guardia de seguridad:No description
+Tarjeta de Cadete:No description
+Tarjeta de ingeniero de contencion:No description
+Tarjeta de teniente de la NTF:No description
+Tarjeta de comandante de la NTF:No description
+Tarjeta de administrador de instalacion:No description
 Dispositivo de los Insurgentes del caos
 Tarjeta de miembro del consejo O5
 Radio:SR = Corto alcance \nMR = Alcance medio \nLR = Largo alcance \nUR = Alcance Maximo \nUsa bateria mientras esta enchufada. Cuanto mas alcance mas consumo de bateria.

@@ -12,6 +12,6 @@ Han escapado: [summary_s_escaped] cientificos
 La detonacion de la Alpha warhead ha eliminado a [summary_warhead_kills] sujetos.
 La Alpha warhead no ha sido detonada en esta partida.
 La mision ha durado: [summary_round_minutes] minutos y [summary_round_seconds] segundos.
-Sujetos SCP recontenidos: [summary_scp_terminated] . 
+Sujetos SCP recontenidos: [summary_scp_terminated] .
 La proxima ronda empieza en: [summary_next_round_countdown] segundos.
 Has inflingido [summary_damages] puntos de impacto y eliminado a [summary_kills] jugadores.

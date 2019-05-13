@@ -26,7 +26,7 @@ Renderizado de luz:\nApagado - Hace que el juego se vea peor. Es recomendado si 
 V-SYNC
 CONECTAR
 OPCIONES GRAFICAS
-Cambiar prefencias de sombras. Estas opciones a nivel bajo permite jugar con fluidez. 
+Cambiar prefencias de sombras. Estas opciones a nivel bajo permite jugar con fluidez.
 MENU PRINCIPAL
 MODO DE RENDERIZADO DE LUCES
 MOTION BLUR
