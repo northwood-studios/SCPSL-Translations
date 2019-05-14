@@ -1,6 +1,6 @@
 Usa cualquier fecla para continuar...
 Navega usando - las flechas ARRIBA/ABAJO  \nSelecciona con - flecha DERECHA \nAtras con - Flecha Izquierda
-[var_name]\n\nCalibre: [var_atype]\nMunicion en la reserva: [var_ares]\nTamaño de cargado: [var_mag]\n\nDaño maximo: [var_maxdmg]\nDaño efectivo: [var_effdmg]\nDisparos por segundo: [var_sps]\n\nAccesorios disponibles: [var_custs]\n\nFLECHA DERECHA PARA PRESONALIZAR ARMA
+[var_name]\n\nCalibre: [var_atype]\nMunicion en la reserva: [var_ares]\nCapacidad de cargador: [var_mag]\n\nImpacto maximo: [var_maxdmg]\nImpacto efectivo: [var_effdmg]\nDisparos por segundo: [var_sps]\n\nAccesorios disponibles: [var_custs]\n\nFLECHA DERECHA PARA PRESONALIZAR ARMA
 Estas apunto de soltar [var_nom]\nPulsa las flechas ARRIBA/ABAJO para cambiar la cantidad.\nFlecha DERECHA para soltar.\nFlecha IZQUIERDA para cancelar.
 Insuficiente muncion del calibre (type [var_nom]). \nFlecha IZQUIERDA para cancelar.
 MODULO DELANTERO
