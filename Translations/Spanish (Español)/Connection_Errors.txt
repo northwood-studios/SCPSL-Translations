@@ -1,4 +1,4 @@
-<size=80>HAS SIDO EXPULSADO</size>\nEl servidor ha detenido la conexion.\n<size=26>\nProvablemente estes baneado o no cumplas los requisitos para entrar al servidor (Por ejemplo, conexion de Steam).\nEn caso de ban - los creadores del juego <u>NO</u> se hacen cargo.\n</size>
+<size=80>HAS SIDO EXPULSADO</size>\nEl servidor ha detenido la conexion.\n<size=26>\nProvablemente estes baneado o no cumplas los requisitos para entrar al servidor (Por ejemplo, conexion de Steam).\nEn caso de ban - los creadores del juego NO se hacen cargo.\n</size>
 <size=80>DESCONECTADO</size>\nEl host especificado no esta disponible.
 <size=80>DESCONECTADO</size>\nLa ID de conexion especificada no existe.
 <size=80>DESCONECTADO</size>\nEl canal especificado no existe.
