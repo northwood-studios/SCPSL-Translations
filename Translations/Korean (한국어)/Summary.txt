@@ -1,17 +1,17 @@
-라운드가 종료되었습니다!
-SCP 승리
-MTF 승리
-CLASS-D 승리
-무승부
-그들은 [summary_scpfrags]명의 사람들이 죽은 것에 책임을 지게 될 것입니다.
-위협이 제거되었습니다. 이곳은 다시 안전해졌습니다.
-재단의 모든 보안 체계가 무너졌습니다.
+라운드가 끝났습니다!
+SCP가 승리했습니다.
+특무대가 승리했습니다.
+D계급이 승리했습니다.
+무승부입니다.
+이들은 [summary_scpfrags] 명의 사람이 죽은 책임을 지게 될 것입니다.
+위협을 제거했습니다. 이 장소는 이제 안전합니다.
+모든 재단 보안이 제거되었습니다.
 양 쪽 진영이 큰 손해와 이익을 가졌습니다. 승자를 판단할 수 없습니다.
-[summary_d_escaped]명의 D계급 인원이 탈출했습니다.
-[summary_s_escaped]명의 과학자가 탈출했습니다.
-알파 탄두로 인해 [summary_warhead_kills]명이 사망했습니다.
-이번 임무에선 알파 탄두가 폭발하지 않았습니다.
-이 임무를 진행하는데 [summary_round_minutes]분 [summary_round_seconds]초가 걸렸습니다.
-[summary_scp_terminated]명의 SCP가 제거되었습니다.
-다음 라운드가 [summary_next_round_countdown]초 후에 시작됩니다.
-당신은 [summary_damages]의 대미지를 주었고,[summary_kills]명의 플레이어를 죽였습니다.
+[summary_d_escaped] 명의 D계급이 탈출하였습니다.
+[summary_s_escaped] 명의 과학자가 살아남았습니다.
+알파 탄두 폭파로 [summary_warhead_kills] 명이 제거되었습니다.
+알파 탄두가 이 임무중에 폭파되지 않았습니다.
+이 임무를 진행하는데 [summary_round_minutes] 분 [summary_round_seconds] 초가 걸렸습니다.
+[summary_scp_terminated] 명의 SCP가 제거되었습니다.
+다음 라운드는 [summary_next_round_countdown] 초 후에 시작됩니다.
+[summary_damages]의 대미지를 주었고 [summary_kills] 명의 플레이어를 죽였습니다.
