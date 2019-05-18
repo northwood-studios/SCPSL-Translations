@@ -1,0 +1,28 @@
+Nie Znaleziono Umiejętności:ID umiejętności powiązany z tą umiejętnością nie istnieje.
+Sprint:Zwiększa twoją prędkość ruchu, lecz również głośność którą wtedy wydajesz podczas biegu.
+Skradanie:Twoje ruchy są cichsze, tracąc znacznie na prędkości.
+Ekwipunek:Otwórz ekwipunek i wybierz item który podniosłeś używając LPM, lub upuść używając PPM.
+Bezbronny:Niczego nie masz. Znajdź coś. Cokolwiek.
+Karta Dostępu:Masz kartę dostępu, nie jest najlepsza, ale jej nie zgub.
+Standardowe Wyposażenie:Jesteś wyposażony w Karabin, Granaty, Radio, Rozbraczacz i Kartę Dostępu.
+Uzbrojony i Niebezpieczny:Wysłano cię z Lekkim Karabinem Maszynowym, Urządzeniem Hakującym (kartą dostępu) oraz Apteczką.
+Zaskakująca Prędkość:Gdy żaden człowiek cię nie widzi, poruszasz się bardzo szybko. Jeśli jesteś obserwowany przez człowieka, nie możesz się poruszać ani atakować, ale wszyscy obserwatorzy będą równocześnie mrugać co kilka sekund, pozwalając ci na działanie.\nAtakując człowieka w bardzo małym dystansie od niego, zabije go od razu jeśli tylko będziesz mógł się poruszyć.
+Popłoch:Poruszasz się szybciej, gdy twoje zdrowie maleje.
+Przejście:Stawiasz albo teleportujesz się do przejścia, widocznego jako czarna plama na ziemi.\nMożesz stworzyć tylko jedne przejście, ale możesz je cały czas przenosić. Teleportacja zajmuje kilka sekund.
+Korozja:Możesz przechodzić przez drzwi, wchodząc w nie.
+Łabędzi Śpiew: Nie otrzymujesz od niczego obrażeń prócz granatów i elektryczności, ale twoja przechowalnia ma małe pomieszczenie, gdzie gracz może wejść, aby się zabić. Odtąd, każdy może kliknąć przycisk w twojej przechowalni, aby cię od razu zabezpieczyć po piętnastu sekundach.
+Wymiar Łuzowy:Chwytasz człowieka i teleportujesz go do wymiaru łuzowego z ośmioma ścieżkami; jedna z tych ścieżek teleportuje go do losowego pomieszczenia w placówce, a pozostałe siedem zabija.\nLudzie po woli umierają, będąc w tym wymiarze.
+Nieśmiały:Normalnie, poruszasz się powoli, nie możesz atakować oraz wydajesz cichy płacz. Jeśli ludzie spojrzą się na ciebie wystarczająco długo, staniesz w miejscu, i wejdziesz w wściekłość.
+Wściekłość Antyspołeczna:W wściekłości, poruszasz się ekstremalnie szybko oraz głośno krzyczysz. Wściekłość trwa do dwudziestu sekund; po jej zakończeniu, nie możesz wejść w wściekłość na krótki czas, a podczas tego nie płaczesz.\nPodczas bycia wściekłym, trzymanie Lewego Przycisku Myszy, od razu zabije człowieka w małej odległości od ciebie.
+Zniszczenie:Podczas bycia wściekłym, interakcja z drzwiami spowoduje ich wyważenie.
+Niezwykle Wrażliwy:Nie możesz widzieć ludzi, chyba że biegną, dotkną cię, lub strzelą z broni blisko ciebie.
+Pośpiech:Zwiększa prędkość ruchu.
+Imitacja:Możesz głośno mówić do każdych graczy w pobliżu, wliczając ludzi.
+Gryzienie:Atakujesz człowieka z bliska, zadając poważne obrażenia.
+Antidotum:Atakując człowieka, natychmiastowo go zabijasz i czynisz go podatnym na reanimację na kilka sekund. To nie ma cooldownu.
+Reanimacja:Trzymając na kilka sekund ten przycisk na ciele kogoś, kogo niedawno zabiłeś, zreanimujesz go, przemieniając człowieka w zombie. Mają mało życia oraz słaby atak, lecz są stosunkowo szybkie i mogą się komunikować z innymi SCP.\nNie ma ustalonej liczby, ile możesz zreanimować ludzi.
+Uderzenie:Atakujesz człowieka zadając mu małą liczbę obrażeń.
+Otwórz/Zamknij Drzwi:Możesz zachodzić w interakcję z drzwiami za 5 punktów energii. Możesz również je zablokować, wyczerpując swą energię, lecz zapobiegając innym ich otworzenie lub zamknięcie, dopóki ich nie odblokujesz lub nie stracisz całej energii.
+Przeciążenie Tesli:Możesz aktywować bramę tesli za 50 punktów energii, by od razu ją uruchomić, zabijając każdego gracza w lub blisko niej.
+Blokada:Począwszy od trzeciego poziomu dostępu, możesz wejść w interakcję z pomieszczeniem, by je zablokować, wyłączyć światła oraz zamknąć drzwi. W zablokowanych pomieszczeniach, ludzie nie mogą widzieć SCP-173.
+Praktycznie Niezniszczalny: Pięć generatorów respi się w strefie ciężkiego nadzoru, wymagających kartę do zbrojowni wysokiego poziomu oraz tablet menadżera broni by je aktywować. Jedyną możliwością zabicia cię, jest zasilenie ich wszystkich; ludzie lub inne SCP mogą to anulować w każdym czasie, poprzez interakcję z nimi.\nKażdy generator ma sekwencję dwu minutowego odliczania i każdy aktywowany zwiększa regenerację twojej energii. Gdy wszystkie pięć generatorów zostaną aktywowane, będziesz mieć przez 1 minutę nieskończoną ilość energii, a później zginiesz.
