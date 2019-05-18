@@ -27,7 +27,8 @@ PODSUMOWANIE
 KONTYNUUJ
 GŁ. GŁÓWNA
 połączonych
-Uciekłeś jako Naukowiec i zasiliłeś jednostki Nine-Tailed Fox.
+Uciekłeś jako Naukowiec i zasiliłeś jednostki MTF.
 Uciekłeś jako Klasa D i zasiliłeś szeregi Rebelii Chaosu.
 TWOJA ROLA
 Czas ucieczki: [escape_minutes] minut i [escape_seconds] sekund
+Zaczekaj [time] zanim użyjesz ponownie [item].
