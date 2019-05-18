@@ -1,13 +1,13 @@
-Nie Znaleziono Umiejętności:ID umiejętności powiązany z tą umiejętnością nie istnieje.
-Sprint:Zwiększa twoją prędkość ruchu, lecz również głośność którą wtedy wydajesz podczas biegu.
-Skradanie:Twoje ruchy są cichsze, tracąc znacznie na prędkości.
+Nie Znaleziono Umiejętności:Umiejętność z podanym ID nie istnieje.
+Sprint:Zwiększa twoją prędkość ruchu, lecz poruszasz się wówczas głośniej.
+Skradanie:Twoje ruchy są cichsze, ale wolniejsze.
 Ekwipunek:Otwórz ekwipunek i wybierz item który podniosłeś używając LPM, lub upuść używając PPM.
 Bezbronny:Niczego nie masz. Znajdź coś. Cokolwiek.
 Karta Dostępu:Masz kartę dostępu, nie jest najlepsza, ale jej nie zgub.
 Standardowe Wyposażenie:Jesteś wyposażony w Karabin, Granaty, Radio, Rozbraczacz i Kartę Dostępu.
 Uzbrojony i Niebezpieczny:Wysłano cię z Lekkim Karabinem Maszynowym, Urządzeniem Hakującym (kartą dostępu) oraz Apteczką.
-Zaskakująca Prędkość:Gdy żaden człowiek cię nie widzi, poruszasz się bardzo szybko. Jeśli jesteś obserwowany przez człowieka, nie możesz się poruszać ani atakować, ale wszyscy obserwatorzy będą równocześnie mrugać co kilka sekund, pozwalając ci na działanie.\nAtakując człowieka w bardzo małym dystansie od niego, zabije go od razu jeśli tylko będziesz mógł się poruszyć.
-Popłoch:Poruszasz się szybciej, gdy twoje zdrowie maleje.
+Zaskakująca Prędkość:Gdy żaden człowiek cię nie widzi, poruszasz się bardzo szybko. Jeżeli ktoś cię obserwuje, nie możesz się poruszać ani atakować, ale wszyscy obserwatorzy będą równocześnie mrugać co kilka sekund, pozwalając ci na działanie.\nAtakując człowieka w bardzo małym dystansie od niego, zabije go od razu jeśli tylko będziesz mógł się poruszyć.
+Popłoch:Im mniej masz zdrowia, tym szybciej się poruszasz.
 Przejście:Stawiasz albo teleportujesz się do przejścia, widocznego jako czarna plama na ziemi.\nMożesz stworzyć tylko jedne przejście, ale możesz je cały czas przenosić. Teleportacja zajmuje kilka sekund.
 Korozja:Możesz przechodzić przez drzwi, wchodząc w nie.
 Łabędzi Śpiew: Nie otrzymujesz od niczego obrażeń prócz granatów i elektryczności, ale twoja przechowalnia ma małe pomieszczenie, gdzie gracz może wejść, aby się zabić. Odtąd, każdy może kliknąć przycisk w twojej przechowalni, aby cię od razu zabezpieczyć po piętnastu sekundach.
