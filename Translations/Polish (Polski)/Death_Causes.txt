@@ -1,17 +1,17 @@
-Wyparował przez głowicę Alpha.
+Spopielony przez głowicę Alpha.
 Złamane nogi i stopy sugerują śmiertelny uraz spowodowany upadkiem.
-Objawy ciężkiej urazy obu kości udowych sugerują śmierć w wyniku wstrząsu krążeniowego.
-Zanikł w Wymiarze Łuzowym.
-To pozostałość SCP-106.
-Poważne oparzenia elektryczne.
-Śmiertelny tępy uraz; ciało jest poważnie okaleczone i zmiażdżone.
+Objawy ciężkich urazów obu kości udowych sugerują śmierć w wyniku wstrząsu krążeniowego.
+Zaginął w Wymiarze Łuzowym.
+To pozostałości po SCP-106.
+Poważne porażenia elektryczne.
+Śmiertelny uraz; ciało jest poważnie okaleczone i zmiażdżone.
 Rany postrzałowe z amunicji [ammotype].
 Złamanie szyjne u podstawy czaszki.
-Na ciele obecne są ogromne ilości próchnicy tkanek.
-Nagłe ustanie objawów życia. Brak wyraźnych urazów.
+Na ciele obecne są ogromne ilości zgniłej tkanki.
+Nagły zanik funkcji życiowych. Brak wyraźnych urazów.
 Nieznany powód śmierci.
 To był <b>[user]</b>, jako [class]!\n\nPrzyczyna zgonu: [cause]
 Ogromne rany i nadmierna utrata krwi.
 Zaobserwowano duże, głębokie ślady po ugryzieniach wokół czaszki.
 Stopiony przez silnie żrącą substancję.
-Szrapnel oraz oparzenia trzeciego stopnia spowodowane przez wybuch.
+Oparzenia trzeciego stopnia spowodowane przez wybuch.
