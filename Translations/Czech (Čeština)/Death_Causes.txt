@@ -11,7 +11,7 @@ Nepřežil schůzku s SCP-106.
 Byl "vyléčen" z moru.
 Příčina smrti neznámá.
 Tohle je tělo <b>[user]</b>, třídy [class]!\n\nPříčina smrti: [cause]
-Was torn to pieces by SCP-096.
-Powerful bite to cranium.
-Melted by strongly corrosive substance.
-Post-explosion wounds.
+Byl roztrhán na kousky SCP-096.
+Byl zakousnut do lebky.
+Byl rozežrán žíravinou.
+Zemřel po explozi.

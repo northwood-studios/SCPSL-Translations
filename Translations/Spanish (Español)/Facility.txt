@@ -1,33 +1,33 @@
 VOLUMEN DE VOZ
 Si
 FORZAR INICIO
-ANULAR PROCEDIMIENTO DE RE-CONTENCION\nDE SCP-106
-INVERTIR Eje-y
+INICIAR PROCESO DE RECONTENCION DE SCP-106
+Invert Y-axis
 RESUMEN
 Cancelar
 I N V E N T A R I O
 BRILLO
 OPCIONES
 DESCONECTAR
-SILO ALFA DESHABILITADO
+EL ALPHA WARHEAD ESTA DESACTIVADA
 ACCESO DENEGADO
 CHAT DE VOZ
-INVENTARIO SOBRECARGADO
-M. SENSIBILIDAD
-HACKEANDO...
+INVENTARIO LLENO
+SENSIBILIDAD DEL RATON
+HACKEANDO
 RECOGIENDO...
-Incrementar el brillo <b>empeora la jugabilidad</b> del juego.\nTrate de ajustarlo al mínimo.\n<b>Es recomendado dejar el nivel por defecto.</b>
-[1] ABRIR/CERRAR PUERTA\n[2] BLOQUEAR PUERTA*\n\n*Bloquear puertas gasta la habilidad especial
-LA PUERTA FUE BLOQUEADA POR SCP-079
-Pantalla Completa
-¿Seguro que quieres abandonar el servidor?
-Opciones basicas. Lista de opciones completas en el menu.
+Aumentar el brillo <b>reduce de forma considerable la experiencia </b>de juego.\nIntenta fijar este valor tan bajo como puedas.\n<b>El valor por defecto es el recomendado.</b>
+[1] ABRIR/CERRAR PUERTA\n[2] Puerta bloqueada*\n\n*Bloquear puertas gasta la habilidad  especial
+PUERTA BLOQUEADA POR SCP-079
+Modo pantalla completa
+Estas seguro que quieres abandonar el servidor?
+Opciones basicas. Lista completa de las opciones en el menu principal.
 ESPERANDO JUGADORES
 RESUMEN
 CONTINUAR
 VOLUMEN PRINCIPAL
-Conectado
-Escapaste como Científico y te uniste a las unidades del MTF.
-Escapaste como Clase-D y te uniste a Insurgentes del Caos.
-Tú eres
-Escape time: [escape_minutes] minutes and [escape_seconds] seconds
+conectado
+Has escapado como cientifico y te has unido a las fuerzas de la NTF.
+Has escapado como clase D y te has unido a los Insurgentes del caos.
+ERES
+Has escapado en: [escape_minutes] minutos y [escape_seconds] segundos.

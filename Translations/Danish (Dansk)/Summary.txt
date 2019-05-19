@@ -3,12 +3,12 @@ SCPs VANDT
 MTF VANDT
 CLASS-D VANDT
 UAFGJORT
-De er ansvarlige for at dræbe [opsummering_scpfrags] mennesker.
+De er ansvarlige for at dræbe [summary_scpfrags] mennesker.
 Trussel stoppet. Dette sted er sikkert igen.
 Alt security er blevet slået ihjel.
 Begge sider har lidt tab og gavnet meget. Vinderen er uklar.
-[opsummering_d_flygtede] klasse-D personale slap væk
-[opsummering_s_flygtede] videnskabsmand(mænd) overlevede
+[summary_d_escaped] klasse-D personale slap væk
+[summary_s_escaped] videnskabsmand(mænd) overlevede
 Alpha Sprænghoved sprængning drabte [summary_warhead_kills] mennesker.
 Alpha Sprænghovedet blev ikke sprunget under denne mission.
 Missionen tog [summary_round_minutes] minutter og [summary_round_seconds] sekunder.

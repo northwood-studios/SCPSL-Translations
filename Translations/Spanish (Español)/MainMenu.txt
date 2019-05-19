@@ -1,62 +1,62 @@
 UNIRSE
 CERRAR
-RESOLUCIÓN DE SOMBRAS
+RESOLUCION DE SOMBRAS
 OPCIONES
 BASADO EN <i>SCP: CONTAINMENT BREACH</i>
-ATRÁS
-IDIOMA
-SUAVIZADO
-CAMBIAR DETALLES:\n-CONTEO DE LUCES - Cantidad máxima de fuentes de luz.\n-Sincronización Vertical - Habilita para sincronizar con la tasa de refresco del monitor.
+ATRAS
+IDIOMAS
+ANTIALIASING
+Cambiar detalles:\n-CANTIDAD DE PIXELES DE LUZ - cantidad de pixeles para el renderizado de luces.\n-V-Sync - activar la sincronizacion vertical con la tasa de refresco del monitor.
 UNIRSE AL JUEGO
 POST\nPROCESADO
-CRÉDITOS
-SALIR DEL JUEGO
-Pantalla Completa
-RESOLUCIÓN
-CORRECIÓN DE COLOR
-Introduzca la IP...
-OPCIONES DE PANTALLA
+CREDITOS
+SALIR
+Modo pantalla completa
+OPCIONES DE GRAFICAS
+CORRECION DE COLOR
+Introducir direccion IP...
+RESOLUCION DE PANTALLA
 JUGAR
-CONTEO DE LUCES
-TIPO DE SOMBRAS
+PIXELES DE LUZ
+TIPO DE SOMBRA
 SOMBRAS
-CREAR JUEGO
-Cambiar las opciones de post-procesado, no suele afectar el rendimiento.\nSe recomienda dejar las opciones por defecto.
-Renderizado de luces:\nDesactivado - Hace que el juego se vea peor. Se recomienda desactivarlo cuando el PC no cumple los requisitos mínimos
-SINCR. VERTICAL
-CONECTARSE
-OPCIONES DE CALIDAD
-Cambiar las preferencias de sombras. Disminuir estos valores puede aumentar el rendimiento del juego.
-MENÚ PRINCIPAL
-LIGHT RENDERING MODE
+CREAR PARTIDA
+Cambiar opciones del post-procesado. Estos cambios no afectan al rendimiento. Mantener estos valores predeterminados es la opcion recomendada.
+Renderizado de luz:\nApagado - Hace que el juego se vea peor. Es recomendado si tienes un equipo de baja gama
+V-SYNC
+CONECTAR
+OPCIONES GRAFICAS
+Cambiar prefencias de sombras. Estas opciones a nivel bajo permite jugar con fluidez.
+MENU PRINCIPAL
+MODO DE RENDERIZADO DE LUCES
 MOTION BLUR
 DISTANCIA DE SOMBRAS
 DETALLES
 3. SCP-914
 TUTORIALES
-ADVERTENCIA
-Buscar servidores disponibles
-No mostrar de nuevo
-¿Como le quieres conectarte?
-EXPLORADOR DE SERVIDORES
-VALE
-ENCONTRAR PARTIDA
+PELIGRO
+Buscar servidores disponbiles
+No mostrar este mensaje mas
+Como te gustaria conectar?
+BUSCADOR DE SERVIDORES
+ENTENDIDO
+BUSCAR PARTIDA
 2. Usando armas
-Usamos Discord como foro. No es necesario instalarlo.\n(click en el icono para unirse)
-Por defecto, el servidor se configura en su red local.\nTus amigos necesitaran la IP para poder conectarse.\nSi quiere iniciar un servidor publico, abra LocalAdmin.exe y siga las instrucciones.\nSi tiene alguna pregunta, contacte con nuestro soporte técnico (link en el menú principal)
-1. Fundamentos
-Este juego sigue en Beta publica.\nPuede experimentar problemas de conexión u otros errores.\nEl estado actual de juego no refleja el producto final.
-4. (Próximamente más tutoriales)
-CONEXIÓN DIRECTA
-SOPORTE TÉCNICO / FORO
-VOLUMEN DE SONIDO
-Introduzca la IP del servidor.
+Usamos discord como foro,no hace falta instalacion.\n(clic en el logo para unirte)
+Por defecto el servidor se crea en red local.\nTus amigos necesitara usar conexion directa y tu IP para conectarse.\nSi quieres un servidor publico selecciona LocalAdmin.exe y sigue las instrucciones.\nSi tienes preguntas pregunta a nuestro soporte tecnico (enlace en el menu principal)
+1. Lo basico
+El juego actual esta en beta abierta.\nEs posible que tengas problemas de conexion y algunos bugs.\nEl juego actual no refleja el juego completo.
+4. (Mas tutoriales proximamente)
+CONEXION DIRECTA
+SOPORTE TECNICO / FORO
+VOLUMEN DEL SONIDO
+Introduce la direccion IP .
 DESCARGANDO DATOS
-NINGÚN SERVIDOR DISPONIBLE
-PRESIONE ESC PARA CERRAR/CANCELAR
-KEY BINDING
-MAX BLOOD AMOUNT
-FPS Limit
-FPS Limit does not work when vSync is enabled!
-Set Default
-We use Steam Discussions as a forum. (Click the logo below to open the forum)
+NO HAY SERVIDORES DISPONIBLES
+PULSA ESC PARA CERRAR / CANCELAR
+CONFIGURACION DE TECLAS
+CANTIDAD DE SANGRE
+LIMITE DE FPS
+El limite de FPS no funciona con el V-SYNC activado!
+Restaurar valor predeterminado
+Usamos las discusiones de Steam como foro. (Clic en el logo para abrir el foro)

@@ -12,6 +12,6 @@ Pomoc w unieszkodliwieniu SCP
 ZABLOKOWANYCH DRZWI: [LOCKED_NUM]<size=25>PRAWY PRZYCISK MYSZY BY ODBLOKOWAĆ WSZYSTKIE</size>
 Ogólne interakcje
 Jesteś atakowany!
-Generatory zostały podświetlone ma mapie
+Generatory zostały podświetlone na mapie
 ZAGROŻENIE
 Ilość SCP{0}Ilość MTF{1}Ilość Naukowców{2}Ilość Klas D{3}Ilość Rebelii Chaosu{4}

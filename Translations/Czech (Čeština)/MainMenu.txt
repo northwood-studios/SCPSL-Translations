@@ -54,9 +54,9 @@ Zadej IP adresu specifického serveru.
 STAHUJI DATA
 ŽÁDNÉ DOSTUPNÉ SERVERY
 ZMÁČKNI ESC PRO UKONČENÍ / ZRUŠENÍ
-KEY BINDING
-MAX BLOOD AMOUNT
+Klávesy
+Maximální počet krve
 FPS Limit
-FPS Limit does not work when vSync is enabled!
-Set Default
+FPS limit nejde zapnout (V-Sync je zaplý)!
+Reset. nastavení
 We use Steam Discussions as a forum. (Click the logo below to open the forum)

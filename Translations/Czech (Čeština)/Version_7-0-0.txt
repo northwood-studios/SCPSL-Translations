@@ -1,5 +1,5 @@
-YOU DIED
-Press {KEYBINDING_INTERACTION} to place the <color=yellow>Weapon Manager Tablet</color>.
-Press {KEYBINDING_INTERACTION} to pick up the <color=yellow>Weapon Manager Tablet</color>.
-This <color=yellow>workstation</color> already has someone else's <color=yellow>Weapon Manager Tablet</color> connected.
-You need a <color=yellow>Weapon Manager Tablet</color> to use this <color=yellow>workstation</color>.
+Zemřel jsi
+Zmáčkni {KEYBINDING_INTERACTION} pro položení <color=yellow>Weapon Manager Tablet</color>.
+Zmáčkni {KEYBINDING_INTERACTION} pro sebrání <color=yellow>Weapon Manager Tablet</color>.
+Toto <color=yellow>workstation</color> již někdo používá, nemůžeš položit <color=yellow>Weapon Manager Tablet</color>.
+Potřebuješ <color=yellow>Weapon Manager Tablet</color> pro použití <color=yellow>workstation</color>.

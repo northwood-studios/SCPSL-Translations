@@ -1,17 +1,17 @@
-AUXILIARY POWER
-EXPERIENCE
-CAMERA FEED ONLINE
-PRESS [KEY] TO TOGGLE THE SURVEILLANCE MAP
-Experience gained:
+ENERGIA AUXILIAR
+EXPERIENCIA
+IMAGEN DE CAMARA ACTIVA
+PULSA [KEY] PARA ACTIVAR/DESACTIVAR EL MAPA
+Experiencia obtenida:
 Cooperative work
-Class-D termination assist
-C. I. termination assist
-MTF termination assist
-Scientist termination assist
-SCP termination assist
-LOCKED DOORS: [LOCKED_NUM]<size=25>RIGHT MOUSE BUTTON TO UNLOCK ALL</size>
-General interactions
-You are being attacked!
-Generators have been highlighted on the map
-DANGER
-SCPs{0}MTF & Guards{1}Scientists{2}Class-D{3}Chaos Insurgents{4}
+Asitencia , Clase D eliminado
+Asitencia , Insurgente eliminado
+Asitencia , MTF eliminado
+Asitencia , Cientifico eliminado
+Asitencia , SCP eliminado
+PUERTAS BLOQUEADAS: [LOCKED_NUM]<size=25>CLIC DERECHO PARA DESBLOQUEAR TODAS</size>
+Interacciones en general
+Te estan atacando!
+Los generadores activos se han marcado en el mapa
+PELIGRO
+SCPs{0}MTF y GUARDIAS{1}CIENTIFICOS{2}CLASES D{3}INSURGENTES {4}

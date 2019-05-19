@@ -15,8 +15,8 @@ COM-15 Sidearm:No description
 First AID Kit:Heals your injuries.
 Flashlight:Let there be light!
 Micro H.I.D.:Mobile high-intensity electrical discharge thrower.
-Coin:No description
-Cup:No description
+SCP-500:The panacea.
+SCP-207:Harmfully increases motor skills.
 Weapon Manager Tablet:Used to drop ammo & upgrade your weapons.
 MTF-E11-SR:No description
 Project 90:No description
@@ -29,3 +29,7 @@ Disarmer:Left click disarms, right click unties. \nHold E on someone who is disa
 Dropped 7.62:No description.
 Dropped 9mm:No description.
 USP:No description.
+SCP-018:Superball able to bounce with extreme efficiency.
+SCP-268:When worn, temporarily makes you invisible unless it is interrupted by any user interaction.
+Painkillers:Relieve minor injuries.
+Adrenaline:Temporarily increases endurance.

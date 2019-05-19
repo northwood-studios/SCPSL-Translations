@@ -1,7 +1,7 @@
 Reservestrøm
 ERFARING
 KAMERA FEED ONLINE
-TRYK [tast] FOR AT SLÅ OVERVÅGNINGSKORTET TIL OG FRA
+TRYK [KEY] FOR AT SLÅ OVERVÅGNINGSKORTET TIL OG FRA
 Erfaring opnået:
 Samarbejde
 Klasse-D drabs assist
@@ -9,7 +9,7 @@ C. I. drabs assist
 MTF drabs assist
 Scientist drabs assist
 SCP drabs assist
-LÅSTE DØRE: [LÅST_NUM]<size=25>HØJREKLIK FOR AT ÅBNE DØRENE IGEN</size>
+LÅSTE DØRE: [LOCKED_NUM]<size=25>HØJREKLIK FOR AT ÅBNE DØRENE IGEN</size>
 Generele interageringer
 Du er under angreb!
 Generatorer er blevet markeret på kortet

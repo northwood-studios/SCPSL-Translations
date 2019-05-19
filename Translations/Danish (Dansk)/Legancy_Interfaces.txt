@@ -8,7 +8,7 @@ Drabte SCP'er
 Alpha Sprænghoved
 Sprunget
 Ubrugt
-Den næste runde starter om [tid] sekunder.
+Den næste runde starter om [time] sekunder.
 SPECIAL EVNE
 SKAB ET JORDFALDSHUL
 BRUG JORDFALDSHULET

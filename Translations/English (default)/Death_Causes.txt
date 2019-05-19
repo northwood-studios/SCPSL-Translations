@@ -1,17 +1,17 @@
-Died from an explosion.
-The fall ended their life.
-Used as a sacrifice to re-contain SCP-106.
-Lost in the Pocket Dimension.
+Vaporized by the Alpha Warhead.
+Shattered legs and feet suggest fatal trauma caused by a fall.
+Signs of severe trauma to both femur bones suggests death by circulatory shock.
+Decayed in the Pocket Dimension.
 It's a remnant of SCP-106.
-High-voltage electric shock.
-Crushed by a heavy structure.
-There are many gunshot wounds on the body. Most likely, a [ammotype] ammo type was used.
-Snapped neck at the base of the skull.
-Did not survive the encounter with SCP-106.
-Cured of a plague.
+Severe electrical burns.
+Fatal blunt trauma; the body is badly mutilated and pulped.
+[ammotype] bullet wounds.
+Cervical fracture at the base of the skull.
+Massive amounts of tissue decay are present on the body.
+Sudden cessation of life signs. No clear trauma.
 Unknown cause of death.
-It's <b>[user]</b>'s body, they were [class]!\n\nCause of death: [cause]
-Was torn to pieces by SCP-096.
-Powerful bite to the cranium.
-Melted by highly corrosive substance.
-Post-explosion wounds.
+It's <b>[user]</b>'s body - they were [class]!\n\nCause of death: [cause]
+Massive lacerations and excessive blood loss.
+Large, deep bite marks around the cranium are observed.
+Melted by a highly corrosive substance.
+Shrapnel and third-degree burns caused by an explosion.

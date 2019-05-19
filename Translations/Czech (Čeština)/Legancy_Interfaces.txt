@@ -12,6 +12,6 @@ Další kolo začne za [time] sekund.
 SPECIÁLNÍ SCHOPNOSTI
 VYTVOŘIT TELEPORTOVACÍ BOD
 TELEPORTOVAT SE NA VYTVOŘENÝ BOD
-YOU DIED
-You were killed by
-as
+ZEMŘEL JSI
+Byl jsi zabit
+jako

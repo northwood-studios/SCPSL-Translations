@@ -13,5 +13,5 @@ Pomoz <color=#FFFF7CFF>vědcům</color> uprchnout\nNeutralizuj ostatní objekty
 Pomoz <color=#FFFF7CFF>vědcům</color> uprchnout\nNeutralizuj ostatní objekty
 Pomoz <color=#FFFF7CFF>vědcům</color> uprchnout\nNeutralizuj ostatní objekty
 Pro dokončení postupujte dle pokynů.
-Help <color=#FFFF7CFF>scientists</color> to escape\nCooperate with <color=#0096FF>MTF</color>\nNeutralize other subjects
-Kill everyone.\nPrevent escape.\nCooperate with other <color=#f00>SCPs.</color>
+Pomoz <color=#FFFF7CFF>vědcům</color> uprchnout\nSpolupracuj with <color=#0096FF>MTF</color>\nNeutralizuj ostatní objekty
+Zabij všechny.\nNenech nikoho uprchnout.\nSpolupracuj s ostatními <color=#f00>SCPs.</color>
