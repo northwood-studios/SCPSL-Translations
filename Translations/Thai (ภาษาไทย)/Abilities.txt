@@ -5,7 +5,7 @@
 ตัวเปล่า:คุณไม่มีอะไรเลย หาอะไรซักอย่าง อะไรก็ได้
 บัตรการเข้าถึง:คุณมีคีย์การ์ดสำหรับการเปิดประตู มันก็ไม่ีดีมากหรอก แต่อย่าทำหายละ
 อาวุธมาตรฐาน:คุณมีปืนไรเฟิล, ระเบิด, วิทยุสื่อสาร, อุปกรณ์ปลดอาวุธ และคีย์การ์ด
-Armed & Dangerous:คุณมีปืนกลเบา, อุปกรณ์แฮก (คีย์การ์ด), และชุดปฐมพยาบาล
+ติดอาวุธและอันตราย:คุณมีปืนกลเบา, อุปกรณ์แฮก (คีย์การ์ด), และชุดปฐมพยาบาล
 Startling Speed:When no humans can see you, you move very quickly. If you're being directly watched by a human, you can't move or attack, but all watching humans will simultaneously blink every few seconds, allowing you to act.\nAttacking a human in melee range will instantly kill them if you're able to move.
 Panic:You move more quickly as your health decreases.
 Sinkhole:You place or teleport to your sinkhole, represented by a black splotch on the ground.\nYou can only have one sinkhole at a time, but it can be moved at any time. Teleporting takes a few seconds.
