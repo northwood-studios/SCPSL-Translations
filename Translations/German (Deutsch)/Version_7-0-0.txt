@@ -1,5 +1,5 @@
-YOU DIED
-Press {KEYBINDING_INTERACTION} to place the <color=yellow>Weapon Manager Tablet</color>.
-Press {KEYBINDING_INTERACTION} to pick up the <color=yellow>Weapon Manager Tablet</color>.
-This <color=yellow>workstation</color> already has someone else's <color=yellow>Weapon Manager Tablet</color> connected.
-You need a <color=yellow>Weapon Manager Tablet</color> to use this <color=yellow>workstation</color>.
+DU BIST GESTORBEN
+DRÜCKE {KEYBINDING_INTERACTION} UM DAS <color=yellow>WAFFENBEARBEITUNGS TABLET</color> EINZULEGEN.
+DRÜCKE {KEYBINDING_INTERACTION} UM DAS <color=yellow>WWAFFENBEARBEITUNGS TABLET</color> AUFZUNEHMEN.
+In diesem <color=yellow>Arbeitsplatz</color> befindet sich das <color=yellow>Waffenbearbeitungs Tablet</color> von jemand anderem.
+Du brauchst ein <color=yellow>Waffenbearbeitungs Tablet</color> um diesen <color=yellow>Arbeitsplatz</color> zu nutzen.

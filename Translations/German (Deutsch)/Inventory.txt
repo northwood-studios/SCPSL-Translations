@@ -1,0 +1,30 @@
+Hausmeister Zugangskarte\n<size=14><color=#ffc>SCP Eindämmung : Tier 1</color></size>\n<size=16>\nEindämmungkammer Zugang : <color=#ff6600>NIEDRIG</color>\nWaffenkammer Zugang : <color=#ff0000>KEINER</color>\nIntercom Zugang : <color=#ff0000>KEINER</color>\n\nCheckpoint Berechtigung : <color=#ff0000>KEINER</color>\nEingangstor Zugangsberechtigung : <color=#ff0000>KEINER</color>\n</size>
+Wissenschaftler Zugangskarte\n<size=14><color=#ffc>SCP Eindämmung : Tier 2</color></size>\n<size=16>\nEindämmungkammer Zugang : <color=#ffff00>MITTEL</color>\nWaffenkammer Zugang : <color=#ff0000>KEINER</color>\nIntercom Zugang : <color=#ff0000>KEINER</color>\n\nCheckpoint Berechtigung : <color=#ff0000>KEINER</color>\nEingangstor Zugangsberechtigung : <color=#ff0000>KEINER</color>\n</size>
+Oberwissenschaftler Zugangskarte\n<size=14><color=#ffc>SCP Eindämmung : Tier 3</color></size>\n<size=16>\nEindämmungkammer Zugang : <color=#ffff00>MITTEL</color>\nWaffenkammer Zugang : <color=#ff0000>KEINER</color>\nIntercom Zugang : <color=#ff0000>KEINER</color>\n\nCheckpoint Berechtigung : <color=#ff0000>KEINER</color>\nEingangstor Zugangsberechtigung : <color=#ff0000>KEINER</color>\n</size>
+Zonenmanager Zugangskarte\n<size=14><color=#f77>Administration : Tier 1</color></size>\n<size=16>\nEindämmungkammer Zugang : <color=#ff6600>NIEDRIG</color>\nWaffenkammer Zugang : <color=#ff0000>KEINER</color>\nIntercom Zugang : <color=#ff0000>KEINER</color>\n\nCheckpoint Berechtigung : <color=#00ff00>JA</color>\nEingangstor Zugangsberechtigung : <color=#ff0000>KEINER</color>\n</size>
+Wachpersonal Zugangskarte\n<size=14><color=#cef>Security : Tier 1</color></size>\n<size=16>\nEindämmungkammer Zugang : <color=#ff6600>NIEDRIG</color>\nWaffenkammer Zugang : <color=#ff6600>NIEDRIG</color>\nIntercom Zugang : <color=#ff0000>KEINER</color>\n\nCheckpoint Berechtigung : <color=#00ff00>JA</color>\nEingangstor Zugangsberechtigung : <color=#ff0000>KEINER</color>\n</size>
+Höheres Wachpersonal Zugangskarte\n<size=14><color=#cef>Security : Tier 2</color></size>\n<size=16>\nEindämmungkammer Zugang : <color=#ffff00>MITTEL</color>\nWaffenkammer Zugang : <color=#ffff00>MITTEL</color>\nIntercom Zugang : <color=#ff0000>KEINER</color>\n\nCheckpoint Berechtigung : <color=#00ff00>JA</color>\nEingangstor Zugangsberechtigung : <color=#ff0000>KEINER</color>\n</size>
+Eindämmungsingeniuer Zugangskarte\n<size=14><color=#ffc>SCP Eindämmung : Tier 4</color></size>\n<size=16>\nEindämmungkammer Zugang : <color=#00ff00>ALLE</color>\nWaffenkammer Zugang : <color=#ff0000>KEINER</color>\nIntercom Zugang : <color=#00ff00>JA</color>\n\nCheckpoint Berechtigung : <color=#00ff00>JA</color>\nEingangstor Zugangsberechtigung : <color=#ff0000>KEINER</color>\n</size>
+MTF Leutnant Zugangskarte\n<size=14><color=#cef>Security : Tier 3</color></size>\n<size=16>\nEindämmungkammer Zugang : <color=#ffff00>MITTEL</color>\nWaffenkammer Zugang : <color=#ffff00>MITTEL</color>\nIntercom Zugang : <color=#ff0000>KEINER</color>\n\nCheckpoint Berechtigung : <color=#00ff00>JA</color>\nEingangstor Zugangsberechtigung : <color=#00ff00>JA</color>\n</size>
+MTF Kommandant Zugangskarte\n<size=14><color=#cef>Security : Tier 4</color></size>\n<size=16>\nEindämmungkammer Zugang : <color=#ffff00>MITTEL</color>\nWaffenkammer Zugang : <color=#00ff00>ALLE</color>\nIntercom Zugang : <color=#00ff00>JA</color>\n\nCheckpoint Berechtigung : <color=#00ff00>JA</color>\nEingangstor Zugangsberechtigung : <color=#00ff00>JA</color>\n</size>
+Einrichtungsmanager Zugangskarte\n<size=14><color=#f77>Administration : Tier 2</color></size>\n<size=16>\nEindämmungkammer Zugang : <color=#00ff00>ALLE</color>\nWaffenkammer Zugang : <color=#ff0000>KEINER</color>\nIntercom Zugang : <color=#00ff00>JA</color>\n\nCheckpoint Berechtigung : <color=#00ff00>JA</color>\nEingangstor Zugangsberechtigung : <color=#00ff00>JA</color>\n</size>
+Chaos Insurgent Einbruchsgerät \n<size=14><color=#f77>Administration : Tier 3</color></size>\n<size=16>\nEindämmungkammer Zugang : <color=#ffff00>MITTEL</color>\nWaffenkammer Zugang : <color=#00ff00>ALLE</color>\nIntercom Zugang : <color=#00ff00>JA</color>\n\nCheckpoint Berechtigung : <color=#00ff00>JA</color>\nEingangstor Zugangsberechtigung : <color=#00ff00>JA</color>\n</size>
+O5 level Zugangskarte\n<size=14><color=#f77>Administration : Tier 4</color></size>\n<size=16>\nEindämmungkammer Zugang : <color=#00ff00>ALLE</color>\nWaffenkammer Zugang : <color=#00ff00>ALLE</color>\nIntercom Zugang : <color=#00ff00>JA</color>\n\nCheckpoint Berechtigung : <color=#00ff00>JA</color>\nEingangstor Zugangsberechtigung : <color=#00ff00>JA</color>\n</size>
+Radio\n\n<size=14>SR = kurze Reichweite \nMR = Medium Reichweite \nLR = weite Reichweite \nUR = Ultra Reichweite \nVerbraucht Batterieladung wenn eingeschaltet. Höhere Reichweite resultiert in höhreren Batterieverbrauch.</size>
+COM15 Pistole\n\n<size=14>einfach Selbstverteidigungs Pistole.</size>
+Medkit\n\n<size=14>Heilt deine Wunden!.</size>
+Flashlight\n\n<size=14>"Es werde Licht!"</size>
+MicroHID\n\n<size=14>Mobile Hochintensitäts Elektronenschleuder. \nNahkampf.\nEinmalige Benutzung. \n10 Sekunden Aufladezeit.</size>
+Coin\n\n<size=14>sieht aus wie 50cents!</size>
+Cup\n\n<size=14>ein Becher gefüllt mit einer unidentifizierbarer Flüssigkeit.</size>
+Waffenwerkbank\n\n<size=14>Passe deine Waffen an!.</size>
+Epsilon-11 Standard Gewehr\n\n<size=14>Standard Nine-Tailed Fox Ausrüstung.</size>
+Project 90\n\n<size=14>Eine verbesserte Version der P90 MP.</size>
+Munition
+MP7\n\n<size=14>Wachpersonal Standard Ausrüstung.</size>
+Logicer\n\n<size=14>Leichtes Maschienengewehr.\nStandard C. I. Ausrüstung.</size>
+Splittergranate\n\n<size=14>Boom!</size>
+Blendgranate\n\n<size=14>Blendet deine Gegner.</size>
+Entwaffner\n\n<size=14>Linksklick entwaffnet, Rechtsklick macht es rückgängig. Achte darauf das die Person nicht schleicht!. \nHalte E gedrückt auf eines deiner Teammitglieder um es zu entfesseln.</size>
+Munition
+Munition

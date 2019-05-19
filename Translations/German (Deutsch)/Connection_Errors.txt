@@ -1,19 +1,19 @@
-<size=80>Du wurdest gekickt</size>\nDer Server hat ihre Verbindung unterbrochen.\n<size=26>\nDu wurdest wahrscheinlich voruebergehend gebannt\noder du erreichst nicht die Anforderungen des Servers (unter anderem die Verbindung zu Steam).\nFuer moegliche bans - Sind die Spiel ersteller <u>nicht</u> verantwortlich.\n</size>
-<size=80>Spiel verlassen</size>\nDer Host ist nicht verfuegbar.
-<size=80>Spiel verlassen</size>\nDie spezifische Verbindungs ID existiert nicht.
-<size=80>Spiel verlassen</size>\nDer spezifische Kanal existiert nicht.
-<size=80>Spiel verlassen</size>\nDer Server ist voll.
-<size=80>Spiel verlassen</size>\nFalsches Paket erhalten.
-<size=80>Spiel verlassen</size>\nVerbindung verloren (timed out).
-<size=80>Spiel verlassen</size>\nVerbindung verloren (timed out).
-<size=80>Spiel verlassen</size>\nOperation ist nicht supported.
-<size=80>Spiel verlassen</size>\nFalsche Server config (Version ist nicht kompatibel).
-<size=80>Spiel verlassen</size>\nFalsche Server config.
-<size=80>Spiel verlassen</size>\nDie Adresse existiert nicht oder kann nicht aufgeloest werden.
-<size=80>Spiel verlassen</size>\nEin unerwartetes Problem ist aufgetreten!
-<size=80>Bitte warte</size>\n<size=35>Baue Verbindung auf...</size>
-<size=80>Runden Ende</size>\n<size=35>Die Runde startet neu...</size>
-<size=80>Bitte warte</size>\n<size=35>Lade das Tutorial...</size>
-<size=80>Version inkompatibilitaet</size>\nDein Spiel ist in einer anderen Version als der Server\n(Deine - [your]; Server - [server])
-<size=80>Beigetreten</size>\n<size=35>Lade das Level...</size>
-<size=35>Lade die Einrichtung...</size>
+<size=80>Du wurdest gekickt</size>\nDer Server hat die Verbindung gestoppt.\n<size=26>\nDu wurdest möglicherweise temporär gebannt, oder du erfüllst die Serveranforderungen nicht (Verbindung zu Steam).\nFür mögliche temporäre Bans sind die Spieleentwickler <u>nicht</u> verantwortlich.\n</size>
+<size=80>Verbindung unterbrochen</size>\nDer angegebene Host ist nicht erreichbar.
+<size=80>Verbindung unterbrochen</size>\nDie angegebene Verbindungs-ID existiert nicht.
+<size=80>Verbindung unterbrochen</size>\nDer angegebene Kanal existiert nicht.
+<size=80>Verbindung unterbrochen</size>\nServer ist voll.
+<size=80>Verbindung unterbrochen</size>\nFalsches Paket erhalten.
+<size=80>Verbindung unterbrochen</size>\nZeitüberschreitung (time out).
+<size=80>Verbindung unterbrochen</size>\nZeitüberschreitung (time out).
+<size=80>Verbindung unterbrochen</size>\nOperation ist nicht unterstützt.
+<size=80>Verbindung unterbrochen</size>\nFalsche Serverkonfiguration (Version ist nicht kompatibel).
+<size=80>Verbindung unterbrochen</size>\nFalsche Serverkonfiguration
+<size=80>Verbindung unterbrochen</size>\nDie Adresse ist ungültig oder kann nicht zurückverfolgt werden.
+<size=80>Verbindung unterbrochen</size>\nEin unerwartetet Fehler ist aufgetreten!
+<size=80>BITTE WARTEN</size>\n<size=35>Verbindung wird aufgebaut...</size>
+<size=80>RUNDEN NEUSTART</size>\n<size=35>Die Runde wird neugestartet...</size>
+<size=80>BITTE WARTEN</size>\n<size=35>Lade das Tutorial...</size>
+<size=80>VERSION INKOMPATIBILITÄT</size>\nDu nutzt eine unterschiedliche Spielversion als der Server.\n(Deine - [your]; Server - [server])
+<size=80>VERBUNDEN</size>\n<size=35>Laden des Levels...</size>
+<size=35>Laden der Einrichtung...</size>

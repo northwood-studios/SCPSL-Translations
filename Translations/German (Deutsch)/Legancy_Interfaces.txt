@@ -1,17 +1,17 @@
-Gib' Anweisungen
-Folg' den Anweisungen
-Gleicher Rang
-Entkommenes Klasse-D Personal
-Wissenschaftler ueberlebten
-wurden von SCPs getoetet
-Neutralisierte SCP objekte
+GEBE ANWEISUNGEN
+FOLGE ANWEISUNGEN
+SELBER RANG
+Klasse-D Personal entkam
+Wissentschaftler überlebten
+getötet von SCP's
+zerstörte SCP Einheiten
 Alpha Warhead
-Gesprengt
-Unbenutzt
-Die naechste Runde startet in [time]sek.
-Spezialfaehigkeit
-Schlupfloch erstellen
-Schlupfloch benutzen
-YOU DIED
-You were killed by
-as
+gezündet
+ungenutzt
+Die nächste Runde startet in [time] Sekunden.
+SPEZIALFÄHIGKEIT
+ERSTELLE SCHLUPFLOCH
+NUTZE SCHLUPFLOCH
+DU BIST GESTORBEN
+Du wurdest getötet von
+als

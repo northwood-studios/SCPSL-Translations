@@ -1,4 +1,4 @@
-Du wirst benachrichtigt welche Rolle du bist wenn die Runde startet. Jede Rolle hat verschiedene Ziele die sie erfuellen muessen. Wenn du mehr wissen willst, druecke den Hilfeknopf.
-Manche Tueren brauchen bestimmte Zugriffsstufen. Finde die Karte mit der angemessenem Zugriffsstufe und versuche es erneut.
-Der Alpha-Sprengkopf wurde ausgeschaltet. Gehe zum Silo in der Schweren Sicherheitszone um ihn anzuschalten.
-SCP-294 braucht eine Muenze!
+Du wurdest über deine Fraktion informiert als die Runde gestartet ist. Jede Fraktion hat Ziele welche sie erreichen sollte. Wenn du mehr erfahren möchtest, drücke den Hilfeknopf.
+Manche Türen benötigen ein bestimmtes Zugangslevel. Finde eine Zugangskarte mit genügend hohem Zugangslevel und versuch es erneut.
+Alpha Warhead wurde ausgeschaltet. Geh zum Silo im Hochsicherheits um den Alpha Warhead wieder einzuschalten.
+SCP-294 benötigt eine Münze!.

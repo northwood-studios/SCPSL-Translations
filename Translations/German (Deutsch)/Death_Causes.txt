@@ -1,17 +1,17 @@
-Explodierte.
-Viel dem Boden zum Opfer.
-Used as a sacrifice to re-contain SCP-106.
-Verloren in der Pocket-Dimension.
-Der Rest von SCP-106.
-Hochspannungs elektrischer Schock.
-Zerkleinert von einem schweren Objekt.
-Es sind viele Schusswunden am Koerpor. Wahrscheinlich wurde [ammotype] Munition benutzt.
-Genickbruch an der Basis des Halzes.
-Ueberlebte die Begegnung mit SCP-106 nicht.
-Von einer Krankheit geheilt.
-Unbekannter Todesgrund.
-<b>[user]</b>'s Koerper, er oder sie war [class]!\n\nTodesgrund: [cause]
-Wurde von SCP-096 in stuecke gerissen.
-Powerful bite to cranium.
-Melted by strongly corrosive substance.
-Post-explosion wounds.
+Verdampfte durch den Alpha Warhead
+gebrochene Beine und Füße suggerieren ein tödliches Trauma verursacht durch einen hohen Fall.
+Anzeichen eines schweren Traumas an beiden Oberschenkelknochen, deuten auf einen Tod durch Kreislaufschock hin.
+Verweste in der Pocket Dimension.
+Überreste von SCP-106.
+Schwere elektrische Verbrennungen.
+Tödliches stumpfes Trauma; Der Körper ist schwer verstümmelt und zerdrückt.
+[ammotype] Schusswunden.
+starke Frakturen an der Schädelbasis.
+massive Mengen an Gewebeverfall sind auf dem Körper vorhanden.
+plötzliches Aufhören der Lebenszeichen. Kein klares Trauma.
+unbekannte Todesursache.
+Es ist <b>[user]</b>'s Körper! - Er/Sie war [class]!\n\nTodesgrund: [cause]
+massive Schnittwunden und übermäßiger Blutverlust.
+große, tiefe Bisswunden verteilt um den Schädel sind sichtbar.
+wurde von einer stark ätzenden Substanz zerschmolzen.
+Splitter- und Verbrennungen dritten Grades durch eine Explosion.

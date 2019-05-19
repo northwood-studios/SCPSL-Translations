@@ -1,62 +1,62 @@
-Beitreten
-Schliessen
-Schatten-Aufloesung
+BEITRETEN
+SCHLIESSEN
+Schattenauflösung
 Einstellungen
 Basiert auf <i>SCP: CONTAINMENT BREACH</i>
-Zurueck
-Sprache
-Kantenglaettung
-Aendere Detail:\n- Lichtpixel-Anzahl - Die maximale anzahl an Lichtrender die ihre eigenen inviduellen pixel besitzen.\n- V-Sync - Aktiviere die Synchronisierung der neu lade rate mit dem Display.
-Beitreten
-Nach\nBearbeitung
-Credits
-Spiel verlassen
-Vollbild
-Bildschirm Einstellungen
-Farb verbesserung
-IP Adresse eingeben...
-Bilschirm Aufloesung
+ZURÜCK
+SPRACHE
+KANTENGLÄTTUNG
+Ändere Details:\n-PIXEL LICHT ANZAHLT - maximale Anzahl and Lichtquellen welche in seperaten Pixeln gerendert werden.\n-V-Sync - synchronisiert mit der Bildwiederholrate deines Monitors.
+SPIEL BEIRETEN
+Nach-\nbearbeitung
+CREDITS
+SPIEL BEENDEN
+VOLLBILD MODUS
+BILDSCHIRM EINSTELLUNGEN
+FARBKORREKTUR
+IP-Adresse eingeben...
+Bildschirmauflösung
 Spielen
-Lichtpixel anzahl
-Schatten typ
+PIXEL LICHT ANZAHL
 Schatten
-Spiel erstellen
-Aendere Einstellungen fuer die Nachbearbeitung. Diese Änderungen wirken sich nicht auf die Leistung aus. Empfohlen ist, die Standardwerte zu bei zu belassen.
-Lichtrender Modus:\nWenn aus - laesst es das Spiel schlechter aussehen. Es wird empfohlen, es nur zu deaktivieren, wenn Sie ein sehr Low-End-Setup haben.
-V-Sync
-Beitreten
-Qualitaets Einstellungen
-Aendere Schatteneinstellungen. Wenn Sie diese Schieberegler auf niedrigere Werte einstellen, kann dies die Spielgeschmeidigkeit erhoehen.
-Hauptmenu
-Lichtrender Modus
-Bewegungs Schaerfe
-Schatten distanz
-Details
+SCHATTEN
+ERSTELLE SPIEL
+Das ändern dieser Einstellung wirkt sich nicht auf die Spielperformance aus. Standard Einstellungen sind empfohlen.
+Einfacher Rendermodus:\nWenn aus - lässt das Spiel schlechter aussehen. Es ist empfohlen diese Einstellung nur zu nutzen wenn du ein schlechtes PC setup (low-end) besitzt.
+V-SYNC
+VERBINDE
+Qualitäts Einstellungen
+Das verschieben des Schiebereglers auf einen niedrigeren Wert kann die allgemeine Performance erhöhen.
+HAUPTMENÜ
+Einfacher Rendermodus
+BEWEGUNGSSCHÄRFE
+Schattenabstand
+DETAILS
 3. SCP-914
-Tutorials
-Warnung
-Durchsuche Server
-Nicht nochmal zeigen
-Wie willst du beitreten
-Server Browser
-Okay
-Spiel finden
-2. Waffen benutzen
-Wir benutzen discord als Forum. Keine installation noetig.\n(klicke auf das logo um bei zu treten)
-Normal wird der Server im lokalem Netzwerk aufgesetzt.\nSpieler brauchen deine <color=#ffff00>offene IP-Adresse und den Port (7777 bis 7782, Port forwarding noetig)</color> um beitreten zu koennen.\nWenn du einen oeffentlichen Server aufsetzen willst, oeffne LocalAdmin.exe und folge den anweisungen.\nWenn du fragen hast, frage unsere Technische hilfe. (link im Hauptmenu)
-1. Die Basiselemente
-Das Spiel ist noch in der Early acces phase.\nEs koennten viele Fehler auftreten.\nDer jetzige zustand ist nicht mit dem Release vergleichbar.
-4. (mehr Tutorials kommen noch)
-Direkt Beitreten
-Technische hilfe / Forum
-Ton lautstaerke
+TUTORIALS
+WARNUNG
+Suche nach verfügbaren Servern.
+Nicht nochmal anzeigen
+Wie würdest du gerne beitreten?
+SERVER BROWSER
+OKAY
+SPIEL FINDEN
+2. Waffen nutzen
+Wir nutzen Discord als Forum. Keine Installation nötig.\n(klick auf das Logo um beizutreten)
+Normal wird der Server im lokalem Netzwerk aufgesetzt.\nSpieler brauchen deine <color=#ffff00>offene IP-Adresse und den Port (7777 bis 7782, Port forwarding nötig)</color> um beitreten zu können.\nWenn du einen öffentlichen Server aufsetzen willst, führe LocalAdmin.exe aus und folge den Anweisungen.\nWenn du Fragen hast, frage unseren Tech-Support. (link im Hauptmenü)
+1. Die Grundlagen
+Das Spiel befindet sich immernoch in der öffentlichen Beta.\nEs könnten Fehler auftreten.\nDer jetztige Zustand reflektiert nicht das finale Spiel.
+4. (mehr Tutorials folgen)
+DIREKT VERBINDEN
+TECH-SUPPORT / FORUM
+Allgemeine Lautstärke
 Gib die IP-Adresse oder Domain des Servers ein.
-Daten werden geladen...
-Keine Server verfuegbar
-Druecke ESC zum schliessen
+DATEN WERDEN HERUNTERGELADEN
+KEINE SERVER VERFÜGBAR
+DRÜCKE ESC ZUM SCHLIESSEN / ABBRECHEN
 Tastenbelegung
-Maximale Blut-Anzahl
+MAX. SICHTBARES BLUT
 FPS Limit
-FPS Limit funktioniert nicht wenn V-Sync angeschaltet ist!
-Zuruecksetzen
-We use Steam Discussions as a forum. (Click the logo below to open the forum)
+FPS Limit funktioniert nicht wenn V-Sync an ist!
+Zurücksetzen
+Wir nutzen die Steam Diskussionen als Forum. (Klicke auf das Logo um das Forum aufzurufen)
