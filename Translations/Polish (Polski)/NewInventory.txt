@@ -30,6 +30,6 @@ Upuszczone 7.62:Debug Item.
 Upuszczone 9mm:Debug Item.
 Pistolet USP:No description.
 SCP-018:Piłka, która odbijając się zwiększa swą prędkość.
-SCP-268:Kiedy założony, tymczasowo stajesz się niewidzialny chyba, że to przerwiesz wykonując jakąś czynność.
+SCP-268:Gdy założysz, staniesz się tymczasowo niewidzialny. \nMożesz ten efekt jednak przerwać, interakcją z czymś.
 Leki przeciwbólowe:Łagodzą drobne obrażenia.
 Adrenalina:Tymczasowo zwiększa wytrzymałość.
