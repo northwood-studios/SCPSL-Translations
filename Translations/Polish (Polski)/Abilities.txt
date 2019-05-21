@@ -17,7 +17,7 @@ Aspołeczna wściekłość:We wściekłości poruszasz się ekstremalnie szybko 
 Zniszczenie:Podczas bycia wściekłym, interakcja z drzwiami spowoduje ich wyważenie.
 Niezwykle Wrażliwy:Nie dostrzegasz ludzi, chyba że biegną, dotkną cię, lub strzelą z broni blisko ciebie.
 Pośpiech:Zwiększa prędkość ruchu.
-Imitacja:Możesz głośno mówić do każdych graczy w pobliżu, wliczając ludzi.
+Imitacja:Możesz głośno mówić do graczy w pobliżu, wliczając w to ludzi.
 Gryzienie:Atakujesz człowieka z bliska, zadając poważne obrażenia.
 Antidotum:Atakując człowieka, natychmiastowo go zabijasz i czynisz go podatnym na reanimację na kilka sekund. To nie ma cooldownu.
 Reanimacja:Trzymając na kilka sekund ten przycisk na ciele kogoś, kogo niedawno zabiłeś, zreanimujesz go, przemieniając człowieka w zombie. Mają mało życia oraz słaby atak, lecz są stosunkowo szybkie i mogą się komunikować z innymi SCP.\nNie ma ustalonej liczby ludzi których możesz zreanimować.
