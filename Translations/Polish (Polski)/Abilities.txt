@@ -6,7 +6,7 @@ Bezbronny:Niczego nie masz. Znajdź coś. Cokolwiek.
 Karta Dostępu:Masz kartę dostępu, nie jest najlepsza, ale postaraj się jej nie zgubić.
 Standardowe Wyposażenie:Jesteś wyposażony w Karabin, Granaty, Radio, Rozbraczacz i Kartę Dostępu.
 Uzbrojony i Niebezpieczny:Wysłano cię z Lekkim Karabinem Maszynowym, Urządzeniem Hakującym (specjalną kartą dostępu) oraz Apteczką.
-Zaskakująca Prędkość:Gdy żaden człowiek cię nie widzi, poruszasz się bardzo szybko. Jeżeli ktoś cię obserwuje, nie możesz się poruszać ani atakować, ale wszyscy obserwatorzy będą równocześnie mrugać co kilka sekund, pozwalając ci na działanie.\nAtakując człowieka w bardzo małym dystansie od niego, zabije go od razu jeśli tylko będziesz mógł się poruszyć.
+Zaskakująca Prędkość:Gdy żaden człowiek cię nie widzi, poruszasz się bardzo szybko. Jeżeli ktoś cię obserwuje, nie możesz się poruszać ani atakować, ale wszyscy obserwatorzy będą równocześnie mrugać co kilka sekund, pozwalając ci na działanie.\nAtakując człowieka na bardzo małym dystansie, zabijesz go od razu jeśli tylko będziesz mógł się poruszyć.
 Popłoch:Im mniej masz zdrowia, tym szybciej się poruszasz.
 Przejście:Stawiasz albo teleportujesz się do przejścia, widocznego jako czarna plama na ziemi.\nMożesz stworzyć tylko jedno przejście, ale możesz je cały czas przenosić. Teleportacja zajmuje kilka sekund.
 Korozja:Możesz przechodzić przez drzwi, wchodząc w nie.
