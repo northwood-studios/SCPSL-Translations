@@ -20,7 +20,7 @@ Pośpiech:Zwiększa prędkość ruchu.
 Imitacja:Możesz głośno mówić do graczy w pobliżu, wliczając w to ludzi.
 Gryzienie:Atakujesz człowieka z bliska, zadając poważne obrażenia.
 Antidotum:Atakując człowieka, natychmiastowo go zabijasz i czynisz go podatnym na reanimację na kilka sekund. To nie ma cooldownu.
-Reanimacja:Trzymając na kilka sekund ten przycisk na ciele kogoś, kogo niedawno zabiłeś, zreanimujesz go, przemieniając człowieka w zombie. Mają mało życia oraz słaby atak, lecz są stosunkowo szybkie i mogą się komunikować z innymi SCP.\nNie ma ustalonej liczby ludzi których możesz zreanimować.
+Reanimacja: Przytrzymując na kilka sekund ten sam przycisk na ciele niedawno zabitej osoby, wskrzesisz ją, przemieniając człowieka w zombie. Mają mało życia oraz słaby atak, lecz są stosunkowo szybkie i mogą się komunikować z innymi SCP.\nNie ma maksymalnej liczby ludzi których możesz zreanimować.
 Uderzenie:Atakujesz człowieka zadając mu małą liczbę obrażeń.
 Otwórz/Zamknij Drzwi:Możesz zachodzić w interakcję z drzwiami za 5 punktów energii. Możesz również je zablokować, wyczerpując swą energię, lecz zapobiegając innym ich otworzenie lub zamknięcie, dopóki ich nie odblokujesz lub nie stracisz całej energii.
 Przeciążenie Tesli:Możesz aktywować bramę tesli za 50 punktów energii, by od razu ją uruchomić, zabijając każdego gracza w lub w jej otoczeniu.
