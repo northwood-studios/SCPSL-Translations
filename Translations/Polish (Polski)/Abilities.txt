@@ -1,7 +1,7 @@
 Nie Znaleziono Umiejętności:Umiejętność o podanym ID nie istnieje.
 Sprint:Zwiększa twoją prędkość ruchu, lecz poruszasz się wówczas głośniej.
 Skradanie:Twoje ruchy są cichsze, ale wolniejsze.
-Ekwipunek:Otwórz ekwipunek i wybierz item który podniosłeś używając LPM, lub upuść używając PPM.
+Ekwipunek:Otwórz ekwipunek i wybierz przedmiot który podniosłeś, używając LPM, lub upuść go, używając PPM.
 Bezbronny:Niczego nie masz. Znajdź coś. Cokolwiek.
 Karta Dostępu:Masz kartę dostępu, nie jest najlepsza, ale jej nie zgub.
 Standardowe Wyposażenie:Jesteś wyposażony w Karabin, Granaty, Radio, Rozbraczacz i Kartę Dostępu.
