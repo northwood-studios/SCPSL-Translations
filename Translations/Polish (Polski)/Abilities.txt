@@ -10,7 +10,7 @@ Zaskakująca Prędkość:Gdy żaden człowiek cię nie widzi, poruszasz się bar
 Popłoch:Im mniej masz zdrowia, tym szybciej się poruszasz.
 Przejście:Stawiasz albo teleportujesz się do przejścia, widocznego jako czarna plama na ziemi.\nMożesz stworzyć tylko jedno przejście, ale możesz je cały czas przenosić. Teleportacja zajmuje kilka sekund.
 Korozja:Możesz przechodzić przez drzwi, wchodząc w nie.
-Nietykalny: Nie otrzymujesz od niczego obrażeń prócz granatów i elektryczności, ale twoja przechowalnia ma małe pomieszczenie, gdzie gracz może wejść, aby się zabić. Odtąd, każdy może kliknąć przycisk w twojej przechowalni, aby cię od razu zabezpieczyć po piętnastu sekundach.
+Nietykalny: Nie otrzymujesz obrażeń od niczego oprócz granatów i elektryczności, ale twoja przechowalnia ma małe pomieszczenie, gdzie gracz może wejść, aby się zabić. Odtąd każdy może kliknąć przycisk w twojej przechowalni, aby po piętnastu sekundach cię zabezpieczyć.
 Wymiar Łuzowy:Chwytasz człowieka i teleportujesz go do wymiaru łuzowego z ośmioma ścieżkami; jedna z tych ścieżek teleportuje go do losowego pomieszczenia w placówce, a pozostałe siedem zabija.\nLudzie po woli umierają, będąc w tym wymiarze.
 Nieśmiały:Normalnie, poruszasz się powoli, nie możesz atakować oraz wydajesz cichy płacz. Jeśli ludzie spojrzą się na ciebie wystarczająco długo, staniesz w miejscu, i wejdziesz w wściekłość.
 Aspołeczna wściekłość:W wściekłości, poruszasz się ekstremalnie szybko oraz głośno krzyczysz. Wściekłość trwa do dwudziestu sekund; po jej zakończeniu, nie możesz wejść w wściekłość na krótki czas, a podczas tego nie płaczesz.\nPodczas bycia wściekłym, trzymanie Lewego Przycisku Myszy, od razu zabije człowieka w małej odległości od ciebie.
