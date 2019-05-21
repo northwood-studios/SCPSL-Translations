@@ -1,4 +1,4 @@
-Nie Znaleziono Umiejętności:Umiejętność z podanym ID nie istnieje.
+Nie Znaleziono Umiejętności:Umiejętność o podanym ID nie istnieje.
 Sprint:Zwiększa twoją prędkość ruchu, lecz poruszasz się wówczas głośniej.
 Skradanie:Twoje ruchy są cichsze, ale wolniejsze.
 Ekwipunek:Otwórz ekwipunek i wybierz item który podniosłeś używając LPM, lub upuść używając PPM.
