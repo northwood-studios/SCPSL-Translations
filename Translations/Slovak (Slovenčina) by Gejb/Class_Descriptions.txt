@@ -1,0 +1,17 @@
+﻿Zabi všetky\nNenechaj kohokoľvek utiecť\nSpolupracuj s ostatnými <color=#f00>SCP</color>
+Dostaň sa von z komplexu\nspolupracuj sa <color=#008f1e>Vzbúrencami Chaosu</color>\nDrž si odstup od ostatných týmov
+Čoskoro sa znovuzrodíš.
+Zabi všetky\nNenechaj kohokoľvek utiecť\nSpolupracuj s ostatnými <color=#f00>SCP</color>
+Pomôž <color=#FFFF7CFF>vedcom</color> utiecť\nNeutralizuj ostatné objekty
+Zabi všetky\nNenechaj kohokoľvek utiecť\nSpolupracuj s ostatnými <color=#f00>SCP</color>
+Dostaň sa von z komplexu\nSpolupracuj s jednotkami <color=#0096FF>MTF</color>\nDrž si odstup od ostatných tímov
+Zabi všetky\nNenechaj kohokoľvek utiecť\nSpolupracuj s ostatnými <color=#f00>SCP</color>
+Pomôž <color=#FF8E00>personálu Triedy-D</color> utiecť\nNeutralizuj ostatné objekty
+Zabi všetky\nNenechaj kohokoľvek utiecť\nSpolupracuj s ostatnými <color=#f00>SCP</color>
+Zabi všetky\nNenechaj kohokoľvek utiecť\nSpolupracuj s ostatnými <color=#f00>SCP</color>
+Pomôž <color=#FFFF7CFF>vedcom</color> utiecť\nNeutralizuj ostatné objekty
+Pomôž <color=#FFFF7CFF>vedcom</color> utiecť\nNeutralizuj ostatné objekty
+Pomôž <color=#FFFF7CFF>vedcom</color> utiecť\nNeutralizuj ostatné objekty
+Pre dokončenie postupujte podľa pokynov.
+Help <color=#FFFF7CFF>scientists</color> to escape\nCooperate with <color=#0096FF>MTF</color>\nNeutralize other subjects
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#f00>SCPs.</color>
