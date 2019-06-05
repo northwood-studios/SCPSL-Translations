@@ -15,5 +15,5 @@
 <size=80>Restart kola</size>\n<size=35>Server reštartuje kolo...</size>
 <size=80>Čakajte prosím</size>\n<size=35>Načítanie tutoriálu...</size>
 <size=80>NEKOMPATIBILITA VERZIÍ</size>\nVaša verzia hry je iná ako verzia hry na serveri\n(Vaša - [your]; Serveru - [server])
-<size=80>CONNECTED</size>
-<size=35>Loading the facility...</size>
+<size=80>PRIPOJENÉ</size>
+<size=35>Nacitanie zariadenia...</size>
