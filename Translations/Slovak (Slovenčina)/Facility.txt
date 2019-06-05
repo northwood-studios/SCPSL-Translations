@@ -1,0 +1,33 @@
+﻿Hlasitosť konverzácie
+Áno
+ZAHÁJIŤ ZAČIATOK
+Núdzová procedúra \ nZNOVU-uväznený SCP-106
+Obrátiť os-Y
+Prehľad
+Zrušiť
+I N V E N T Á R
+Jas
+Nastavenie
+Odpojiť sa
+HLAVICE ALPHA JE VYPNUTÁ
+Prístup zamietnutý
+Hovoriť
+Plný inventár
+Citlivosť myši
+HACKOVANIE
+ZBIERAM...
+Zvyšovanie jasu <b>značne zhoršuje prostredie </b>celej hry.\nSnaž sa túto hodnotu nastaviť čo najnižšie.\n<b>Je doporučené zanechať hodnotu tak, ako je.</b>
+[1] OTVORIŤ/ZAVRIEŤ DVERE\n[2] ZAMKNÚŤ DVERE*\n\n*Zamykanie dverí potrebuje špeciálnu schopnosť 
+SCP-079 uzamkol tieto dvere
+Cez celú obrazovku
+Naozaj chcete opustiť server?
+Základné nastavenie. Plnohodnotné nastavenia nájdete v menu.
+Čaká sa na hráčov.
+PREHĽAD
+Pokračovať
+HLASITOSŤ
+Hráčov
+Úspešne si utiekol ako vedec a pripojíš sa k jednotke MTF.
+Úspešne si utiekol ako personál Triedy-D a pripojíš sa k jednotke vzbúrencov Chaosu.
+Si
+Čas úniku: [escape_minutes] minút [escape_seconds] sekundy

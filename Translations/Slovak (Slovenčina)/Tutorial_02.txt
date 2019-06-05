@@ -1,0 +1,28 @@
+Dobře, tak tedy začneme...\nSchopnost střílet se zbraní, je v této hře naprosto nedocenitelná... <i>jednoduše</i>.\nVezmi tu pistol co před tebou právě přistála na stole.
+Tutorial2_Curtain
+Právě jsi sebral tu nejvíc na h***o zbraň jakou jsi vůbec mohl. Ale zvykej si, protože tě nejednou dostane z pěkně zapeklitých situací. Jo, a je dobrý mít u sebe nějakou munici. Občas není úplně jednoduchý ji sehnat, takže radši zkus střílet s rozumem.
+Tutorial2_GiveAmmo
+Pamatuj si, že headshoty ti pomohou sundat nepřítele rychleji. Když ti teď náhodou dojde munice, nemusíš se bát. Trochu ti ji doplním!
+<color=#00FF58>Klávesou <b>R</b> pak svoji zbraň přebiješ,\n<b>pravým tlačítkem myši</b> zaměříš\na <b>levým</b> vystřelíš.</color>
+Tutorial2_Result
+Působivé, sundal si je všechny na jeden zásobník!
+Tutorial2_Jumpin
+No vidím, že jsi na střelbu dobrý!
+Tutorial2_Jumpin
+No, čekal jsem to trochu lepší.
+Tutorial2_GiveNTFRifle
+Doufám, že tuhle zbraň nenávidíš tak jako já, ale teď dáme hračky stranou a zkusíme pořádnou pušku. Tahle má dokonce zaměřovač s nočním viděním - to ti dost usnadní práci.\nMěl bys taky vědět, že zaměřování ti zaručuje lepší přesnost a menší zpětný ráz.
+Tutorial2_Preset
+Tutorial2_Curtain
+Tutorial2_Curtain
+Vidím, že se do toho začínáš dostávat! Tak jsem pro tebe připravil výzvu.\nMáš 20 sekund na to, abys postřílel co nejvíc lidí můžeš.\nTak jdeme na to!
+Jsi připravený? 3, 2, 1... STŘÍLEJ!
+Tutorial2_Preset
+Tutorial2_Curtain
+
+Tutorial2_ResultText
+Tutorial2_Curtain
+Čas vypršel!
+Nezapomeň, že tento tutoriál můžeš navštívit i později,\nkdyby si měl náhodou chuť se trochu procvičit!\nJeště se uvidíme!
+
+Tutorial2_MoreAmmo
