@@ -1,0 +1,17 @@
+﻿Zomrel na výbuch.
+Pád skončil jeho život
+Zomrel za lepšie zajtrajšky.
+Stratil sa v Vreckový Dimenzii.
+Neprežil schôdzku s SCP-106.
+Elektrický šok z veľmi vysokého napätia.
+Bol rozdrvený ťažkým predmetom.
+Na tele je mnoho strelných rán. Vyzerá to, že bola použitá munícia typu [ammotype].
+Zlámaný väz a bezvládne visiace hlava.
+Neprežil schôdzku s SCP-106.
+Bol "vyliečený" z moru.
+Príčina smrti neznáma.
+Toto je telo <b>[user]</b>, triedy [class]!\n\nPríčina smrti: [cause]
+Roztrhaný na kusy SCP-096.
+Silné uštipnutie lebky.
+Rozpúšťa sa silne žieravinou.
+Post-explózne rany.

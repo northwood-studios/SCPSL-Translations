@@ -1,0 +1,7 @@
+Na spustenie pouzite lubovolný klaves so sipkou.
+Navigovat - HORE/DOLE sipky \nvybrat - PRAVO sipka \nBack - LAVO sipka
+[var_name]\n\nTyp municie: [var_atype]\nRezervovat minuciu: [var_ares]\nVelikost zasobniku: [var_mag]\n\nMax. Poskodenie: [var_maxdmg]\nUcinne Poskodenie: [var_effdmg]\nKulky za sekundu: [var_sps]\n\nDostupne prizpusobenia: [var_custs]\n\nPRAVA SIPKA NA UPRAVENI ZBRANE
+Pustis [var_nom]\nHORE/DOLE sipkami zmenit mnozstvi.\nPRAVA sipka pro pusteni.\nLEVA sipka jit zpet.
+Nedostatek munice k pusteni (type [var_nom]). \nLEVA sipka jit zpet.
+HLAVEN
+JINY
