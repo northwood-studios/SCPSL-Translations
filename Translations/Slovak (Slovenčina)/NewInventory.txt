@@ -16,7 +16,7 @@ Lekarnicka:Lieci tvoje zranenia.
 Baterka:Nech je svetlo!
 Micro H.I.D.:Mobilny vysokovykonny elektricky vyboj.
 Mince:Ziadny popis
-Pohár:Ziadny popis
+Pohar:Ziadny popis
 Tablet Pre Spravovanie Zbrani:Pouziva sa na upustenie municie & spravovanie tvojej zbrane.
 MTF-E11-SR:Ziadny popis
 Project 90:Ziadny popis
@@ -25,7 +25,7 @@ MP7:Ziadny popis
 Logicer:Ziadny popis
 Frag Granat:Bum!
 Oslepujuci Granat:Oslep svojich nepriatelov.
-Zatykaè:Lavy klik pro odzbrojenie, pravy pre odvazanie. \nDrz E na niekoho, kto je odzbrojeny na tvojom tyme, aby si ich oslobodil.
+Zatykac:Lavy klik pro odzbrojenie, pravy pre odvazanie. \nDrz E na niekoho, kto je odzbrojeny na tvojom tyme, aby si ich oslobodil.
 Dropped 7.62:Ziadny popis.
 Dropped 9mm:Ziadny popis.
 USP:Ziadny popis.
