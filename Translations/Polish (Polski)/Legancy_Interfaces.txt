@@ -12,6 +12,7 @@ Następna runda rozpocznie się w ciągu [time] sekund.
 UMIEJĘTNOŚĆ SPECJALNA
 STWÓRZ PRZEJŚCIE
 UŻYJ PRZEJŚCIA
-UMARŁEŚ
+NIE ŻYJESZ
 Zostałeś zabity przez
 jako
+Pasywny
