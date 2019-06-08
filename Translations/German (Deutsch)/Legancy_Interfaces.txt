@@ -15,3 +15,4 @@ NUTZE SCHLUPFLOCH
 DU BIST GESTORBEN
 Du wurdest getötet von
 als
+passiv
