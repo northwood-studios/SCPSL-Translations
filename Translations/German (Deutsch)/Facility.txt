@@ -16,7 +16,7 @@ INVENTAR VOLL
 MAUS SENSITIVITÄT
 HACKE
 HEBE AUF...
-Das erhöhen der Helligkeit <b>verschlechtert die Stimmung des Spiels signifikant </b>.\nVersuche diese Einstellung so niedrig wie möglich zu halten..\n<b>Die Standardeinstellung ist empfohlen.</b>
+Das erhöhen der Helligkeit <b>verschlechtert die Stimmung des Spiels signifikant</b>.\nVersuche diese Einstellung so niedrig wie möglich zu halten.\n<b>Die Standardeinstellung ist empfohlen.</b>
 [1] TÜREN ÖFFNEN/SCHLIESSEN\n[2] VERRIEGEL TÜREN*\n\n*Das verriegeln von Türen vebraucht deine Spezialfähigkeit.
 TÜR WURDE VON SCP-079 VERRIEGELT
 Vollbildmodus
