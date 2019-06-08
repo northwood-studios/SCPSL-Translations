@@ -5,9 +5,9 @@ KLASSE-D's SIEGEN
 UNENTSCHIEDEN
 Sie sind verantwortlich für [summary_scpfrags] menschliche Verluste.
 Bedrohung beseitigt. Die Sicherheit dieses Ortes ist wiederhergestellt.
-Die gesamte Foundation Sicherheit wurde getötet.
+Die gesamte Foundationsicherheit wurde getötet.
 Beide Seiten haben erhebliche Verluste erlitten. Der Sieger kann nicht ermittelt werden.
-[summary_d_escaped] Klasse-Ds entkamen
+[summary_d_escaped] Klasse-D's entkamen
 [summary_s_escaped] Wissenschaftler überlebten
 Der Alpha Warhead tötete [summary_warhead_kills] Lebewesen.
 Der Alpha Warhead wurde nicht genutzt.
