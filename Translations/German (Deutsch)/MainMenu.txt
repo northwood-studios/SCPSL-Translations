@@ -6,7 +6,7 @@ Basiert auf <i>SCP: CONTAINMENT BREACH</i>
 ZURÜCK
 SPRACHE
 KANTENGLÄTTUNG
-Ändere Details:\n-PIXEL LICHT ANZAHLT - maximale Anzahl and Lichtquellen welche in seperaten Pixeln gerendert werden.\n-V-Sync - synchronisiert mit der Bildwiederholrate deines Monitors.
+Ändere Details:\n-PIXEL LICHT QUELLEN- maximale Anzahl and Lichtquellen welche in seperaten Pixeln gerendert werden.\n-V-Sync - synchronisiert mit der Bildwiederholrate deines Monitors.
 SPIEL BEIRETEN
 Nach-\nbearbeitung
 CREDITS
@@ -17,7 +17,7 @@ FARBKORREKTUR
 IP-Adresse eingeben...
 Bildschirmauflösung
 Spielen
-PIXEL LICHT ANZAHL
+PIXEL LICHT QUELLEN
 Schatten
 SCHATTEN
 ERSTELLE SPIEL
@@ -26,7 +26,7 @@ Einfacher Rendermodus:\nWenn aus - lässt das Spiel schlechter aussehen. Es ist 
 V-SYNC
 VERBINDE
 Qualitäts Einstellungen
-Das verschieben des Schiebereglers auf einen niedrigeren Wert kann die allgemeine Performance erhöhen.
+Das verschieben des Reglers auf einen niedrigeren Wert kann die allgemeine Performance erhöhen.
 HAUPTMENÜ
 Einfacher Rendermodus
 BEWEGUNGSSCHÄRFE
@@ -49,7 +49,7 @@ Das Spiel befindet sich immernoch in der öffentlichen Beta.\nEs könnten Fehler
 4. (mehr Tutorials folgen)
 DIREKT VERBINDEN
 TECH-SUPPORT / FORUM
-Allgemeine Lautstärke
+Allgemeine Spiellautstärke
 Gib die IP-Adresse oder Domain des Servers ein.
 DATEN WERDEN HERUNTERGELADEN
 KEINE SERVER VERFÜGBAR
