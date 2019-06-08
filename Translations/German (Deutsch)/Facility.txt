@@ -25,7 +25,7 @@ Grundeinstellungen. Volle Liste von Einstellungen befinden sich im Hauptmenü.
 WARTE AUF SPIELER
 ZUSAMMENFASSUNG
 WEITER
-SPIELLAUTSTRÄKE
+SPIELLAUTSTÄRKE
 VERBUNDEN
 Du bist als Wissenschaftler entkommen und trittst dem MTF bei.
 Du bist als Klasse-D entkommen und trittst der Chaos Insurgency bei.
