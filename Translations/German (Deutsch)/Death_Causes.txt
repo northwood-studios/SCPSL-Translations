@@ -1,17 +1,17 @@
 Verdampfte durch den Alpha Warhead
 gebrochene Beine und Füße suggerieren ein tödliches Trauma verursacht durch einen hohen Fall.
 Anzeichen eines schweren Traumas an beiden Oberschenkelknochen, deuten auf einen Tod durch Kreislaufschock hin.
-Verweste in der Pocket Dimension.
+werweste in der Pocket Dimension.
 Überreste von SCP-106.
-Schwere elektrische Verbrennungen.
-Tödliches stumpfes Trauma; Der Körper ist schwer verstümmelt und zerdrückt.
+starke elektrische Verbrennungen.
+tödliches stumpfes Trauma; Der Körper ist schwer verstümmelt und zerdrückt.
 [ammotype] Schusswunden.
 starke Frakturen an der Schädelbasis.
 massive Mengen an Gewebeverfall sind auf dem Körper vorhanden.
-plötzliches Aufhören der Lebenszeichen. Kein klares Trauma.
+plötzliches Aufhören der Lebenszeichen. Kein klares Trauma erkennbar.
 unbekannte Todesursache.
 Es ist <b>[user]</b>'s Körper! - Er/Sie war [class]!\n\nTodesgrund: [cause]
 massive Schnittwunden und übermäßiger Blutverlust.
 große, tiefe Bisswunden verteilt um den Schädel sind sichtbar.
 wurde von einer stark ätzenden Substanz zerschmolzen.
-Splitter- und Verbrennungen dritten Grades durch eine Explosion.
+Splitterwunden- und Verbrennungen dritten Grades durch eine Explosion.
