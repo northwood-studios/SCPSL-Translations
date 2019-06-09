@@ -14,7 +14,7 @@ Radio:SR = kurze Reichweite \nMR = Medium Reichweite \nLR = Lange/Große Reichwe
 COM-15 Pistole:einfache Selbstverteidigungspistole
 Erste Hilfe Paket:Heilt deine Wunden!
 Taschenlampe:Es werde Licht!
-Micro H.I.D.:Mobiler hochintensiver Elektronenentladungswerfer.
+Micro H.I.D.:Mobiler\nhochintensiver Elektronenentladungswerfer.
 SCP-500:Das Allheilmittel.
 SCP-207:Erhöht auf schädliche Weise die motorischen Fähigkeiten.
 Waffenbearbeitungstablet:Wird genutzt um Munition fallen zu lassen und Aufsätze an Waffen anzubringen.
