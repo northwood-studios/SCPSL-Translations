@@ -45,7 +45,7 @@ SPIEL FINDEN
 Wir nutzen Discord als Forum. Keine Installation nötig.\n(klick auf das Logo um beizutreten)
 Normal wird der Server im lokalem Netzwerk aufgesetzt.\nSpieler brauchen deine <color=#ffff00>offene IP-Adresse und den Port (7777 bis 7782, Port forwarding nötig)</color> um beitreten zu können.\nWenn du einen öffentlichen Server aufsetzen willst, führe LocalAdmin.exe aus und folge den Anweisungen.\nWenn du Fragen hast, frage unseren Tech-Support. (link im Hauptmenü)
 1. Die Grundlagen
-Das Spiel befindet sich immernoch in der öffentlichen Beta.\nEs könnten Fehler auftreten.\nDer jetztige Zustand reflektiert nicht das finale Spiel.
+Das Spiel befindet sich immernoch in der öffentlichen Beta.\nEs können Fehler auftreten.\nDer jetzige Zustand reflektiert nicht das finale Spiel.
 4. (mehr Tutorials folgen)
 DIREKT VERBINDEN
 TECH-SUPPORT / FORUM
