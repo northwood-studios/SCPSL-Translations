@@ -1,6 +1,6 @@
 Hausmeister Zugangskarte:No description
 Wissenschaftler Zugangskarte:No description
-Forschungs Supervisor Zugangskarte:No description
+Hauptwissenschaftler Zugangskarte:No description
 Zonenmanager Zugangskarte:No description
 Wachpersonal Zugangskarte:No description
 MTF Kadett Zugangskarte:No description
