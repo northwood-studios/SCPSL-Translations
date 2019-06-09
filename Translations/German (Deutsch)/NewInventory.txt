@@ -22,7 +22,7 @@ MTF-E11-SR:Standard MTF Ausrüstung.
 Project 90:Verbesserte Version der P90.
 Dropped 5.56:Sieht aus wie 5.56 Munition.
 MP7:Standard Ausrüstung des Wachpersonals.
-Logicer:Leichtes Maschienengewehr und standard Ausrüstung der Chaos Insurgency.
+Logicer:Leichtes Maschinengewehr und standard Ausrüstung der Chaos Insurgency.
 Splittergranate:Es macht Boom!
 Blendgranate:Blendet deine Feinde!
 Entwaffner:Linksklick entwaffnet, Rechtsklick macht es rückgängig. Achte darauf das die Person nicht schleicht! \nHalte E auf eines deiner Teammitglieder gedrückt um es zu entfesseln.
@@ -30,6 +30,6 @@ Entwaffner:Linksklick entwaffnet, Rechtsklick macht es rückgängig. Achte darau
 9mm Munition:Sieht aus wie 9mm Munition.
 USP:Stärkere Variante der COM-15.
 SCP-018:Superball, welcher mit extremer Effizienz umher springt.
-SCP-268:Wenn ausgerüstet, macht dich vorübergehend unsichtbar, außer du wirst durch andere Spieler Interaktionen gestört.
+SCP-268:Wenn ausgerüstet, macht dich vorübergehend unsichtbar, außer du wirst durch Interaktionen anderer Spieler gestört.
 Schmerzmittel:Lindert leichte Verletzungen.
 Adrenalin:Erhöht deine Ausdauer vorübergehend.
