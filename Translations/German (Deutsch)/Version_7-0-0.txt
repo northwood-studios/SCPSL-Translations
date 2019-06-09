@@ -1,5 +1,5 @@
 DU BIST GESTORBEN
 Drücke {KEYBINDING_INTERACTION} um das <color=yellow>Waffenbearbeitungstablet</color> einzulegen.
 Drücke {KEYBINDING_INTERACTION} um das <color=yellow>Waffenbeabeitungstablet</color> aufzunehmen.
-In dieser <color=yellow>Workstation</color> befindet sich das <color=yellow>Waffenbearbeitungstablet</color> von jemand anderem.
-Du brauchst ein <color=yellow>Waffenbearbeitungstablet</color> um diese <color=yellow>Workstation</color> zu nutzen.
+In dieser <color=yellow>Werkbank</color> befindet sich das <color=yellow>Waffenbearbeitungstablet</color> von jemand anderem.
+Du brauchst ein <color=yellow>Waffenbearbeitungstablet</color> um diese <color=yellow>Werkbank</color> zu nutzen.
