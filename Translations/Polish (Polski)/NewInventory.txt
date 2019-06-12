@@ -16,7 +16,7 @@ Apteczka:Pozwala opatrzyć rany.
 Latarka:"Niech się stanie światłość!".
 Micro H.I.D.:Mobilny miotacz wyładowań o wysokim napięciu.
 SCP-500: Panaceum.
-SCP-207: Szkodliwie zwiększa umiejętności motoryczne.
+SCP-207: Szkodliwie zwiększa twą prędkość.
 Tablet Menadżera Broni:Używa się do wyrzucania amunicji i modyfikowania broni.
 MTF-E11-SR:No description
 Project 90:No description
