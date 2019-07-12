@@ -1,0 +1,17 @@
+rundan är klar!
+SCPs VANN
+MTF VANN
+KLASS-D VANN
+DÖDLÄGE
+De är ansvariga för att döda [summary_scpfrags] människor.
+Hot har dödats. Denna plats är nu säker igen.
+All Fundament säkerhet har blivit dödad.
+Båda sidorna har drabbats av förluster och gynnats mycket. Vinnaren är obestämd.
+[summary_d_escaped] klass-d flyde
+[summary_s_escaped] forskare överlevde
+Alfa Stridsspets detonation dödade [summary_warhead_kills] varelser.
+Alfa Stridsspets vart inte detonerad under detta uppdrag.
+Detta uppdraget tog [summary_round_minutes] minuter och [summary_round_seconds] sekunder.
+[summary_scp_terminated] döda SCPs
+nästa omgång börjar om [summary_next_round_countdown] sekunder.
+Du har delat [summary_damages] skadestånd, och dödade [summary_kills] spelare.
