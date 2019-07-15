@@ -1,4 +1,4 @@
-﻿<size=80>Bol si vyhodený</size>\nServer prinútil ukončiť spojenie.\n<size=26>\nPravdepodobne si bol dočasne zabanovaný administrátorom \nalebo nesplňuješ požiadavky pre pripojenie (napr. spojenie so službou Steam).\nZa možné časové Bany <u>nie sú</u> tvorcovia hry zodpovední.\n</size>
+<size=80>Bol si vyhodený</size>\nServer prinútil ukončiť spojenie.\n<size=26>\nPravdepodobne si bol dočasne zabanovaný administrátorom \nalebo nesplňuješ požiadavky pre pripojenie (napr. spojenie so službou Steam).\nZa možné časové Bany <u>nie sú</u> tvorcovia hry zodpovední.\n</size>
 <size=80>ODPOJENÝ</size>\nVybraný hosť nie je dostupný.
 <size=80>ODPOJENÝ</size>\nVybraný identifikátor neexistuje.
 <size=80>ODPOJENÝ</size>\nVybraný kanál neexistuje.

@@ -1,13 +1,13 @@
-Karta Upratovacky:No description 
-Vedcova Karta:No description 
-Karta Veduciho Vyskumu:No description 
-Karta Spravca Zony:No description 
-Karta Straze:No description 
-Karta MTF Kadeta:No description 
-Karta Kontaminacneho Inziniera:No description 
-Karta MTF Porucika:No description 
-Karta MTF Velitela:No description 
-Karta Spravca Zariadenia:No description 
+Karta Upratovacky:No description
+Vedcova Karta:No description
+Karta Veduciho Vyskumu:No description
+Karta Spravca Zony:No description
+Karta Straze:No description
+Karta MTF Kadeta:No description
+Karta Kontaminacneho Inziniera:No description
+Karta MTF Porucika:No description
+Karta MTF Velitela:No description
+Karta Spravca Zariadenia:No description
 Pristupove Zariadenie Povstanie Chaosu
 Karta Level-O5
 Radio:SR = Kratky rozsah \nMR = Stredny rozsah \nLR = Dlhy dosah \nUR = Obrie rozsah \nPouziva bateriu, ked je zapnuta. Dlhsi dosah znamena vyssie vyuzitie baterie.

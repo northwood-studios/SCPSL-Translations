@@ -1,4 +1,4 @@
-﻿Hlasitosť konverzácie
+Hlasitosť konverzácie
 Áno
 ZAHÁJIŤ ZAČIATOK
 Núdzová procedúra \ nZNOVU-uväznený SCP-106
@@ -17,7 +17,7 @@ Citlivosť myši
 HACKOVANIE
 ZBIERAM...
 Zvyšovanie jasu <b>značne zhoršuje prostredie </b>celej hry.\nSnaž sa túto hodnotu nastaviť čo najnižšie.\n<b>Je doporučené zanechať hodnotu tak, ako je.</b>
-[1] OTVORIŤ/ZAVRIEŤ DVERE\n[2] ZAMKNÚŤ DVERE*\n\n*Zamykanie dverí potrebuje špeciálnu schopnosť 
+[1] OTVORIŤ/ZAVRIEŤ DVERE\n[2] ZAMKNÚŤ DVERE*\n\n*Zamykanie dverí potrebuje špeciálnu schopnosť
 SCP-079 uzamkol tieto dvere
 Cez celú obrazovku
 Naozaj chcete opustiť server?

@@ -12,6 +12,6 @@ Obe strany utrpeli straty a tazili. Vitaz je neurceny.
 Detonacie Hlavice Alpha terminovala [summary_warhead_kills] bytosti.
 Hlavica Alpha nebola pocas tohto kola detonovana.
 Toto kolo trvalo [summary_round_minutes] minut a [summary_round_seconds] sekund.
-[summary_scp_terminated] terminovali SCPs 
+[summary_scp_terminated] terminovali SCPs
 Dalsie kolo za [summary_next_round_countdown] sekund.
 Udelil si [summary_damages] poskodenie, a zabil [summary_kills] hracov.
