@@ -1,0 +1,28 @@
+Ok, let's get started...\nLearning the basics skills of shooting definitely makes gameplay... <i>easier</i>.\nPick Up the pistol that just landed on the board.
+Tutorial2_Curtain
+So, you just picked up the shittiest weapon in the game. Get used to it, because it'll get you out of some pretty hairy situations. Oh, and it's good to have some ammunition. It is difficult to find it in the game, so shoot as efficiently as you can.
+Tutorial2_GiveAmmo
+Remember, that headshots will take down your opponent faster. If you run out of ammo in this test, I'll give you more!
+<color=#00FF58>Use <b>R</b> to reload,\n<b>right mouse button</b> to zoom\nand <b>left</b> to shoot.</color>
+Tutorial2_Result
+Impressive, you dispatched them all with a single magazine!
+Tutorial2_Jumpin
+Hey, you're pretty good at shooting!
+Tutorial2_Jumpin
+I really hoped for a bigger display of skill, such a shame.
+Tutorial2_GiveNTFRifle
+Ok, I hope you hate this weapon as much as I do, let's put the toys a side, and pick up a real weapon. This one has an night vision sight that makes shooting easier.\nYou should know, that zooming or aiming any weapon guarantees accuracy and a greater reduction of recoil.
+Tutorial2_Preset
+Tutorial2_Curtain
+Tutorial2_Curtain
+I can see you've already mastered the basics! I have prepared a challenge for you.\nYou have 20 seconds to kill as many opponents as you can.\nLet's get started!
+Ready? 3, 2, 1... GO
+Tutorial2_Preset
+Tutorial2_Curtain
+
+Tutorial2_ResultText
+Tutorial2_Curtain
+Time's up!
+Remember that you can always re-visit this tutorial in the future\nif you want to brush up on your skills!\nSee you later!
+
+Tutorial2_MoreAmmo
