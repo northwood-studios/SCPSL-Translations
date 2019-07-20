@@ -1,7 +1,7 @@
-Paina mit‰ tahansa nuolin‰pp‰int‰ aloittaaksesi...
-Navigointi - YL÷S/ALAS nuolin‰pp‰imet \nValitse - OIKEA nuolin‰pp‰in \nTakaisin - VASEN nuolin‰pp‰in
-[var_name]\n\nAmmus tyyppi: [var_atype]\nVara-ammukset: [var_ares]\nLippaan koko: [var_mag]\n\nMaksimivahinko: [var_maxdmg]\nTehokas vahinko: [var_effdmg]\nLaukausta sekunnissa: [var_sps]\n\nK‰ytett‰viss‰ olevat mukautukset: [var_custs]\n\nOIKEA NUOLINƒPPƒIN MUKAUTTAAKSESI ASETTA
-Sin‰ aijot pudottaa [var_nom]\nYL÷S/ALAS nuolin‰pp‰imi‰ muuttaaksesi m‰‰r‰‰.\nOIKEA nuoli pudottaaksesi.\nVASEN nuoli takaisin.
-Ei riitt‰v‰sti ammuksia pudottaa (type [var_nom]). \nVASEN nuoli takaisin.
+Paina mit√§ tahansa nuolin√§pp√§int√§ aloittaaksesi...
+Navigointi - YL√ñS/ALAS nuolin√§pp√§imet \nValitse - OIKEA nuolin√§pp√§in \nTakaisin - VASEN nuolin√§pp√§in
+[var_name]\n\nAmmus tyyppi: [var_atype]\nVara-ammukset: [var_ares]\nLippaan koko: [var_mag]\n\nMaksimivahinko: [var_maxdmg]\nTehokas vahinko: [var_effdmg]\nLaukausta sekunnissa: [var_sps]\n\nK√§ytett√§viss√§ olevat mukautukset: [var_custs]\n\nOIKEA NUOLIN√ÑPP√ÑIN MUKAUTTAAKSESI ASETTA
+Sin√§ aijot pudottaa [var_nom]\nYL√ñS/ALAS nuolin√§pp√§imi√§ muuttaaksesi m√§√§r√§√§.\nOIKEA nuoli pudottaaksesi.\nVASEN nuoli takaisin.
+Ei riitt√§v√§sti ammuksia pudottaa (type [var_nom]). \nVASEN nuoli takaisin.
 PIIPPU
 MUU

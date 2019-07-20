@@ -6,12 +6,12 @@ PATTITILANNE
 He ovat vastuullisia [summary_scpfrags] ihmisen kuolemasta.
 Uhka tuhottu. Laitos on turvallinen taas.
 Kaikki laitoksen vartijat ovat tuhottu.
-Molemmat osapuolet ovat k√§rsineet tappioita ja hy√∂tyneet suuresti. Voittaja on m√§√§rittelem√§t√∂n.
+Molemmat osapuolet ovat k‰rsineet tappioita ja hyˆtyneet suuresti. Voittaja on m‰‰rittelem‰tˆn.
 [summary_d_escaped] luokka-D paennut
 [summary_s_escaped] tutkijoita paennut
-Alpha Ydink√§rjen r√§j√§ytys tuhosi [summary_warhead_kills] olemusta.
-Alpha Ydink√§rki ei r√§j√§ht√§nyt t√§m√§n teht√§v√§n aikana.
-Teht√§v√§ kesti [summary_round_minutes] minuuttia ja [summary_round_seconds] sekunttia.
-[summary_scp_terminated] SCPt√§ tuhottu
+Alpha Ydink‰rjen r‰j‰ytys tuhosi [summary_warhead_kills] olemusta.
+Alpha Ydink‰rki ei r‰j‰ht‰nyt t‰m‰n teht‰v‰n aikana.
+Teht‰v‰ kesti [summary_round_minutes] minuuttia ja [summary_round_seconds] sekunttia.
+[summary_scp_terminated] SCPt‰ tuhottu
 seuraava kierros [summary_next_round_countdown] sekunnissa.
 Teit [summary_damages] vahinkoa ja tapoit [summary_kills] pelaajaa.

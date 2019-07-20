@@ -1,0 +1,62 @@
+LIITY
+SULJE
+VARJO RESOLUUTIO
+ASETUKSET
+PRERUSTUU <i>SCP: CONTAINMENT BREACH</i>IIN
+TAKAISIN
+KIELI
+ANTIALIASOINTI
+Vaihda laatua:\n-PIXELEIDEN VALO-MÄÄRÄ - Maximi määrä valonlähteitä jotka on renderöity pixeleihin.\n-V-Sync - Enabloi synkronointi sinun näyttösi virkistystaajuuden kanssa.
+LIITY PELIIN
+JÄLKI\nKÄSITTELY
+LOPPUTEKSTIT
+LOPETA PELI
+Kokonäyttö tila
+NÄYTÖN ASETUKSET
+VÄRIKORJAUS
+Anna IP osoite...
+NÄYTÖN RESOLUUTIO
+PELAA
+PIXELEIDEN VALO-MÄÄRÄ
+VARJON TYYPPI
+VARJOT
+LUO PELI
+Vaihda jälkikäsittelyn asetuksia. Nämä asetukset eivät yleisesti vaihda suorityskykyä, joten oletusarvojen jättäminen on suositeltu.
+Valon-renderöinnin tila e:\nKun poissa päältä, grafiikkojen laatu on huomattavasti alhaisempi. Tämän asetuksen disablointi on suositeltu vain huonoille koneille.
+V-SYNC
+YHDISTÄ
+LAADUN ASETUKSET
+Vaihda varjojen asetuksia. Laittamalla nämä asetukset alhaisemmaksi voi parantaa pelin sulavaa toimintaa.
+PÄÄVALIKKO
+VALON-RENDERÖINNIN TILA
+LIIKKUMISEN SUMENNUS
+VARJON PITUUS
+YKSITYISKOHDAT
+3. SCP-914
+TUTORIALS
+VAROITUS
+Selaa käytettäviä palvelimia
+Älä näytä uudestaan
+Miten haluaisit liittyä?
+PALVELIN SELAIN
+OKEI
+ETSI PELI
+2. Aseiden käyttö
+Käytämme Discordia foorumina. Asennus ei ole tarpeellista.\n(Paina logoa liittyäksesi)
+Oletukselta, palvelin aloitetaan paikallisella verkolla.\nKaverisi tulevat tarvitsemaan suoraa IP osoitetta yhdistääkseen.\nJos haluat tehdä julkisen palvelimen, valitse LocalAdmin.exe ja seuraa ohjeita.\nJos sinulla on kysymyksiä, Kysys meidän tekniseltä tuelta apua. (linkki päävalikossa)
+1. Perusasiat
+Esitetty peli on vielä beetassa.\nVoit kokea yhdistysongelmia ja bugeja.\nPelin tämänhetkinen tila ei kuvasta loppu-versiota.
+4. (enemmän ohjeita myöhemmin)
+SUORA YHDISTYS
+TEKNINEN TUKI / FOORUMI
+ÄÄNENVOIMAKKUUS
+Anna tietyn palvelimen IP-osoite
+LADATAAN TIETOJA
+EI PALVELIMIA SAATAVILLA
+SULJE PAINAMALLA ESC NÄPPÄINTÄ / PERUUTA
+NÄPPÄINTEN VAIHTO
+MAKSIMI VEREN MÄÄRÄ
+FPS Raja
+FPS Raja ei toimi kun vSync on päällä!
+Aseta Oletus
+Me käytämme Steamin keskusteluja foorumina. (Paina logoa avataksesi foorumin)
