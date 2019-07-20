@@ -9,8 +9,8 @@ Kaikki laitoksen vartijat ovat tuhottu.
 Molemmat osapuolet ovat kärsineet tappioita ja hyötyneet suuresti. Voittaja on määrittelemätön.
 [summary_d_escaped] luokka-D paennut
 [summary_s_escaped] tutkijoita paennut
-Alpha Ydinkärjen räjäytys tuhosi [summary_warhead_kills] olemusta.
-Alpha Ydinkärki ei räjähtänyt tämän tehtävän aikana.
+Alpha Warhead:in räjäytys tuhosi [summary_warhead_kills] olemusta.
+Alpha Warhead:in ei räjähtänyt tämän tehtävän aikana.
 Tehtävä kesti [summary_round_minutes] minuuttia ja [summary_round_seconds] sekunttia.
 [summary_scp_terminated] SCPtä tuhottu
 seuraava kierros [summary_next_round_countdown] sekunnissa.

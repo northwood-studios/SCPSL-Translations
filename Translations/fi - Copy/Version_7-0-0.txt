@@ -1,5 +1,0 @@
-SINÄ KUOLIT
-Paina {KEYBINDING_INTERACTION} laittaaksesi <color=yellow>Aseiden Hallinta Tabletin</color>.
-Paina {KEYBINDING_INTERACTION} ottaaksesi <color=yellow>Aseiden Hallinta Tabletin</color>.
-Tällä <color=yellow>työpisteellä</color> on jo jonkun muun <color=yellow>Aseiden Hallinta Tabletti</color> yhdistettynä.
-Sinä tarvitset <color=yellow>Aseiden Hallinta Tabletin</color> jotta voit käyttää <color=yellow>työpistettä</color>.

@@ -1,7 +1,0 @@
-Paina mitä tahansa nuolinäppäintä aloittaaksesi...
-Navigointi - YLÖS/ALAS nuolinäppäimet \nValitse - OIKEA nuolinäppäin \nTakaisin - VASEN nuolinäppäin
-[var_name]\n\nAmmus tyyppi: [var_atype]\nVara-ammukset: [var_ares]\nLippaan koko: [var_mag]\n\nMaksimivahinko: [var_maxdmg]\nTehokas vahinko: [var_effdmg]\nLaukausta sekunnissa: [var_sps]\n\nKäytettävissä olevat mukautukset: [var_custs]\n\nOIKEA NUOLINÄPPÄIN MUKAUTTAAKSESI ASETTA
-Sinä aijot pudottaa [var_nom]\nYLÖS/ALAS nuolinäppäimiä muuttaaksesi määrää.\nOIKEA nuoli pudottaaksesi.\nVASEN nuoli takaisin.
-Ei riittävästi ammuksia pudottaa (type [var_nom]). \nVASEN nuoli takaisin.
-PIIPPU
-MUU
