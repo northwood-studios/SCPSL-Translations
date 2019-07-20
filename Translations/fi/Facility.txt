@@ -1,4 +1,4 @@
-ÄÄNENVOIMAKKUUS
+ÄÄNICHATTI
 Kyllä
 ALOITA PELI
 SCP-106 UUDELLEEN-ERISTYS\nPROSESSIN OHITUS
@@ -25,7 +25,7 @@ Perus asetukset. Täysi lista asetuksista päävalikossa.
 ODOTETAAN PELAAJIA
 YHTEENVETO
 JATKA
-PÄÄ-ÄÄNENVOIMAKKUUS
+PELIN ÄÄNET
 yhdistetty
 Sinä pakenit Tutkijana ja liityit MTF:ään.
 Sinä pakenit D-Luokkana ja liityit Chaos Insurgency:yn.
