@@ -1,6 +1,6 @@
 Tapa kaikki.\nÄlä anna ihmisten paeta.\nToimi toisten <color=#f00>SCP:eiden</color>kanssa.<color=#ffff00>\nPidä pohjassa vasenta hiirinappia+W ja tähtää kohti vihollistasi tappaakseen heidät.\nOlet nopeampi huonommalla terveystilalla.</color>
 Pakene laitoksesta.\nToimi <color=#008f1e>Chaos Insurgency:n</color> kanssa.\nVaro muita tiimejä.
-Syynyt uudelleen kohta.
+Synnyt uudelleen kohta.
 Tapa kaikki.\nÄlä anna ihmisten paeta.\nToimi toisten <color=#f00>SCP:eiden</color> kanssa.<color=#ffff00>\nVoit kävellä ovien läpi.\nVasen hiirinappi teke vahinkoa ja teleportoi ihmiset sinun tasku-ulottuvuuteen.\nPidä TAB pohjassa jos haluat käyttää teleportaatio-funktioitasi<./color>
 Auta <color=#FFFF7CFF>Tutkijoita</color> pakenemaan.\nTapa kaikki muut.\nOhjaa sotilaitasi. \nSeuraa komentajasi määräyksiä.
 Tapa kaikki.\nÄlä anna ihmisten paeta.\nToimi toisten <color=#f00>SCP:eiden</color> kanssa.<color=#ffff00>\nPaina vasenta hiirinappia tappaaksesi vihollisesi.\nPidä pohjassa E-nappia ihmisissä jotka </color><color=#f00>sinä</color><color=#ffff00> olet tappanut tekeeksesi ne zombeiksi.\nTeet zombeja nopeammin huonommalla terveystilalla.</color>
