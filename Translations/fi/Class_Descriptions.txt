@@ -1,0 +1,17 @@
+Tapa kaikki.\nÄlä anna ihmisten paeta.\nToimi toisten <color=#f00>SCP:eiden</color>kanssa.<color=#ffff00>\nPidä pohjassa vasenta hiirinappia+W ja tähtää kohti vihollistasi tappaakseen heidät.\nOlet nopeampi huonommalla terveystilalla.</color>
+Pakene laitoksesta.\nToimi <color=#008f1e>Chaos Insurgency:n</color> kanssa.\nVaro muita tiimejä.
+Syynyt uudelleen kohta.
+Tapa kaikki.\nÄlä anna ihmisten paeta.\nToimi toisten <color=#f00>SCP:eiden</color> kanssa.<color=#ffff00>\nVoit kävellä ovien läpi.\nVasen hiirinappi teke vahinkoa ja teleportoi ihmiset sinun tasku-ulottuvuuteen.\nPidä TAB pohjassa jos haluat käyttää teleportaatio-funktioitasi<./color>
+Auta <color=#FFFF7CFF>Tutkijoita</color> pakenemaan.\nTapa kaikki muut.\nOhjaa sotilaitasi. \nSeuraa komentajasi määräyksiä.
+Tapa kaikki.\nÄlä anna ihmisten paeta.\nToimi toisten <color=#f00>SCP:eiden</color> kanssa.<color=#ffff00>\nPaina vasenta hiirinappia tappaaksesi vihollisesi.\nPidä pohjassa E-nappia ihmisissä jotka </color><color=#f00>sinä</color><color=#ffff00> olet tappanut tekeeksesi ne zombeiksi.\nTeet zombeja nopeammin huonommalla terveystilalla.</color>
+Pakene laitoksesta.\nToimi toisten <color=#0096FF>MTF:n</color> kanssa.\nVaro muita tiimejä.
+Tapa kaikki.\nÄlä anna ihmisten paeta.\nToimi toisten <color=#f00>SCP:eiden</color> kanssa.
+Auta <color=#FF8E00>D-Luokkaa</color> pakenemaan.\nTapa kaikki muut.
+Tapa kaikki.\nÄlä anna ihmisten paeta.\nToimi toisten <color=#f00>SCP:eiden</color> kanssa.
+Tapa kaikki.\nÄlä anna ihmisten paeta.\nToimi toisten <color=#f00>SCP:eiden</color> kanssa.<color=#ffff00>\nPaina vasenta hiirinappia hyökätäksesi.\nHyökkäät nopeammin huonommalla terveystilalla.</color>
+Auta <color=#FFFF7CFF>Tutkijoita</color> pakenemaan.\nTapa kaikki muut.\nOhjaa sotilaitasi. \nSeuraa komentajasi määräyksiä.
+Auta <color=#FFFF7CFF>Tutkijoita</color> pakenemaan.\nTapa kaikki muut.\nOhjaa sotilaitasi.
+Auta <color=#FFFF7CFF>Tutkijoita</color> pakenemaan.\nTapa kaikki muut.\nSeuraa komentajasi ja luutnanttien määräyksiä.
+Suorita tavoitteesi loppuun noudattamalla tehtäviä.
+Auta <color=#FFFF7CFF>Tutkijoita</color> pakenemaan.\nToimi toisten <color=#0096FF>MTF:n</color> kanssa.\nTapa kaikki muut.
+Tapa kaikki.\nÄlä anna ihmisten paeta.\nToimi toisten <color=#f00>SCP:eiden</color> kanssa.
