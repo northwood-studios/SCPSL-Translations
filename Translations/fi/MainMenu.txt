@@ -2,14 +2,14 @@ LIITY
 SULJE
 VARJO RESOLUUTIO
 ASETUKSET
-PERUSTUU <i>SCP: CONTAINMENT BREACH</i>IIN
+PERUSTUU <i>SCP: CONTAINMENT BREACH</i>
 TAKAISIN
 KIELI
 ANTIALIASOINTI
 Vaihda laatua:\n-PIXELEIDEN VALO-MÄÄRÄ - Maximi määrä valonlähteitä jotka on renderöity pixeleihin.\n-V-Sync - Enabloi synkronointi sinun näyttösi virkistystaajuuden kanssa.
 LIITY PELIIN
 JÄLKI\nKÄSITTELY
-LOPPUTEKSTIT
+TEKIJÄT
 LOPETA PELI
 Kokonäyttö tila
 NÄYTÖN ASETUKSET
@@ -43,7 +43,7 @@ OKEI
 ETSI PELI
 2. Aseiden käyttö
 Käytämme Discordia foorumina. Asennus ei ole tarpeellista.\n(Paina logoa liittyäksesi)
-Oletukselta, palvelin aloitetaan paikallisella verkolla.\nKaverisi tulevat tarvitsemaan suoraa IP osoitetta yhdistääkseen.\nJos haluat tehdä julkisen palvelimen, valitse LocalAdmin.exe ja seuraa ohjeita.\nJos sinulla on kysymyksiä, Kysys meidän tekniseltä tuelta apua. (linkki päävalikossa)
+Oletukselta, palvelin aloitetaan paikallisella verkolla.\nKaverisi tulevat tarvitsemaan suoran IP osoitteen yhdistääkseen.\nJos haluat tehdä julkisen palvelimen, valitse LocalAdmin.exe pelin tiedostoista ja seuraa ohjeita.\nJos sinulla on kysymyksiä, kysy meidän tekniseltä tuelta apua. (linkki päävalikossa)
 1. Perusasiat
 Esitetty peli on vielä beetassa.\nVoit kokea yhdistysongelmia ja bugeja.\nPelin tämänhetkinen tila ei kuvasta loppu-versiota.
 4. (enemmän ohjeita myöhemmin)

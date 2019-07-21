@@ -1,7 +1,7 @@
 APUVIRTA
 KOKEMUS
 KAMERAN KUVA PÄÄLLÄ
-PAINA [KEY]:TÄ AVATAKSESI KARTAN
+PAINA [KEY] AVATAKSESI KARTAN
 Kokemusta saatu:
 Yhteistyö
 D-Luokan tapon avustus
@@ -14,4 +14,4 @@ Yleisiä toimintoja
 Sinuun hyökätään!
 Generaattorit ovat korostettu kartassa
 VAARA
-SCP:t{0}MTF & Vartijat{1}Tutkijat{2}D-Luokka{3}Chaos Insurgent:it{4}
+SCP{0}MTF & Vartijat{1}Tutkijat{2}D-Luokka{3}Chaos Insurgent{4}
