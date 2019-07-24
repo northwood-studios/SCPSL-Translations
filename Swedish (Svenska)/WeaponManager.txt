@@ -1,7 +1,0 @@
-Använd en piltangent för att börja...
-Navigera - UPP/NER piltangenterna \nVälj - HÅGER piltangenterna \nBAKÅT - VÄNSTER piltangenterna
-[var_name]\n\nAmmunition typ: [var_atype]\nFörbehåll ammunition: [var_ares]\nMagasin storlek: [var_mag]\n\nMaximal skada: [var_maxdmg]\nEffektiv skada: [var_effdmg]\nSkott per sekund: [var_sps]\n\nTillgängliga anpassningar: [var_custs]\n\nHÖGER PILTANGENT FÖR ATT SKAPA VAPEN
-Du kommer att släppa [var_nom]\nUPP/NER piltangenterna att ändra kvantitet.\nHÖGER pilen för att släppa.\nVÄNSTER pil till baksida.
-Inte tillräckligt med ammunition att släppa (type [var_nom]). \nVÄNSTER pil till baksida.
-TRUMMA
-ANNAT
