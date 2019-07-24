@@ -1,0 +1,19 @@
+<size=80>DU HAR BLIVIT SPARKAD</size>\nServern tvingades stanna förbindelse.\n<size=26>\nDu har nog blivit tillfälligt bannad av administratören\inte heller möter kraven av dena servern (t. ex. förbindelse till Steam).\nFör möjliga tids bannar - spelets författarna är <u>inte</u> ansvariga.\n</size>
+<size=80>FRÅNKOPPLAD</size>\nDen specificerade ägaren är inte tillgänglig.
+<size=80>FRÅNKOPPLAD</size>\nDen specificerade förbindelsen Id finns inte.
+<size=80>FRÅNKOPPLAD</size>\nDen specificerade kanalen finns inte.
+<size=80>FRÅNKOPPLAD</size>\nServern är full.
+<size=80>FRÅNKOPPLAD</size>\nTog emot fel paket.
+<size=80>FRÅNKOPPLAD</size>\nFörbindelsen förlorades (tidsbestämd).
+<size=80>FRÅNKOPPLAD</size>\nFörbindelsen förlorades (tidsbestämd).
+<size=80>FRÅNKOPPLAD</size>\nOperation stöds inte.
+<size=80>FRÅNKOPPLAD</size>\nFel server konfig (versionen är inte kompatibel).
+<size=80>FRÅNKOPPLAD</size>\nFel server konfig.
+<size=80>FRÅNKOPPLAD</size>\nAdressen är ogiltig eller kan inte lösas.
+<size=80>FRÅNKOPPLAD</size>\nEtt oväntat problem inträffades!
+<size=80>VAR SNÄLL OCH VÄNTA</size>\n<size=35>Upprättar anslutning...</size>
+<size=80>RUNDAN STARTAS OM</size>\n<size=35>Rundan startas om...</size>
+<size=80>VAR SNÄLL OCH VÄNTA</size>\n<size=35>Läser in handledning...</size>
+<size=80>VERSION INKOMPATIBILITET</size>\nDin spel version är annorlunda än serverns\n(Din - [your]; Server - [server])
+<size=80>ANSLUTEN</size>\n<size=35>Laddar nivån...</size>
+<size=35>Laddar anläggningen...</size>

@@ -1,0 +1,25 @@
+
+## This list contains all translation authors and contributors.
+## In the case of mis-credit, feel free to open an issue or contact the studio through any means.
+
+Chinese(简体中文) by ShingekiNoRex
+Czech (Ceština) by ahyper & Krumpac
+Danish (Dansk) by Bemsen
+Dutch (Nederlands) by Lazyneer
+French (Français) by FranceSCP, lucasboss45 & Ganxly
+German (Deutsch) by DasDavid, Mr.Panda & Joseph
+Hungarian (magyar) by asderman
+Italian (Italiano) by Lycan
+Japanese(日本語) by PalZaxson
+Korean (한국어) by Dr-Devan & Arizen
+Norwegian (Norsk) by Tam
+Polish (Polski) by Multiverse Uncle
+Portuguese (Português) by Esquilo_Voador
+Portuguese (Português-Brasil) by Amanda
+Russian (Русский) by Welcome To Hell Project
+Spanish (Español) by Anreol, Erick & ConnorTheCone
+Swedish (Sverige) by SamSuperN
+Thai (ภาษาไทย) by AGKK Histoire & DatPanda
+Traditional Chinese (繁體中文) by X-EROS
+Turkish (Turkish) by Jhrino
+Ukrainian (Українська) by TRI99ER

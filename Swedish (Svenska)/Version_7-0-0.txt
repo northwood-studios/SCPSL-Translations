@@ -1,0 +1,5 @@
+DU DOG
+Tryck {KEYBINDING_INTERACTION} för att placera <color=yellow>Vapen platta</color>.
+Tryck {KEYBINDING_INTERACTION} för att plocka upp <color=yellow>Vapen platta</color>.
+Denna <color=yellow>arbetsstation</color> har redan någon annans <color=yellow>Vapen plata</color> ansluten.
+Du behöver en <color=yellow>Vapen platta</color> för att använda <color=yellow>arbetsstation</color>.

@@ -1,0 +1,28 @@
+Okej, låt oss börja...\nAtt lära sig de grundläggande färdigheterna för skytte gör definitivt spelet... <i>lättare</i>.\nPlocka upp pistolen som precis landade på brädan.
+Tutorial2_Curtain
+Så, du plockade precis upp det skittigaste vapnet i spelet. Bli van vid det, eftersom det kommer att få dig ur några ganska håriga situationer. Åh, och det är bra att ha lite ammunition. Det är svårt att hitta det i spelet, så skjut så effktivt som möjligt.
+Tutorial2_GiveAmmo
+Kom ihåg, att skott som träffar huvudet kommer döda din fiende snabbare. Om du får slut på ammunition i detta test, jag kommer ge dig mera!
+<color=#00FF58>Använd <b>R</b> för att ladda om,\n<b>höger mus knapp</b> för att zooma\noch <b>vänster</b> för att skjuta.</color>
+Tutorial2_Result
+Imponerande, du skickade alla bort med ett enda magasin!
+Tutorial2_Jumpin
+Hey, du är ganska bra på att skjuta!
+Tutorial2_Jumpin
+Jag hoppades verkligen på en större visning av skicklighet, så synd.
+Tutorial2_GiveNTFRifle
+Okej, jag hoppas att du hatar det här vapnet så mycket som jag gör, låt oss sätta leksakerna åt sida och plocka upp ett riktigt vapen. Den här har en nattsyns sikte som gör det enklare att skjuta.\nDu borde veta, att zooma eller sikta med vapen garanterar noggrannhet och en större minskning av rekyl.
+Tutorial2_Preset
+Tutorial2_Curtain
+Tutorial2_Curtain
+Jag kan se att du redan kan det grundläggande! Jag har ornat en utmaning åt dig.\nDu har 20 sekunder at döda så många fiender som du kan.\nLåt oss börja!
+Redo? 3, 2, 1... KÖR
+Tutorial2_Preset
+Tutorial2_Curtain
+
+Tutorial2_ResultText
+Tutorial2_Curtain
+Tiden är ute!
+Kom ihåg att du alltid kan besöka denna handledning i framtiden\nOm du vill borsta på dina färdigheter!\nVi ses senare!
+
+Tutorial2_MoreAmmo
