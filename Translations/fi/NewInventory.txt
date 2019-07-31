@@ -25,7 +25,7 @@ MP7:Ei kuvausta
 Logicer:Ei kuvausta
 Sirpalekranaatti:Pam!
 Tainnutuskranaatti:Sokaisee vihollisesi.
-Käsiraudat:Vasen hiiren painike laittaa rautoihin, oikea painike vapauttaa. \nPidä E-näppäin pohjassa katsoien tiimiläistäsi, joka on käsiraudoissa, vapauttaaksesi hänet.
+Käsiraudat:Vasen hiiren painike laittaa rautoihin, oikea painike vapauttaa. \nPidä E-näppäin pohjassa katsoen tiimiläistäsi, joka on käsiraudoissa, vapauttaaksesi hänet.
 Pudotettu 7.62:Ei kuvausta.
 Pudotettu 9mm:Ei kuvausta.
 USP:Ei kuvausta.
