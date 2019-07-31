@@ -12,6 +12,6 @@ SCP-049-2
 Nine-Tailed Fox Luutnantti
 Nine-Tailed Fox Komentaja
 Nine-Tailed Fox Kadetti
-OPETUSPELI
+TUTORIAL
 Laitoksen vartija
 SCP-939
