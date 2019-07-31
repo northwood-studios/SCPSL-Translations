@@ -1,17 +1,17 @@
 APUVIRTA
 KOKEMUS
-KAMERAN KUVA PÄÄLLÄ
-PAINA [KEY] AVATAKSESI KARTAN
+KAMERASYÖTE PÄÄLLÄ
+PAINA [KEY] AVATAKSESI KARTTA
 Kokemusta saatu:
 Yhteistyö
-D-Luokan tapon avustus
-C.I:n tapon avustus
+D-luokan tapon avustus
+C. I.:n tapon avustus
 MTF:n tapon avustus
 Tutkijan tapon avustus
 SCP:n tapon avustus
-LUKITUT OVET: [LOCKED_NUM]<size=25>PAINA OIKEAA HIIRINÄPPÄINTÄ AVATAKSESI KAIKKI</size>
-Yleisiä toimintoja
-Sinuun hyökätään!
+LUKITUT OVET: [LOCKED_NUM]<size=25>PAINA OIKEAA HIIREN PAINIKETTA AVATAKSESI KAIKKI</size>
+Yleistoiminnot
+Olet hyökkäyksen kohteena!
 Generaattorit ovat korostettu kartassa
 VAARA
-SCP{0}MTF & Vartijat{1}Tutkijat{2}D-Luokka{3}Chaos Insurgent{4}
+SCP{0}MTF & vartijat{1}Tutkijat{2}D-luokka{3}Kaaoskapinalliset{4}
