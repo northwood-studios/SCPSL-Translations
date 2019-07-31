@@ -33,7 +33,7 @@ LIIKESUMENNUS
 VARJOJEN ETÄISYYS
 YKSITYISKOHDAT
 3. SCP-914
-VINKIT
+HARJOITUKSET
 VAROITUS
 Selaa saatavilla olevia palvelimia
 Älä näytä uudestaan
