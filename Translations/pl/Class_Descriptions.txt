@@ -15,3 +15,4 @@ Pomóż <color=#FFFF7CFF>naukowcom</color> w ucieczce\nWyeliminuj zagrożenie\nW
 Podążaj za wskazówkami, aby ukończyć poradnik
 Pomóż <color=#FFFF7CFF>naukowcom</color> w ucieczce\nWspółpracuj z <color=#0096FF>Nine-Tailed Fox</color>\nWyeliminuj zagrożenie
 Zabij wszystkich.\nNie pozwól nikomu uciec.\nKooperuj z innymi <color=#f00>SCP</color><color=#ffff00>\nJesteś ślepy\nUżywasz echolokacji do poruszania się w terenie\n<color=#00ff00>Lewym przyciskiem myszy</color> atakujesz swą ofiarę\nStajesz się szybszy, gdy tracisz zdrowie</color>
+Zabij wszystkich.\nNie pozwól nikomu uciec.\nKooperuj z innymi <color=#f00>SCP</color><color=#ffff00>\nJesteś ślepy\nUżywasz echolokacji do poruszania się w terenie\n<color=#00ff00>Lewym przyciskiem myszy</color> atakujesz swą ofiarę\nStajesz się szybszy, gdy tracisz zdrowie</color>
