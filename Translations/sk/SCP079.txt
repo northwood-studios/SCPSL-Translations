@@ -6,7 +6,7 @@ Ziskane skusenosti:
 Kooperativna praca
 Asistencia terminacie Triedy-D
 Asistancia terminacie C.I.
-Asistancia terminacie MTF 
+Asistancia terminacie MTF
 Asistancia terminacie vedca
 Asistancia terminacie SCP
 UZAMKNUTE DVERE: [LOCKED_NUM]<size=25>PRAVYM TLACIDLOM MYSI ODEMCETE VSETKY</size>
