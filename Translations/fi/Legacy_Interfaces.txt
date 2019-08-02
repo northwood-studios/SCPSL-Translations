@@ -1,7 +1,7 @@
 ANNA KÄSKYJÄ
 SEURAA KÄSKYJÄ
 SAMA ARVO
-Luokka-D Henkilöstö pakeni
+D-luokan henkilöstö pakeni
 Tutkijat selviytyivät
 SCP tappoi
 Terminoidut SCP-kohteet
@@ -11,8 +11,8 @@ Käyttämätön
 Seuraava kierros alkaa [time] sekunnissa.
 ERIKOISKYKY
 LUO VAJOAMA
-KÄYTÄ VAJOAMA
+KÄYTÄ VAJOAMAA
 SINÄ KUOLIT
-SINUT TAPPOI
+Sinut tappoi
 ollessaan
 Passiivi
