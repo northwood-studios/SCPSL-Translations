@@ -1,0 +1,8 @@
+Vítej v SCP: Secret Laboratory! Já jsem jeden z dabérů této hry.\nDovol mi představit ti základní pravidla.\nZkus najít a prohledat toalety. Je možné, že tam najdeš kartu.\n
+<color=#00FF58>Použij klávesy <b>W, A, S & D</b> aby ses dostal na <b>toalety</b>\nZmáčkni <b>E</b> pro <b>interakci</b> s dveřmi a předměty.</color>
+Skvěle, teďka ji vezmi.
+Karty jsou jedním z nejzákladnějších principů hry. Umožňují totiž přístup do uzamčených prostor.\nVyzkoušej to na blízkých dveří a otevři je za pomocí karty.
+<color=#00FF58>Zmáčknutím <b>TAB</b> otevřeš svůj inventář.\n<b>Levým tlačítkem myši</b> vybereš předmět\na <b>pravým</b> jej vyhodíš.
+Pokud chceš doopravdy uniknout, doporučím ti si nejprve sehnat lepší kartu.
+Každá karta má svoje přístupové úrovně. Ty zjistíš, když na ni v inventáři najedeš myší.
+Gratuluji! Úspěšně si prošel první častí tutoriálu!
