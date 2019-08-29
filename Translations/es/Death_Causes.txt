@@ -1,0 +1,17 @@
+Explosion del alpha warhead.
+Varias contusiones debidas a una caida.
+Sacrificado para recontener a SCP-106.
+Se ha perdido en la dimension de bolsillo.
+Restos de SCP-106.
+Shock por corriente de alto voltaje .
+Aplastado por una estructura pesada .
+Varios impactos de bala. Parece municion del calibre [ammotype] .
+Cuello roto desde la base del craneo.
+No ha sobrevivido al encuentro con SCP-106.
+Curado de la pestilencia.
+Causa de la muerte indeterminada.
+Es el cadaver de: <b>[user]</b> , era [class]!\n\nCausa de la muerte: [cause]
+Despedazado por SCP-096.
+Mordisco arrasador en el craneo.
+Corroido por una sustancia altamente corrosiva.
+Multiples heridas por el impacto de una granada.

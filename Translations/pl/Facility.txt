@@ -1,0 +1,34 @@
+GŁ. GŁOSU
+Potwierdź
+WYMUŚ START
+AWARYJNA PROCEDURA\nREKONTAMINACJI SCP-106
+Odwróć oś Y
+PODSUMOWANIE
+Anuluj
+E K W I P U N E K
+JASNOŚĆ
+USTAWIENIA
+ODŁĄCZ
+GŁOWICA ALPHA WYŁĄCZONA
+ODMOWA DOSTĘPU
+CZAT GŁOSOWY
+EKWIPUNEK PEŁNY
+CZ. MYSZY
+HAKOWANIE
+PODNOSZENIE...
+Zwiększenie jasności <b>znacznie pogarsza klimat </b>gry.\nPostaraj się ustawić ją najniżej jak tylko to możliwe.\n<b>Zaleca się pozostawić wartość domyślną.</b>
+[1] UŻYJ DRZWI\n[2] ZABLOKUJ*\n\n*Blokowanie drzwi używa specjalnej umiejętności.
+DRZWI ZABLOKOWANE PRZEZ SCP-079
+Tryb pełnoekranowy
+Czy na pewno chcesz opuścić ten serwer?
+Podstawowe ustawienia, pełna lista w menu głównym.
+OCZEKIWANIE NA GRACZY
+PODSUMOWANIE
+KONTYNUUJ
+GŁ. GŁÓWNA
+połączonych
+Uciekłeś jako Naukowiec i zasiliłeś jednostki MTF.
+Uciekłeś jako Klasa D i zasiliłeś szeregi Rebelii Chaosu.
+TWOJA ROLA
+Czas ucieczki: [escape_minutes] minut i [escape_seconds] sekund
+Zaczekaj [time] zanim użyjesz ponownie [item].

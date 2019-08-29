@@ -1,0 +1,33 @@
+STEMME LYDSTYRKE
+Ja
+FORCE START
+SCP-106 GENINDFANGLESE\nPROCEDURE TILSIDESÆTTELSE
+Spejlvendt Y-akse
+OPSUMMERING
+Annuller
+I N V E N T A R
+LYSSTYRKE
+INDSTILLINGER
+AFBRYD FORBINDELSE
+ALPHA SPRÆNGHOVED ER DEAKTIVERET
+ADGANG NÆGTET
+VOICE CHAT
+INVENTAR OVERBELASTELSE
+MUS. FØLSOMHED
+HACKER
+HENTER...
+At skrue op for lysstyrken <b>ødelægger stemningen </b>af spillet.\nPrøv at sætte denne værdi så langt ned som du kan.\n<b>Standard værdien er anbefalet.</b>
+[1] ÅBEN/LUK DØR\n[2] LÅS DØR*\n\n*Låsning af døren bruges special evnen
+DØREN AF BLEVET LUKKET NED AF SCP-079
+Fullscreen mode
+Er du sikker på at du vil forlade serveren?
+Basale indstillinger. Fuld liste af indstillinger i hovedmenuen.
+VENTER PÅ SPILLERE
+OPSUMMERING
+FORTSÆT
+GENERAL LYDSTYRKE
+forbundet
+Du slap væk som en videnskabmand, og sluttede dig til MTF tropperne.
+Du slap væk som en Klasse-D, og sluttede dig til Kaos Oprørsgruppen.
+DU ER
+Flugttid: [escape_minutes] minutter og [escape_seconds] sekunder

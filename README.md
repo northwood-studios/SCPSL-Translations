@@ -2,9 +2,12 @@
 This repo is used by Northwood Studios for hosting and managing translations for the SCP: Secret Laboratory game.   
 
 In the case where a bad/faulty translation of your chosen language already exists, we ask you to rather edit the current existing one, than adding another duplicate language.
-It is our main goal to __only have one__ translation per language.
 
-__Please, follow the one PR - one language rule.__
+* Do **not** submit a language that already exists.
+* Do **not** submit a made-up/joke language.
+* Do **not** remove contributers from the contributors file.
+
+__Please follow these rules, as well as the guidelines in the Pull Request template__
 ***
 # How to contribute:   
 ## From local editor:   
@@ -31,3 +34,5 @@ __Please, follow the one PR - one language rule.__
 Some characters might appear as squares in game.
 
 This issue will be fixed when we'll update to Unity 2018.3 and TextMesh Pro 1.4.0.
+***
+## If you got any questions, please open an [Issue](https://github.com/northwood-studios/SCPSL-Translations/issues/new)

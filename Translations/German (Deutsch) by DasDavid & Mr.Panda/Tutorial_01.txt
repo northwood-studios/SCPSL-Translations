@@ -1,8 +1,0 @@
-Willkommen zu SCP: Secret Laboratory! Ich bin einer der Synchronsprecher des Spieles.\nLass mich dir die Basisspielregeln vorstellen.\nVersuche eine Toilette zu suchen und zu finden um eine Schluesselkarte zu finden.\n
-<color=#00FF58>Benutze <b>W, A, S & D</b> um zu den <b>Toiletten</b> zu kommen\nBenutze <b>E</b> um mit Tueren und Items zu <b>interagieren</b>.</color>
-Gut, nun nimm Sie.
-Schluesselkarten sind einer der Basiselemente in dem Spiel, die dir Zugriff auf verschlossene Bereiche verschaffen.\nPruef die Tueren in deiner naehe und versuche sie zu oeffnen.
-<color=#00FF58>Benutze <b>TAB</b> um das Inventar zu oeffnen.\n<b>Linksklick</b> um Items auszuwaehlen\nund <b>rechts</b> um sie fallen zu lassen.
-Wenn du wirklich entkommen willst - schlage ich vor eine bessere Karte zu finden.
-Jede Karte hat ihre eigenen Zugriffsstufen. Du kannst Karten vergleichen wenn du die Maus, im Inventar, ueber sie legst.
-Glueckwunsch! Du hast den ersten Teil des Tutorials abgeschlossen!

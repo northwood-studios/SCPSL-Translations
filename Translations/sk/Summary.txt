@@ -1,0 +1,17 @@
+Kolo skoncilo!
+SCP VYHRALY
+MTF VYHRALI
+CLASS-D VYHRALI
+REMIZA
+Zodpovedaju za zabijanie [summary_scpfrags] ludskych bytosti.
+Hrozba terminovana. Toto miesto je teraz opat bezpecne.
+Vsetka straz nadacie bola ukoncena.
+Obe strany utrpeli straty a tazili. Vitaz je neurceny.
+[summary_d_escaped] Tried-D uniklo.
+[summary_s_escaped] vedci prezili.
+Detonacia Hlavice Alpha terminovala [summary_warhead_kills] bytosti.
+Hlavica Alpha nebola pocas tohto kola detonovana.
+Toto kolo trvalo [summary_round_minutes] minut a [summary_round_seconds] sekund.
+[summary_scp_terminated] terminovanych SCP
+Dalsie kolo za [summary_next_round_countdown] sekund.
+Udelil si [summary_damages] poskodenie, a zabil [summary_kills] hracov.

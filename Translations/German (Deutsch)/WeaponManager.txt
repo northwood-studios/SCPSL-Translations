@@ -1,7 +1,0 @@
-Benutze einen Pfeil, am Keyboard, um zu beginnen...
-Navigierung - Hoch/Runter Pfeile \nAuswaehlen - Rechter Pfeil \nZurueck - Linker Pfeil
-[var_name]\n\nMunitions typ: [var_atype]\nBesetzte Munition: [var_ares]\nMagazin Groesse: [var_mag]\n\nMaximaler Schaden: [var_maxdmg]\nEffektiver Schaden: [var_effdmg]\nSchuesse pro sekunde: [var_sps]\n\nMoegliche Anpassungen: [var_custs]\n\nRechter Pfeil um die Waffe anzupassen
-You are going to drop [var_nom]\nUP/DOWN arrow keys to change quantity.\nRIGHT arrow to drop.\nLEFT arrow to back.
-Not enough ammo to drop (type [var_nom]). \nLEFT arrow to back.
-Lauf
-Andere

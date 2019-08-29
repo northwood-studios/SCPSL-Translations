@@ -1,0 +1,33 @@
+VOLUMEN DE VOZ
+Si
+FORZAR INICIO
+INICIAR PROCESO DE RECONTENCION DE SCP-106
+Invert Y-axis
+RESUMEN
+Cancelar
+I N V E N T A R I O
+BRILLO
+OPCIONES
+DESCONECTAR
+EL ALPHA WARHEAD ESTA DESACTIVADA
+ACCESO DENEGADO
+CHAT DE VOZ
+INVENTARIO LLENO
+SENSIBILIDAD DEL RATON
+HACKEANDO
+RECOGIENDO...
+Aumentar el brillo <b>reduce de forma considerable la experiencia </b>de juego.\nIntenta fijar este valor tan bajo como puedas.\n<b>El valor por defecto es el recomendado.</b>
+[1] ABRIR/CERRAR PUERTA\n[2] Puerta bloqueada*\n\n*Bloquear puertas gasta la habilidad  especial
+PUERTA BLOQUEADA POR SCP-079
+Modo pantalla completa
+Estas seguro que quieres abandonar el servidor?
+Opciones basicas. Lista completa de las opciones en el menu principal.
+ESPERANDO JUGADORES
+RESUMEN
+CONTINUAR
+VOLUMEN PRINCIPAL
+conectado
+Has escapado como cientifico y te has unido a las fuerzas de la NTF.
+Has escapado como clase D y te has unido a los Insurgentes del caos.
+ERES
+Has escapado en: [escape_minutes] minutos y [escape_seconds] segundos.

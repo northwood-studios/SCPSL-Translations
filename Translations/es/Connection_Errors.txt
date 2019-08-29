@@ -1,0 +1,19 @@
+<size=80>HAS SIDO EXPULSADO</size>\nEl servidor ha detenido la conexion.\n<size=26>\nProvablemente estes baneado o no cumplas los requisitos para entrar al servidor (Por ejemplo, conexion de Steam).\nEn caso de ban - los creadores del juego NO se hacen cargo.\n</size>
+<size=80>DESCONECTADO</size>\nEl host especificado no esta disponible.
+<size=80>DESCONECTADO</size>\nLa ID de conexion especificada no existe.
+<size=80>DESCONECTADO</size>\nEl canal especificado no existe.
+<size=80>DESCONECTADO</size>\nEl servidor esta lleno.
+<size=80>DESCONECTADO</size>\nPaquete recibido incorrecto.
+<size=80>DESCONECTADO</size>\nConexion perdida (tiempo excedido).
+<size=80>DESCONECTADO</size>\nConexion perdida (tiempo excedido).
+<size=80>DESCONECTADO</size>\nOperacion no confirmada.
+<size=80>DESCONECTADO</size>\nConfiguracion de servidor incorrecta (version incompatible).
+<size=80>DESCONECTADO</size>\nConfiguracion de servidor incorrecta.
+<size=80>DESCONECTADO</size>\nLa direccion es invalida o no puede ser resuelta.
+<size=80>DESCONECTADO</size>\nUPS,ha ocurrido un error inesperado!
+<size=80>POR FAVOR,ESPERE</size>\n<size=35>Estableciendo conexion...</size>
+<size=80>REINICIANDO RONDA</size>\n<size=35>La ronda se esta reiniciando...</size>
+<size=80>POR FAVOR,ESPERE</size>\n<size=35>Cargando tutorial...</size>
+<size=80>VERSION INCOMPATIBLE</size>\nLa version de tu juego es diferente a la del servidor\n(Tu version - [your]; Version en el servidor- [server])
+<size=80>CONECTADO</size>\n<size=35>Cargando partida...</size>
+<size=35>Cargando la instalacion...</size>

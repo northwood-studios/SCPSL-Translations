@@ -1,0 +1,5 @@
+ТИ ПОМЕР
+Натисни {KEYBINDING_INTERACTION}, щоб поставити <color=yellow>Менеджер зброї</color>.
+Натисни {KEYBINDING_INTERACTION}, щоб підняти <color=yellow>Менеджер зброї</color>.
+Цей <color=yellow>станок</color> вже містить чужий <color=yellow>Менеджер зброї</color>.
+Тобі потрібен <color=yellow>Менеджер зброї</color> щоб скористатись <color=yellow>станком</color>.

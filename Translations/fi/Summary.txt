@@ -1,0 +1,17 @@
+kierros on loppunut!
+SCP VOITTI
+MTF VOITTI
+D-LUOKKA VOITTI
+PATTITILANNE
+He ovat vastuullisia [summary_scpfrags] ihmisen kuolemasta.
+Uhka tuhottu. Laitos on turvallinen taas.
+Kaikki laitoksen vartijat ovat tuhottu.
+Molemmat osapuolet ovat kärsineet tappioita ja hyötyneet suuresti. Voittaja on määrittelemätön.
+[summary_d_escaped] D-luokasta pakeni
+[summary_s_escaped] tutkijoista pakeni
+Alpha Warheadin räjähdys tuhosi [summary_warhead_kills] olemusta.
+Alpha Warheadia ei räjäytetty tämän tehtävän aikana.
+Tehtävä kesti [summary_round_minutes] minuuttia ja [summary_round_seconds] sekuntia.
+[summary_scp_terminated] SCP:tä tuhottu
+seuraava kierros [summary_next_round_countdown] sekunnissa.
+Teit [summary_damages] vahinkoa ja tapoit [summary_kills] pelaajaa.

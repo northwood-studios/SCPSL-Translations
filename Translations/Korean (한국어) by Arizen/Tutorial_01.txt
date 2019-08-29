@@ -1,9 +1,0 @@
-Welcome to SCP: Secret Laboratory! I'm one of the voice actors for the game.\nLet me introduce you to basic gameplay rules.\nTry to find and check toilets in order to find a potential keycard.\n
-<color=#00FF58>Use <b>W, A, S & D</b> in order to go to the <b>toilets</b>\nUse <b>E</b> to <b>interact</b> with doors and items.</color>
-Great, now take it.
-Keycards are one of the most basic elements of the game, allowing entrance to locked areas.\nCheck the nearby doors and try to open them with your card.
-<color=#00FF58>Use <b>TAB</b> to open inventory.\n<b>Left mouse button</b> to select item\nand <b>right</b> to drop it.
-If you really want to escape - I'd suggest finding a better card.
-Every card has its own access levels. You can compare cards by hovering your mouse cursor over each one in your inventory.
-Congratulations! You just passed the first part of the tutorial!
-

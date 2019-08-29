@@ -1,0 +1,5 @@
+ZOMREL SI
+Stlac {KEYBINDING_INTERACTION} a umiesti <color=yellow>Weapon Manager Tablet</color>.
+Stlac {KEYBINDING_INTERACTION} a zdvihni <color=yellow>Weapon Manager Tablet</color>.
+Tato <color=yellow>stanica</color> uz ma niekoho ineho <color=yellow>Weapon Manager Tablet</color> spojeny.
+Potrebujes <color=yellow>Weapon Manager Tablet</color> na pouzitie tejto <color=yellow>stanice</color>.

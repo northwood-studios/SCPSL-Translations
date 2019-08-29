@@ -1,0 +1,28 @@
+Ok, la oss begynne...\nÅ lære seg grunnleggende våpenferdigheter gjør spillet... <i>lettere</i>.\nPlukk opp pistolen som nettopp landet på bordet.
+Tutorial2_Curtain
+Greit, du har plukket det værste våpnet i spillet. Bli vant til det, for det kan få deg ut av flere kinkige situasjoner. Det er også bra å ha litt ammunisjon. Det er vanskelig å finne det i spillet, så skyt så effektivt som mulig.
+Tutorial2_GiveAmmo
+Husk at hodeskudd vil felle fiender raskere. Hvis du går tom for ammunisjon gir jeg deg mer!
+<color=#00FF58>Bruk <b>R</b> for å lade om,\nBruk<b>høyre museknapp</b> for å sikte\nog <b>venstre museknapp</b> for å skyte.</color>
+Tutorial2_Result
+Imponerende, du fikk alle med ett magasin!
+Tutorial2_Jumpin
+Hei der, du er ganske flink med skyting!
+Tutorial2_Jumpin
+Jeg hadde virkelig håpet på bedre ferdigheter, synd.
+Tutorial2_GiveNTFRifle
+Ok, jeg håper du hater dette våpenet like mye som jeg gjør. La oss legge fra oss lekene og plukke opp et skikkelig våpen. Dette har et nattsynssikte som gjør skyting enklere.\nDu burde vite at sikting garanterer presisjon og reduksjon av rekyl.
+Tutorial2_Preset
+Tutorial2_Curtain
+Tutorial2_Curtain
+Jeg ser du allerede har mestret det grunnleggende! Jeg har forberedt en utfordring til deg.\nDu har 20 sekunder til å drepe så mange fiender du klarer.\nLa oss begynne!
+Klar? 3, 2, 1... GÅ
+Tutorial2_Preset
+Tutorial2_Curtain
+
+Tutorial2_ResultText
+Tutorial2_Curtain
+Time's up!
+Husk at du kan alltid komme tilbake i fremtiden\nhvis du vil fornye ferdighetene dine!\nSer deg siden!
+
+Tutorial2_MoreAmmo

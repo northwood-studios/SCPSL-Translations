@@ -1,0 +1,62 @@
+LIITY
+SULJE
+VARJOJEN RESOLUUTIO
+ASETUKSET
+PERUSTUU PELIIN <i>SCP: CONTAINMENT BREACH</i>
+TAKAISIN
+KIELI
+REUNOJENPEHMENNYS
+Vaihda laatua:\n-PIKSELEIDEN VALOMÄÄRÄ - Enimmäismäärä valonlähteitä, jotka on renderöity yksittäisiin pikseleihin.\n-V-Sync - Salli synkronointi näyttösi virkistystaajuuden kanssa.
+LIITY PELIIN
+JÄLKI-\nKÄSITTELY
+TEKIJÄT
+LOPETA PELI
+Koko näytön tila
+NÄYTÖN ASETUKSET
+VÄRIKORJAUS
+Anna IP-osoite...
+NÄYTÖN RESOLUUTIO
+PELAA
+PIKSELEIDEN VALO-MÄÄRÄ
+VARJON TYYPPI
+VARJOT
+LUO PELI
+Vaihda jälkikäsittelyn asetuksia. Nämä asetukset eivät yleisesti vaihda suorityskykyä, joten oletusarvojen jättäminen on suositeltu.
+Valon-renderöinnin tila e:\nKun poissa päältä, grafiikkojen laatu on huomattavasti alhaisempi. Tämän asetuksen poistaminen päältä on suositeltu vain huonoille koneille.
+V-SYNC
+YHDISTÄ
+LAADUN ASETUKSET
+Vaihda varjojen asetuksia. Laittamalla nämä asetukset alhaisemmaksi voi parantaa pelin sulavaa toimintaa.
+PÄÄVALIKKO
+VALON-RENDERÖINNIN TILA
+LIIKESUMENNUS
+VARJOJEN ETÄISYYS
+YKSITYISKOHDAT
+3. SCP-914
+HARJOITUKSET
+VAROITUS
+Selaa saatavilla olevia palvelimia
+Älä näytä uudestaan
+Miten haluaisit yhdistää?
+PALVELINSELAIN
+OKEI
+ETSI PELI
+2. Aseiden käyttö
+Käytämme Discordia keskustelualustanamme. Ei vaadi asenteluja.\n(Klikkaa logoa liittyäksesi)
+Oletuksena palvelin käynnistetään lähiverkossa.\nKaverisi tulevat tarvitsemaan suoran IP-osoitteen yhdistääkseen.\nJos haluat tehdä julkisen palvelimen, valitse LocalAdmin.exe pelin tiedostoista ja seuraa ohjeita.\nJos sinulla on kysymyksiä, kysy meidän tekniseltä tuelta apua. (Linkki päävalikossa)
+1. Perusasiat
+Esitetty peli on vielä beetassa.\nSaatat kohdata yhteysongelmia ja bugeja.\nPelin tämänhetkinen tila ei kuvasta viimeistä versiota.
+4. (Enemmän ohjeita myöhemmin)
+YHDISTÄ SUORAAN
+TEKNINEN TUKI / FOORUMI
+ÄÄNENVOIMAKKUUS
+Anna tietyn palvelimen IP-osoite
+LADATAAN TIETOJA
+EI PALVELIMIA SAATAVILLA
+SULJE/PERUUTA PAINAMALLA ESC-NÄPPÄINTÄ
+NÄPPÄINTEN VAIHTO
+ENIMMÄIS VEREN MÄÄRÄ
+Kuvataajuuden rajoitus
+Kuvataajuuden rajoitus ei toimi kun vSync on päällä!
+Palauta oletukset
+Me käytämme Steamin foorumia keskustelualueenamme. (Paina logoa avataksesi foorumin)

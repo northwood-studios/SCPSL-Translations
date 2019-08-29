@@ -1,4 +1,4 @@
-<size=80>YOU HAVE BEEN KICKED</size>\nThe server was forced to stop the connection.\n<size=26>\nYou've probably been temporarily banned by the administrator\nor you don't meet the requirements of the server (e.g. connection to Steam).\nFor possible time bans - the game authors are <u>not</u> responsible.\n</size>
+<size=80>YOU HAVE BEEN KICKED</size>\nThe server was forced to stop the connection.\n<size=26>\nYou've probably been temporarily banned by the administrator\nor you don't meet the requirements of the server (e.g. connection to Steam).\nFor possible time bans - the game authors are <b>not</b> responsible.\n</size>
 <size=80>DISCONNECTED</size>\nThe specified host is not available.
 <size=80>DISCONNECTED</size>\nThe specified connection Id doesn't exist.
 <size=80>DISCONNECTED</size>\nThe specified channel doesn't exist.

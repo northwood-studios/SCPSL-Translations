@@ -1,0 +1,30 @@
+Cartão de Zelador\n<size=14><color=#ffc>Contenção de SCP : Nivel 1</color></size>\n<size=16>\nAcesso à câmara de contenção : <color=#ff6600>BAIXO</color>\nAcesso a Armamento : <color=#ff0000>NÃO</color>\nAcesso ao Interfone : <color=#ff0000>NÃO</color>\n\nAutorização de checkpoint : <color=#ff0000>NÃO</color>\nAutorização do portão de entrada : <color=#ff0000>NÃO</color>\n</size>
+Cartão de Cientista\n<size=14><color=#ffc>Contenção de SCP : Nivel 2</color></size>\n<size=16>\nAcesso à câmara de contenção : <color=#ffff00>MEDIO</color>\nAcesso a Armamento : <color=#ff0000>NÃO</color>\nAcesso ao Interfone : <color=#ff0000>NÃO</color>\n\nAutorização de checkpoint : <color=#ff0000>NÃO</color>\nAutorização do portão de entrada : <color=#ff0000>NÃO</color>\n</size>
+Cartão de Cientista Major\n<size=14><color=#ffc>Contenção de SCP : Nivel 3</color></size>\n<size=16>\nAcesso à câmara de contenção : <color=#ffff00>MEDIO</color>\nAcesso a Armamento : <color=#ff0000>NÃO</color>\nAcesso ao Interfone : <color=#ff0000>NÃO</color>\n\nAutorização de checkpoint : <color=#ff0000>NÃO</color>\nAutorização do portão de entrada : <color=#ff0000>NÃO</color>\n</size>
+Cartão de Diretor de Zona\n<size=14><color=#f77>Administração : Nivel 1</color></size>\n<size=16>\nAcesso à câmara de contenção : <color=#ff6600>BAIXO</color>\nAcesso a Armamento : <color=#ff0000>NÃO</color>\nAcesso ao Interfone : <color=#ff0000>NÃO</color>\n\nAutorização de checkpoint : <color=#00ff00>SIM</color>\nAutorização do portão de entrada : <color=#ff0000>NÃO</color>\n</size>
+Cartão de Guarda\n<size=14><color=#cef>Segurança : Nivel 1</color></size>\n<size=16>\nAcesso à câmara de contenção : <color=#ff6600>BAIXO</color>\nAcesso a Armamento : <color=#ff6600>BAIXO</color>\nAcesso ao Interfone : <color=#ff0000>NÃO</color>\n\nAutorização de checkpoint : <color=#00ff00>SIM</color>\nAutorização do portão de entrada : <color=#ff0000>NÃO</color>\n</size>
+Cartão de Guarda Senior\n<size=14><color=#cef>Segurança : Nivel 2</color></size>\n<size=16>\nAcesso à câmara de contenção : <color=#ffff00>MEDIO</color>\nAcesso a Armamento : <color=#ffff00>MEDIO</color>\nAcesso ao Interfone : <color=#ff0000>NÃO</color>\n\nAutorização de checkpoint : <color=#00ff00>SIM</color>\nAutorização do portão de entrada : <color=#ff0000>NÃO</color>\n</size>
+Cartão de Engenheiro de contenção\n<size=14><color=#ffc>Contenção de SCP : Nivel 4</color></size>\n<size=16>\nAcesso à câmara de contenção : <color=#00ff00>ALTO</color>\nAcesso a Armamento : <color=#ff0000>NÃO</color>\nAcesso ao Interfone : <color=#00ff00>SIM</color>\n\nAutorização de checkpoint : <color=#00ff00>SIM</color>\nAutorização do portão de entrada : <color=#ff0000>NÃO</color>\n</size>
+Cartão de Tenente NTF\n<size=14><color=#cef>Segurança : Nivel 3</color></size>\n<size=16>\nAcesso à câmara de contenção : <color=#ffff00>MEDIO</color>\nAcesso a Armamento : <color=#ffff00>MEDIO</color>\nAcesso ao Interfone : <color=#ff0000>NÃO</color>\n\nAutorização de checkpoint : <color=#00ff00>SIM</color>\nAutorização do portão de entrada : <color=#00ff00>SIM</color>\n</size>
+Cartão de Comandante NTF\n<size=14><color=#cef>Segurançã : Nivel 4</color></size>\n<size=16>\nAcesso à câmara de contenção : <color=#ffff00>MEDIO</color>\nAcesso a Armamento : <color=#00ff00>ALTO</color>\nAcesso ao Interfone : <color=#00ff00>SIM</color>\n\nAutorização de checkpoint : <color=#00ff00>SIM</color>\nAutorização do portão de entrada : <color=#00ff00>SIM</color>\n</size>
+Cartão de Gerente da instalação\n<size=14><color=#f77>Administração : Nivel 2</color></size>\n<size=16>\nAcesso à câmara de contenção : <color=#00ff00>ALTO</color>\nAcesso a Armamento : <color=#ff0000>NÃO</color>\nAcesso ao Interfone : <color=#00ff00>SIM</color>\n\nAutorização de checkpoint : <color=#00ff00>SIM</color>\nAutorização do portão de entrada : <color=#00ff00>SIM</color>\n</size>
+Dispositivo de Chaos Insurgent\n<size=14><color=#f77>Administração : Nivel 3</color></size>\n<size=16>\nAcesso à câmara de contenção : <color=#ffff00>MEDIO</color>\nAcesso a Armamento : <color=#00ff00>ALTO</color>\nAcesso ao Interfone : <color=#00ff00>SIM</color>\n\nAutorização de checkpoint : <color=#00ff00>SIM</color>\nAutorização do portão de entrada : <color=#00ff00>SIM</color>\n</size>
+Cartão O5\n<size=14><color=#f77>Administração : Nivel 4</color></size>\n<size=16>\nAcesso à câmara de contenção : <color=#00ff00>ALTO</color>\nAcesso a Armamento : <color=#00ff00>ALTO</color>\nAcesso ao Interfone : <color=#00ff00>SIM</color>\n\nAutorização de checkpoint : <color=#00ff00>SIM</color>\nAutorização do portão de entrada : <color=#00ff00>SIM</color>\n</size>
+Radio\n\n<size=14>Aparelho para comunicação distante.</size>
+Pistola COM15\n\n<size=14>Pistola basica para defesa pessoal.</size>
+Kit medico\n\n<size=14>Permite você curar ferimentos.</size>
+Lanterna\n\n<size=14>"Que se faça luz!"</size>
+MicroHID\n\n<size=14>Lançador de descarga eletrica de alta intensidade.</size>
+Moeda\n\n<size=14>Parece ser de 50 centavos!</size>
+Copo\n\n<size=14>Um copo com um liquido não indentificado.</size>
+Gerenciador de arma\n\n<size=14>Personalize sua arma.</size>
+Epsilon-11\n\n<size=14>Equipamento padrão de Nine Tailed-Fox.</size>
+Projeto 90\n\n<size=14>Versão melhorada da SMG P90.</size>
+Munição
+MP7\n\n<size=14>Equipamento padrão de guarda.</size>
+Logicer\n\n<size=14>Metralhadora.\nEquipamento padrão de C.I.</size>
+Granada explosiva\n\n<size=14>Boom!</size>
+Granade de luz\n\n<size=14>Blinds the opponents.</size>
+Desarmador\n\n<size=14>Desarme o inimigo.</size>
+Munição
+Munição

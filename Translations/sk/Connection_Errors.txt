@@ -1,0 +1,19 @@
+<size=80>Bol si vyhodený</size>\nServer prinútil ukončiť spojenie.\n<size=26>\nPravdepodobne si bol dočasne zabanovaný administrátorom \nalebo nesplňuješ požiadavky pre pripojenie (napr. spojenie so službou Steam).\nZa možné časové Bany <u>nie sú</u> tvorcovia hry zodpovední.\n</size>
+<size=80>ODPOJENÝ</size>\nVybraný hosť nie je dostupný.
+<size=80>ODPOJENÝ</size>\nVybraný identifikátor neexistuje.
+<size=80>ODPOJENÝ</size>\nVybraný kanál neexistuje.
+<size=80>ODPOJENÝ</size>\nServer je plný.
+<size=80>ODPOJENÝ</size>\nPrijatý zlý packet.
+<size=80>ODPOJENÝ</size>\nSpojenie stratené (čas vypršal).
+<size=80>ODPOJENÝ</size>\nSpojenie stratené (čas vypršal).
+<size=80>ODPOJENÝ</size>\nOperácia nie je podporovaná.
+<size=80>ODPOJENÝ</size>\nZlé nastavenie servera (nekompatibilita verzií).
+<size=80>ODPOJENÝ</size>\nZlé nastavenie servera.
+<size=80>ODPOJENÝ</size>\nZadaná adresa nemôže byť dešifrované. Uistite sa, že sa jedná o správnu adresu.
+<size=80>ODPOJENÝ</size>\nObjavil sa neočakávaný problém!
+<size=80>Čakajte prosím</size>\n<size=35>Nadväzujem spojenie...</size>
+<size=80>Restart kola</size>\n<size=35>Server reštartuje kolo...</size>
+<size=80>Čakajte prosím</size>\n<size=35>Načítanie tutoriálu...</size>
+<size=80>NEKOMPATIBILITA VERZIÍ</size>\nVaša verzia hry je iná ako verzia hry na serveri\n(Vaša - [your]; Serveru - [server])
+<size=80>PRIPOJENÉ</size>
+<size=35>Nacitanie zariadenia...</size>

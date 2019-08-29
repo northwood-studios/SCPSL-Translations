@@ -1,0 +1,17 @@
+<size=30>PUISSANCE AUXILIAIRE</size>\n
+EXPERIENCE
+TRANSMISSION DE LA CAMERA EN LIGNE
+APPUYEZ SUR [KEY] POUR BASCULER LA CARTE DE SURVEILLANCE
+Experience gagne :
+Assistance
+Class-D elimine
+Insurrection du chaos elimine
+FIM E-11 elimine
+Scientifique elimine
+SCP elimine
+PORTES VERROUILLEES : [LOCKED_NUM]<size=25>CLIC DROIT POUR TOUT DEVERROUILLER</size>
+Interactions generales
+Vous etes attaques !
+Les generateurs ont ete mis en evidence sur la carte
+DANGER
+SCPs{0}FIM E-11 & Gardes{1}Scientifiques{2}Classes-D{3}Insurrection du Chaos{4}

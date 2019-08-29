@@ -1,0 +1,17 @@
+APUVIRTA
+KOKEMUS
+KAMERASYÖTE PÄÄLLÄ
+PAINA [KEY] AVATAKSESI KARTTA
+Kokemusta saatu:
+Yhteistyö
+D-luokan tapon avustus
+C. I.:n tapon avustus
+MTF:n tapon avustus
+Tutkijan tapon avustus
+SCP:n tapon avustus
+LUKITUT OVET: [LOCKED_NUM]<size=25>PAINA OIKEAA HIIREN PAINIKETTA AVATAKSESI KAIKKI</size>
+Yleistoiminnot
+Olet hyökkäyksen kohteena!
+Generaattorit ovat korostettu kartassa
+VAARA
+SCP{0}MTF & vartijat{1}Tutkijat{2}D-luokka{3}Kaaoskapinalliset{4}

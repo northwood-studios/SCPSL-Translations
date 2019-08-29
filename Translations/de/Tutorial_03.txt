@@ -1,0 +1,15 @@
+Los geht's! Es gibt keine Runde in der du SCP-914 nicht benutzen musst. Mit Hilfe dieser Maschiene kannst du das Freigabelevel deiner Zugangskarte erhöhen. Bitte betrete die Inputkammer.
+Schau auf das Panel mit dem Knopf. Es kann in 5 verschiedene Richtungen gedreht werden.
+1:1 - ändert die Art der Schlüsselkarte. Zum Beispiel:\ndie Wissenschaftler Zugangskarte wird zu einer Wachpersonal Zugangskarte;\noder von einer MTF Kommandat Zugangskarte zu einer Eindämmungsingenieur Zugangskarte.
+Fine - erhöht die Stufe der Karte, und Coarse - verringert sie.
+Very fine und Rough sind fast das gleiche wie Fine und Coarse. Sie sind schneller, aber risikoreicher.
+Tutorial3_GiveKeycard
+Ich hab irgendwo eine Zugangskarte auf den Boden geworfen.\nNimm sie und versuch sie auf die höchste Stufe zu upgraden - die O5 Zugangskarte.
+<color=#00FF58>Setz' den Knopf auf <b>Fine, Very fine oder 1:1</b> um die Schlüsselkarte zu verbessern.
+Was hast du getan? Das hab ich nicht erwartet... hier ist nichts interessantes, geh zurück zu SCP-914!
+Du hast was falsches gemacht, du hast sie zerstört. Kein Problem, nimm noch eine.
+Oh, du hast es wieder getan! Komm schon! Nimm noch eine.
+Weißt du was? Vielleicht gebe ich dir 5 Karten auf einmal?\nDenk' dran, wir wollen eine O5 Schlüsselkarte, keine Schnipsel.
+Ehh, du machst das um mich zu provozieren. Denkst du du bist witzig? Weißt du was ich machen kann, was du nicht verhindern kannst? Das spiel beenden! Jawohl! Komm wieder wenn du schlauer bist!
+Tutorial3_Quit
+Gut gemacht! Die Schlüsselkarte kann alles! Ich glaub' du weißt was SCP-914 ist. Ich hoffe du kannst das im normalen Spiel anwenden. Viel Glück!

@@ -1,0 +1,62 @@
+UNIRSE
+CERRAR
+RESOLUCION DE SOMBRAS
+OPCIONES
+BASADO EN <i>SCP: CONTAINMENT BREACH</i>
+ATRAS
+IDIOMAS
+ANTIALIASING
+Cambiar detalles:\n-CANTIDAD DE PIXELES DE LUZ - cantidad de pixeles para el renderizado de luces.\n-V-Sync - activar la sincronizacion vertical con la tasa de refresco del monitor.
+UNIRSE AL JUEGO
+POST\nPROCESADO
+CREDITOS
+SALIR
+Modo pantalla completa
+OPCIONES DE GRAFICAS
+CORRECION DE COLOR
+Introducir direccion IP...
+RESOLUCION DE PANTALLA
+JUGAR
+PIXELES DE LUZ
+TIPO DE SOMBRA
+SOMBRAS
+CREAR PARTIDA
+Cambiar opciones del post-procesado. Estos cambios no afectan al rendimiento. Mantener estos valores predeterminados es la opcion recomendada.
+Renderizado de luz:\nApagado - Hace que el juego se vea peor. Es recomendado si tienes un equipo de baja gama
+V-SYNC
+CONECTAR
+OPCIONES GRAFICAS
+Cambiar prefencias de sombras. Estas opciones a nivel bajo permite jugar con fluidez.
+MENU PRINCIPAL
+MODO DE RENDERIZADO DE LUCES
+MOTION BLUR
+DISTANCIA DE SOMBRAS
+DETALLES
+3. SCP-914
+TUTORIALES
+PELIGRO
+Buscar servidores disponbiles
+No mostrar este mensaje mas
+Como te gustaria conectar?
+BUSCADOR DE SERVIDORES
+ENTENDIDO
+BUSCAR PARTIDA
+2. Usando armas
+Usamos discord como foro,no hace falta instalacion.\n(clic en el logo para unirte)
+Por defecto el servidor se crea en red local.\nTus amigos necesitara usar conexion directa y tu IP para conectarse.\nSi quieres un servidor publico selecciona LocalAdmin.exe y sigue las instrucciones.\nSi tienes preguntas pregunta a nuestro soporte tecnico (enlace en el menu principal)
+1. Lo basico
+El juego actual esta en beta abierta.\nEs posible que tengas problemas de conexion y algunos bugs.\nEl juego actual no refleja el juego completo.
+4. (Mas tutoriales proximamente)
+CONEXION DIRECTA
+SOPORTE TECNICO / FORO
+VOLUMEN DEL SONIDO
+Introduce la direccion IP .
+DESCARGANDO DATOS
+NO HAY SERVIDORES DISPONIBLES
+PULSA ESC PARA CERRAR / CANCELAR
+CONFIGURACION DE TECLAS
+CANTIDAD DE SANGRE
+LIMITE DE FPS
+El limite de FPS no funciona con el V-SYNC activado!
+Restaurar valor predeterminado
+Usamos las discusiones de Steam como foro. (Clic en el logo para abrir el foro)

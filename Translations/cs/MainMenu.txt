@@ -1,0 +1,62 @@
+PŘIPOJIT SE
+ZAVŘÍT
+KVALITA STÍNŮ
+NASTAVENÍ
+Vytvořeno na základě <i>SCP: CONTAINMENT BREACH</i>
+ZPĚT
+JAZYK
+ANTIALIASING
+Změnit detaily:\n-PIXEL LIGHT COUNT - maximální počet světelných zdrojů, jejichž světlo je renderováno na individuálních pixelech.\n-V-Sync - povolí synchronizaci FPS s obnovovací frekvenci monitoru.
+PŘIPOJIT SE
+POST\nPROCESSING
+AUTOŘI
+UKONČIT HRU
+Přes celou obrazovku
+NASTAVENÍ OBRAZU
+KOREKCE BAREV
+Zadej IP adresu...
+ROZLIŠENÍ OBRAZOVKY
+HRÁT
+PIXEL LIGHT COUNT
+TYP STÍNŮ
+STÍNY
+VYTVOŘIT HRU
+Změnit POST PROCESSING nastavení. Tyto změny neovlivní chod hry. Je doporučeno zanechat předepsané hodnoty.
+Light rendering mode:\nKdyž je vypnutý - hra vypadá hůř. Je doporučeno ho vypnout pouze pokud máte málo výkonný počítač.
+V-SYNC
+PŘIPOJIT
+NASTAVENÍ KVALITY
+Změnit nastavení stínů. Nastavení nižších hodnot zlepší chod hry.
+HLAVNÍ MENU
+LIGHT RENDERING MODE
+MOTION BLUR
+VZDÁLENOST STÍNŮ
+DETAILY
+3. SCP-914
+TUTORIÁLY
+VAROVÁNÍ
+Prohledat dostupné servery
+Znovu nezobrazovat
+Jak byste se chtěli připojit?
+PROHLÍŽEČ SERVERŮ
+BUDIŽ
+NAJÍT HRU
+2. Používání zbraní
+Jako hlavní fórum používáme Discord. Nepotřebuje instalaci.\n(klikni na logo a připojíš se)
+Server se vytvoří na tvojí lokální síti.\nAby se tví kamarádi připojili, budou potřebovat tvoji IP adresu.\nChceš-li udělat veřejný server, spusť LocalAdmin.exe a pokračuj dle instrukcí.\nPokud máš jakékoliv otázky, kontaktuj naši technickou podporu (odkaz v hlavním menu)
+1. Základy
+Tato hra je stále v beta verzi.\nTo znamená, že může obsahovat chyby a zasekávat se.\nAktuální stav nepředstavuje finální verzi hry.
+4. (tutoriály přibydou později)
+PŘÍMÉ PŘIPOJENÍ
+PODPORA / FÓRUM
+HLASITOST ZVUKŮ
+Zadej IP adresu specifického serveru.
+STAHUJI DATA
+ŽÁDNÉ DOSTUPNÉ SERVERY
+ZMÁČKNI ESC PRO UKONČENÍ / ZRUŠENÍ
+Klávesy
+Maximální počet krve
+FPS Limit
+FPS limit nejde zapnout (V-Sync je zaplý)!
+Reset. nastavení
+We use Steam Discussions as a forum. (Click the logo below to open the forum)

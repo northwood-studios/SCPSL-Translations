@@ -1,0 +1,17 @@
+TARTALÉKENERGIA
+TAPASZTALAT
+KAMERA HÁLÓZAT ONLINE
+NYOMD MEG A [KEY]-T, HOGY ELÖHOZD A TÉRKÉPET
+Tapasztalat megszerezve:
+Csapatmunka
+Segítség D-osztályú likvidálásában
+Segítség C. I. likvidálásában
+Segítség MTF likvidálásában
+Segítség Tudós likvidálásában
+Segítség SCP likvidálásában
+LEZÁRT AJTÓK: [LOCKED_NUM]<size=25>JOBB KLIKKEL MINDET KINYITOD</size>
+Általános interakciók
+Támadás alatt vagy!
+A generátorok ki lettek jelölve a térképen
+VESZÉLY
+SCP-k{0}MTF & Őrök{1}Tudósok{2}D-osztály{3}Chaos ügynökök{4}

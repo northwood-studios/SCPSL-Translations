@@ -15,3 +15,4 @@ Help <color=#FFFF7CFF>scientists</color> escape.\nNeutralize other subjects.\nFo
 Follow the tasks to complete your objective.
 Help <color=#FFFF7CFF>scientists</color> to escape\nCooperate with <color=#0096FF>MTF</color>\nNeutralize other subjects
 Kill everyone.\nPrevent escape.\nCooperate with other <color=#f00>SCPs.</color>
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#f00>SCPs.</color>

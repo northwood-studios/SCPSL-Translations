@@ -1,0 +1,8 @@
+Velkommen til SCP: Secret Laboratory! Jeg er en av stemmeskuespillerene i spillet.\nLa meg introdusere deg til det grunnleggende i spillet.\nPrøv å finne og lete inne i toalettene for å finne et potensielt nøkkelkort.\n
+<color=#00FF58>Bruk <b>W, A, S og D</b> for å dra til <b>toalettene</b>\nBruk <b>E</b> for å <b>åpne dører, plukke opp gjenstander og samhandle</b></color>
+Flott, plukk det opp.
+Nøkkelkort er et av de mest grunnleggende elementene i spillet. De gir deg tilgang til begrensede områder.\nSjekk dører i nærheten og prøv å åpne dem med nøkkelkortet.
+<color=#00FF58>Bruk <b>TAB</b> for å åpne inventaret.\n<b>Bruk venstre museknapp </b>for å velge gjenstand og <b>høyre</b> for å slippe den.
+Hvis du virkelig vil rømme, foreslår jeg at du finner et bedre nøkkelkort.
+Hvert kort har sitt eget tilgangsnivå. Du kan sammenligne dem ved å holde musepekeren over hvert av dem i inventaret.
+Gratulerer! Du har bestått den første delen av opplæringen!
