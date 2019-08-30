@@ -4,14 +4,14 @@
 按下 [KEY] 开关小地图
 获得经验值:
 协作
-D级人员 协助消灭
-混沌分裂者 协助消灭
-MTF 协助消灭
-科学家 协助消灭
-SCP 协助消灭
-LOCKED DOORS: [LOCKED_NUM]<size=25>RIGHT MOUSE BUTTON TO UNLOCK ALL</size>
-General interactions
-You are being attacked!
-Generators have been highlighted on the map
-DANGER
-SCPs{0}MTF & Guards{1}Scientists{2}Class-D{3}Chaos Insurgents{4}
+协助消灭D级人员
+协助消灭混沌分裂者
+协助消灭MTF
+协助消灭科学家
+协助消灭SCP
+被上锁的门: [LOCKED_NUM]<size=25>右键鼠标来解锁全部</size>
+普通的互动
+你正在被攻击！
+发电机已经在地图上被高光标识了
+危险
+SCPs{0}MTF和设施警卫{1}科学家{2}D级人员{3}混沌分裂者{4}
