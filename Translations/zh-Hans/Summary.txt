@@ -1,17 +1,17 @@
-the round has finished!
-SCPs WON
-MTF WON
-CLASS-D WON
-STALEMATE
-They are responsible for killing [summary_scpfrags] human beings.
-Threat terminated. This place is now safe again.
-All Foundation security has been terminated.
-Both sides have suffered losses and benefited greatly. The winner is undetermined.
-[summary_d_escaped] class-d escaped
-[summary_s_escaped] scientist(s) survived
-Alpha Warhead detonation terminated [summary_warhead_kills] beings.
-Alpha Warhead was not detonated during this misson.
-The mission took [summary_round_minutes] minutes and [summary_round_seconds] seconds.
-[summary_scp_terminated] terminated SCPs
-next round in [summary_next_round_countdown] seconds.
-You have dealed [summary_damages] damages, and killed [summary_kills] players.
+此回合已经结束！
+SCP 获胜
+MTF 获胜
+D级人员 获胜
+陷入僵局
+SCP们需要为 [summary_scpfrags] 名人类的死负责
+威胁已消除，这个地方再次安全了
+基金会的所有人员都被消灭了
+双方皆得失相半。胜者未定。
+[summary_d_escaped] 名D级人员逃离了
+[summary_s_escaped] 名科学家存活了
+Alpha 核弹头消灭了 [summary_warhead_kills] 个生物
+Alpha 核弹头在此次行动中未被引爆
+此次行动消耗了 [summary_round_minutes] 分 [summary_round_seconds] 秒.
+[summary_scp_terminated] 个被消灭的SCP
+下一回合会在 [summary_next_round_countdown] 后开始
+你造成了 [summary_damages] 点伤害, 并消灭了 [summary_kills] 名玩家.
