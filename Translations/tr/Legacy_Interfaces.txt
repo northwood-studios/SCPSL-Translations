@@ -1,17 +1,17 @@
-EMIR VEREBILIRSIN
-EMIRLERINI TAKIP ET
-AYNI YETKI SEVIYESI
-Class-D Elemani kacti
-Arastirmaci hayatta kaldi
-SCP tarafindan olduruldu
-Sonlandirilmis SCP maruz kalanlari
-Alfa Savas Basligi
-Patlatilmis
-Kullanilmamis
-[time] zaman icerisinde yeni oyun baslayacak.
-OZEL YETENEK
-DUDEN YARAT
-DUDENI KULLAN
-YOU DIED
-You were killed by
-as
+EMIR VER
+EMIRLERI DINLE
+AYNI RUTBE
+D-SINIFI KACTI
+ARASTIRMACI HAYATTA KALDI
+SCP TARAFINDAN OLDURULDU
+ETKISIZ HALE GETIRILMIS SCPLER
+ALFA SAVAS BASLIGI
+PATLATILMIS
+KULLANILMAMIS
+SONRAKI TUR [time] SANIYE ICINDE BASLAYACAK.
+OZEL GUC
+OYUK AC
+OYUK KULLAN
+OLUM
+Olduren kisi:
+Rolu:

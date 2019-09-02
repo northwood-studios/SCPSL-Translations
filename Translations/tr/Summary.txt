@@ -1,17 +1,17 @@
-the round has finished!
-SCPs WON
-MTF WON
-CLASS-D WON
-STALEMATE
-They are responsible for killing [summary_scpfrags] human beings.
-Threat terminated. This place is now safe again.
-All Foundation security has been terminated.
-Both sides have suffered losses and benefited greatly. The winner is undetermined.
-[summary_d_escaped] class-d escaped
-[summary_s_escaped] scientist(s) survived
-Alpha Warhead detonation terminated [summary_warhead_kills] beings.
-Alpha Warhead was not detonated during this misson.
-The mission took [summary_round_minutes] minutes and [summary_round_seconds] seconds.
-[summary_scp_terminated] terminated SCPs
-next round in [summary_next_round_countdown] seconds.
-You have dealed [summary_damages] damages, and killed [summary_kills] players.
+TUR BITTI!
+SCPler KAZANDI
+DOKUZ-KUYRUKLU TILKI KAZANDI
+D-SINIFI KAZANDI
+BERABERE
+[summary_scpfrags] INSAN KAYBINDAN SORUMLULAR.
+TEHDIT ORTADAN KALDIRILDI. GUVENLIK SAGLANDI.
+BUTUN VAKIF PERSONELI OLDURULDU.
+BUTUN TARAFLAR KAYIP VERDI. KAZANAN BELIRLENEMEDI.
+[summary_d_escaped] D-SINIFI KACTI.
+[summary_s_escaped] ARASTIRMACI KACTI.
+ALFA SAVAS BASLIGI [summary_warhead_kills] CAN ALDI.
+ALFA SAVAS BASLIGI BU TUR KULLANILMADI.
+GOREV [summary_round_minutes] DAKIKA VE [summary_round_seconds] SANIYE SURDU.
+[summary_scp_terminated] SCP ETKISIZ HALE GETIRILDI.
+SONRAKI TURA [summary_next_round_countdown] SANIYE.
+[summary_damages] HASAR VERIP [summary_kills] OYUNCU OLDURDUN.

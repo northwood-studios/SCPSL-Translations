@@ -1,31 +1,31 @@
-Janitor Keycard:No description
-Scientist Keycard:No description
-Research Supervisor Keycard:No description
-Zone Manager Keycard:No description
-Guard Keycard:No description
-MTF Cadet Keycard:No description
-Containment Engineer Keycard:No description
-MTF Lieutenant Keycard:No description
-MTF Commander Keycard:No description
-Facility Manager Keycard:No description
-Chaos Insurgency Access Device
-O5-level Keycard
-Radio:SR = Short Range \nMR = Medium Range \nLR = Long Range \nUR = Ultra Range \nUses battery while on. Longer range means higher battery use.
-COM-15 Sidearm:No description
-First AID Kit:Heals your injuries.
-Flashlight:Let there be light!
-Micro H.I.D.:Mobile high-intensity electrical discharge thrower.
-Coin:No description
-Cup:No description
-Weapon Manager Tablet:Used to drop ammo & upgrade your weapons.
-MTF-E11-SR:No description
-Project 90:No description
-Dropped 5.56:No description
-MP7:No description
-Logicer:No description
-Frag Grenade:Boom!
-Flashbang Grenade:Blinds your enemies.
-Disarmer:Left click disarms, right click unties. \nHold E on someone who is disarmed on your team to free them.
-Dropped 7.62:No description.
-Dropped 9mm:No description.
-USP:No description.
+Temizlikci KartI:SCP-914 erisimi
+ArastIrmacI KartI:SCP-914, SCP-012, SCP-096 erisimi
+BaS ArastIrmacI KartI:SCP-914, SCP-012, SCP-096, Kontrol NoktalarI erisimi
+Alan Muduru KartI:SCP-914, Kontrol NoktalarI erisimi
+Koruma KartI:SCP-914, Cephanelik, Kontrol NoktalarI erisimi
+Dokuz-Kuyruklu Tilki Aday KartI:SCP-914, SCP-012, SCP-096, Cephanelik, Kontrol NoktalarI erisimi
+Saklama Muhendisi KartI:SCP-914, SCP-012, SCP-096, SCP-106, SCP-079, Savas BaslIgI, Kontrol NoktalarI, Interkom erisimi
+Dokuz-Kuyruklu Tilki Tegmen KartI:SCP-914, SCP-012, SCP-096, Cephanelik, SCP-049, ÇIkIslar, Kontrol NoktalarI erisimi
+Dokuz-Kuyruklu Tilki Komutan KartI:SCP-914, SCP-012, SCP-096, Cephanelik, SCP-049, Micro H.I.D., Jeneratörler, ÇIkIslar, Kontrol NoktalarI, Interkom erisimi
+Tesis Muduru KartI:SCP-914, SCP-012, SCP-096, SCP-106, SCP-079, ÇIkIslar, Savas BaslIgI, Kontrol NoktalarI, Interkom erisimi
+Kaos isyancIsI EriSim CihazI:SCP-914, SCP-012, SCP-096, Cephanelik, SCP-049, Micro H.I.D., Jeneratörler, ÇIkIslar, Kontrol NoktalarI, Interkom erisimi
+O5 KartI: Tam erisim
+Telsiz:SR = KIsa Menzil \nMR = Orta Menzil \nLR = Uzun Menzil \nUR = Ultra Menzil \nAcIkken pil tuketir. Daha uzun menzil daha cok pil tuketir. UR saniyede %1 pil tuketir.
+COM-15 Tabanca:Yüksek hasarlI el tabancasI. 9mm kursun tipi.
+ilk-YardIm Kiti:YaralarInI iyilestirir. \nKullanIldIgInda 65-90 arasI HP yeniler.
+El Feneri:Y U C E  I S I K
+Micro HID:Mobil yuksek-yogunluklu elektrik silahI. \n10 saniyede hazIr olur ve 4.75 saniye boyunca 4000-6000 arasI hasar verir.
+Para:? ? ?
+Bardak:? ? ?
+Silah Tableti:Kursun bIrakmak ve silahInI ozellestirmek icin kullanabilirsin.
+MTF-E11-SR:Yüksek hasarlI uzak menzil taarruz tüfegi. 5.56mm kursun tipi.
+Project 90: Orta hasarlI uzak menzil küçük makineli silah. 9mm kursun tipi.
+5.56:? ? ?
+MP7:Orta hasarlI küçük makineli silah. 7.62mm kursun tipi.
+Logicer:Yüksek hasarlI yakIn menzil makineli silah. 7.62mm kursun tipi.
+El BombasI:BOMBA ATIYORUUUM \n \n5 saniye icinde patlar.
+Flashbang:DusmanlarInI 2-4 saniyeligine kor eder. \n3 saniyede patlar.
+Kelepce:Sol tus tutuklar, sag tus serbest bIrakIr. \nTakImIndan birisini kurtarmak icin E tuSuna basIlI tutabilirsin.
+7.62:? ? ?
+9:? ? ?
+USP:Çok yüksek hasarlI tabanca. 9mm kursun tipi.

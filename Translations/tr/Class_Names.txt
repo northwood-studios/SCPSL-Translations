@@ -1,17 +1,17 @@
 SCP-173
-Class-D Elemani
-Izleyici
+D-SINIFI
+IZLEYICI
 SCP-106
-Dokuz-Kuyruklu Tilki Arastirmacisi
+DOKUZ-KUYRUKLU TILKI ARASTIRMACISI
 SCP-049
-Arastirmaci
+ARASTIRMACI
 SCP-079
-Kaos Isyancisi
+KAOS ISYANCISI
 SCP-096
 SCP-049-2
-Dokuz-Kuyruklu Tilki Tegmeni
-Dokuz-Kuyruklu Tilki Kumandani
-Nine-Tailed Fox Cadet
+DOKUZ-KUYRUKLU TILKI TEGMENI
+DOKUZ-KUYRUKLU TILKI KOMUTANI
+DOKUZ-KUYRUKLU TILKI ADAYI
 EGITIM
-Facility Guard
+TESIS KORUMASI
 SCP-939

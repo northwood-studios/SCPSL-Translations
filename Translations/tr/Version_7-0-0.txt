@@ -1,5 +1,5 @@
-YOU DIED
-Press {KEYBINDING_INTERACTION} to place the <color=yellow>Weapon Manager Tablet</color>.
-Press {KEYBINDING_INTERACTION} to pick up the <color=yellow>Weapon Manager Tablet</color>.
-This <color=yellow>workstation</color> already has someone else's <color=yellow>Weapon Manager Tablet</color> connected.
-You need a <color=yellow>Weapon Manager Tablet</color> to use this <color=yellow>workstation</color>.
+OLUM
+<color=yellow>Silah Tabletini</color> koymak icin {KEYBINDING_INTERACTION} tusuna bas.
+<color=yellow>Silah Tabletini</color> almak icin {KEYBINDING_INTERACTION} tusuna bas.
+Bu <color=yellow>atolye</color> coktan baskasinin <color=yellow>Silah Tabletine</color> bagli.
+Bu <color=yellow>atolyeyi</color> kullanmak icin bir <color=yellow>Silah Tabletine</color> ihtiyacin var.

@@ -1,33 +1,33 @@
-SES YUKSEKLIGI
+KONUSMA SESI
 Evet
-BASLAMAYA ZORLA
-SCP-106 GERI-ZAPTETME\nPROSEDURU ASIRI YUKLENMESI
-Y-ekseni ters cevir
-OZET
+ZORLA BASLAT
+SCP-106 TEKRAR SAKLAMA\nPROSEDURU
+Y-ekseninini cevir
+SONUC
 Iptal
 E N V A N T E R
 PARLAKLIK
 AYARLAR
-CIK
-ALFA SAVAS BASLIGI DEVREDISI
-ERISIM REDDEDILDI
+BAGLANTIYI KES
+ALFA SAVAS BASLIGI KAPALI
+REDDEDILDI
 SESLI SOHBET
-ENVANTER ASRI YUKLENMESI
-F. HASSASIYETI
+ENVANTER DOLU
+F. HASSASLIGI
 HACKLENIYOR
 ALINIYOR...
-Oyunun parlakligini arttirmak <b> oyunun havasini onemli bir derecede kotulestirir </b>\nBu degeri yapabildiginiz kadar dusuge alin.\n<b>Varsayilan degerde birakmak onerilir.</b>
-[1] KAPIYI AC/KAPA\n[2] KAPIYI KITLE*\n\n*Kapiyi kitlemek ozel yetenegini kullanir
-SCP-079 TARAFINDAN KITLENDI
+Parlakligi arttirmak <b>oyunun "korku havasini" </b>bozabilir.\nBu ayari yapabilecegin kadar dusuk yap.\n<b>Varsayilan ayar onerilir.</b>
+[1] KAPIYI AC/KAPAT\n[2] KAPIYI KILITLE*\n\n*Kapiyi kilitlemek ozel guc gerektirir.
+KAPI SCP-079 TARAFINDAN KILITLENDI
 Tamekran modu
-Bu sunucudan cikmak istedigine emin misin?
-Basit ayarlar. Menudeki ayarlarin tam listesi.
+Sunucudan ayrilmak istediginizden emin misiniz?
+Temel ayarlar. Ayarlarin tamami menudedir.
 OYUNCULAR BEKLENIYOR
-OZET
+SONUC
 DEVAM ET
 ANA SES
 baglandi
-Bir arastirmaci olarak oradan kactin ve MTF birimlerine katildin.
-Bir Class D olarak kactin ve Kaos Isyancilari birimlerine katildin.
-SEN BIR
-Escape time: [escape_minutes] minutes and [escape_seconds] seconds
+ARASTIRMACI OLARAK KACTIN VE DOKUZ-KUYRUKLU TILKI BIRLIGINE KATILDIN.
+D-SINIFI OLARAK KACTIN VE KAOS ISYANCISI OLARAK GERI DONDUN.
+ROLUN:
+KACMA SURESI: [escape_minutes] DAKIKA [escape_seconds] SANIYE

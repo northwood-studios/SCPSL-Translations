@@ -1,17 +1,17 @@
-Patlamada oldu.
-Dusus hayatini sonlandirdi.
-SCP-106'yi yeniden zaptetmek icin oldu.
-Cep boyutunda kayboldu.
+Bir patlama canini almis.
+Yuksekten dusmus.
+SCP-106'i tekrar saklamak icin kurban edilmis.
+Cep boyutunda kaybolmus.
 SCP-106'dan bir kalinti.
-Yuksek voltajli elektrik soku oldurdu.
-Agir bir cisim tarafindan ezildi.
-Vucudunda cok fazla silah yarasi var. Buyuk olasilikla, [ammotype] tipi mermi kullanildi.
-Kafatasindaki boynu kirilmis.
-SCP-106 ile olan bulusmadan kurtulamadi.
-Vebasi tedavi edilmis.
-Bilinmeyen bir sebepten olmus.
-Bu<b>[user]</b>'nin cesedi, o bir [class]!\n\olum sebebi: [cause]
+Yuksek-voltajli bir elektrik soku canini almis.
+Agir bir nesne tarafindan ezilmis.
+Bedeninde cok fazla kursun yarasi var. Buyuk ihtimalle [ammotype] tip bir kursun kullanilmis.
+Boynu kirilmis.
+SCP-106 ile karsilasmasindan hayatta kalamamis.
+Vebadan tedavi edilmis.
+Olum nedeni bilinmiyor.
+<b>[user]</b>'nin cesedi, [class]'di.\n\nOlum nedeni: [cause]
 SCP-096 tarafindan parcalara ayrilmis.
-Powerful bite to cranium.
-Melted by strongly corrosive substance.
-Post-explosion wounds.
+Kafatasina guclu bir isirik almis.
+Asindirici bir madde yuzunden erimis.
+Patlama sonrasi yaralardan olmus.

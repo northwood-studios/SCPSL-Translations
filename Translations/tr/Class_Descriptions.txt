@@ -1,17 +1,17 @@
-Herkesi oldur\nHickimsenin kacmasina izin verme\nDiger<color=#f00>SCPler</color> ile calis
-Tesisten kac\nDiger <color=#008f1e>Kaos Isyancisi elemanlariyla calis</color>\nBaskalarindan uzak dur
-Yakin zamanda yeniden dogacaksin.
-Herkesi oldur\nHickimsenin kacmasina izin verme\nDiger <color=#f00>SCPler</color> ile calis
-<color=#FFFF7CFF>Arastirmacilarin</color> kacmasina yardim et\nBaska kisileri etkisiz hale getir
-Herkesi oldur\nHickimsenin kacmasina izin verme\nDiger<color=#f00>SCPler</color> ile calis
-Tesisten kac\nDiger<color=#0096FF>MTF'ler</color> ile calis\nBaskalarindan uzak dur
-Herkesi oldur\nHickimsenin kacmasina izin verme\nDiger<color=#f00>SCPler</color> ile calis
-<color=#FF8E00>Class-D Elemanlarinin</color> kacmasina yardim et\nBaska kisileri etkisiz hale getir
-Herkesi oldur\nHickimsenin kacmasina izin verme\nDiger<color=#f00>SCPler</color> ile calis
-Herkesi oldur\nHickimsenin kacmasina izin verme\nDiger<color=#f00>SCPler</color> ile calis
-<color=#FFFF7CFF>arastirmacilarin</color> kacmasina yardim et\nBaska kisileri etkisiz hale getir
-<color=#FFFF7CFF>arastirmacilarin</color> kacmasina yardim et\nBaska kisileri etkisiz hale getir
-<color=#FFFF7CFF>arastirmacilarin</color> kacmasina yardim et\nBaska kisileri etkisiz hale getir
-Tamamlamak icin gorevleri takip et.
-Help <color=#FFFF7CFF>scientists</color> to escape\nCooperate with <color=#0096FF>MTF</color>\nNeutralize other subjects
-Kill everyone.\nPrevent escape.\nCooperate with other <color=#f00>SCPs.</color>
+Kimseyi sag birakma.\nInsanlarin kacmasini onle.\nDiger <color=#f00>SCPlerle</color> is birligi yap. <color=#ffff00>\nDusmanini hedef al ve sol tusla boyunlarini kir.\nDusuk canda daha hizli olursun.</color>
+Tesisten kac.\n<color=#008f1e>Kaos Isyancilariyla</color> isbirligi yap.\nDiger takimlardan uzak dur.
+Yakinda tekrar geleceksin.
+Kimseyi sag birakma.\nInsanlarin kacmasini onle.\nDiger <color=#f00>SCPlerle</color> is birligi yap. <color=#ffff00>\nKapilarin icinden gecebilirsin.\nSol tus insanlarin canini azaltir ve cep boyutuna gonderir.\nTAB tusuyla isinlanma seceneklerine ulasabilirsin.</color>
+<color=#FFFF7CFF>Arastirmacilarin</color> kacmasina yardim et.\nDiger objeleri etkisiz hale getir.\nAstlarini yonlendir.\nUstlerinin emirlerini dinle.
+Kimseyi sag birakma.\nInsanlarin kacmasini onle.\nDiger <color=#f00>SCPlerle</color> is birligi yap.<color=#ffff00>\nSol tusla dusmanlarini aninda oldur.\nYeni oldurdugun birisini zombi yapmak icin E tusuna basili tut.\nDusuk canda daha hizli zombi olusturursun.</color>
+Tesisten kac.\n<color=#0096FF>Dokuz-Kuyruklu Tilki</color> ile is birligi yap.\nDiger takimlardan uzak dur.
+Kimseyi sag birakma.\nInsanlarin kacmasini onle.\nDiger <color=#f00>SCPlerle</color> is birligi yap.
+<color=#FF8E00>D-Siniflarinin</color> kacmasina yardim et.\nDiger objeleri etkisiz hale getir.
+Kimseyi sag birakma.\nInsanlarin kacmasini onle.\nDiger <color=#f00>SCPlerle</color> is birligi yap.
+Kimseyi sag birakma.\nInsanlarin kacmasini onle.\nDiger <color=#f00>SCPlerle</color> is birligi yap. <color=#ffff00>\nSol tusla kisa bir sure gecikmeyle saldir.\nDusuk canda daha hizli saldirirsin.</color>
+<color=#FFFF7CFF>Arastirmacilarin</color> kacmasina yardim et.\nDiger objeleri etkisiz hale getir.\nAstlarini yonlendir.\nKomutanini dinle.
+<color=#FFFF7CFF>Arastirmacilarin</color> kacmasina yardim et.\nDiger objeleri etkisiz hale getir.\nAstlarini yonlendir.
+<color=#FFFF7CFF>Arastirmacilarin</color> kacmasina yardim et.\nDiger objeleri etkisiz hale getir.\nUstlerinin emirlerini dinle.
+Hedefine ulasmak icin verilen gorevleri tamamla.
+<color=#FFFF7CFF>Arastirmacilarin</color> kacmasina yardim et.\n<color=#0096FF>Dokuz-Kuyruklu Tilki</color> ile is birligi yap.\nDiger objeleri etkisiz hale getir.
+Kimseyi sag birakma.\nInsanlarin kacmasini onle.\nDiger <color=#f00>SCPlerle</color> is birligi yap.
