@@ -66,11 +66,11 @@ MUZYKA W MENU
 CZAT GŁOSOWY
 EFEKTY DŹWIĘKOWE
 USTAWIENIA ROZGRYWKI
-SZYBKIE ZNIKNIĘCIE INTRA
+SZYBSZE WPROWADZENIE
 Tekst wprowadzający do klasy zniknie o wiele szybciej.
 SCP-079 - SPOSÓB ZMIANY WIDOKU
 Naciśnij raz, aby przełączyć tryb kamery.
 SCP-079 - POST-PROCESSING
-Jeżeli wyłączony, efekty na kamerze zostaną znacząco zmniejszone.
+Jeśli wyłączony, efekty na kamerze zostaną znacząco zmniejszone.
 ANIMACJA CHODZENIA
-Włącza ruch kamery na boki, podczas biegu.
+Włącza ruch kamery podczas biegu.
