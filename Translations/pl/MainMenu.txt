@@ -66,7 +66,7 @@ MUZYKA W MENU
 CZAT GŁOSOWY
 EFEKTY DŹWIĘKOWE
 USTAWIENIA ROZGRYWKI
-SZYBSZE WPROWADZENIE
+SZYBSZE OPISY
 Tekst wprowadzający do klasy zniknie o wiele szybciej.
 SCP-079 - SPOSÓB ZMIANY WIDOKU
 Naciśnij raz, aby przełączyć się pomiędzy trybami ruchu kamery.
