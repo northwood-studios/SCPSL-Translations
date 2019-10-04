@@ -1,4 +1,4 @@
 OSTRZEŻENIE
 ROZUMIEM
 Wykryto <b>zintegrowaną kartę graficzną Intel</b> która <b>nie jest wspierana</b>./n<b>Zalecane</B> jest użycie <b>niezintegrowanej</b> karty graficznej./nGra może <b>często wyrzucać</b> przy aktualnym sprzęcie.
-Nie można znaleźć ważnej aktualizacji systemu, którego wymaga czat głosowy. Proszę się upewnić, czy wersja twojego systemu operacyjnego Windows jest w pełni aktualna, w przeciwnym razie gra może niepoprawnie funkcjonować. Jeśli problem nadal występuje, proszę się skontaktować z naszą pomocą techniczną po dalszą pomoc.
+Nie można znaleźć ważnej aktualizacji systemu, której wymaga czat głosowy. Upewnij się, że masz zainstalowane najnowsze aktualizacje systemu Windows, w przeciwnym razie gra może nie funkcjonować poprawnie. Jeśli problem nadal występuje, prosimy o kontakt z naszą pomocą techniczną w celu uzyskania dalszej pomocy.
