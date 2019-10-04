@@ -69,7 +69,7 @@ USTAWIENIA ROZGRYWKI
 SZYBSZE WPROWADZENIE
 Tekst wprowadzający do klasy zniknie o wiele szybciej.
 SCP-079 - SPOSÓB ZMIANY WIDOKU
-Naciśnij raz, aby przełączyć tryb kamery.
+Naciśnij raz, aby przełączyć się pomiędzy trybami ruchu kamery.
 SCP-079 - POST-PROCESSING
 Jeśli wyłączony, efekty na kamerze zostaną znacząco zmniejszone.
 ANIMACJA CHODZENIA
