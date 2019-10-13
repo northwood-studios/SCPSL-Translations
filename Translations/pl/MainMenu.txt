@@ -74,3 +74,8 @@ SCP-079 - POST-PROCESSING
 Gdy wyłączony, efekty na kamerze zostaną znacząco zmniejszone.
 ANIMACJA CHODZENIA
 Włącza ruch kamery podczas biegu.
+PRZEŁĄCZANY BIEG
+Bieganie można włączyć i wyłączyć, bez przytrzymywania klawisza.
+ODDZIELNY PASEK DODATKOWEGO ZDROWIA
+Oddziela dodatkowe zdrowie na swój osobny pasek, zamiast się nakładać.
+Nasze spolszczenia są dostępne na GitHub!\nChcesz pomóc? Naciśnij tutaj aby uzyskać dostęp.
