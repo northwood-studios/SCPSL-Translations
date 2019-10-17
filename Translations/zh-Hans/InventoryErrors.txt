@@ -1,0 +1,3 @@
+﻿<color=yellow>{0} 弹药</color> 已达上限 (<color=yellow>{1} 发</color>)
+你只能携带 <color=yellow>{0}</color> 件这种类型的物品 (<color=yellow>{1}</color>)
+你只能携带 <color=yellow>8</color> 件物品

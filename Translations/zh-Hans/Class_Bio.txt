@@ -1,0 +1,18 @@
+﻿SCP-173在被盯着的时候不能移动或攻击。它最擅长杀死掉队的人或小规模队伍，但是很容易因为人类的埋伏和合作集火而亡。
+被基金会用来测试异常的可消耗囚犯。他们的首要目的是逃离设施，避开<color=#f00>SCP</color>和<color=#0096FF>MTF</color>。\n<color=#008f1e>混沌分裂者</color>会协助他们逃亡。
+你很快就会重生\n在这段时间内请享受观察其他人作死
+SCP-106是一个慢而硬的肉坦，是专门制造混乱和打散队伍的一支不可阻挡的力量。
+一支快速响应收容失效事件的精英部队一员，其存在是为了确保基金会的安全。他们的首要目的是消灭所有<color=#f00>SCP</color>、<color=#008f1e>混沌分裂者</color>和<color=#FF8E00>D级人员</color>，并且护送<color=#FFFF7CFF>科学家</color>至安全地带。
+移动缓慢而且脆弱，SCP-049擅长埋伏，能通过增加自己的部下来扭转局势。
+研究异常事物的基金会工作人员。他们的首要目的是逃离设施，避开<color=#f00>SCP</color>和<color=#008f1e>混沌分裂者</color>。\n<color=#0096FF>MTF</color>会协助他们逃亡。
+SCP-079没有直接的战斗或移动能力。但是你可以通过每个房间的摄像头来观察。你可以按Tab在整个设施的地图上移动，或者旋转视角然后左键点击摄像头图标来移动。\n你有一个叫辅助电源(AP)的资源，通过消耗AP可以使用你的能力。权限等级越高，你能获得的AP越多，且可以解锁新的能力。
+A member of an undercover organisation, who's primary goal is to disrupt Foundation operations and utilise SCPs for their own advantage. They are tasked with eliminating <color=#FFFF7CFF>Scientists</color> and <color=#0096FF>Foundation Staff</color>, and escorting <color=#FF8E00>D-Class</color> to safety.
+SCP-096 serves as constant pressure in an area just by existing, and when enraged, can destroy entire groups very quickly.
+A fragile reanimated corpse, SCP-049-2 specializes in ambushes, and can turn the tide of a game through advancing its numbers.
+A lieutenant of an elite task force that responds to breaches, ensuring the security of the Foundation. Their primary goal is to eliminate all <color=#f00>SCPs</color>, <color=#008f1e>Chaos Insurgency</color> and <color=#FF8E00>D-Class</color>, as well as escorting <color=#FFFF7CFF>Scientists</color> to safety and following orders by your <color=#0096FF>Commander</color>.
+A commanding officer of an elite task force that responds to breaches, ensuring the security of the Foundation. Their primary goal is to eliminate all <color=#f00>SCPs</color>, <color=#008f1e>Chaos Insurgency</color> and <color=#FF8E00>D-Class</color>, as well as escorting <color=#FFFF7CFF>Scientists</color> to safety and instructing other <color=#0096FF>MTF</color>.
+A low rank cadet of an elite task force that responds to breaches, ensuring the security of the Foundation. Their primary goal is to eliminate all <color=#f00>SCPs</color>, <color=#008f1e>Chaos Insurgency</color> and <color=#FF8E00>D-Class</color>, as well as escorting <color=#FFFF7CFF>Scientists</color> to safety and following orders by other <color=#0096FF>MTF</color>.
+Follow the tasks to complete your objective.
+A guard within the facility who's aim is to help any <color=#FFFF7CFF>Scientists</color> escape and stop the looming <color=#f00>SCP</color> threat. Cooperates with <color=#0096FF>MTF</color> to get this done while eliminating anyone or anything else that gets in the way.
+SCP-939 is a fast all-rounder that excels in taking advantage of carelessness. Their ability to sense movement through walls allows them to set up ambushes.
+SCP-939 is a fast all-rounder that excels in taking advantage of carelessness. Their ability to sense movement through walls allows them to set up ambushes.

@@ -1,4 +1,4 @@
-清洁工钥匙卡:No description
+﻿清洁工钥匙卡:No description
 科学家钥匙卡:No description
 研究主管钥匙卡:No description
 区域总监钥匙卡:No description
@@ -15,8 +15,8 @@ COM-15 s手枪:No description
 急救包:治疗你的伤势.
 手电筒:要有光!
 Micro H.I.D.:便携式高能电浆炮. \n短距离.\n拥有的能量只允许发射一次. \n10秒充能时间.
-硬币:No description
-杯子:No description
+SCP-500:万能药.
+SCP-207:强化运动能力，有副作用.
 武器管理面板:用来丢弃弹药 & 升级你的武器.
 MTF-E11-SR:No description
 Project 90:No description
@@ -29,3 +29,7 @@ Logicer:No description
 Dropped 7.62:No description.
 Dropped 9mm:No description.
 USP:No description.
+SCP-018:超级弹力球.
+SCP-268:除非被打断，戴上后能使你暂时隐形.
+肾上腺素:暂时增强耐力.
+止痛药:减轻轻伤.
