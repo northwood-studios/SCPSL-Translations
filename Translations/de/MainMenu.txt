@@ -77,7 +77,7 @@ Schaltet das wackeln der first-person Kamera an während sich der Spieler bewegt
 UMSCHALTEN DES SPRINTENS
 Sprinten wird an oder aus geschaltet anstatt die Taste gedrückt zu halten.
 SEPARATER KÜNSTLICHER HP BARREN
-Gibt künstlicher HP einen eigenen HP Barren anstatt eines Overlays.
+Gibt künstlicher HP einen eigenen HP Balken anstatt eines Overlays.
 Unsere Übersetzungen sind open-source auf Github!\nMöchtest du uns helfen? Dann klicke hier um Zugriff zu erhalten.
 REICHE PRÄSENZ / RICH PRESENCE
 Wenn eingeschaltet, wird dein Status auf Discord/Steam angezeigt.
