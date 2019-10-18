@@ -15,3 +15,4 @@ Hilf' <color=#FFFF7CFF>Wissenschaftlern</color> zu entkommen.\nNeutralisiere and
 Folge den Anweisungen um dein Ziel zu vervollständigen.
 Hilf' <color=#FFFF7CFF>Wissenschaftlern</color> zu entkommen.\nKooperiere mit dem <color=#0096FF>MTF.</color>\nNeutralisiere andere Fraktionen.
 Töte jeden.\nVerhindere dass jemand entkommt.\nKooperiere mit anderen <color=#f00>SCPs.</color>
+Töte jeden.\nVerhindere dass jemand entkommt.\nKooperiere mit anderen <color=#f00>SCPs.</color>
