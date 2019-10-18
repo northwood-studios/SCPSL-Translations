@@ -60,3 +60,24 @@ FPS Limit
 FPS Limit funktioniert nicht wenn V-Sync an ist!
 Zurücksetzen
 Wir nutzen die Steam Diskussionen als Forum. (Klicke auf das Logo um das Forum aufzurufen)
+AUDIO EINSTELLUNGEN
+HAUPT LAUTSTÄRKE
+MENÜ MUSIK
+SPRACHCHAT
+SOUND EFFEKTE
+GAMEPLAY OPTIONEN
+INTRO SCHNELL AUSBLENDEN
+Das Klassen Intro wird wesentlich schneller ausblenden.
+SCP-079 - UMSCHALTEN DER ANSICHT
+Einmal drücken um den Modus zu wechseln.
+SCP-079 - NACHBEARBEITUNG
+Wenn ausgeschaltet, werden Kamera Effekte stark reduziert.
+KAMERA WACKELN
+Schaltet das wackeln der first-person Kamera an während sich der Spieler bewegt.
+UMSCHALTEN DES SPRINTENS
+Sprinten wird an oder aus geschaltet anstatt die Taste gedrückt zu halten.
+SEPARATER KÜNSTLICHER HP BARREN
+Gibt künstlicher HP einen eigenen HP Barren anstatt eines Overlays.
+Unsere Übersetzungen sind open-source auf Github!\nMöchtest du uns helfen? Dann klicke hier um Zugriff zu erhalten.
+REICHE PRÄSENZ / RICH PRESENCE
+Wenn eingeschaltet, wird dein Status auf Discord/Steam angezeigt.
