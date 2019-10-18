@@ -68,15 +68,15 @@ SOUND EFFEKTE
 GAMEPLAY OPTIONEN
 INTRO SCHNELL AUSBLENDEN
 Das Klassen Intro wird wesentlich schneller ausblenden.
-SCP-079 - UMSCHALTEN DER ANSICHT
+SCP-079\nUMSCHALTEN DER ANSICHT
 Einmal drücken um den Modus zu wechseln.
-SCP-079 - NACHBEARBEITUNG
+SCP-079\nNACHBEARBEITUNG
 Wenn ausgeschaltet, werden Kamera Effekte stark reduziert.
 KAMERA WACKELN
 Schaltet das wackeln der first-person Kamera an während sich der Spieler bewegt.
 UMSCHALTEN DES SPRINTENS
 Sprinten wird an oder aus geschaltet anstatt die Taste gedrückt zu halten.
-SEPARATER KÜNSTLICHER HP BARREN
+SEPARATER \nKÜNSTLICHER HP BARREN
 Gibt künstlicher HP einen eigenen HP Balken anstatt eines Overlays.
 Unsere Übersetzungen sind open-source auf Github!\nMöchtest du uns helfen? Dann klicke hier um Zugriff zu erhalten.
 REICHE PRÄSENZ / RICH PRESENCE
