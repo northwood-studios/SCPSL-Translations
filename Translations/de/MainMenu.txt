@@ -76,7 +76,7 @@ KAMERA WACKELN
 Schaltet das wackeln der first-person Kamera an während sich der Spieler bewegt.
 UMSCHALTEN DES SPRINTENS
 Sprinten wird an oder aus geschaltet anstatt die Taste gedrückt zu halten.
-SEPARATER \nKÜNSTLICHER HP BARREN
+SEPARATER \nKÜNSTLICHER HP BALKEN
 Gibt künstlicher HP einen eigenen HP Balken anstatt eines Overlays.
 Unsere Übersetzungen sind open-source auf Github!\nMöchtest du uns helfen? Dann klicke hier um Zugriff zu erhalten.
 REICHE PRÄSENZ / RICH PRESENCE
