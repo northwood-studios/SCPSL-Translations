@@ -1,4 +1,4 @@
-Chiave Magnetica del Bidello:Nessuna descrizione
+Chiave Magnetica del Custode:Nessuna descrizione
 Chiave Magnetica dello Scienziato:Nessuna descrizione
 Chiave Magnetica del Supervisore delle Ricerche:Nessuna descrizione
 Chiave Magnetica del Responsabile di Zona:Nessuna descrizione
@@ -10,7 +10,7 @@ Chiave Magnetica del Commandante MTF:Nessuna descrizione
 Chiave Magnetica del Responsabile della struttura:Nessuna descrizione
 Dispositivo d'Accesso dei Chaos Insurgency
 Chiave Magnetica livello-05
-Radio:SR = Raggio corto \nmR = Raggio medio \nLR = Raggio lungo \nUR = Raggio ultra \nUsa la batteria mentre è accesa. Più lungo è il raggio più consuma batteria.
+Radio:SR = Corto Raggio \nmR = Medio Raggio \nLR = Lungo Raggio \nUR = Ultra Raggio \nConsuma la batteria mentre accesa. Più lungo sarà il raggio e più batteria consumerà.
 COM-15 Sidearm:Nessuna descrizione
 Kit di pronto soccorso:Cura le tue ferite.
 Torcia Elettrica:E luce fù!
@@ -25,11 +25,11 @@ MP7:Nessuna descrizione
 Logicer:Nessuna descrizione
 Granata a Frammentazione:Boom!
 Granata Stordente:Acceca i tuoi nemici.
-Disarmer:Il click sinistro disarma, il click destro slega. \nTieni premuto E su qualcuno del tuo team che è stato arrestato per liberarlo.
+Dispositivo disarmante:Il click sinistro del mouse disarma, quello destro slega. \nTieni premuto E su qualcuno del tuo team che sia stato arrestato per liberarlo.
 Munizioni 7.62:Nessuna descrizione.
 Munizioni 9mm:Nessuna descrizione.
 USP:Nessuna descrizione.
 SCP-018:Super-Palla in grado di ribalzare con un'efficienza estrema!
-SCP-268:Quando indossato, ti rende temporaneamente invisibile a meno che non venga interrotto da una qualsiasi interazione da parte dell'utente.
+SCP-268:Rende temporaneamente invisibile se indossato, a meno che l'utente non lo interrompa con una qualsiasi interazione.
 Adrenalina:Aumenta temporaneamente la resistenza.
 Antidolorifici:Allevia piccole ferite.
