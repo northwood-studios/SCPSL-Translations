@@ -1,31 +1,35 @@
-清洁工钥匙卡:No description
-科学家钥匙卡:No description
-研究主管钥匙卡:No description
-区域总监钥匙卡:No description
-警卫钥匙卡:No description
-MTF新兵钥匙卡:No description
-收容工程师钥匙卡:No description
-MTF士官钥匙卡:No description
-MTF指挥官钥匙卡:No description
-设施总监钥匙卡:No description
-混沌分裂者设备
-O5 钥匙卡
-无线电:SR = 短距离 \nMR = 中距离 \nLR = 远距离 \nUR = 无限距离 \n开启时消耗电池. 距离越远电池消耗越高.
-COM-15 s手枪:No description
-急救包:治疗你的伤势.
-手电筒:要有光!
-Micro H.I.D.:便携式高能电浆炮. \n短距离.\n拥有的能量只允许发射一次. \n10秒充能时间.
-硬币:No description
-杯子:No description
-武器管理面板:用来丢弃弹药 & 升级你的武器.
-MTF-E11-SR:No description
-Project 90:No description
+清洁工钥匙卡:No description 
+科学家钥匙卡:No description 
+研究主管钥匙卡:No description 
+区域总监钥匙卡:No description 
+警卫钥匙卡:No description 
+MTF新兵钥匙卡:No description 
+收容室工程师钥匙卡:No description 
+MTF士官钥匙卡:No description 
+MTF指挥官钥匙卡:No description 
+设施总监钥匙卡:No description 
+混沌分裂者权限装置
+O5钥匙卡
+Radio:SR = 短距离 \nMR = 中距离 \nLR = 远距离 \nUR = 超远距离 \n靠电池驱动，接收距离越远耗电量越高。
+COM-15便携式手枪:No description
+急救包:治疗你的伤势。
+手电筒:上帝说："要有光！"
+Micro H.I.D.:便携式高能电浆喷射器。
+SCP-500:万能药。
+SCP-207:提升行动能力，同时逐渐损坏你的身体。
+武器控制面板:用来丢下弹药/升级你的武器。
+MTF-E11-SR狙击步枪:No description
+Project 90冲锋枪:No description
 Dropped 5.56:No description
-MP7:No description
-Logicer:No description
-破片手雷:Boom!
-闪光弹:闪瞎你的敌人.
-缴械器:左键缴械, 右键松绑. \n按住E可以松绑被你队友缴械的人.
+MP7冲锋枪:No description
+Logicer轻机枪:No description
+破片手雷:轰！
+闪光弹:闪瞎你的敌人...和队友。
+缴械器:鼠标左键缴械，鼠标右键松绑。\n按住E键可以为被队友缴械的人松绑。
 Dropped 7.62:No description.
 Dropped 9mm:No description.
-USP:No description.
+USP手枪:No description.
+SCP-018:具有极大势能的弹力球。
+SCP-268:戴上后将在短时间内隐形，任何交互行为都将打断效果。
+肾上腺素:临时恢复体能。
+止痛药:缓和轻伤。
