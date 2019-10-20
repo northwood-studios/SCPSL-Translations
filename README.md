@@ -29,6 +29,9 @@ __Please follow these rules, as well as the guidelines in the Pull Request templ
 6. Push your commit(s) to GitHub
     * When changes are committed, only the files on disk (i.e. in the *cloned* repo) are modified. By pushing these commits, these changes are also reflected in the forked repository on GitHub. This is necessary for the next step:
 7. Open a Pull Request (see below). Studio staff will review the translation.
+# Missing characters
+Some characters might appear incorrectly.
+This issue should be fixed in the next update.
 ## From GitHub:
 1. Open a desired file and click "Edit this file".
    - This will automatically create a fork of this repo to your account. Any changes made to files will only be reflected in the forked repo. Learn more about forking on GitHub [here](https://help.github.com/en/articles/about-forks)
