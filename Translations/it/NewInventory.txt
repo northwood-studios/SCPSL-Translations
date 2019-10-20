@@ -17,7 +17,7 @@ Torcia Elettrica:E luce fù!
 Micro H.I.D.: Scaricatore di elettricità portatile, ad alta intensità
 SCP-500:La panacea.
 SCP-207:Aumenta pericolosamente le tue capacità motorie!
-Tablet di gestione delle armi:Usato per far cadere le munizioni e aggiornare le tue armi!
+Tablet di gestione delle armi:Usato per far cadere a terra le munizioni e aggiungere/rimuovere accessori alle armi.
 MTF-E11-SR:Nessuna descrizione
 Project 90:Nessuna descrizione
 Munizioni 5.56:Nessuna descrizione
