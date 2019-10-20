@@ -12,6 +12,7 @@ Il prossimo round inizierà fra [time] secondi.
 ABILITA' SPECIALE
 CREA BUCO NERO
 USA BUCO NERO
-YOU DIED
-You were killed by
-as
+SEI MORTO
+Sei stato ucciso da
+come
+Passivo

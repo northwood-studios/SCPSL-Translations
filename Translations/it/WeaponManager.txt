@@ -1,7 +1,7 @@
-Premi qualsiasi tasto freccia per iniziare...
+Usa un qualsiasi tasto freccia per iniziare...
 Naviga - tasti freccia SU/GIU' \nSeleziona - tasto freccia DESTRO \nIndietro - tasto freccia SINISTRO
 [var_name]\n\nTipo di munizioni: [var_atype]\nMunizioni di riserva: [var_ares]\nDimensione caricatore: [var_mag]\n\nDanno massimo: [var_maxdmg]\nDanno effettivo: [var_effdmg]\nColpi al secondo: [var_sps]\n\nPersonalizzazione disponibile: [var_custs]\n\nFRECCIA DESTRA PER PERSONALIZZARE L'ARMA
-You are going to drop [var_nom]\nUP/DOWN arrow keys to change quantity.\nRIGHT arrow to drop.\nLEFT arrow to back.
-Not enough ammo to drop (type [var_nom]). \nLEFT arrow to back.
+Stai per droppare [var_nom]\nUsa i tasti "freccia sotto"/"freccia sopra" per cambiare la quantità.\nfreccia destra per far cadere le munizioni.\nsinistra per tornare indietro
+Non hai abbastanza munizioni da far cadere (tipo [var_nom]). \nfreccia sinistra per tornare indietro
 CANNA
 ALTRO
