@@ -1,31 +1,35 @@
-Janitor Keycard:No description
-Scientist Keycard:No description
-Research Supervisor Keycard:No description
-Zone Manager Keycard:No description
-Guard Keycard:No description
-MTF Cadet Keycard:No description
-Containment Engineer Keycard:No description
-MTF Lieutenant Keycard:No description
-MTF Commander Keycard:No description
-Facility Manager Keycard:No description
-Chaos Insurgency Access Device
-O5-level Keycard
-Radio:SR = Short Range \nMR = Medium Range \nLR = Long Range \nUR = Ultra Range \nUses battery while on. Longer range means higher battery use.
-COM-15 Sidearm:No description
-First AID Kit:Heals your injuries.
-Flashlight:Let there be light!
-Micro H.I.D.:Mobile high-intensity electrical discharge thrower.
-Coin:No description
-Cup:No description
-Weapon Manager Tablet:Used to drop ammo & upgrade your weapons.
-MTF-E11-SR:No description
-Project 90:No description
-Dropped 5.56:No description
-MP7:No description
-Logicer:No description
-Frag Grenade:Boom!
-Flashbang Grenade:Blinds your enemies.
-Disarmer:Left click disarms, right click unties. \nHold E on someone who is disarmed on your team to free them.
-Dropped 7.62:No description.
-Dropped 9mm:No description.
-USP:No description.
+Chiave Magnetica del Custode:Nessuna descrizione
+Chiave Magnetica dello Scienziato:Nessuna descrizione
+Chiave Magnetica del Supervisore delle Ricerche:Nessuna descrizione
+Chiave Magnetica del Responsabile di Zona:Nessuna descrizione
+Chiave Magnetica della Guardia:Nessuna descrizione
+Chiave Magnetica del Cadetto MTF:Nessuna descrizione
+Chiave Magnetica del Ingegnere di Contenimento:Nessuna descrizione
+Chiave Magnetica del Luogotenente MTF:Nessuna descrizione
+Chiave Magnetica del Commandante MTF:Nessuna descrizione
+Chiave Magnetica del Responsabile della struttura:Nessuna descrizione
+Dispositivo d'Accesso dei Chaos Insurgency
+Chiave Magnetica livello-05
+Radio:SR = Corto Raggio \nmR = Medio Raggio \nLR = Lungo Raggio \nUR = Ultra Raggio \nConsuma la batteria mentre accesa. Più lungo sarà il raggio e più batteria consumerà.
+COM-15 Sidearm:Nessuna descrizione
+Kit di pronto soccorso:Cura le tue ferite.
+Torcia Elettrica:E luce fù!
+Micro H.I.D.: Scaricatore di elettricità portatile, ad alta intensità
+SCP-500:La panacea.
+SCP-207:Aumenta pericolosamente le tue capacità motorie!
+Tablet di gestione delle armi:Usato per far cadere a terra le munizioni e aggiungere/rimuovere accessori alle armi.
+MTF-E11-SR:Nessuna descrizione
+Project 90:Nessuna descrizione
+Munizioni 5.56:Nessuna descrizione
+MP7:Nessuna descrizione
+Logicer:Nessuna descrizione
+Granata a Frammentazione:Boom!
+Granata Stordente:Acceca i tuoi nemici.
+Dispositivo disarmante:Il click sinistro del mouse disarma, quello destro slega. \nTieni premuto E su qualcuno del tuo team che sia stato arrestato per liberarlo.
+Munizioni 7.62:Nessuna descrizione.
+Munizioni 9mm:Nessuna descrizione.
+USP:Nessuna descrizione.
+SCP-018:Super-Palla in grado di ribalzare con un'efficienza estrema!
+SCP-268:Rende temporaneamente invisibile se indossato, a meno che l'utente non lo interrompa con una qualsiasi interazione.
+Adrenalina:Aumenta temporaneamente la resistenza.
+Antidolorifici:Allevia piccole ferite.
