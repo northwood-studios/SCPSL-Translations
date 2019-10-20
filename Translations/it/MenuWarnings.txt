@@ -1,0 +1,4 @@
+AVVISO
+OKAY
+<b>Intel graphics</b> è stata rilevata nel tuo computer, questa scheda video <b>non è suportata</b>./nSi <b>raccomanda</B> di usare una scheda video <b>non integrata</b>./nIl gioco potrebbe <b>crashare molto spesso</b> con questa configurazione hardware.
+Impossibile trovare un aggiornamento di sistema importante richiesto dalla chat vocale. Assicurati che Windows sia completamente aggiornato, altrimenti il gioco potrebbe non funzionare correttamente. Se il problema persiste, contatta il nostro team di supporto tecnico per ulteriore assistenza
