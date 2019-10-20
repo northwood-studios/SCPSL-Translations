@@ -30,4 +30,5 @@ connessi
 Sei fuggito come scienziato e ti sei unito alle unita' NTF.
 Sei fuggito come Classe-D e ti sei unito ai Chaos Insurgency.
 RUOLO:
-Escape time: [escape_minutes] minutes and [escape_seconds] seconds
+Tempo di fuga: [escape_minutes] minuti [escape_seconds] secondi
+Attendi [time] prima di usare [item] di nuovo.
