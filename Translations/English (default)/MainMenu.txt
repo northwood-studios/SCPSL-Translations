@@ -81,3 +81,5 @@ Gives artificial HP its own health bar, instead of an overlay.
 Our translations are open-source on GitHub!\nWant to help? Click here to access the repo.
 RICH PRESENCE
 If enabled, your status will be displayed on Discord/Steam.
+DISPLAY EXACT HP VALUE
+Displays exact HP, instead of just the percentage.
