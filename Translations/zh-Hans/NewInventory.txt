@@ -10,7 +10,7 @@ MTF指挥官钥匙卡:No description
 设施总监钥匙卡:No description 
 混沌分裂者权限装置
 O5钥匙卡
-Radio:SR = 短距离 \nMR = 中距离 \nLR = 远距离 \nUR = 超远距离 \n靠电池驱动，接收距离越远耗电量越高。
+对讲机:SR = 短距离 \nMR = 中距离 \nLR = 远距离 \nUR = 超远距离 \n靠电池驱动，接收距离越远耗电量越高。
 COM-15便携式手枪:No description
 急救包:治疗你的伤势。
 手电筒:上帝说："要有光！"
