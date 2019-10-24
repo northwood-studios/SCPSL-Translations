@@ -18,7 +18,7 @@ Micro H.I.D.:便携式高能电浆喷射器。
 SCP-500:万能药。
 SCP-207:提升行动能力，同时逐渐损坏你的身体。
 武器控制面板:用来丢下弹药/升级你的武器。
-MTF-E11-SR狙击步枪:No description
+MTF-E11-SR制式步枪:No description
 Project 90冲锋枪:No description
 Dropped 5.56:No description
 MP7冲锋枪:No description
