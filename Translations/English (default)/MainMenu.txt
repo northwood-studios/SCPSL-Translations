@@ -83,3 +83,5 @@ RICH PRESENCE
 If enabled, your status will be displayed on Discord/Steam.
 DISPLAY EXACT HP VALUE
 Displays exact HP, instead of just the percentage.
+PUBLIC LOBBY
+If enabled, your steam friends can join you without permission.
