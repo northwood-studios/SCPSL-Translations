@@ -60,3 +60,28 @@ LIMITE DE FPS
 El limite de FPS no funciona con el V-SYNC activado!
 Restaurar valor predeterminado
 Usamos las discusiones de Steam como foro. (Clic en el logo para abrir el foro)
+OPCIONES DE AUDIO
+VOLUMEN MAESTRO
+MUSICA DEL MENU
+CHAT DE VOZ
+EFECTOS DE SONIDO
+OPCIONES DE JUGABILIDAD
+DESAPARICION DE INTRO RAPIDA
+El texto que introduce la clase desaparecera mucho mas rapido.
+SCP-079 - Cambiar modo de vista
+Pulsa una vez para cambiar entre modos de camara
+SCP-079 - POST- PROCESADO
+Si se desactiva, los efectos de camara se reduciran drasticamente.
+MOVIMIENTO DE CABEZA
+Activa el movimiento de cabeza en la camara de primera personaEnables first-person camera bobbing during movement.
+ACTIVAR SPRINT
+Esprintar se activa y se desactiva en vez de tener que mantener el boton.
+SEPARAR BARRA ARTIFICIAL HP
+Da una HP artificial en su propia barra de salud en vez de un overlay.
+Nuestras traducciones son de codigo abierto en GitHub! \n Quieres ayudar? Haz clic aqui para acceder al repositorio.
+PRESENCIA ENRIQUECEDORA
+Si se activa,tu estado se mostrara en Discord/Steam.
+MOSTRAR VALOR EXACTO DE SALUD
+Muetra una cantidad de salud exacta en vez de un porcentaje.
+SALA PUBLICA
+Si se activa tus amigos de Steam podran entrar sin permiso.

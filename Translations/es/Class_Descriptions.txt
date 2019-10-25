@@ -1,5 +1,5 @@
 Elimina a todos.\nEvita que escapen los <color=#FFFF7CFF>Cientificos</color> y <color=#FF8E00>Clase D </color> .\nCoopera con otros <color=#f00>SCPs.</color><color=#ffff00>\nManten W+clic izquierdo mientras apuntas a alguien para matar.\nTe mueves mas rapido con menos salud.</color>
-Escapa de las instalaciones.\nCoopera con los  <color=#008f1e>Insurgentes del caos.</color>\nEvita al resto.
+Escapa de las instalaciones.\nCoopera con los  <color=#008f1e>Insurgentes del caos</color>. \nEvita al resto.
 Reapareceras pronto.
 Elimina a todos.\nEvita que escapen los <color=#FFFF7CFF>Cientificos</color> y <color=#FF8E00>Clase D </color> \nCoopera con otros <color=#f00>SCPs.</color><color=#ffff00>\nPuedes atravesar puertas.\nClic izquierdo para herir y teletransportar al objetivo a tu dimension.\nManten TAB para ver tus habilidades.</color>
 Ayuda a los <color=#FFFF7CFF>Cientificos</color> a escapar \nNeutraliza a los demas .\nOrdena a los subordinados . \nSigue ordenes de tu superior.
