@@ -15,6 +15,8 @@ COM-15 Sidearm:No description
 Kit de primeros auxilios : Cura tus heridas.
 Linterna:Que se haga la luz!
 Micro H.I.D.:Lanzador movil de descargas de alto voltaje.
+SCP-500:La panacea.
+SCP-207:A costa de tu salud aumenta tu velocidadHarmfully increases motor skills.
 Moneda:Parecen ser 50 centimos!
 Vaso:Que contiene? Mejor no preguntes
 PDA para gestionar armas:Se usa para soltar municion y mejorar armas.
