@@ -29,3 +29,7 @@ Desarmador:Clic izquierdo desarma, clic derecho libera. \nManten E en alguien de
 Dropped 7.62:No description.
 Dropped 9mm:No description.
 USP:No description.
+SCP-018:Superbola capaz de rebotar con eficiencia extrema.
+SCP-268:Cuando se equipa te hace temporalmente invisible hasta que es interrumpido por alguna accion del jugador.
+Adrenalina:Aumenta temporalmente la resistencia.
+Analgesicos:Sana heridas menores.
