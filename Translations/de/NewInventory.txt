@@ -31,5 +31,5 @@ Entwaffner:Linksklick entwaffnet, Rechtsklick macht es rückgängig. Achte darau
 USP:Stärkere Variante der COM-15.
 SCP-018:Superball, welcher mit extremer Effizienz umher springt.
 SCP-268:Wenn ausgerüstet, macht dich vorübergehend unsichtbar, außer du wirst durch Interaktionen anderer Spieler gestört.
-Schmerzmittel:Lindert leichte Verletzungen.
 Adrenalin:Erhöht deine Ausdauer vorübergehend.
+Schmerzmittel:Lindert leichte Verletzungen.

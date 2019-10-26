@@ -10,7 +10,7 @@
 <size=80>Verbindung unterbrochen</size>\nFalsche Serverkonfiguration (Version ist nicht kompatibel).
 <size=80>Verbindung unterbrochen</size>\nFalsche Serverkonfiguration
 <size=80>Verbindung unterbrochen</size>\nDie Adresse ist ungültig oder kann nicht zurückverfolgt werden.
-<size=80>Verbindung unterbrochen</size>\nEin unerwartetet Fehler ist aufgetreten!
+<size=80>Verbindung unterbrochen</size>\nEin unerwarteter Fehler ist aufgetreten!
 <size=80>BITTE WARTEN</size>\n<size=35>Verbindung wird aufgebaut...</size>
 <size=80>RUNDEN NEUSTART</size>\n<size=35>Die Runde wird neugestartet...</size>
 <size=80>BITTE WARTEN</size>\n<size=35>Lade das Tutorial...</size>

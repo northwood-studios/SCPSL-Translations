@@ -3,7 +3,7 @@ La caduta ha terminato la sua vita.
 Morto per ricontenere l' SCP-106.
 Perduto nella dimensione tascabile.
 Sono dei resti lasciati dal SCP-106.
-Scossa ad alto voltaggio.
+Scossa ad alta tensione.
 Schiacciato da una struttura pesante.
 Ci sono molte ferite da arma da fuoco sul cadavere. Probabilmente, sono state causate da delle munizioni di tipo [ammotype].
 Il collo è spezzato alla base del cranio.
@@ -12,6 +12,6 @@ Il soggetto è stato curato dalla piaga.
 Causa della morte sconosciuta.
 I resti del corpo di <b>[user]</b>, Ruolo: [class]!\n\nCausa della morte: [cause]
 Fatto a pezzi dal SCP-096.
-Powerful bite to cranium.
-Melted by strongly corrosive substance.
-Post-explosion wounds.
+Morso potente sul cranio.
+Sciolto da una sostanza altamente corrosiva.
+Ferite post esplosione.
