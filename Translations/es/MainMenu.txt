@@ -73,7 +73,7 @@ Pulsa una vez para cambiar entre modos de camara
 SCP-079 - POST- PROCESADO
 Si se desactiva, los efectos de camara se reduciran drasticamente.
 MOVIMIENTO DE CABEZA
-Activa el movimiento de cabeza en la camara de primera personaEnables first-person camera bobbing during movement.
+Activa el movimiento de cabeza en la camara de primera persona.
 ACTIVAR SPRINT
 Esprintar se activa y se desactiva en vez de tener que mantener el boton.
 SEPARAR BARRA ARTIFICIAL HP
