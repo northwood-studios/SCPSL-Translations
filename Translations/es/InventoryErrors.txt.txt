@@ -1,3 +1,0 @@
-Has alcanzado el limite de <color=yellow>{0} municion</color> (<color=yellow>{1} balas</color>)
-Solo puedes cargar <color=yellow>{0}</color> objetos de este tipo (<color=yellow>{1}</color>)
-Solo puedes cargar <color=yellow>8</color> objetos
