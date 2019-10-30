@@ -1,0 +1,3 @@
+ <color=yellow>{0}</color>弾の所持数制限に達しました (<color=yellow>{1}発</color>)
+このタイプのアイテムはこの数だけ持ち運ぶことが出来ます(<color=yellow>{1}</color>は<color=yellow>{0}</color>個)
+持ち運べるのは<color=yellow>8</color>個だけです
