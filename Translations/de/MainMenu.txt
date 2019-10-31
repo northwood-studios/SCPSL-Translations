@@ -1,7 +1,7 @@
 BEITRETEN
 SCHLIESSEN
 Schattenauflösung
-Einstellungen
+EINSTELLUNGEN
 Basiert auf <i>SCP: CONTAINMENT BREACH</i>
 ZURÜCK
 SPRACHE
@@ -11,15 +11,15 @@ SPIEL BEIRETEN
 Nach-\nbearbeitung
 CREDITS
 SPIEL BEENDEN
-VOLLBILD MODUS
-BILDSCHIRM EINSTELLUNGEN
+VOLLBILDMODUS
+BILDSCHIRMEINSTELLUNGEN
 FARBKORREKTUR
 IP-Adresse eingeben...
 BILDSCHIRMAUFLÖSUNG
-Spielen
+SPIELEN
 PIXEL LICHT QUELLEN
 Schatten
-SCHATTEN
+Schatten
 ERSTELLE SPIEL
 Das ändern dieser Einstellung wirkt sich nicht auf die Spielperformance aus. Standard Einstellungen sind empfohlen.
 Einfacher Rendermodus:\nWenn aus - lässt das Spiel schlechter aussehen. Es ist empfohlen diese Einstellung nur zu nutzen wenn du ein schlechtes PC setup (low-end) besitzt.
@@ -31,7 +31,7 @@ HAUPTMENÜ
 Einfacher Rendermodus
 BEWEGUNGSSCHÄRFE
 Schattenabstand
-DETAILS
+Details
 3. SCP-914
 TUTORIALS
 WARNUNG
@@ -61,27 +61,27 @@ FPS Limit funktioniert nicht wenn V-Sync an ist!
 Zurücksetzen
 Wir nutzen die Steam Diskussionen als Forum. (Klicke auf das Logo um das Forum aufzurufen)
 AUDIO EINSTELLUNGEN
-HAUPT LAUTSTÄRKE
-MENÜ MUSIK
+GESAMTLAUTSTÄRKE
+HAUPTMENÜ MUSIK
 SPRACHCHAT
 SOUND EFFEKTE
 GAMEPLAY OPTIONEN
 INTRO SCHNELL AUSBLENDEN
-Das Klassen Intro wird wesentlich schneller ausblenden.
-SCP-079\nUMSCHALTEN DER ANSICHT
-Einmal drücken um den Modus zu wechseln.
-SCP-079\nNACHBEARBEITUNG
+Das Klassen Intro wird bei Rundenstart schneller ausgeblendet.
+SCP-079 ANSICHT UMSCHALTEN
+Der Kameramodus wird durch einmaliges betätigen umgeschaltet.
+SCP-079 NACHBEARBEITUNG
 Wenn ausgeschaltet, werden Kamera Effekte stark reduziert.
 KAMERA WACKELN
 Schaltet das wackeln der first-person Kamera an während sich der Spieler bewegt.
-UMSCHALTEN DES SPRINTENS
-Sprinten wird an oder aus geschaltet anstatt die Taste gedrückt zu halten.
-SEPARATER \nKÜNSTLICHER HP BALKEN
-Gibt künstlicher HP einen eigenen HP Balken anstatt eines Overlays.
+SPRINTEN UMSCHALTEN
+Sprinten wird ein/aus geschaltet, anstatt die Taste gedrückt zu halten.
+SEPARATER HP BALKEN
+Künstliche HP hat einen eigenen HP Balken, statt eines Overlays.
 Unsere Übersetzungen sind open-source auf Github!\nMöchtest du uns helfen? Dann klicke hier um Zugriff zu erhalten.
-REICHE PRÄSENZ / RICH PRESENCE
+RICH PRESENCE
 Wenn eingeschaltet, wird dein Status auf Discord/Steam angezeigt.
-ZEIGE EXAKTE HP ANZAHL AN
-Zeigt die exakte HP Anzahl an, anstelle von Prozent.
+ZEIGE HP PUNKTE AN
+Zeigt die exakte Anzahl an HP Punkten an, anstelle von Prozent.
 ÖFFENTLICHE LOBBY
 Wenn eingeschaltet, können deine Steam Freunde dir ohne Erlaubnis beitreten.
