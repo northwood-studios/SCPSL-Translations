@@ -81,7 +81,7 @@ Oddziela dodatkowe zdrowie na swój osobny pasek, zamiast się nakładać.
 Nasze spolszczenia są dostępne na GitHub!\nChcesz pomóc? Naciśnij tutaj aby uzyskać dostęp.
 RICH PRESENCE
 Gdy włączony, twój status w grze zostanie pokazany na Discordzie/Steamie.
-WYŚWIETL DOKŁADNĄ ILOŚĆ ŻYCIA
-Wyświetla dokładną ilość życia, zamiast w procentach.
+WYŚWIETL DOKŁADNĄ ILOŚĆ ZDROWIA
+Zamieni procenty na dokładną ilość twojego zdrowia.
 PUBLICZNE LOBBY
 Gdy włączone, twoi znajomi na Steam będą mogli dołączyć do gry bez wymagania twojej zgody.
