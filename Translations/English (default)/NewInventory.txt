@@ -31,5 +31,5 @@ Dropped 9mm:No description.
 USP:No description.
 SCP-018:Superball able to bounce with extreme efficiency.
 SCP-268:When worn, temporarily makes you invisible unless it is interrupted by any user interaction.
-Painkillers:Relieve minor injuries.
 Adrenaline:Temporarily increases endurance.
+Painkillers:Relieve minor injuries.

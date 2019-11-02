@@ -1,13 +1,13 @@
-Tarjeta de conserje:No description
-Tarjeta de cientifico:No description
+Tarjeta de Conserje:No description
+Tarjeta de Cientifico:No description
 Tarjeta de jefe de investigacion:No description
-Tarjeta de administrador de zona:No description
+Tarjeta de Administrador de zona:No description
 Tarjeta de Guardia de seguridad:No description
 Tarjeta de Cadete:No description
-Tarjeta de ingeniero de contencion:No description
-Tarjeta de teniente de la NTF:No description
-Tarjeta de comandante de la NTF:No description
-Tarjeta de administrador de instalacion:No description
+Tarjeta de Ingeniero de contencion:No description
+Tarjeta de Teniente de la NTF:No description
+Tarjeta de Comandante de la NTF:No description
+Tarjeta de Administrador de instalacion:No description
 Dispositivo de los Insurgentes del caos
 Tarjeta de miembro del consejo O5
 Radio:SR = Corto alcance \nMR = Alcance medio \nLR = Largo alcance \nUR = Alcance Maximo \nUsa bateria mientras esta enchufada. Cuanto mas alcance mas consumo de bateria.
@@ -15,6 +15,8 @@ COM-15 Sidearm:No description
 Kit de primeros auxilios : Cura tus heridas.
 Linterna:Que se haga la luz!
 Micro H.I.D.:Lanzador movil de descargas de alto voltaje.
+SCP-500:La panacea.
+SCP-207:A costa de tu salud aumenta tu velocidad de movimiento.
 Moneda:Parecen ser 50 centimos!
 Vaso:Que contiene? Mejor no preguntes
 PDA para gestionar armas:Se usa para soltar municion y mejorar armas.
@@ -29,3 +31,7 @@ Desarmador:Clic izquierdo desarma, clic derecho libera. \nManten E en alguien de
 Dropped 7.62:No description.
 Dropped 9mm:No description.
 USP:No description.
+SCP-018:Superbola capaz de rebotar con eficiencia extrema.
+SCP-268:Cuando se equipa te hace temporalmente invisible hasta que es interrumpido por alguna accion del jugador.
+Adrenalina:Aumenta temporalmente la resistencia.
+Analgesicos:Sana heridas menores.

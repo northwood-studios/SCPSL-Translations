@@ -65,3 +65,23 @@ GŁOŚNOŚĆ OGÓLNA
 MUZYKA W MENU
 CZAT GŁOSOWY
 EFEKTY DŹWIĘKOWE
+USTAWIENIA ROZGRYWKI
+SZYBSZE OPISY
+Opis aktualnej klasy przy rozpoczęciu rundy zniknie o wiele szybciej.
+SCP-079 - SPOSÓB ZMIANY WIDOKU
+Naciśnij raz, aby przełączyć się pomiędzy trybami ruchu kamery.
+SCP-079 - POST-PROCESSING
+Gdy wyłączony, efekty na kamerze zostaną znacząco zmniejszone.
+ANIMACJA CHODZENIA
+Włącza ruch kamery podczas biegu.
+PRZEŁĄCZANY BIEG
+Bieganie można włączyć i wyłączyć, bez przytrzymywania klawisza.
+ODDZIELNY PASEK DODATKOWEGO ZDROWIA
+Oddziela dodatkowe zdrowie na swój osobny pasek, zamiast się nakładać.
+Nasze spolszczenia są dostępne na GitHub!\nChcesz pomóc? Naciśnij tutaj aby uzyskać dostęp.
+RICH PRESENCE
+Gdy włączony, twój status w grze zostanie pokazany na Discordzie/Steamie.
+WYŚWIETL DOKŁADNĄ ILOŚĆ ŻYCIA
+Wyświetla dokładną ilość życia, zamiast w procentach.
+PUBLICZNE LOBBY
+Gdy włączone, twoi znajomi na Steam będą mogli dołączyć do gry bez wymagania twojej zgody.

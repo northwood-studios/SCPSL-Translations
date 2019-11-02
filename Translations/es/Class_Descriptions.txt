@@ -1,10 +1,10 @@
 Elimina a todos.\nEvita que escapen los <color=#FFFF7CFF>Cientificos</color> y <color=#FF8E00>Clase D </color> .\nCoopera con otros <color=#f00>SCPs.</color><color=#ffff00>\nManten W+clic izquierdo mientras apuntas a alguien para matar.\nTe mueves mas rapido con menos salud.</color>
-Escapa de las instalaciones.\nCoopera con los  <color=#008f1e>Insurgentes del caos.</color>\nEvita al resto.
+Escapa de las instalaciones.\nCoopera con los  <color=#008f1e>Insurgentes del caos</color>. \nEvita al resto.
 Reapareceras pronto.
 Elimina a todos.\nEvita que escapen los <color=#FFFF7CFF>Cientificos</color> y <color=#FF8E00>Clase D </color> \nCoopera con otros <color=#f00>SCPs.</color><color=#ffff00>\nPuedes atravesar puertas.\nClic izquierdo para herir y teletransportar al objetivo a tu dimension.\nManten TAB para ver tus habilidades.</color>
 Ayuda a los <color=#FFFF7CFF>Cientificos</color> a escapar \nNeutraliza a los demas .\nOrdena a los subordinados . \nSigue ordenes de tu superior.
 Elimina a todos.\nEvita que escapen los <color=#FFFF7CFF>Cientificos</color> y <color=#FF8E00>Clase D </color> \nCoopera con otros <color=#f00>SCPs.</color><color=#ffff00>\nTu ataque es instanteno y mata de un solo impacto.\nManten E a un cadaver que  </color><color=#f00>TU</color><color=#ffff00> hayas matado para revivir a un zombie .\nCon menos salud reanimas mas rapido.</color>
-Escapa de las instalaciones.\nCoopera con la <color=#0096FF>MTF.</color>\nEvita al resto.
+Escapa de las instalaciones.\nCoopera con la <color=#0096FF>MTF</color> y los <color=#59636f>Guardias de la Instalacion</color>.\nEvita al resto.
 Elimina a todos.\nEvita que escapen los <color=#FFFF7CFF>Cientificos</color> y  <color=#FF8E00>Clase D </color> \nCoopera con otros <color=#f00>SCPs.</color>
 Ayuda a los <color=#FF8E00>Clase D </color> a escapar \nNeutraliza al resto.
 Elimina a todos.\nEvita que escapen los <color=#FFFF7CFF>Cientificos</color> y <color=#FF8E00>Clase D </color> \nCoopera con otros <color=#f00>SCPs.</color><color=#ffff00>\nEres pasivo hasta que te miran.\nSi te miran matas con un solo ataque,te mueves rapido y puedes romper puertas.\nEse estado es temporal y al acabar volveras a ser pasivo.</color>

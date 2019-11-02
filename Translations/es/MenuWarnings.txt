@@ -1,0 +1,4 @@
+AVISO
+ENTENDIDO
+Se han detectado <b>Graficos de Intel</b> ,los cuales , <b>no reciben soporte</b>./nSe <b>recomienda</B> usar una tarjeta grafica <b>no integrada </b> en la placa./n El juego,seguramente , <b>se cierre inesperadamente</b> con el equipo acutal.
+No se ha encontrado una importante actualizacion requerida por el chat de voz. Por favor,asegurate de que tu sistema Windows esta actualizado , de lo contrario ,el juego puede no funcionar correctamente. Si el problema persiste ,por favor,contacta con nuestro soporte tecnico para recibir asistencia.
