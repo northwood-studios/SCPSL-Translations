@@ -1,28 +1,28 @@
-Ok, let's get started...\nLearning the basics skills of shooting definitely makes gameplay... <i>easier</i>.\nPick Up the pistol that just landed on the board.
+好的，让我们开始吧。。。\n学习基本技能射击绝对能让你的游戏变得 <i>简单一点儿</i>.\n捡起在板板上面的手枪。
 Tutorial2_Curtain
-So, you just picked up the shittiest weapon in the game. Get used to it, because it'll get you out of some pretty hairy situations. Oh, and it's good to have some ammunition. It is difficult to find it in the game, so shoot as efficiently as you can.
+所以，你刚捡起了游戏中最菜的手枪，尝试去习惯他，因为他能让你摆脱一些游戏中的困境或者射杀一些d级人员（笑），哦对了，最好捡起一些子弹，因为游戏中都挺难寻找找的，所以请尽可能有效率的射击（爆头）。
 Tutorial2_GiveAmmo
-Remember, that headshots will take down your opponent faster. If you run out of ammo in this test, I'll give you more!
-<color=#00FF58>Use <b>R</b> to reload,\n<b>right mouse button</b> to zoom\nand <b>left</b> to shoot.</color>
+记住，爆头会让你更加快的击杀敌人，如果这次测试中你的子弹没了的话，我会给你更多的子弹的，放心！
+<color=#00FF58>使用 <b>R</b> 去装弹,\n<b>右键</b> 去瞄准\n和 <b>左键</b> 去射击.</color>
 Tutorial2_Result
-Impressive, you dispatched them all with a single magazine!
+不错嘛，你用一个单价就把他们给消灭了！
 Tutorial2_Jumpin
-Hey, you're pretty good at shooting!
+嗨，你射的挺不错的嘛！
 Tutorial2_Jumpin
-I really hoped for a bigger display of skill, such a shame.
+我希望能看到更好地设计技术，真遗憾。
 Tutorial2_GiveNTFRifle
-Ok, I hope you hate this weapon as much as I do, let's put the toys a side, and pick up a real weapon. This one has an night vision sight that makes shooting easier.\nYou should know, that zooming or aiming any weapon guarantees accuracy and a greater reduction of recoil.
+Ok，我希望你和我一样讨厌这个武器，让我们把玩具丢一边让后捡起一把真正的武器。这个武器有一个夜视镜能让你更加容易的射击。\n你应该知道，瞄准开镜能让你获得更加高的命中率和更低的后坐力。
 Tutorial2_Preset
 Tutorial2_Curtain
 Tutorial2_Curtain
-I can see you've already mastered the basics! I have prepared a challenge for you.\nYou have 20 seconds to kill as many opponents as you can.\nLet's get started!
-Ready? 3, 2, 1... GO
+我能看到你已经成为了基础的大师了！我为你准备了一个挑战\n你有20秒去射杀尽可能多的敌人。\n让我们开始吧。
+准备好了么？3, 2, 1。。。 冲冲冲
 Tutorial2_Preset
 Tutorial2_Curtain
 
 Tutorial2_ResultText
 Tutorial2_Curtain
-Time's up!
-Remember that you can always re-visit this tutorial in the future\nif you want to brush up on your skills!\nSee you later!
+时间到了！
+请记住您可以在任何的时候重新开始这次的教程\n如果你想更加的精进你的技术的话！\n我们下次再见！
 
 Tutorial2_MoreAmmo
