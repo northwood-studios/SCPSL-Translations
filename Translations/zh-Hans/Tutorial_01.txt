@@ -1,8 +1,8 @@
-Welcome to SCP: Secret Laboratory! I'm one of the voice actors for the game.\nLet me introduce you to basic gameplay rules.\nTry to find and check toilets in order to find a potential keycard.\n
-<color=#00FF58>Use <b>W, A, S & D</b> in order to go to the <b>toilets</b>\nUse <b>E</b> to <b>interact</b> with doors and items.</color>
-Great, now take it.
-Keycards are one of the most basic elements of the game, allowing entrance to locked areas.\nCheck the nearby doors and try to open them with your card.
-<color=#00FF58>Use <b>TAB</b> to open inventory.\n<b>Left mouse button</b> to select item\nand <b>right</b> to drop it.
-If you really want to escape - I'd suggest finding a better card.
-Every card has its own access levels. You can compare cards by hovering your mouse cursor over each one in your inventory.
-Congratulations! You just passed the first part of the tutorial!
+欢迎来到 SCP : Secret Laboratory! 我是游戏中其中一名的声优。\n让我来为您介绍一下游戏中的基本规则。\n尝试在厕所中找到一张可能对你小名有帮助的卡.\n
+<color=#00FF58>使用 <b>W, A, S & D</b> 前往 <b>厕所</b>\用 <b>E</b> 来 <b>接触</b> 门和物品.</color>
+很棒，现在去拿起来。
+钥匙卡是一个十分有用的物品在游戏中， 可以前往被锁住的区域\n查看附近的门并尝试用你的卡打开。
+<color=#00FF58>用 <b>TAB</b> 打开物品栏。\n<b>左键</b> 点击物品\n和 <b>右键</b> 去扔在地上。
+如果你真的想逃出生天，我推荐你去找一张更加有用的卡。
+每一张卡都有自己的权限。你可以去对比这些卡，在物品栏使用你的鼠标挪移到卡上进行查看。
+恭喜你！你通过了第一部分的教程！
