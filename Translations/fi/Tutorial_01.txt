@@ -1,8 +1,9 @@
-Welcome to SCP: Secret Laboratory! I'm one of the voice actors for the game.\nLet me introduce you to basic gameplay rules.\nTry to find and check toilets in order to find a potential keycard.\n
-<color=#00FF58>Use <b>W, A, S & D</b> in order to go to the <b>toilets</b>\nUse <b>E</b> to <b>interact</b> with doors and items.</color>
-Great, now take it.
-Keycards are one of the most basic elements of the game, allowing entrance to locked areas.\nCheck the nearby doors and try to open them with your card.
-<color=#00FF58>Use <b>TAB</b> to open inventory.\n<b>Left mouse button</b> to select item\nand <b>right</b> to drop it.
-If you really want to escape - I'd suggest finding a better card.
-Every card has its own access levels. You can compare cards by hovering your mouse cursor over each one in your inventory.
-Congratulations! You just passed the first part of the tutorial!
+Tervetuloa peliin SCP: Secret Laboratory! Olen yksi pelin ääninäyttelijöistä.\n
+Saanen esitellä sinulle pelin perussäännöt.\nYritä löytää ja tarkistaa käymälät potentiaalisen avainkortin löytämiseksi.\n
+<color=#00FF58>Käytä <b>W, A, S & D</b> liikkuaksesi <b>vessoille</b>\nKäytä <b>E</b> <b>käyttääksesi</b> ovia ja tavaroita.</color>
+Hienoa, nyt ota se mukaasi.
+Avainkortit ovat yksi pelin peruselementteistä, mitkä mahdollistavat pääsyn lukituille alueille.\nKokeile lähimpiä ovia, josko pääsisit niistä avainkortillasi.
+<color=#00FF58>Käytä <b>TAB</b> aukaistaksesi tavaraluettelosi.\n<b>Vasen hiirenpainike</b> valitsee tavaran\nja <b>oikea</b> pudottaa sen.
+Jos todella tahdot paeta - Suosittelen sinua etsimään paremman kortin.
+Jokaisella kortilla on omat käyttöoikeustasonsa. Voit vertailla kortteja pitämällä kursorin kortin päällä tavaraluettelossasi.
+Onnittelut! Läpäisit juuri tutoriaalin ensimmäisen osuuden!
