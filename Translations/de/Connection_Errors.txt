@@ -16,4 +16,4 @@
 <size=80>BITTE WARTEN</size>\n<size=35>Lade das Tutorial...</size>
 <size=80>VERSION INKOMPATIBILITÄT</size>\nDu nutzt eine unterschiedliche Spielversion als der Server.\n(Deine - [your]; Server - [server])
 <size=80>VERBUNDEN</size>\n<size=35>Laden des Levels...</size>
-<size=35>Laden der Anlage...</size>
+<size=35>Laden der Einrichtung...</size>
