@@ -78,7 +78,7 @@ PRZEŁĄCZANY BIEG
 Bieganie można włączyć i wyłączyć, bez przytrzymywania klawisza.
 ODDZIELNY PASEK DODATKOWEGO ZDROWIA
 Oddziela dodatkowe zdrowie na swój osobny pasek, zamiast się nakładać.
-Nasze spolszczenia są dostępne na GitHub!\nChcesz pomóc? Naciśnij tutaj aby uzyskać dostęp.
+Możesz pomóc w edycji naszych tłumaczeń, odwiedzając portal GitHub!\nNaciśnij tutaj, by tam przejść
 RICH PRESENCE
 Gdy włączony, twój status w grze zostanie pokazany na Discordzie/Steamie.
 WYŚWIETL DOKŁADNĄ ILOŚĆ ZDROWIA
