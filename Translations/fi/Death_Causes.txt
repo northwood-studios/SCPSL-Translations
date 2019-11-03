@@ -1,17 +1,17 @@
-Höyrystetty Alpha Warhead:illa.
-Hajanaiset jalat ja jalkaterät viittaavat putoamisesta kuolemaan.
+Höyrystetty Alpha Warheadilla.
+Murtuneet jalat ja jalkaterät viittaavat putoamisesta kuolemaan.
 Merkkejä vakavasta vammasta kummassakin reisiluussa viittaa verenkierron sokin aiheuttamaan kuolemaan.
 Mädäntynyt tasku-ulottuvuudessa.
 Se on jäännös SCP-106:sta.
 Vakavia sähköisiä palovammoja.
-Kuollettava ulkoinen vamma; ruumis on pahasti vaurioitunut.
+Kuolettava ulkoinen vamma; ruumis on pahasti vahingoittunut.
 [ammotype] luodin haavoja.
-Kohdunkaulan murtuma kallon pohjalla.
+Kaularangan murtuma.
 Kehossa on massiivisia määriä kudoksen hajoamista.
-Elon merkkien äkillinen loppu. Ei selvää vammaa.
+Elonmerkkien äkillinen loppu. Ei selvää vammaa.
 Tuntematon kuolinsyy.
-Se on <b>[user]</b>n ruumis - he olivat [class]!\n\nKuolinsyy: [cause]
+Pelaajan <b>[user]</b> ruumis - hän oli [class]!\n\nKuolinsyy: [cause]
 Massiivisia repeytymiä ja liiallinen verenhukka.
-Suuria, syviä puremisen merkkejä kallon ympärillä on havaittavissa.
+Havaittavissa suuria, syviä puremisen merkkejä kallon ympärillä.
 Sulanut erittäin syövyttävästä aineesta.
-Räjähdyksen aiheuttamia sirpaleita- ja kolmannen asteen palovammoja.
+Räjähdyksen sirpaleista aiheutuneita kolmannen asteen palovammoja.

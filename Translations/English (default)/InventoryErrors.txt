@@ -1,0 +1,5 @@
+Limit of <color=yellow>{0} ammo</color> reached (<color=yellow>{1} rounds</color>)
+You can only carry <color=yellow>{0}</color> items of this type (<color=yellow>{1}</color>)
+You can only carry <color=yellow>8</color> items
+You have now reached the limit of items of this type: <color=yellow>{0}</color> ({1}/{1})
+You have been cuffed\n<size=40>follow orders or ask teammates for help</size>

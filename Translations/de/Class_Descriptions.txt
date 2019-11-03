@@ -1,7 +1,7 @@
 Töte jeden.\nVerhindere dass jemand entkommt.\nKooperiere mit anderen <color=#f00>SCPs.</color><color=#ffff00>\nHalte linksklick + W und ziele auf deinen Gegner um Ihn zu töten.\nDu bist schneller bei niedriger HP.</color>
 Entkomme der Einrichtung.\nKooperiere mit der <color=#008f1e>Chaos Insurgency.</color>\nMeide andere Fraktionen.
 Du wirst bald wiederbelebt.
-Töte jeden.\nVerhindere dass jemand entkommt.\nKooperiere mit anderen <color=#f00>SCPs.</color><color=#ffff00>\nDu kannst durch Türen laufen.\nLinksklick schadet deinen Gegnern und TPt sie in deine "Pocket dimension".\nHalte TAB um deine Fähigkeiten abzurufen.</color>
+Töte jeden.\nVerhindere dass jemand entkommt.\nKooperiere mit anderen <color=#f00>SCPs.</color><color=#ffff00>\nDu kannst durch Türen laufen.\nLinksklick schadet deinen Gegnern und teleporiert sie in deine "Pocket Dimension".\nHalte TAB um deine Fähigkeiten abzurufen.</color>
 Hilf <color=#FFFF7CFF>Wissenschaftlern</color> zu entkommen.\nNeutralisiere andere Fraktionen.\nGib deinen Soldaten Anweisungen. \nFolge den Anweisungen deiner Vorgesetzten.
 Töte jeden.\nVerhindere dass jemand entkommt.\nKooperiere mit anderen <color=#f00>SCPs.</color><color=#ffff00>\nDrücke Linksklick auf einen Menschen um Ihn zu töten\nHalte E auf die Person die </color><color=#f00>du</color><color=#ffff00> getötet hast um sie zum Zombie zu machen.\nDesto weniger HP, desto schneller belebst du wieder.</color>
 Entkomme der Einrichtung.\nKooperiere mit dem <color=#0096FF>MTF.</color>\nMeide andere Fraktionen.
@@ -14,4 +14,5 @@ Hilf' <color=#FFFF7CFF>Wissenschaftlern</color> zu entkommen.\nNeutralisiere and
 Hilf' <color=#FFFF7CFF>Wissenschaftlern</color> zu entkommen.\nNeutralisiere andere Fraktionen.\nFolge den Anweisungen deiner Vorgesetzten.
 Folge den Anweisungen um dein Ziel zu vervollständigen.
 Hilf' <color=#FFFF7CFF>Wissenschaftlern</color> zu entkommen.\nKooperiere mit dem <color=#0096FF>MTF.</color>\nNeutralisiere andere Fraktionen.
+Töte jeden.\nVerhindere dass jemand entkommt.\nKooperiere mit anderen <color=#f00>SCPs.</color>
 Töte jeden.\nVerhindere dass jemand entkommt.\nKooperiere mit anderen <color=#f00>SCPs.</color>

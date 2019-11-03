@@ -1,4 +1,4 @@
-Sinulle on ilmoitettu roolista, kun kierros oli alkanut. Jokaisella roolilla on erilaisia ​​tavoitteita, joita heidän on täytettävä. Jos haluat tietää lisää, paina ohjepainiketta.
+Sinulle on ilmoitettu roolistasi kierroksen alussa. Jokaisella roolilla omat tavoitteensa täytettävänä. Jos haluat tietää lisää, paina ohje-painiketta.
 Jotkin ovet edellyttävät tiettyä avainkorttia. Etsi kortti asianmukaisilla oikeuksilla ja yritä uudelleen.
-Alpha Warhead on pois päältä. Siirry Vakava Suoja-alue-vyöhykkeelle siiloon kytkeäksesi sen päälle.
+Alpha Warhead on pois päältä. Siirry raskaan suoja-alueen vyöhykkeen siiloon kytkeäksesi sen päälle.
 SCP-294 vaatii kolikon!

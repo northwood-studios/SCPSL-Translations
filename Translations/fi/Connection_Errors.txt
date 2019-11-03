@@ -1,6 +1,6 @@
-<size=80>SINUT ON POTKITTU</size>\nPalvelin pakotettiin lopettamaan yhteys.\n<size=26>\nJärjestelmänvalvoja on luultavasti antanut sinulle väliaikaisen porttikiellon\tai sinä et täytä palvelimen vaatimuksia (esim. yhteys Steam:iin).\nMahdollisille ajallisille porttikielloille - pelin tekijät <b>eivät</b> ole vastuussa.\n</size>
-<size=80>YHTEYS KATKAISTU</size>\nMääritetty IP ei ole käytettävissä.
-<size=80>YHTEYS KATKAISTU</size>\nMääritettyä yhteyden tunnusta ei ole olemassa.
+<size=80>SINUT ON POTKITTU</size>\nPalvelin pakotettiin katkaisemaan yhteys.\n<size=26>\nJärjestelmänvalvoja on luultavasti antanut sinulle väliaikaisen porttikiellon\tai sinä et täytä palvelimen vaatimuksia (esim. yhteys Steamiin).\nMahdollisista ajallisista porttikielloista - pelin tekijät <b>eivät</b> ole vastuussa.\n</size>
+<size=80>YHTEYS KATKAISTU</size>\nMääritetty palvelin ei ole käytettävissä.
+<size=80>YHTEYS KATKAISTU</size>\nMääritettyä yhteystunnusta ei ole olemassa.
 <size=80>YHTEYS KATKAISTU</size>\nMääritettyä kanavaa ei ole.
 <size=80>YHTEYS KATKAISTU</size>\nPalvelin on täynnä.
 <size=80>YHTEYS KATKAISTU</size>\nVastaanotettu väärä paketti.
@@ -13,7 +13,7 @@
 <size=80>YHTEYS KATKAISTU</size>\nOn tapahtunut odottamaton ongelma!
 <size=80>ODOTA</size>\n<size=35>Muodostetaan yhteyttä...</size>
 <size=80>KIERROS UUDELLEENKÄYNNISTYY</size>\n<size=35>Kierros käynnistyy uudelleen...</size>
-<size=80>ODOTA</size>\n<size=35>Ladataan opetusta...</size>
-<size=80>VERSION YHTEENSOPIMATTOMUUS</size>\nPelisi versio on erilainen kuin palvelimen\n(Sinun - [your]; Palvelin - [server])
+<size=80>ODOTA</size>\n<size=35>Ladataan opetuspeliä...</size>
+<size=80>VERSION YHTEENSOPIMATTOMUUS</size>\nPelisi versio poikkeaa palvelimen versiosta\n(Sinun - [your]; Palvelin - [server])
 <size=80>YHDISTETTY</size>\n<size=35>Ladataan tasoa...</size>
 <size=35>Ladataan laitosta...</size>

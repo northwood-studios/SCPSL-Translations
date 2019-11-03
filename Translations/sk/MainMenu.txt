@@ -6,7 +6,7 @@ Vytvorené na základe <i>SCP: CONTAINMENT BREACH</i>
 SPÄŤ
 JAZYK
 ANTIALIASING
-Zmeniť detaily:\n-PIXEL LIGHT COUNT - maximálny počet svetelných zdrojov, ktorých svetlo je renderovanie na individuálnych pixeloch.\n-V-Sync - povolí synchronizáciu FPS s obnovovaciu frekvenciu monitora.
+Zmeniť detaily:\n-PIXEL LIGHT COUNT - maximálny počet svetelných zdrojov, ktorých svetlo je renderovanie na individuálnych pixeloch.\n-V-Sync - povolí synchronizáciu FPS s obnovovaciou frekvenciu monitora.
 PRIPOJIŤ SA
 POST\nPROCESSING
 AUTORI
@@ -29,8 +29,8 @@ NASTAVENIE KVALITY
 Zmeniť nastavenia tieňov. Nastavenie nižších hodnôt zlepší chod hry.
 HLAVNÉ MENU
 LIGHT RENDERING MODE
-MOTION BLUR
-VZDIALENOSŤ tienů
+ROZMAZANIE POHYBU
+VZDIALENOSŤ tienou
 DETAILY
 3. SCP-914
 TUTORIÁLOV

@@ -15,3 +15,4 @@
 跟隨任務目標以完成關卡
 幫助 <color=#FFFF7CFF>科學家</color> 逃出\n與 <color=#0096FF>MTF</color> 合作\n消滅其他目標
 殺死所有人\n不要讓任何人逃走\n與其他 <color=#f00>SCP</color> 合作
+殺死所有人\n不要讓任何人逃走\n與其他 <color=#f00>SCP</color> 合作

@@ -1,35 +1,35 @@
-Siivoajan Avainkortti:Ei kuvausta
-Tutkijan Avainkortti:Ei kuvausta
-Tutkimusvalvojan Avainkortti:Ei kuvausta
-Aluehallinnan Avainkortti:Ei kuvausta
-Vartijan Avainkortti:Ei kuvausta
-MTF Kadetin Avainkortti:Ei kuvausta
-Suojausinsinöörin Avainkortti:Ei kuvausta
-MTF Luutnantin Avainkortti:Ei kuvausta
-MTF Komentajan Avainkortti:Ei kuvausta
-Laitoshallinnan Avainkortti:Ei kuvausta
-Chaos Insurgency Käyttölaite
-O5-Tason Avainkortti
-Radio:SR = Lyhyt Kantomatka \nMR = Keskipitkä Kantomatka \nLR = Pitkä Kantomatka \nUR = Ultra Kantomatka \nKäyttää patteria kun päällä. Pidempi kantomatka tarkoittaa isompaa patterin kulutusta.
+Siivoajan avainkortti:Ei kuvausta
+Tutkijan avainkortti:Ei kuvausta
+Tutkimusvalvojan avainkortti:Ei kuvausta
+Aluehallinnan avainkortti:Ei kuvausta
+Vartijan avainkortti:Ei kuvausta
+MTF-kadetin avainkortti:Ei kuvausta
+Suojausinsinöörin avainkortti:Ei kuvausta
+MTF-luutnantin avainkortti:Ei kuvausta
+MTF-komentajan avainkortti:Ei kuvausta
+Laitoshallinnan avainkortti:Ei kuvausta
+Kaaoskapinallisen käyttölaite
+O5-tason avainkortti
+Radio:SR = Lyhyt kantomatka \nMR = Keskipitkä kantomatka \nLR = Pitkä kantomatka \nUR = Ultra kantomatka \nKäyttää patteria päällä ollessaan. Pidempi kantomatka tarkoittaa isompaa patterin kulutusta.
 COM-15:Ei kuvausta
 Ensiapupakkaus:Parantaa sinua.
 Taskulamppu:Tulkoon valo!
 Micro H.I.D.:Liikutettava korkean intensiteetin sähköpurkauskone.
 SCP-500:Ihmelääke.
 SCP-207:Haitallisesti lisää motorisia taitoja.
-Aseiden Hallinta Tabletti:Käytetään ammusten pudottamiseen ja aseiden päivittämiseen.
+Aseiden hallintatabletti:Käytetään ammusten pudottamiseen ja aseiden päivittämiseen.
 MTF-E11-SR:Ei kuvausta
 Project 90:Ei kuvausta
 Pudotettu 5.56:Ei kuvausta
 MP7:Ei kuvausta
 Logicer:Ei kuvausta
-Sirpalekranaatti:Boom!
+Sirpalekranaatti:Pam!
 Tainnutuskranaatti:Sokaisee vihollisesi.
-Käsiraudat:Vasin hiirinäppäin laittaa rautoihin, oikea nappi vapauttaa. \nPidä E pohjassa sellaisella henkilöllä, joka on tiimissäsi ja on käsiraudoissa että voit vapauttaa heidät.
+Käsiraudat:Vasen hiiren painike laittaa rautoihin, oikea painike vapauttaa. \nPidä E-näppäin pohjassa katsoen tiimiläistäsi, joka on käsiraudoissa, vapauttaaksesi hänet.
 Pudotettu 7.62:Ei kuvausta.
 Pudotettu 9mm:Ei kuvausta.
 USP:Ei kuvausta.
 SCP-018:Superpallo joka kykenee pomppimaan erittäin tehokkaasti.
-SCP-268:Kun puettu, se tekee sinut väliaikaisesti näkymättömäksi, ellei käyttäjä keskeytä sitä.
+SCP-268:Puettuna tekee sinut väliaikaisesti näkymättömäksi, ellei käyttäjä keskeytä sitä.
+Adrenaliini:Tilapäisesti lisää kestävyyttä.
 Painkillers:Paranna pieniä vammoja.
-Adrenaline:Tilapäisesti lisää kestävyyttä.

@@ -1,6 +1,6 @@
 Karta Upratovacky:No description
 Vedcova Karta:No description
-Karta Veduciho Vyskumu:No description
+Karta Veduceho Vyskumu:No description
 Karta Spravca Zony:No description
 Karta Straze:No description
 Karta MTF Kadeta:No description
@@ -8,22 +8,22 @@ Karta Kontaminacneho Inziniera:No description
 Karta MTF Porucika:No description
 Karta MTF Velitela:No description
 Karta Spravca Zariadenia:No description
-Pristupove Zariadenie Povstanie Chaosu
+Pristupove Zariadenie Povstancov Chaosu
 Karta Level-O5
-Radio:SR = Kratky rozsah \nMR = Stredny rozsah \nLR = Dlhy dosah \nUR = Obrie rozsah \nPouziva bateriu, ked je zapnuta. Dlhsi dosah znamena vyssie vyuzitie baterie.
+Radio:SR = Kratky rozsah \nMR = Stredny rozsah \nLR = Dlhy dosah \nUR = Veliky rozsah \nPouziva bateriu, ked je zapnuta. Dlhsi dosah znamena vyssie vyuzitie baterie.
 COM-15 Sidearm:No description
 Lekarnicka:Lieci tvoje zranenia.
-Baterka:Nech je svetlo!
+Baterka:Budiz svetlo!
 Micro H.I.D.:Mobilny vysokovykonny elektricky vyboj.
 Mince:Ziadny popis
-Pohar:Ziadny popis
+Kelimok:Ziadny popis
 Tablet Pre Spravovanie Zbrani:Pouziva sa na upustenie municie & spravovanie tvojej zbrane.
 MTF-E11-SR:Ziadny popis
 Project 90:Ziadny popis
 Dropped 5.56:Ziadny popis
 MP7:Ziadny popis
 Logicer:Ziadny popis
-Frag Granat:Bum!
+Vybusny Granat:Bum!
 Oslepujuci Granat:Oslep svojich nepriatelov.
 Zatykac:Lavy klik pro odzbrojenie, pravy pre odvazanie. \nDrz E na niekoho, kto je odzbrojeny na tvojom tyme, aby si ich oslobodil.
 Dropped 7.62:Ziadny popis.
