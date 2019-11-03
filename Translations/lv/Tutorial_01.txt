@@ -1,0 +1,8 @@
+Laipni lūdzam SCP: Secret Laboratory! Esmu viens no spēles balss aktieriem.\nĻaujiet man jūs iepazīstināt ar spēles pamatnoteikumiem.\nMēģiniet atrast un pārbaudīt tualetes, lai atrastu potenciālo atļaujas karti.\n
+<color=#00FF58>Izmanto <b>W, A, S & D</b> lai varētu doties uz <b>tualetēm</b>\nizmanto <b>E</b> lai <b>interaktētos</b> ar durvīm un lietām.</color>
+Lieliski! Tagad paņem to.
+Pieejas kartes ir viens no spēles pamatelementiem, ļaujot iekļūt slēgtās vietās.\nPārbaudiet tuvumā esošās durvis un mēģiniet tās atvērt ar savu karti.
+<color=#00FF58>Use <b>TAB</b> lai atvertu inventāru.\n<b>Kreisā dator peles poga</b> lai izvēlētos lietu\nun <b>labā</b> lai to izmestu.
+Ja tu pa tiešām gribi izmukt, iesaku atrast labāku pieejas karti
+Katrai kartei ir savi piekļuves līmeņi. Kartes var salīdzināt, novietojot peles kursoru virs katra invetāra esošā.
+Apsveicam! Jūs tikko izturējāt apmācības pirmo daļu!

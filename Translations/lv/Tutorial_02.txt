@@ -1,0 +1,28 @@
+Ok, sāksim darbu...\nŠaušanas pamatprasmju apgūšana noteikti padara spēli... <i>vieglāku</i>.\nPaņemiet pistoli, kas tikko nolaidās uz tāfeles.
+Tutorial2_Curtain
+Tā, tu tiko pacēli spēles sūdīgako ieroci. Pieradiniet, jo tas jūs atbrīvos no dažām diezgan matainām situācijām. Ak, un ir labi, ja ir kāda munīcija. To ir grūti atrast spēlē, tāpēc šaujiet pēc iespējas efektīvāk.
+Tutorial2_GiveAmmo
+Atceries, šaujot pa galvu ātrāk atvāks tavu pretinieku. Ja šajā testā jums beidzas munīcija, es jums sniegšu vairāk!
+<color=#00FF58>Spied <b>R</b> lai pārlādētu,\n<b>labā peles poga</b> lai pievilktu\nun <b>kreisā</b> lai šautu.</color>
+Tutorial2_Result
+Iespaidīgi, tu viņus visus nogalināji ar vienu munīciju
+Tutorial2_Jumpin
+Hei, tu diezgan labi šauj!
+Tutorial2_Jumpin
+Es tiešām cerēju uz lielāku prasmju parādīšanu, tādu kaunu.
+Tutorial2_GiveNTFRifle
+Ok, es ceru, ka jūs ienīstat šo ieroci tikpat daudz kā es, noliekam rotaļlietas uz sāniem un paņemsim īstu ieroci. Tam ir nakts redzamības skats, kas atvieglo šaušanu. Jums jāzina, ka jebkura ieroča pietuvināšana vai mērķēšana garantē precizitāti un lielāku samazinājumu.
+Tutorial2_Preset
+Tutorial2_Curtain
+Tutorial2_Curtain
+Es redzu, ka jūs jau esat apguvis pamatus! Es jums esmu sagatavojis izaicinājumu.\nJums ir 20 sekundes, lai nogalinātu pēc iespējas vairāk pretinieku.\nSāksim!
+Gatavs? 3, 2, 1 ... IET
+Tutorial2_Preset
+Tutorial2_Curtain
+
+Tutorial2_ResultText
+Tutorial2_Curtain
+Laiks ir beidzies!
+Atcerieties, ka nākotnē jūs vienmēr varat atkārtoti apmeklēt šo apmācību\nif you want to brush up on your skills!\nTiksimies vēlāk!
+
+Tutorial2_MoreAmmo
