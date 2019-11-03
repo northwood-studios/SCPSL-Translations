@@ -82,6 +82,6 @@ Nasze spolszczenia są dostępne na GitHub!\nChcesz pomóc? Naciśnij tutaj aby 
 RICH PRESENCE
 Gdy włączony, twój status w grze zostanie pokazany na Discordzie/Steamie.
 WYŚWIETL DOKŁADNĄ ILOŚĆ ZDROWIA
-Zamieni procenty na dokładną ilość twojego zdrowia.
+Wyświetlaj dokładną liczbę punktów życia, zamiast wartości procentowej.
 PUBLICZNE LOBBY
 Gdy włączone, twoi znajomi na Steam będą mogli dołączyć do gry bez wymagania twojej zgody.
