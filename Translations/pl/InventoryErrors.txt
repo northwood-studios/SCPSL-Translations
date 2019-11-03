@@ -2,4 +2,4 @@ Limit <color=yellow>amunicji {0}</color> został osiągnięty (<color=yellow>{1}
 Możesz mieć tylko <color=yellow>{0}</color> przedmiotów tego typu (<color=yellow>{1}</color>)
 Możesz mieć tylko <color=yellow>8</color> przedmiotów
 Osiągnięto limit przedmiotów typu: <color=yellow>{0}</color> ({1}/{1})
-Zostałeś rozbrojony\n<size=40>wykonuj rozkazy lub poproś członków swojej drużyny o pomoc</size>
+Zostałeś rozbrojony\n<size=40>Wykonuj rozkazy lub poproś członków swojej drużyny o pomoc</size>
