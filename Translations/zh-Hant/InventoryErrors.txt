@@ -1,0 +1,5 @@
+已達到可持有<color=yellow>{0} 彈藥</color>的上限 (<color=yellow>{1} 發</color>)
+你只可以攜帶 <color=yellow>{0}</color> 件該類型的物品 (<color=yellow>{1}</color>)
+你只可以攜帶 <color=yellow>8</color> 件物品
+你現在已達到持有該類物品的上限: <color=yellow>{0}</color> ({1}/{1})
+你已被鎖上手銬了\n<size=40>請乖乖服從 或 尋找隊友幫忙</size>
