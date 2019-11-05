@@ -8,22 +8,22 @@ Standard Issue:You are equipped with a Rifle, Grenades, a Radio, a Disarmer and 
 Armed & Dangerous:You have consigned a Light Machine Gun, a Hacking Tool (access card), and a First-Aid Kit.
 Startling Speed:When no humans can see you, you move very quickly. If you're being directly watched by a human, you can't move or attack, but all watching humans will simultaneously blink every few seconds, allowing you to act.
 Panic:You move more quickly as your health decreases.
-Sinkhole:You place or teleport to your sinkhole, represented by a black splotch on the ground.\nYou can only have one sinkhole at a time, but it can be moved at any time. Teleporting takes a few seconds.
+Sinkhole:You can place a black splotch and teleport back to it at any time. Teleporting takes a few seconds.\nYou can move your sinkhole by placing it again.
 Corrosion:You can move through doors by walking into them.
-Swan Song: You take almost no damage from any source except for grenades and electricity, but your containment chamber has a small room that any player can enter to kill themselves. From then on, anyone can press a button in that chamber to instantly recontain you after a fifteen-second delay.
-Pocket Dimension:Captures a human and teleports them to a pocket dimension with eight doors; one of these doors teleports them to a random room within the facility, and the other seven kill them.\nHumans slowly die while staying in the dimension.
+Swan Song: You take almost no damage from bullets, but you can be instantly recontained via a human sacrifice within your containment chamber.
+Pocket Dimension:Captures a human and teleports them to a pocket dimension that quickly kills them. Humans must choose the correct exit, or die.
 Shy:By default, you move slowly and can't attack, and emit quiet crying. If humans look at you for long enough, you freeze in place for five seconds, and then enter Rage.
 Anti-Social Rage:In rage, you move extremely quickly and scream loudly. Rage lasts for about twenty seconds; after it expires, you can't enter Rage for a short duration, during which you won't cry.\nWhile in Rage, clicking or holding this button will instantly kill humans in short range.
 Breakdown:While in rage, interacting with doors will destroy them.
 Ultrasensitive:You can't see humans unless they run, bump you, or fire a weapon in close proximity to you.
 Rush:Increases your movement speed.
 Mimic:You can speak out loud to any nearby players, including humans.
-Bite:Attacks a human while up close instantly dealing severe damage.
-Antidote:Attacks a human, instantly killing them and making them vulnerable to reanimation for several seconds. This has no cooldown.
-Reanimate:By holding this button for several seconds on a corpse that you have recently killed, you will reanimate it, turning the human into a zombie. They have low health and a weak attack, but move relatively quickly and can communicate with you and other SCPs.\nThere is no limit on how many humans can be reanimated.
-Strike:Attacks a human and deals a small amount of damage to them.
+Bite:Attacks a human in melee range, instantly dealing severe damage.
+Antidote:Touches a human within close range, instantly killing them.
+The Cure:Reanimates a human you've recently killed. Cured humans play as zombies with fast movement and low health.\nThere is no limit on how many humans can be reanimated.
+Strike:Attacks a human and deals a moderate amount of damage to them.
 Open/Close Doors:You can interact with doors to open and close them for 5 AP. You can also lock them down, draining your AP but preventing anyone from opening or closing it until you lift the lockdown or run out of AP.
 Tesla Overcharge:You can activate a Tesla Gate for 50 AP to instantly trigger it, killing any players in or near it.
 Lockdown:Starting at Access Level 3, you can interact with some rooms to lock them down, shutting off all lights and closing all doors. While in locked down rooms, humans can't see SCP-173.
-Virtually Indestructible: Five generators spawn across heavy containment, requiring a high-level armory card and weapons manager tablet to activate. The only way to kill you is if humans power these generators; humans or other SCPs can cancel them at any time by interacting with them.\nEach generator has a two-minute countdown sequence, and each active generator increases your AP regeneration. Once all five generators are active, you will have unlimited AP for 1 minute, and then die.
-Neck Snap:Hold or click to snap a humans neck. Attacking a human in melee range while they are blinking will instantly kill them.
+Virtually Indestructible: Five generators spawn across the Heavy Containment Zone. If all of them are unlocked and activated, you become recontained.\nGenerators have a countdown sequence that any player can interrupt by pressing the "CANCEL" button on the generator.
+Neck Snap:Hold or click to snap a human's neck, instantly killing them as long as they can't see you or are blinking.
