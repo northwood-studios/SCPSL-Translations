@@ -14,5 +14,5 @@ A commanding officer of an elite task force that responds to breaches, ensuring 
 A low rank cadet of an elite task force that responds to breaches, ensuring the security of the Foundation. Their primary goal is to eliminate all <color=#f00>SCPs</color>, <color=#008f1e>Chaos Insurgency</color> and <color=#FF8E00>D-Class</color>, as well as escorting <color=#FFFF7CFF>Scientists</color> to safety and following orders by other <color=#0096FF>MTF</color>.
 Follow the tasks to complete your objective.
 A guard within the facility who's aim is to help any <color=#FFFF7CFF>Scientists</color> escape and stop the looming <color=#f00>SCP</color> threat. Cooperates with <color=#0096FF>MTF</color> to get this done while eliminating anyone or anything else that gets in the way.
-SCP-939 is a fast all-rounder that excels in capitalizing on enemy mistakes. Their ability to sense movement through walls allows them to set up ambushes.
-SCP-939 is a fast all-rounder that excels in capitalizing on enemy mistakes. Their ability to sense movement through walls allows them to set up ambushes.
+SCP-939 is blind, and sees through sound. It capitalizes on mistakes, using its silent steps and frightening speed to set up ambushes and go in for the kill.
+SCP-939 is blind, and sees through sound. It capitalizes on mistakes, using its silent steps and frightening speed to set up ambushes and go in for the kill.

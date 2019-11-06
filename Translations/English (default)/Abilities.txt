@@ -16,7 +16,7 @@ Shy:By default, you move slowly and can't attack, and emit quiet crying. If huma
 Anti-Social Rage:In rage, you move extremely quickly and scream loudly. Rage lasts for about twenty seconds; after it expires, you can't enter Rage for a short duration, during which you won't cry.\nWhile in Rage, clicking or holding this button will instantly kill humans in short range.
 Breakdown:While in rage, interacting with doors will destroy them.
 Ultrasensitive:You can't see humans unless they run, bump you, or fire a weapon in close proximity to you.
-Rush:Increases your movement speed.
+Predator:Your footsteps are silent. Holding the assigned key increases your speed, but makes your movement audible.
 Mimic:You can speak out loud to any nearby players, including humans.
 Bite:Attacks a human in melee range, instantly dealing severe damage.
 Antidote:Touches a human within close range, instantly killing them.
