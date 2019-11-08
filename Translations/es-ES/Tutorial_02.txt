@@ -1,0 +1,28 @@
+Vale, empezemos...\nAprender a disparar sin duda hace el juego mucho más... <i>fácil</i>.\nCoje la pistola que se acaba de caer en la mesa.
+Tutorial2_Curtain
+Así que, acabas de cojer la peor arma en el juego. Acostúmbrate a ella, porque te sacará de más de un apuro. Oh, y es bueno tener algo de munición. Es difícil de encontrar en el juego, así que tan eficientemente como puedas.
+Tutorial2_GiveAmmo
+Recuerda, los disparos a la cabeza acabarán más rápido con tu enemigo. ¡Si te quedas sin munición durante esta prueba, te daré más!
+<color=#00FF58>Usa <b>R</b> para recargar,\n<b>click derecho del ratón</b> para apuntar\ny <b>izquierdo</b> para disparar.</color>
+Tutorial2_Result
+¡Impresionante, has acabado con todos con un solo cargador!
+Tutorial2_Jumpin
+¡Ey, eres bastante bueno disparando!
+Tutorial2_Jumpin
+Sinceramente esperaba mejores habilidades, que lástima.
+Tutorial2_GiveNTFRifle
+Vale, Espero que llegues a odiar esta arma tanto como yo, dejemos a un lado los juguetes, y coje un arma real. Esta tiene una mira de visión nocturna con la que es más fácil disparar.\nDeberias saber, que apuntar o enfocar con cualquier arma proporciona mejor puntería y reducción de retroceso.
+Tutorial2_Preset
+Tutorial2_Curtain
+Tutorial2_Curtain
+¡Puedo ver que ya has dominado lo básico! Te he preparado un desafío.\nTienes 20 segundos para matar a tantos oponentes como puedas.\n¡Empezemos!
+¿Listo? 3, 2, 1... YA
+Tutorial2_Preset
+Tutorial2_Curtain
+
+Tutorial2_ResultText
+Tutorial2_Curtain
+¡Se acabo el tiempo!
+¡Recuerda que puedes volver a repetir el tutorial\nsi quieres pulir tus habilidades!\n¡Hasta pronto!
+
+Tutorial2_MoreAmmo

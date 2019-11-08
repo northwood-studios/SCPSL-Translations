@@ -1,0 +1,37 @@
+Tarjeta de Conserje:No description
+Tarjeta de Científico:No description
+Tarjeta de Supervisor de investigación:No description
+Tarjeta de Gerente de zonas:No description
+Tarjeta de Guardia de seguridad:No description
+Tarjeta de Cadete MTF:No description
+Tarjeta de Ingeniero de Contención:No description
+Tarjeta de Teniente de la MTF:No description
+Tarjeta de Comandante de la MTF:No description
+Tarjeta de Administrador:No description
+Aparato de Insurgentes del Caos
+Tarjeta Nivel-05
+Radio:SR = Corto alcance \nMR = Alcance medio \nLR = Largo alcance \nUR = Alcance Maximo \nUsa bateria mientras esta enchufada. Cuanto mas alcance mas consumo de bateria.
+Pistola COM-15:No description
+Botiquín: Cura tus heridas.
+Linterna:Que se haga la luz!
+Micro H.I.D.:Desintegrador Móvil de Alta Intensidad.
+SCP-500:La panacea.
+SCP-207:A costa de tu salud aumenta tu velocidad de movimiento.
+Moneda:Parecen ser 50 centimos!
+Vaso:Que contiene? Mejor no preguntes
+Administrador de arma:Úsalo para tirar munición y mejorar armas.
+MTF-E11-SR:No description
+Proyecto 90:No description
+5.56 Tirada:No description
+MP7:No description
+Logicer:No description
+Granada de fragmentación:¡Boom!
+Granada aturdidora:¡Ciega a tus enemigos!
+Desarmador:Clic izquierdo desarma, clic derecho libera. \nManten E en alguien desarmado para liberar.
+7.62 Tirada:No description.
+9mm Tirada:No description.
+USP:No description.
+SCP-018:Superbola capaz de rebotar con eficiencia extrema.
+SCP-268:Equipada, te hace temporalmente invisible a no ser que se interrumpa por alguna acción del jugador.
+Adrenalina:Aumenta temporalmente la resistencia.
+Analgésicos:Sana heridas menores.
