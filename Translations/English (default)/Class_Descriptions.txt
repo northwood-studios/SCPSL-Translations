@@ -3,12 +3,12 @@ Escape from the facility.\nCooperate with the <color=#008f1e>Chaos Insurgency.</
 You will respawn soon.
 Kill everyone.\nPrevent escape.\nCooperate with other <color=#f00>SCPs.</color><color=#ffff00>\nYou can walk through doors.\nLeft click hurts and TPs enemies to your dimension.\nHold TAB to access your TP abilities.</color>
 Help <color=#FFFF7CFF>scientists</color> escape.\nNeutralize other subjects.\nInstruct your soldiers. \nFollow the orders of your superiors.
-Kill everyone.\nPrevent escape.\nCooperate with other <color=#f00>SCPs.</color><color=#ffff00>\nLeft click to insta-kill enemies w/ no cooldown.\nHold E on a person </color><color=#f00>you've</color><color=#ffff00> killed to zombify.\nYou zombify faster at lower HP.</color>
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#f00>SCPs.</color><color=#ffff00>\nLeft click to insta-kill enemies with a short cooldown.\nHold E on a person </color><color=#f00>you've</color><color=#ffff00> killed to revive them.</color>
 Escape from the facility.\nCooperate with the <color=#0096FF>MTF.</color>\nAvoid other teams.
 Kill everyone.\nPrevent escape.\nCooperate with other <color=#f00>SCPs.</color>
 Help <color=#FF8E00>Class-D Personnel</color> escape.\nNeutralize other subjects.
 Kill everyone.\nPrevent escape.\nCooperate with other <color=#f00>SCPs.</color>
-Kill everyone.\nPrevent escape.\nCooperate with other <color=#f00>SCPs.</color><color=#ffff00>\nLeft click to attack with a short windup.\nYou attack faster at lower HP.</color>
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#f00>SCPs.</color><color=#ffff00>\nLeft click to attack with a short windup.</color>
 Help <color=#FFFF7CFF>scientists</color> escape.\nNeutralize other subjects.\nInstruct your soldiers. \nFollow the orders of your commanders.
 Help <color=#FFFF7CFF>scientists</color> escape.\nNeutralize other subjects.\nInstruct your soldiers.
 Help <color=#FFFF7CFF>scientists</color> escape.\nNeutralize other subjects.\nFollow the orders of your superiors.
