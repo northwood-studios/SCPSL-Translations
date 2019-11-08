@@ -1,4 +1,4 @@
-Habilidad no encontrada:El ID asociado a la habilidad no existe.
+Habilidad no encontrada:El ID asociado a la habilidad no
 Sprint:Aumenta tu velocidad de movimiento,tambien aumenta el sonido que haces al moverte.
 Sigilo:Tu movimiento se hace mas silencioso a costa de velocidad de movimiento.
 Inventario:Abre tu inventario y selecciona el objeto usando clic izquierdo,tambien puedes usar clic derecho para soltar.
