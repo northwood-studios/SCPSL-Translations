@@ -10,7 +10,7 @@
 <size=80>DESCONECTADO</size>\nServidor configurado incorrectamente (versión no compatible).
 <size=80>DESCONECTADO</size>\nServidor configurado incorrectamente.
 <size=80>DESCONECTADO</size>\nLa dirección IP suministrada no puede ser encontrada o es incorrecta.
-<size=80>DESCONECTADO</size>\n¡Un problema inesperado fue detectado!
+<size=80>DESCONECTADO</size>\n¡Un problema inesperado ha sido detectado!
 <size=80>POR FAVOR ESPERE</size>\n<size=35>¡Estableciendo conexión!</size>
 <size=80>REINICIANDO RONDA</size>\n<size=35>El servidor esta reiniciando el nivel...</size>
 <size=80>POR FAVOR,ESPERE</size>\n<size=35>Cargando tutorial...</size>

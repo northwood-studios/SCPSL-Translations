@@ -1,4 +1,4 @@
-Asesina a todos\nNo dejes escapar a nadie\nCoopera con los demás <color=#f00>SCPs</color><size=11><color=##EAF6FF>\nMantén click izquierdo y muévete hacia al enemigo para matarlo.\nA menos vida, te mueves más rápido.</color></size>
+Asesina a todos\nNo dejes escapar a nadie\nCoopera con los demás <color=#f00>SCPs</color><size=11><color=##EAF6FF>\nMantén clic izquierdo y muévete hacia al enemigo para matarlo.\nA menos vida, te mueves más rápido.</color></size>
 Escapa de las instalaciones\nCoopera con <color=#008f1e>Los Insurgentes del Caos</color>\nEvita a los demás.
 Reaparecerás pronto.
 Asesina a todos\nNo dejes escapar a nadie\nCoopera con los demás <color=#f00>SCPs</color><size=11><color=##EAF6FF>\nPuedes caminar a través de cualquier puerta.\nTu ataque daña y envía a la gente a tu dimensión.\nMantén TAB para ver las habilidades.</color></size>

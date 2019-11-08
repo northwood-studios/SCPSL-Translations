@@ -13,7 +13,7 @@ CRÉDITOS
 SALIR
 Modo pantalla completa
 OPCIONES GRAFICAS
-CORRECION DE COLOR
+CORRECIÓN DE COLOR
 Introduzca la dirección IP...
 OPCIONES DE PANTALLA
 JUGAR
@@ -21,7 +21,7 @@ PÍXELES DE LUZ
 TIPO DE SOMBRAS
 SOMBRAS
 CREAR PARTIDA
-Cambiar opciones del post-procesado. Estos cambios no suelen afectar al rendimiento. Se recomienda dejar las opciones por defecto.
+Opciones del post-procesado. Estos cambios no suelen afectar al rendimiento. Se recomienda dejar las opciones por defecto.
 Renderizado de luz:\nDesactivado - Hace que el juego se vea peor. Se recomienda desactivarlo cuando el PC no cumple los requisitos mínimos.
 SINCR. VERTICAL
 CONECTARSE
@@ -50,7 +50,7 @@ El juego actual esta en Beta abierta.\nPuede experimentar problemas de conexión
 CONEXIÓN DIRECTA
 SOPORTE TÉCNICO / FORO
 VOLUMEN DEL SONIDO
-Introduce la dirección IP.
+Introduzca la dirección IP.
 DESCARGANDO DATOS
 NINGÚN SERVIDOR DISPONIBLE
 PULSA ESC PARA CERRAR / CANCELAR
@@ -62,26 +62,26 @@ Restaurar valor predeterminado
 Usamos las discusiones de Steam como foro. (Clic en el logo para abrir el foro)
 OPCIONES DE AUDIO
 VOLUMEN MAESTRO
-MUSICA DEL MENÚ
+MÚSICA DEL MENÚ
 CHAT DE VOZ
 EFECTOS DE SONIDO
 OPCIONES DE JUGABILIDAD
-DESAPARICIÓN DE INTRO RAPIDA
-El texto que presenta a tu clase desaparecerá mucho mas rápido.
+DESAPARICIÓN DE INTRO RÁPIDA
+El texto que presenta a tu clase desaparecerá mucho más rápido.
 SCP-079 - CAMBIAR MODO DE VISTA
 Pulsa una vez para cambiar entre modos de cámara.
 SCP-079 - POST-PROCESADO
 Si se desactiva, los efectos de cámara se reducirán drásticamente.
 MOVIMIENTO DE CABEZA
-Activa el movimiento de cabeza en la cámara de primera persona.
-ACTIVAR CORRER
-Correr se activa y se desactiva, en vez de tener que mantener el botón.
+Activa el movimiento de cabeza en la cámara de primera persona al moverse.
+ACTIVAR CARRERA
+Carrera se activa y se desactiva, en vez de tener que mantener el botón.
 SEPARAR BARRA ARTIFICIAL PV
-Da a los PV artificiales en su propia barra de salud en vez de estar sobre expuesto.
+Da a los PV artificiales su propia barra de salud en vez de estar sobre-expuesto.
 ¡Nuestras traducciones están de código abierto en GitHub! \n¿Quieres ayudar? Haz clic aquí para acceder al repositorio.
-PRESENCIA ENRIQUECEDORA
+PRESENCIA ENRIQUECIDA
 Si se activa, tu estado se mostrara en Discord/Steam.
 MOSTRAR VALOR EXACTO DE SALUD
-Muestra una cantidad de salud exacta, en vez de un porcentaje.
+Muestra la cantidad de salud exacta, en vez de un porcentaje.
 SALA PÚBLICA
 Si se activa, tus amigos de Steam podrán entrar sin permiso.
