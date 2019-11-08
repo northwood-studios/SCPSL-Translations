@@ -1,4 +1,4 @@
-Ability Not Found:The ability ID associated with this ability does not exist.
+Grow pp : My pp gets bigger.
 Sprint:Increases your movement speed, but also increases sound made while moving.
 Sneak:Your movements become silent, at the cost of a lot of speed.
 Inventory:Open your inventory and select an item you have picked up using LMB, or drop it using RMB.
