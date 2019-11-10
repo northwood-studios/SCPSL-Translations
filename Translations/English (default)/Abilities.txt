@@ -8,7 +8,7 @@ Standard Issue:You are equipped with a Rifle, Grenades, a Radio, a Disarmer and 
 Armed & Dangerous:You have consigned a Light Machine Gun, a Hacking Tool (access card), and a First-Aid Kit.
 Startling Speed:When no humans can see you, you move very quickly. If you're being directly watched by a human, you can't move or attack, but all watching humans will simultaneously blink every few seconds, allowing you to act.
 Panic:You move more quickly as your health decreases.
-Sinkhole:You can place a black splotch and teleport back to it at any time. Teleporting takes a few seconds.\nYou can move your sinkhole by placing it again.
+Sinkhole:You can place a black pool of corrosion and teleport back to it at any time. Teleporting takes a few seconds.\nYou can move your sinkhole by placing it again.
 Corrosion:You can move through doors by walking into them.
 Swan Song: You take almost no damage from bullets, but you can be instantly recontained via a human sacrifice within your containment chamber.
 Pocket Dimension:Captures a human and teleports them to a pocket dimension that quickly kills them. Humans must choose the correct exit, or die.
