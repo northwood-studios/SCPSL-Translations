@@ -65,7 +65,7 @@ VOLUME PRINCIPALE
 MUSICA DEL MENU'
 CHAT VOCALE
 EFFETTI SONORI
-OPZIONI GAMEPLAU
+OPZIONI GAMEPLAY
 INTRODUZIONE VELOCE
 Velocizza l'introduzione
 SCP-079 - MODALITA' VISUALIZZAZIONE
@@ -79,5 +79,9 @@ Imposta la corsa ad on oppure off invece che tenere premuto il pulsante.
 SEPARA BARRA HP ARTIFICIALE
 Fornisce agli HP la propria barra della salute, anziché una overlay.
 Our translations are open-source on GitHub!\nWant to help? Click here to access the repo.
-RICH PRESENCE
-If enabled, your status will be displayed on Discord/Steam.
+PRESENZA ARRICCHITA
+Se attivo, il tuo stato verrà mostrato su steam o discord.
+MOSTRA VALORE HP ESATTO
+Mostra il valore HP esatto al posto della percentuale.
+LOBBY PUBBLICA
+Se attivo, i tuoi amici possono unirsi alla tua lobby senza permesso.
