@@ -1,6 +1,6 @@
 VOLUME DES VOIX
 OUI
-<size=34>FORCER LE DÉMARRAGE</size>
+<size=30>FORCER LE DÉMARRAGE</size>
 PROCÉDURE DE RE-CONFINEMENT\nDE SCP-106
 Inverser l'axe Y
 RÉSUMÉ
@@ -22,7 +22,7 @@ PORTE VERROUILLÉE PAR SCP-079
 Mode plein écran
 Êtes-vous sûr de vouloir quitter ce serveur ?
 Options de base : pour modifier autre chose, allez au menu principal.
-EN ATTENTE DE JOUEURS...
+EN ATTENTE DE JOUEURS\n 
 RÉSUMÉ
 CONTINUER
 VOLUME PRINCIPAL
@@ -30,4 +30,5 @@ EN LIGNE
 Vous avez rejoint la FIM Epsilon-11.
 Vous avez rejoint l'Insurrection du Chaos.
 VOUS ÊTES
-Échappé en : [escape_minutes] minutes et [escape_seconds] secondes
+Vous vous êtes échappé en [escape_minutes] minutes et [escape_seconds] secondes
+Attendez [time] pour pouvoir réutiliser [item].

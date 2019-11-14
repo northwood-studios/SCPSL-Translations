@@ -2,15 +2,16 @@ fin de la partie !
 VICTOIRE DES SCPs
 VICTOIRE DE LA FIM EPSILON-11
 VICTOIRE DES CLASSE-D
-PARTIE NULLE
+ÉGALITÉ
 ils sont responsables de la mort de [summary_scpfrags] personnes.
-menace elimine, cet endroit est de nouveau securise.
-la securite de la fondation a ete aneantie.
-les deux camps ont eu beaucoup de pertes.
-[summary_d_escaped] Classe-D se sont echappes
-[summary_s_escaped] Scientifique(s) se sont echappes
-la detonation de l'ogive alpha a mis fin a [summary_warhead_kills] etres vivants.
-l'ogive alpha n'a pas explose durant cette mission.
-la partie a dure [summary_round_minutes] minutes et [summary_round_seconds] secondes.
-[summary_scp_terminated] SCPs elimine(s)
+menace éliminée, cet endroit est de nouveau sécurisé.
+la sécurité de la Fondation a été anéantie.
+les deux camps ont eu beaucoup de pertes. Impossible de déterminer le gagnant.
+[summary_d_escaped] Classe-D se sont échappés
+[summary_s_escaped] Scientifique(s) se sont échappés
+la détonation de l'ogive alpha a fait [summary_warhead_kills] victimes.
+l'ogive alpha n'a pas explosée durant cette partie.
+la partie a duré [summary_round_minutes] minutes et [summary_round_secondes] secondes.
+[summary_scp_terminated] SCPs éliminé(s)
 partie suivante dans [summary_next_round_countdown] secondes.
+Vous avez fait [summary_damages] de dégâts et tué [summary_kills] joueurs !
