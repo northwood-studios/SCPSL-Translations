@@ -22,7 +22,7 @@ PORTE VERROUILLÉE PAR SCP-079
 Mode plein écran
 Êtes-vous sûr de vouloir quitter ce serveur ?
 Options de base : pour modifier autre chose, allez au menu principal.
-EN ATTENTE DE JOUEURS\n 
+EN ATTENTE DE JOUEURS\n
 RÉSUMÉ
 CONTINUER
 VOLUME PRINCIPAL
