@@ -32,3 +32,4 @@ Vous avez rejoint l'Insurrection du Chaos.
 VOUS ÊTES
 Vous vous êtes échappé en [escape_minutes] minutes et [escape_seconds] secondes
 Attendez [time] pour pouvoir réutiliser [item].
+APPUYEZ SUR <color=white><b>F1</b></color> POUR PLUS D'INFORMATIONS
