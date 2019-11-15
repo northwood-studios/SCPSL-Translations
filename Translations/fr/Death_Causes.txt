@@ -1,6 +1,6 @@
 Vaporisé par une explosion.
 Les déchirures aux jambes laissent penser qu'une chute a été fatale.
-<color=#ff0000>Utilisé comme sacrifice pour recontenir SCP-106.</color>
+<color=#ff0000>Utilisé comme sacrifice pour reconfiner SCP-106.</color>
 <color=#ff0000>Décédé dans la dimension de poche de SCP-106.</color>
 <color=#ff0000>Revenant de SCP-106.</color>
 Électrocuté.
