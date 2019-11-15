@@ -33,3 +33,4 @@ SCP-018:Super balle capable de rebondir avec une efficacité extrême.
 SCP-268:Porté, il vous rend temporairement invisible à moins d'être interrompu par la moindre interaction avec l'environnement.
 Adrénaline:Augmente temporairement l'endurance.
 Calmants:Fait endurer les douleurs et soigne.
+Pièce:Vous n'êtes pas sûr pour quelle raison vous voudriez garder ça avec vous dans cette situation...
