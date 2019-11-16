@@ -24,7 +24,7 @@ OMBRES
 Modification des paramètres de post-traitement.\nCes paramètres n'affectent pas la performance.\nLaisser la valeur par défaut est recommandé.
 Rendu de la lumière :\nLorsqu'il est OFF : cela rend le jeu moins beau (et réduit fortement la visibilité), il est seulement recommandé de le désactiver pour les petites configurations.
 Synchronisation verticale
-CONNECTÉ
+CONNEXION
 GRAPHISMES
 Changer les préférences des ombres. Réduire cette valeur peut augmenter la fluidité du jeu.
 MENU PRINCIPAL
