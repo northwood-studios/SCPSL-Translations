@@ -15,3 +15,4 @@ Il s'agit du corps d'un [class] nommé <b>[user]</b> !\n\nCause de la mort : [ca
 <color=#ff0000>Morsure puissante à la base du crâne.</color>
 Rongé par une substance fortement corrosive.
 Le corps a été partiellement brûlé par une explosion.
+La peau pâle et le sang coulant de la bouche suggèrent qu'une hémorragie interne a été causée par l'inhalation d'une substance.
