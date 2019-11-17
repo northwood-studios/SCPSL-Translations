@@ -33,3 +33,4 @@ SCP-018:Piłka, która odbijając się zwiększa swą prędkość.
 SCP-268:Po jej założeniu staniesz się tymczasowo niewidzialny. \nInterakcja z czymkolwiek przerywa ten efekt.
 Adrenalina:Tymczasowo zwiększa wytrzymałość.
 Leki przeciwbólowe:Łagodzą drobne obrażenia.
+Moneta:Nie masz pewności do czego byłaby ci ona potrzebna...
