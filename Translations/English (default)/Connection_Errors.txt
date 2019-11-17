@@ -7,7 +7,7 @@
 <size=80>DISCONNECTED</size>\nConnection lost (timed out).
 <size=80>DISCONNECTED</size>\nConnection lost (timed out).
 <size=80>DISCONNECTED</size>\nOperation is not supported.
-<size=80>DISCONNECTED</size>\nWrong server config (version not compatible).
+<size=80>DISCONNECTED</size>\nYour game version is different than the server.
 <size=80>DISCONNECTED</size>\nWrong server config.
 <size=80>DISCONNECTED</size>\nThe address is invalid or could not be resolved.
 <size=80>DISCONNECTED</size>\nAn unexpected problem has occurred!
@@ -17,3 +17,10 @@
 <size=80>VERSION INCOMPATIBILITY</size>\nYour game version is different than the server\n(Your - [your]; Server - [server])
 <size=80>CONNECTED</size>\n<size=35>Loading the level...</size>
 <size=35>Loading the facility...</size>
+<size=80>DISCONNECTED</size>\nUnspecified error occured on the server.
+<size=80>DISCONNECTED</size>\nThis server requires authentication.
+<size=80>DISCONNECTED</size>\nYou are not whitelisted on this server.
+<size=80>DISCONNECTED</size>\nYou are globally banned.
+<size=80>DISCONNECTED</size>\nYou are globally banned: [reason].
+<size=80>DISCONNECTED</size>\nYou are banned from this server.
+<size=80>DISCONNECTED</size>\nYou are banned from this server.\nBan expires: [date] [time]
