@@ -8,7 +8,7 @@ Standardowe Wyposażenie:Jesteś wyposażony w Karabin, Granaty, Radio, Rozbracz
 Uzbrojony i Niebezpieczny:Wysłano cię z Lekkim Karabinem Maszynowym, Urządzeniem Hakującym (specjalną kartą dostępu) oraz Apteczką.
 Zaskakująca Prędkość:Gdy żaden człowiek cię nie widzi, poruszasz się bardzo szybko. Jeżeli ktoś cię obserwuje, nie możesz się poruszać ani atakować, ale wszyscy obserwatorzy będą równocześnie mrugać co kilka sekund, pozwalając ci na działanie.
 Popłoch:Im mniej masz zdrowia, tym szybciej się poruszasz.
-Przejście:Możesz postawić czarną kałużę korozji aby w każdej chwili się do niej teleportować. Teleportacja trwa kilka sekund.\nMożesz przemieścić przejście, stawiając je ponownie.
+Przejście:Możesz utworzyć pole czarnej mazi do którego możesz sie w każdej chwili teleportować. Teleportacja trwa kilka sekund.\nPonowne utworzenie pola spowoduje zmianę miejsca teleportacji.
 Korozja:Możesz przechodzić przez drzwi, wchodząc w nie.
 Nietykalny: Pociski nie zadają ci prawie żadnych obrażeń, lecz poświęcenie ludzkiej ofiary w twojej komorze przechowawczej powoduje twoje natychmiastowe zabezpieczenie.
 Wymiar Łuzowy:Chwytasz i teleportujesz ofiarę do wymiaru łuzowego, który pozbawia ją życia coraz szybciej. Jeśli nie wybierze poprawnego wyjścia, zginie w męczarniach.
