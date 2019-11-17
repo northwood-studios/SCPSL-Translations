@@ -1,0 +1,17 @@
+PAPILDU SPĒKS
+PIEREDZE
+KAMERAS STATUS ONLINE
+UZSPIED [KEY] LAI ATVERTU KARTI
+Papildu spēks saņemts:
+Sadarbošanas
+Klases-D nogalināšanas palīdzība
+H. S. nogalināšanas palīdzība
+MTF tnogalināšanas palīdzība
+Zinātnieku nogalināšanas palīdzība
+SCP nogalināšanas palīdzība
+AIZSLĒGTAS DURVIS: [LOCKED_NUM]<size=25>RIGHT MOUSE LAI VISUS ATSLĒGTU</size>
+Parastas interakcijas
+Tev uzbrūk!
+Ģenerātori ir parādīti uz kartes
+BRĪDINĀJUMS
+SCPs{0}MTF & Sargi{1}Zinātnieki{2}Klases-D{3}Haoss sacelšanās{4}
