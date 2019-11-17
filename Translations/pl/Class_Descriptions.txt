@@ -1,18 +1,18 @@
-Zabij wszystkich\nNie pozwól nikomu uciec\nKooperuj z innymi <color=#f00>SCP</color><color=#ffff00>\nNamierz swoją ofiarę, i kliknij <color=#00ff00>lewy przycisk myszy</color> by złamać jej kark\nPoruszasz się wtedy, kiedy nikt na ciebie nie patrzy\nStajesz się szybszy, gdy masz mniej HP</color>
+Zabij wszystkich\nNie pozwól nikomu uciec\nKooperuj z innymi <color=#f00>SCP</color><color=#ffff00>\nNamierz swoją ofiarę, i kliknij lewy przycisk myszy aby złamać jej kark\nPoruszasz się wtedy, kiedy nikt się na ciebie nie patrzy\nStajesz się szybszy, gdy masz mniej zdrowia.</color>
 Ucieknij z placówki\nWspółpracuj z <color=#008f1e>Rebelią Chaosu</color>\nUnikaj zagrożeń
 Wkrótce się odrodzisz
-Zabij wszystkich\nNie pozwól nikomu uciec\nKooperuj z innymi <color=#f00>SCP</color><color=#ffff00>\nUmiesz przechodzić przez drzwi i bramy\nNamierz swoją ofiarę i kliknij <color=#00ff00>lewy przycisk myszy</color>, by ją zranić i wysłać do swojego Wymiaru Łuzowego\nKliknij <color=#00ff00>TAB</color>, by otworzyć Menu swojej umiejętności, która pozwala na teleportowanie się</color>
+Zabij wszystkich\nNie pozwól nikomu uciec\nKooperuj z innymi <color=#f00>SCP</color><color=#ffff00>\nUmiesz przechodzić przez drzwi i bramy\nNamierz swoją ofiarę i kliknij lewy przycisk myszy, by ją zranić i wysłać do swojego Wymiaru Łuzowego\nKliknij TAB, aby otworzyć Menu swojej umiejętności, która pozwala na teleportowanie się.</color>
 Pomóż <color=#FFFF7CFF>naukowcom</color> w ucieczce\nWyeliminuj zagrożenie\nInstruuj kadetów oraz ochroniarzy\nWykonuj rozkazy od Dowódcy
-Zabij wszystkich\nNie pozwól nikomu uciec\nKooperuj z innymi <color=#f00>SCP</color><color=#ffff00>\nNamierz swoją ofiarę i kliknij <color=#00ff00>lewy przycisk myszy</color>, by ją natychmiastowo zabić\nPrzytrzymaj <color=#00ff00>E</color> na osobie którą zabiłeś, aby przemienić ją w </color><color=#f00>SCP-049-2</color><color=#ffff00>\nTwoje przemienianie staje się tym szybsze, im masz mniej HP</color>
+Zabij wszystkich\nNie pozwól nikomu uciec\nKooperuj z innymi <color=#f00>SCP</color><color=#ffff00>\nLewy przycisk myszy aby natychmiastowo zabić przeciwników.\nInteraktuj z ostatnio zabitym człowiekiem, aby go wskrzesić jako swojego sojusznika.</color>
 Ucieknij z placówki\nWspółpracuj z <color=#0096FF>Nine-Tailed Fox</color>\nUnikaj zagrożeń
 Zabij wszystkich\nNie pozwól nikomu uciec\nKooperuj z innymi <color=#f00>SCP</color>
 Pomóż <color=#FF8E00>personelowi klasy D</color> w ucieczce\nWyeliminuj każdą przeszkodę
-Zabij wszystkich\nNie pozwól nikomu uciec\nKooperuj z innymi <color=#f00>SCP</color><color=#ffff00>\nJesteś nieśmiały\nWpadasz w furię, gdy ktoś się na ciebie spojrzy\nPodczas furii jesteś o wiele szybszy, wyważasz drzwi oraz <color=#00ff00>lewym przyciskiem myszy</color> zabijasz każdego kogo spotkasz\nPo furii się na chwilę uspokajasz</color>
-Zabij wszystkich\nNie pozwól nikomu uciec\nKooperuj z innymi <color=#f00>SCP</color><color=#ffff00>\n<color=#00ff00>Lewym przyciskiem myszy</color> atakujesz spotkaną ci osobę</color>
+Zabij wszystkich\nNie pozwól nikomu uciec\nKooperuj z innymi <color=#f00>SCP</color>
+Zabij wszystkich\nNie pozwól nikomu uciec\nKooperuj z innymi <color=#f00>SCP</color><color=#ffff00>\nLewy przycisk myszy aby atakować.</color>
 Pomóż <color=#FFFF7CFF>naukowcom</color> w ucieczce\nWyeliminuj zagrożenie\nInstruuj kadetów i ochroniarzy\nWykonuj rozkazy od Dowódcy
 Pomóż <color=#FFFF7CFF>naukowcom</color> w ucieczce\nWyeliminuj zagrożenie\nInstruuj swoich żołnierzy oraz ochroniarzy
 Pomóż <color=#FFFF7CFF>naukowcom</color> w ucieczce\nWyeliminuj zagrożenie\nWykonuj rozkazy od Porucznika i Dowódcy\nInstruuj ochroniarzy
 Podążaj za wskazówkami, aby ukończyć poradnik
 Pomóż <color=#FFFF7CFF>naukowcom</color> w ucieczce\nWspółpracuj z <color=#0096FF>Nine-Tailed Fox</color>\nWyeliminuj zagrożenie
-Zabij wszystkich.\nNie pozwól nikomu uciec.\nKooperuj z innymi <color=#f00>SCP</color><color=#ffff00>\nJesteś ślepy\nUżywasz echolokacji do poruszania się w terenie\n<color=#00ff00>Lewym przyciskiem myszy</color> atakujesz swą ofiarę\nStajesz się szybszy, gdy tracisz zdrowie</color>
-Zabij wszystkich.\nNie pozwól nikomu uciec.\nKooperuj z innymi <color=#f00>SCP</color><color=#ffff00>\nJesteś ślepy\nUżywasz echolokacji do poruszania się w terenie\n<color=#00ff00>Lewym przyciskiem myszy</color> atakujesz swą ofiarę\nStajesz się szybszy, gdy tracisz zdrowie</color>
+Zabij wszystkich.\nNie pozwól nikomu uciec.\nKooperuj z innymi <color=#f00>SCP</color>
+Zabij wszystkich.\nNie pozwól nikomu uciec.\nKooperuj z innymi <color=#f00>SCP</color>
