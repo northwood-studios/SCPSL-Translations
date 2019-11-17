@@ -10,17 +10,17 @@ Zaskakująca Prędkość:Gdy żaden człowiek cię nie widzi, poruszasz się bar
 Popłoch:Im mniej masz zdrowia, tym szybciej się poruszasz.
 Przejście:Możesz postawić czarną kałużę korozji aby w każdej chwili się do niej teleportować. Teleportacja trwa kilka sekund.\nMożesz przemieścić przejście, stawiając je ponownie.
 Korozja:Możesz przechodzić przez drzwi, wchodząc w nie.
-Nietykalny: Nie otrzymujesz prawie żadnych obrażeń od pocisków, lecz możesz być natychmiastowo zabezpieczony poprzez poświęcenie ludzkiej ofiary w twojej komorze przechowawczej.
-Wymiar Łuzowy:Chwytasz i teleportujesz człowieka do wymiaru łuzowego, który szybko pozbawi go życia. Ludzie muszą tam wybrać poprawne wyjście lub zginąć.
+Nietykalny: Pociski nie zadają ci prawie żadnych obrażeń, lecz poświęcenie ludzkiej ofiary w twojej komorze przechowawczej powoduje twoje natychmiastowe zabezpieczenie.
+Wymiar Łuzowy:Chwytasz i teleportujesz ofiarę do wymiaru łuzowego, który pozbawia ją życia coraz szybciej. Jeśli nie wybierze poprawnego wyjścia, zginie w męczarniach.
 Nieśmiały:Normalnie poruszasz się powoli, nie możesz atakować oraz wydajesz cichy płacz. Jeśli ludzie będą spoglądać się na ciebie wystarczająco długo, staniesz w miejscu i wpadniesz w szał.
 Aspołeczna wściekłość:We wściekłości poruszasz się ekstremalnie szybko oraz głośno krzyczysz. Wściekłość trwa do dwudziestu sekund; po jej zakończeniu nie możesz wejść we wściekłość na krótki czas, oraz przestajesz płakać.\nPodczas bycia wściekłym, klikanie lub trzymanie tego przycisku, natychmiast zabije człowieka znajdującego się w małej odległości od ciebie.
 Zniszczenie:Podczas bycia wściekłym, interakcja z drzwiami spowoduje ich wyważenie.
 Niezwykle Wrażliwy:Nie dostrzegasz ludzi, chyba że biegną, dotkną cię, lub strzelą z broni blisko ciebie.
-Drapieżnik:Twoje kroki są ciche. Trzymanie przypisanego klawisza zwiększa twą prędkość, lecz wtedy twój ruch staje się słyszalny.
+Drapieżnik:Twoje kroki są prawie niesłyszalne. Trzymanie przypisanego klawisza ruchu zwiększa twoją prędkość, kosztem głośniejszych kroków.
 Imitacja:Możesz głośno mówić do graczy w pobliżu, wliczając w to ludzi.
-Gryzienie:Atakujesz człowieka w małym dystansie od niego, zadając poważne obrażenia.
+Gryzienie:Atakujesz człowieka z bliska, zadając poważne obrażenia.
 Antidotum:Dotykając człowieka, natychmiastowo go zabijasz.
-Lekarstwo:Wskrzesasz osobę którą ostatnio zabiłeś. Uleczone osoby grają jako zombie z szybkim ruchem oraz małą ilością życia.\nNie ma maksymalnej liczby ludzi których możesz wskrzesić.
+Lekarstwo:Wskrzesasz osobę którą ostatnio zabiłeś. Uleczone osoby grają jako zombie z dużą prędkością ruchu oraz małą ilością życia.\nNie ma maksymalnej liczby ludzi których możesz wskrzesić.
 Uderzenie:Atakujesz człowieka zadając mu niewielką ilość obrażeń.
 Otwórz/Zamknij Drzwi:Możesz wchodzić w interakcję z drzwiami za 5 punktów energii. Możesz również je zablokować, wyczerpując powoli swą energię, lecz zapobiegając ich otworzeniu lub zamknięciu, dopóki ich nie odblokujesz lub nie stracisz całej energii.
 Przeciążenie Tesli:Możesz aktywować bramę tesli za 50 punktów energii, aby natychmiast ją uruchomić, zabijając każdego gracza znajdującego się w niej lub w jej otoczeniu.
