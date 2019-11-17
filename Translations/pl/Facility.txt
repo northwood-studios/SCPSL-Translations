@@ -32,3 +32,4 @@ Uciekłeś jako Klasa D i zasiliłeś szeregi Rebelii Chaosu.
 TWOJA ROLA
 Czas ucieczki: [escape_minutes] minut i [escape_seconds] sekund
 Zaczekaj [time] zanim użyjesz ponownie [item].
+PRZYTRZYMAJ <color=white><b>F1</b></color> PO WIĘCEJ INFORMACJI
