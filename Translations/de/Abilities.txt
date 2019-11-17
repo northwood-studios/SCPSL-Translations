@@ -26,4 +26,4 @@ Schlag:Attackiere einen Menschen und verursache Schaden.
 Tesla Überladung:Du kannst ein Tesla Gate für 50 AP sofort aktivieren, dies tötet Spieler in und um das Tesla Gate.
 Lockdown:Startet mit Access level 3, du kannst mit Räumen interagieren um sie in den Lockdown Modus zu setzen. Alle Lampen werden ausgeschaltet und Türen werden verschlossen. Während des Lockdowns können Menschen SCP-173 nicht sehen.
 Praktisch Unzerstörbar: Fünf Generatoren spawnen in der Heavy Containment Zone. Wenn alle entriegelt und aktiviert sind wirst du eingedämmt.\nGeneratoren haben eine Hochfahrsequenz welche von jedem Spieler abgebrochen werden kann, indem der "CANCEL" Knopf des Generator gedrückt wird.
-Genickbruch: Halte oder klicke auf einen Menschen um sein Genick zu brechen. Dies tötet Ihn sofort, solange er dich entweder nicht sehen kann oder blinzelt.
+Genickbruch:Halte oder klicke auf einen Menschen um sein Genick zu brechen. Dies tötet Ihn sofort, solange er dich entweder nicht sehen kann oder blinzelt.
