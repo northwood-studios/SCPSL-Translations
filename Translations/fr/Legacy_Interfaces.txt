@@ -13,6 +13,6 @@ CAPACITÉ SPÉCIALE
 CRÉER UN PORTAIL
 UTILISER LE PORTAIL
 VOUS ÊTES MORT
-<size=30><color=#ff0000>Vous avez été tué par :</color></size>
-<size=30><color=#ffff00>en tant que :</color></size>
+Vous avez été tué par :
+en tant que :
 Passif
