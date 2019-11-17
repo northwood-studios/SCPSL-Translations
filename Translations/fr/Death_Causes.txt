@@ -1,18 +1,18 @@
 Vaporisé par une explosion.
 Les déchirures aux jambes laissent penser qu'une chute a été fatale.
-<color=#ff0000>Utilisé comme sacrifice pour reconfiner SCP-106.</color>
-<color=#ff0000>Décédé dans la dimension de poche de SCP-106.</color>
-<color=#ff0000>Revenant de SCP-106.</color>
+Utilisé comme sacrifice pour reconfiner SCP-106.
+Décédé dans la dimension de poche de SCP-106.
+Revenant de SCP-106.
 Électrocuté.
 Écrasé par une structure lourde.
-Il y a beaucoup de blessures par balles sur le corps, c'est probablement du <color=#ffff00>[ammotype]</color> qui a été utilisée.
-<color=#ff0000>Nuque brisée à la base du crâne.</color>
-<color=#ff0000>N'a pas survécu à sa rencontre avec SCP-106.</color>
-<color=#ff0000>Soigné de la peste.</color>
+Il y a beaucoup de blessures par balles sur le corps, c'est probablement du <color=#ffff00>[ammotype] qui a été utilisée.
+Nuque brisée à la base du crâne.
+N'a pas survécu à sa rencontre avec SCP-106.
+Soigné de la peste.
 La cause de la mort est inconnue.
 Il s'agit du corps d'un [class] nommé <b>[user]</b> !\n\nCause de la mort : [cause]
-<color=#ff0000>Mis en pièces par SCP-096.</color>
-<color=#ff0000>Morsure puissante à la base du crâne.</color>
+Mis en pièces par SCP-096.
+Morsure puissante à la base du crâne.
 Rongé par une substance fortement corrosive.
 Le corps a été partiellement brûlé par une explosion.
 La peau pâle et le sang coulant de la bouche suggèrent qu'une hémorragie interne a été causée par l'inhalation d'une substance.
