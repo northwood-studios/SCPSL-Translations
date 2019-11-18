@@ -1,8 +1,0 @@
-Velkommen til SCP: Secret Laboratory! Jeg er en af stemmerne fra spillet.\nLad mig intruducerer dig til de basale spil regler.\nPrøv at finde og checke toiletterne for et nøglekort.\n
-<color=#00FF58>Brug <b>W, A, S & D</b> for at bevæge dig mod <b>toiletterne</b>\nBrug <b>E</b> for at <b>bruge</b> døre og ting.</color>
-Godt, tag den.
-Nøglekort er en af de mest basale ting i spillet, som også giver adgang til låste områder .\nCheck de nærmeste døre, og prøv at åbne dem med dit nøglekort.
-<color=#00FF58>Brug <b>TAB</b> for at åbne dit inventar.\n<b>Venstreklik</b> for at vælge en ting\nand <b>højreklik</b> for at kaste den.
-Hvis du virkelig gerne vil flygte herfra - Så vil jeg forslå at du finder et bedre nøglekort.
-Hvert nøglekort har hver deres adgang niveau. Du kan sammmenligne nøglekort ved at pege din mus over hvert kort i dit inventar.
-Tillykke! Du har nu gennemført den første del af træningen!

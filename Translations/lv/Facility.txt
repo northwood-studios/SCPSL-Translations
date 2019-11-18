@@ -1,0 +1,34 @@
+BALS SKAĻUMS
+Ja
+PIESPIEST SĀKT
+SCP-106 GLABĀŠANAS\nPROCEDURAS PARRAKSTE
+Apgriest Y-axis
+KOPSAPVILKUMS
+Atcelt
+I N V E N T A R S
+SPOŽUMS
+SETTINGI
+ATVIENOT
+ATOM BUMBA IR ATCELTA
+ATĻAUJA NEPIEŅEMTA
+BALS ČATS
+INVENTĀRA PĀRLĀDE
+M. SENSITIVITĀTE
+UZLAUŽ
+PACEĻ...
+Palielinot speles gaišumu <b>padara speles garastāvoklis sliktāku </b>\nPamēģini šo likt cik vien zemu vari.\n<b>Parastais ir ieteiktais.</b>
+[1] ATVERT/AIZVERT DURVIS\n[2] AIZSLĒGT DURVIS*\n\n*Aizslēdzot durvis izmanot īpašas spējas
+DURVIS TIKA AIZSLĒGTAS NO SCP-079
+Pilnekrāna režīms
+Vai esi droš ka gribi iet prom no šī servera?
+Parastās opcijas. Pilns sakarsts ar settingiem is izvelnē.
+GAIDA SPĒLĒTĀJUS
+KOPSAPVILKUMS
+TURPINĀT
+GALVENĀ SKAŅA
+savienots
+Tu izmuki kā Zinātnieks un pievienojies MTF
+Tu izmuki kā Klase D un pievienojis Haoss sacelšanās
+TU ESI
+Izmukšanas laiks: [escape_minutes] minūtes un [escape_seconds] sekundes
+Gaidi [time] tiklīdz tu vari izmantot [item] atkal.

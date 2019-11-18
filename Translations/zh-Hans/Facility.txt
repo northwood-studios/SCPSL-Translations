@@ -31,4 +31,4 @@ ALPHA核弹已关闭
 你作为D级人员逃离了设施，并加入了混沌分裂者阵营。
 你是
 逃离耗时: [escape_minutes] 分 [escape_seconds] 秒
- [time] 后才能再次使用 [item] 
+ [time] 后才能再次使用 [item]

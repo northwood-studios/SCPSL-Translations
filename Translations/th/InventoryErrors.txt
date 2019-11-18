@@ -1,4 +1,4 @@
-﻿คุณไม่สามารถถือกระสุนประเภท <color=yellow>{0}</color> ได้แล้ว (จำกัด <color=yellow>{1} นัด</color>)
+คุณไม่สามารถถือกระสุนประเภท <color=yellow>{0}</color> ได้แล้ว (จำกัด <color=yellow>{1} นัด</color>)
 คุณสามารถถือของประเภทนี้ได้แค่ <color=yellow>{0}</color> อัน (<color=yellow>{1}</color>)
 คุณสามารถถือของได้แค่ <color=yellow>8</color> ชิ้น
 คุณได้ถึงขีดจำกัดในการถือของประเภทต่อไปนี้: <color=yellow>{0}</color> ({1}/{1})
