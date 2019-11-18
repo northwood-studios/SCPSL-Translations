@@ -7,14 +7,14 @@
 <size=80>DISCONNECTED</size>\nConnection lost (timed out).
 <size=80>DISCONNECTED</size>\nConnection lost (timed out).
 <size=80>DISCONNECTED</size>\nOperation is not supported.
-<size=80>DISCONNECTED</size>\nYour game version is different than the server.
+<size=80>DISCONNECTED</size>\nYour game version is different from the server.
 <size=80>DISCONNECTED</size>\nWrong server config.
 <size=80>DISCONNECTED</size>\nThe address is invalid or could not be resolved.
 <size=80>DISCONNECTED</size>\nAn unexpected problem has occurred!
 <size=80>PLEASE WAIT</size>\n<size=35>Establishing connection...</size>
 <size=80>ROUND RESTART</size>\n<size=35>The round is restarting...</size>
 <size=80>PLEASE WAIT</size>\n<size=35>Loading tutorial...</size>
-<size=80>VERSION INCOMPATIBILITY</size>\nYour game version is different than the server\n(Your - [your]; Server - [server])
+<size=80>VERSION INCOMPATIBILITY</size>\nYour game version is different from the server\n(Your - [your]; Server - [server])
 <size=80>CONNECTED</size>\n<size=35>Loading the level...</size>
 <size=35>Loading the facility...</size>
 <size=80>DISCONNECTED</size>\nUnspecified error occured on the server.
@@ -24,3 +24,7 @@
 <size=80>DISCONNECTED</size>\nYou are globally banned: [reason].
 <size=80>DISCONNECTED</size>\nYou are banned from this server.
 <size=80>DISCONNECTED</size>\nYou are banned from this server.\nBan expires: [date] [time]
+<size=80>DISCONNECTED</size>\nYour authentication token has expired.\nServer might have invalid time or timezone set.\nPlease contact server administrator.
+<size=80>DISCONNECTED</size>\nYou are being rate limited. Try again in a few seconds.
+<size=80>DISCONNECTED</size>\nServer is not accepting connections from your geographic location.\nServer name or info may contain more details.
+<size=80>DISCONNECTED</size>\nYou have been kicked by a server modification.\n\nReason: [reason]\nThis is server modification, not a game feature.\nContact server administrator for more information.
