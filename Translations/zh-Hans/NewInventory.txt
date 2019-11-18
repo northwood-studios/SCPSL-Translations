@@ -1,13 +1,13 @@
-清洁工钥匙卡:No description 
-科学家钥匙卡:No description 
-研究主管钥匙卡:No description 
-区域总监钥匙卡:No description 
-警卫钥匙卡:No description 
-MTF新兵钥匙卡:No description 
-收容室工程师钥匙卡:No description 
-MTF士官钥匙卡:No description 
-MTF指挥官钥匙卡:No description 
-设施总监钥匙卡:No description 
+清洁工钥匙卡:No description
+科学家钥匙卡:No description
+研究主管钥匙卡:No description
+区域总监钥匙卡:No description
+警卫钥匙卡:No description
+MTF新兵钥匙卡:No description
+收容室工程师钥匙卡:No description
+MTF士官钥匙卡:No description
+MTF指挥官钥匙卡:No description
+设施总监钥匙卡:No description
 混沌分裂者权限装置
 O5级别钥匙卡
 对讲机:SR = 短距离 \nMR = 中距离 \nLR = 远距离 \nUR = 超远距离 \n靠电池驱动，接收距离越远耗电量越高。
@@ -34,3 +34,4 @@ SCP-268:戴上后将在短时间内隐形，任何交互行为都将打断效果
 肾上腺素:临时恢复体能。
 止痛药:缓和轻伤。
 硬币:所以说带着它是有什么意义吗...
+
