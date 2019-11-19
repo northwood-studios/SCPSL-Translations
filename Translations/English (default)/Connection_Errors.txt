@@ -17,7 +17,7 @@
 <size=80>VERSION INCOMPATIBILITY</size>\nYour game version is different from the server\n(Your - [your]; Server - [server])
 <size=80>CONNECTED</size>\n<size=35>Loading the level...</size>
 <size=35>Loading the facility...</size>
-<size=80>DISCONNECTED</size>\nUnspecified error occured on the server.
+<size=80>DISCONNECTED</size>\nUnspecified error occurred on the server.
 <size=80>DISCONNECTED</size>\nThis server requires authentication by central servers.
 <size=80>DISCONNECTED</size>\nYou are not whitelisted on this server.
 <size=80>DISCONNECTED</size>\nYou are globally banned.
