@@ -1,17 +1,17 @@
-the round has finished!
-SCPs WON
-MTF WON
-CLASS-D WON
-STALEMATE
-They are responsible for killing [summary_scpfrags] human beings.
-Threat terminated. This place is now safe again.
-All Foundation security has been terminated.
-Both sides have suffered losses and benefited greatly. The winner is undetermined.
-[summary_d_escaped] class-d escaped
-[summary_s_escaped] scientist(s) survived
-Alpha Warhead detonation terminated [summary_warhead_kills] beings.
-Alpha Warhead was not detonated during this misson.
-The mission took [summary_round_minutes] minutes and [summary_round_seconds] seconds.
-[summary_scp_terminated] terminated SCPs
-next round in [summary_next_round_countdown] seconds.
-You have dealed [summary_damages] damages, and killed [summary_kills] players.
+raunt bitti!
+SCPler KAZANDI
+MGG KAZANDI
+D-SINIF KAZANDI
+BERABERE
+[summary_scpfrags] insanı öldürmekten sorumludurlar.
+Tehdit sonlandırıldı. Burası tekrar güvenli.
+Tüm Vakıf güvenliği etkisiz hale getirildi.
+Her iki taraf da kayıplar yaşadı ve büyük yararlar sağladı. Kazanan belli değil.
+[summary_d_escaped] d-sınıf kaçtı
+[summary_s_escaped] bilim adam(lar)ı hayatta kaldı
+Alpha Savaş Başlığı infilakı [summary_warhead_kills] varlığı etkisiz hale getirdi.
+Bu görev süresince Alpha Savaş Başlığı patlatılmadı.
+Görev [summary_round_minutes] dakika ve [summary_round_seconds] saniye sürdü.
+[summary_scp_terminated] SCP etkisiz hale getirildi
+sonraki raunt [summary_next_round_countdown] saniye içinde başlatılacak.
+[summary_damages] hasar verdin, ve [summary_kills] oyuncu öldürdün.
