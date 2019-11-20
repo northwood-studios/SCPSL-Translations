@@ -6,24 +6,24 @@ Unbewaffnet:Du hast gar nichts. Finde etwas, egal was.
 Zugangskarte:Du hast eine Zugangskarte, nicht die beste aber immerhin. Verlier sie nicht!
 Standard Ausrüstung:Du bist mit einem Gewehr, Granaten, einem Radio, einem Entwaffner und einer Zugangskarte ausgerüstet.
 Bewaffnet & Gefährlich:Du bist mit einem LMG (Leichtes Maschinengewehr), einem Hacker-Tool (Zugangskarte) und einem \nErste Hilfe Paket ausgerüstet.
-Erschreckende Geschwindigkeit:Wenn du unbeobachtet bist kannst du dich sehr schnell bewegen. Wenn dich aber ein Mensch direkt ansieht, kannst du weder angreifen noch dich bewegen. \nKeine Sorge, alle Menschen die dich beobachten blinzeln gleichzeitig alle paar Sekunden, in diesem Moment kannst du zuschlagen.
+Erschreckende Geschwindigkeit:Wenn du unbeobachtet bist kannst du dich sehr schnell bewegen. Wenn dich aber ein Mensch direkt ansieht, kannst du weder angreifen noch dich bewegen.\nKeine Sorge, alle Menschen die dich beobachten blinzeln gleichzeitig alle paar Sekunden, in diesem Moment kannst du zuschlagen.
 Panik:Du bewegst dich schneller je weniger HP du hast.
-Schlupfloch:Du platzierst oder teleportiertst dich zu deinem Schlupfloch, erkennbar an dem schwarzen Fleck auf dem Boden.\nEs kann nur ein Schlupfloch gleichzeitig geben, bewegen kannst du es jedoch immer. Teleportieren dauert ein paar Sekunden.
+Schlupfloch:Du kannst eine schwarze Pfütze aus Korrosion platzieren und dich jederzeit zu ihr zurück teleportieren. Teleportieren dauert ein paar Sekunden.\nDu kannst dein Schlupfloch bewegen, indem du es noch einmal neu platzierst.
 Korrosion:Du kannst durch Türen laufen.
-Schwanengesang:Fast nichts kann dir Schaden zufügen, abgesehen von Granaten und Elektrizität, allerdings befindet sich in deiner Eindämmungskammer ein kleiner Raum. \nIn diesem können sich Spieler opfern. Sobald dies geschehen ist, kann jeder den großen roten Knopf in deiner Eindämmungskammer drücken. Dieser wird dich nach 15 Sekunden wieder eindämmen.
-Pocket Dimension:Fange Menschen ein und teleportiere sie in deine Pocket Dimension. In dieser befinden sich acht Ausgänge, von dem einer nur der richtige ist. Wenn der falsche Ausgang gewählt wird dann stirbt man. Wenn aber der richtige Ausgang gewählt wird, wird man in einen zufälligen Raum in der Einrichtung teleportiert. Menschen sterben langsam in dieser Dimension.
+Schwanengesang:Du nimmst annähernd keinen Schaden verursacht durch Schusswaffen. Allerdings kannst du nahezu sofort wieder eingedämmt werden, indem sich ein Mensch in deiner Eindämmungskammer opfert.
+Pocket Dimension:Fange Menschen ein und teleportiere sie in deine Pocket Dimension in welcher sie schnell sterben. Menschen müssen den richtigen Ausgang auswählen ansonsten sterben sie.
 Schüchtern:Standardmäßig bewegst du dich langsam, kannst niemanden attackieren und gibst leises Weinen von dir. Wenn dich ein Mensch lange genug anschaut, bleibst du für 5 Sekunden stehen und verfällst danach in Raserei.
 Anti-Soziale Raserei:Während der Raserei bewegest du dich extrem schnell und schreist sehr laut. Die Raserei hält für knapp 20 Sekunden. Sobald die Raserei vorbei ist, kannst du für einen kurzen Zeitraum nicht wieder in Raserei verfallen. In dieser Zeit gibst du kein Weinen von dir.\nWenn du während der Raserei diese Taste klickst oder gedrückt hälst, tötest du Menschen in kurzer Reichweite.
 Nervenzusammenbruch:Während der Raserei kannst du Türen zerstören.
 Ultrasensitiv:Du kannst Menschen nicht sehen, außer sie rennen, stoßen mit dir zusammen oder schießen in deiner Nähe.
-Sturm:Erhöht deine Bewegungsgeschwindigkeit.
+Jäger:Deine Schritte sind lautlos. Halte die vergebene Taste um deine Bewegungsgeschwindigkeit zu erhöhen, allerdings macht dies deine Bewegungen hörbar.
 Imitator:Du kannst mit anderen Spielern in der nähe kommunizieren, sogar mit Menschen.
-Biss:Attackierst du einen Menschen in deiner Nähe, so fügst du Ihm schweren Schaden zu.
-Gegenmittel:Greife einen Menschen an und töte Ihn, dies macht Ihn für einige Sekunden anfällig für deine Reanimation. Keine Abklingzeit vorhanden.
-Reanimieren:Wenn du diese Taste gedrückt auf eine Leiche hälst, verwandelt der Verstorbene sich in einen Zombie. Das Reanimieren braucht ein paar Sekunden, und funktioniert auch nur bei frischen Leichen. Zombies haben wenig Leben und schwache Attacken, allerdings bewegen sie sich schnell und können mit dir und anderen SCP's kommunizieren.\nEs gibt kein Limit für's wiederbeleben von Menschen.
-Schlag:Attackiere einen Menschen und verursache ein wenig Schaden.
+Biss:Attackierst du einen Menschen im Nahkampf, so fügst du Ihm schweren Schaden zu.
+Gegenmittel:Berühre einen Menschen in naher Reichweite, dies tötet Ihn sofort.
+Die Heilung:Reanimiere einen Menschen welchen du vor kurzem getötet hast. Geheilte Menschen werden zu Zombies welche wenig Leben haben aber dafür schnell sind.\nEs gibt kein Limit für das Wiederbeleben von Menschen.
+Schlag:Attackiere einen Menschen und verursache Schaden.
 Öffnen/Schließen von Türen:Du kannst mit Türen interagieren um sie zu öffnen oder zu schließen, dies kostet dich 5 AP. Du kannst sie auch verschließen, dies verbraucht aber deine AP über Zeit. Die Tür bleibt dann verschlossen bis du sie wieder freigibst oder deine AP verbraucht ist.
 Tesla Überladung:Du kannst ein Tesla Gate für 50 AP sofort aktivieren, dies tötet Spieler in und um das Tesla Gate.
 Lockdown:Startet mit Access level 3, du kannst mit Räumen interagieren um sie in den Lockdown Modus zu setzen. Alle Lampen werden ausgeschaltet und Türen werden verschlossen. Während des Lockdowns können Menschen SCP-173 nicht sehen.
-Praktisch Unzerstörbar: Fünf Generatoren spawnen verteilt in der Heavy Containment Zone, diese benötigen eine Zugangskarte mit höchster Waffenkammer Freigabe und ein Waffenbearbeitungstablet zum aktivieren. Du kannst nur getötet werden wenn Menschen diese Generatoren hochfahren, ausgeschaltet werden können sie jedoch von Menschen und SCP's.\nJeder Generator hat eine zwei Minütige Hochfahrsequenz, jeder aktiver Generator erhöht deine AP Regeneration. Sobald alle Generatoren hochgefahren sind hast du unendlich viel AP für 1 Minute, danach stirbst du.
-Genickbruch:Halte oder klicke um Menschen die Schädelbasis zu brechen. Das Attackieren von Menschen im Nahkampf, während sie blinzeln,  tötet sie sofort.
+Praktisch Unzerstörbar: Fünf Generatoren spawnen in der Heavy Containment Zone. Wenn alle entriegelt und aktiviert sind wirst du eingedämmt.\nGeneratoren haben eine Hochfahrsequenz welche von jedem Spieler abgebrochen werden kann, indem der "CANCEL" Knopf des Generator gedrückt wird.
+Genickbruch:Halte oder klicke auf einen Menschen um sein Genick zu brechen. Dies tötet Ihn sofort, solange er dich entweder nicht sehen kann oder blinzelt.
