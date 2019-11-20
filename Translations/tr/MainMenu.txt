@@ -1,62 +1,86 @@
 KATIL
-KAPA
-GOLGE COZUNURLUGU
+KAPAT
+GÖLGE ÇÖZÜNÜRLÜĞÜ
 AYARLAR
-<i>SCP: CONTAINMENT BREACH'DAN</i> ESINLENILDI
-GERI
-DIL
-ANTIALIASING
-DETAYLARI DEGISTIR:\n-PIKSEL ISIK SAYISI - kendi pikselleri icinde islenen isik kaynaklarinin maksimum sayisi.\n-V-Sync - Goruntu aygitinin yenileme sayisina gore oyunu esleyin.
+<i>SCP: CONTAINMENT BREACH</i>'TEN ESİNLENMİŞTİR.
+GERİ
+DİL
+KENAR YUMUŞATMA
+Detayları değiştir:\n-PİKSEL IŞIK SAYISI - Işıklarını ayrı piksellerde veren maksimum ışık kaynağı sayısı.\n-Dikey Senkronizasyon - Görüntüleme cihazının yenileme hızı ile senkronizasyonu etkinleştirin.
 OYUNA KATIL
-ISLEM\nSONRASI
-YAPIMCILAR
-OYUNDAN CIK
-Tamekran modu
+İŞLEM\nSONRASI
+JENERİK
+OYUNDAN ÇIK
+Tam Ekran Modu
 EKRAN AYARLARI
-RENK DUZGUNLESTIRME
-IP adresini giriniz...
-EKRAN COZUNURLUGU
+RENK DOĞRULUĞU
+IP Adresi Giriniz...
+EKRAN ÇÖZÜNÜRLÜĞÜ
 OYNA
-PIKSEL ISIK SAYISI
-GOLGE TIPI
-GOLGELER
-OYUN OLUSTUR
-İşlem sonrası efektleri değiştirin. Bunlar performansı etkilemez. Varsayılan değerde bırakmanız önerilir.
-Işık işleme modu:\nKapalı iken - oyunun daha kötü gözükmesine sebep olur. Bilgisayarınız gerçekten kötüyse bu ayarı kapatınız
-DUSEY SENKRONIZASYON
-BAGLAN
-KALITE AYARLARI
-Golge tercihlerinizi degistirin. Bu kaydiricilari indirirseniz goruntu daha yumusak olabilir.
-ANA MENU
-LIGHT RENDERING MODE
-MOTION BLUR
-GOLGE MESAFESI
+PİKSEL IŞIK SAYISI
+GÖLGE TİPİ
+GÖLGELER
+OYUN OLUŞTUR
+İşlem sonrası ayarlarını değiştirmek. Bu ayarlar genellikle performansı etkilemez, varsayılan değerlerin bırakılması önerilir.
+Işık işleme modu:\nKapalıyken, grafik kalitesi önemli ölçüde azalır. Bu ayarın devre dışı bırakılması yalnızca düşük kaliteli bilgisayarlar için önerilir.
+Dikey Senkronizasyon
+BAĞLAN
+KALİTE AYARLARI
+Gölge ayarlarını değiştirmek performansınızı etkileyebilir.
+ANA MENÜ
+IŞIK İŞLEME MODU
+HAREKET BULANIKLIĞI
+GÖLGE MESAFESİ
 DETAYLAR
 3. SCP-914
-ALISTIRMALAR
+ÖĞRETİCİLER
 UYARI
-Uygun sunuculara goz at
-Yeniden gosterme
-Nasil baglanmak istersiniz?
-SUNUCU LISTESI
+Mevcut sunuculara göz atın
+Bunu bir daha gösterme
+Nasıl bağlanmak istersin?
+SUNUCU TARAYICISI
 TAMAM
-SUNUCU BUL
-2. Silah kullanmak
-Biz Discordu forum olarak kullaniriz. Kurulum yapmak gerekmez.\n(katilmak icin logoya tiklayiniz)
-Varsayilan olarak, sunucular yerel agda kurulur.\nArkadaslariniz katilmak icin IP adresine ihtiyac duyacaktir\nEger herkese acik bir sunucu kurmak isterseniz, LocalAdmin.exe'yi secip verilen talimatlari takip edin.\nEger sorulariniz varsa, teknik destek ekibimize danisabilirsiniz(link ana menude)
+MAÇ BUL
+2. Silah Kullanımı
+Discord'u forum olarak kullanıyoruz. Yükleme gerektirmez.\n(Katılmak için logoya tıklayın)
+Varsayılan ayarlarda sunucu yerel ağ üzerinde kurulacaktır. \nArkadaşlarının bağlanabilmesi için bir IP adresine ihtiyacı olacak.\nEğer bir topluluk sunucusu kurmak istiyorsanız LocalAdmin.exe'yi seçip talimatları takip edin. \nEğer herhangibir sorunuz varsa teknik desteğimize başvurabilirsiniz. (Link Ana menüde)
 1. Temeller
-Birazdan sunulacak oyun hala acik betadadir.\nBaglanma ve oyun hatalariyla karsilasabilirsiniz.\nOyunun suanki hali tamamlanacak olan oyunu temsil etmez.
-4. (daha fazla alistirma sonradan gelecek)
-DIREK BAGLANMA
-TEKNIK DESTEK / FORUM
-SES YUKSEKLIGI
-Belirtilen sunucunun IP adresini giriniz.
-VERI INDRILIYOR
-HICBIR SUNUCU UYGUN DEGIL
-IPTAL ETMEK/KAPATMAK ICIN ESC TUSUNA BASINIZ
-KEY BINDING
-MAX BLOOD AMOUNT
-FPS Limit
-FPS Limit does not work when vSync is enabled!
-Set Default
-We use Steam Discussions as a forum. (Click the logo below to open the forum)
+Sunduğumuz oyun hala toplu betadadır\nBazı bağlantı problemleri ve oyun hataları deneyimleyebilirsiniz.\nŞuanki durum son versiyonu yansıtmayabilir.
+4. (İleride daha fazla rehber eklenecektir)
+DOĞRUDAN BAĞLAN
+TEKNİK DESTEK / FORUM
+SES DÜZEYİ
+Giriş yapmak istediğiniz sunucunun IP adresini giriniz.
+VERİ İNDİRİLİYOR
+MEVCUT BİR SUNUCU BULUNAMADI
+KAPATMAK İÇİN ESC'YE BASINIZ / İPTAL
+TUŞ ATAMA
+MAKSİMUM KAN MİKTARI
+FPS Limiti
+FPS Limiti dikey senkronizasyon aktif iken çalışmaz!
+Varsayılana Ayarla
+Steam tartışmalarını forum olarak kullanıyoruz. (Alttaki logoya tıklayarak foruma ulaşabilirsiniz)
+SES AYARLARI
+ANA SES
+MENÜ MÜZİĞİ
+SESLİ SOHBET
+SES EFEKTLERİ
+OYNANIŞ AYARLARI
+HIZLI TANITIM SOLGUNLAŞTIRMASI
+SCP-079 - GÖRÜNÜM MODUNU DEĞİŞTİR
+Kamera modları arasında geçiş yapmak için bir kere basınız.
+SCP-079 - İŞLEM-SONRASI
+Devre dışı bırakılırsa, kamera efektleri çok azalır.
+KAFA SALLANMASI
+Birinci şahıs kamerasının hareket halinde sallanmasını etkinleştirir.
+KOŞUYA GEÇİŞ
+Koşmak için basılı tutmak yerine, açılıp kapanır.
+SP ÇUBUĞUNU YAPAY AYIRMA
+SP'na sahte bir kaplama yerine kendi sağlık çubuğunu verir.
+Çevirilerimiz GitHub'da açık kaynak kodludur!\nYardım etmek ister misin? Depoya erişmek için buraya tıklayın.
+VARLIK ZENGİNLEŞTİRME
+Aktifleştirildiğinde bilgilerin Steam ve Discord üzerinden gösterilir.
+ASIL SP DEĞERİNİ GÖSTER
+SP değerini yüzde olarak göstermek yerine asıl değerini gösterir.
+TOPLULUK LOBİSİ
+Etkinleştirildiğinde, Steam arkadaşlarınız izin almadan size katılabilirler.
