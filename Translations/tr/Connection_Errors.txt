@@ -1,19 +1,19 @@
-<size=80>ATILDINIZ</size>\nSunucu baglantiyi zorla kapatti.\n<size=26>\nYonetici tarafindan buyuk olasilikla gecici uzaklastirma aldiniz veya sunucunun isteklerini karsilamiyorsunuz(Steam'e baglanti v.b).\nZamanli uzaklastirmalar icin - oyunun yapimcilari sorumlu <u>degildir</u>.\n</size>
-<size=80>BAGLANTI KESILDI</size>\nBelirtilen kurucu musait degil.
-<size=80>BAGLANTI KESILDI</size>\nBelirtilen connectionId yok.
-<size=80>BAGLANTI KESILDI</size>\nBelirtilen kanal yok.
-<size=80>BAGLANTI KESILDI</size>\nSunucu dolu.
-<size=80>BAGLANTI KESILDI</size>\nYanlis paket alindi.
-<size=80>BAGLANTI KESILDI</size>\nBaglanti kaybedildi (zaman asimi).
-<size=80>BAGLANTI KESILDI</size>\nBaglanti kaybedildi (zaman asimi).
-<size=80>BAGLANTI KESILDI</size>\nOperasyon desteklenmiyor.
-<size=80>BAGLANTI KESILDI</size>\nYanlis sunucu yapilandirmasi (surumler uyumlu degil).
-<size=80>BAGLANTI KESILDI</size>\nYanlis sunucu yapilandirmasi.
-<size=80>BAGLANTI KESILDI</size>\nThe address supplied to connect to was invalid or could not be resolved.
-<size=80>BAGLANTI KESILDI</size>\nBelirtilmeyen bir hata ile karsilasildi!
-<size=80>LUTFEN BEKLEYIN</size>\n<size=35>Baglanti kuruluyor...</size>
-<size=80>EL YENIDEN BASLATMA</size>\n<size=35>Sunucu bolumu yeniden baslatiyor...</size>
-<size=80>LUTFEN BEKLEYIN</size>\n<size=35>Egitim yukleniyor...</size>
-<size=80>SURUM UYUMSUZLUGU</size>\nOyun surumunuz sunucuyla ayni degil\n(Sizinki - [your]; Sunucu - [server])
-<size=80>CONNECTED</size>\n<size=35>Loading the level...</size>
-<size=35>Loading the facility...</size>
+<size=80>ATILDINIZ</size>\nSunucu bağlantıyı zorla kapattı.\n<size=26>\nYönetici tarafından buyuk olasılıkla geçici uzaklaştırma aldınız \nveya sunucunun isteklerini karşılamıyorsunuz(Steam'e baglantı v.b).\nZamanlı uzaklaştırmalar için - oyunun yapımcıları sorumlu <u>değildir</u>.\n</size>
+<size=80>BAĞLANTI KESİLDİ</size>\nBelirtilen kurucu mevcut değil.
+<size=80>BAĞLANTI KESİLDİ</size>\nBelirtilen bağlantı kimliği yok.
+<size=80>BAĞLANTI KESİLDİ</size>\nBelirtilen kanal yok.
+<size=80>BAĞLANTI KESİLDİ</size>\nSunucu dolu.
+<size=80>BAĞLANTI KESİLDİ</size>\nYanlış paket alındı.
+<size=80>BAĞLANTI KESİLDİ</size>\nBağlantı kaybedildi (zaman aşımı).
+<size=80>BAĞLANTI KESİLDİ</size>\nBağlantı kaybedildi (zaman aşımı).
+<size=80>BAĞLANTI KESİLDİ</size>\nOperasyon desteklenmiyor.
+<size=80>BAĞLANTI KESİLDİ</size>\nYanlış sunucu yapılandırması (sürümler uyumlu değil).
+<size=80>BAĞLANTI KESİLDİ</size>\nYanlış sunucu yapılandırması.
+<size=80>BAĞLANTI KESİLDİ</size>\nAdres geçersiz veya çözülemedi.
+<size=80>BAĞLANTI KESİLDİ</size>\nBelirtilmeyen bir hata ile karşılaşıldı!
+<size=80>LÜTFEN BEKLEYİN</size>\n<size=35>Bağlantı kuruluyor...</size>
+<size=80>RAUNT YENİDEN BAŞLATMA</size>\n<size=35>Sunucu bölümü yeniden başlatıyor...</size>
+<size=80>LÜTFEN BEKLEYİN</size>\n<size=35>Eğitim yükleniyor...</size>
+<size=80>SÜRÜM UYUMSUZLUĞU</size>\nOyun sürümünüz sunucuyla aynı değil\n(Sizinki - [your]; Sunucu - [server])
+<size=80>BAĞLANDI</size>\n<size=35>Harita yükleniyor...</size>
+<size=35>Tesis yükleniyor...</size>
