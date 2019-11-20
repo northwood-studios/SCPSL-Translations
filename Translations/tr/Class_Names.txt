@@ -1,17 +1,18 @@
 SCP-173
-Class-D Elemani
-Izleyici
+D-Sınıf Personeli
+İzleyici
 SCP-106
-Dokuz-Kuyruklu Tilki Arastirmacisi
+Dokuz-Kuyruklu Tilki Bilim Adamı
 SCP-049
-Arastirmaci
+Bilim Adamı
 SCP-079
-Kaos Isyancisi
+Kaos İsyancısı
 SCP-096
 SCP-049-2
-Dokuz-Kuyruklu Tilki Tegmeni
-Dokuz-Kuyruklu Tilki Kumandani
-Nine-Tailed Fox Cadet
-EGITIM
-Facility Guard
-SCP-939
+Dokuz-Kuyruklu Tilki Teğmeni
+Dokuz-Kuyruklu Tilki Kumandanı
+Dokuz-Kuyruklu Tilki Eri
+EĞİTİM
+Tesis Görevlisi
+SCP-939-53
+SCP-939-89
