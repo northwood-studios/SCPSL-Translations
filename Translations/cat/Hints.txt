@@ -1,0 +1,4 @@
+﻿Se't notificarà el teu rol quan la ronda comenci. Cada rol ha de complir diferents objetius. Si vols saber més, presiona el botó d'ajuda.
+Algunes portes requiereixen un nivell específic d'autorizació. Troba la carta amb el nivell adequat i intenta-ho de nou.
+La Sitja Alfa ha sigut deshabilitada. Ves a la sitja de la zona de contaminació pesada y activa-ho.
+Utilitzar l'SCP-294 requiereix d'una moneda!

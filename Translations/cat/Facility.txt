@@ -1,0 +1,33 @@
+VOLUM DE VEU
+SI
+FORÇAR REINICI
+ANULAR EL PROCEDIMENT DE RE-CONTENCIÓ\nDE L'SCP-106
+INVERTIR Eix-y
+RESUM
+Cancelar
+I N V E N T A R I
+BRILLANTOR
+OPCIONS
+DESCONECTAR
+SITJA ALFA DESHABILITAT
+ACCÉS DENEGAT
+CHAT DE VEU
+INVENTARI SOBRECARREGAT
+M. SENSIBILITAT
+HACKEJANT
+RECOLLINT...
+Incrementar la brillantor <b>empitjora la jugabilitat </b>del joc.\nTracti d'ajustar-ho el mínim possible.\n<b>És recomanable deixar el nivell per defecte.</b>
+[1] OBRIR/TANCAR PUERTA\n[2] BLOQUEJAR PORTA*\n\n*Bloquejar puertes gasta la habilitat especial
+LA PORTA HA SIGUT SELLADA PER L'SCP-079
+Pantalla Completa
+Segur que vols abandonar el servidor?
+Opcions bàsiques. Llista d'opciones completes en el menú.
+ESPERANT JUGADORS
+RESUM
+CONTINUAR
+VOLUM PRINCIPAL
+conectat
+Has escapat com a científic i t'has unit a les unitats de l'MTF.
+Has escapat com a classe-D i t'has unit a les Insurgents del Caos.
+Tu ets
+Temps de fugida: [escape_minutes] minuts i [escape_seconds] segons

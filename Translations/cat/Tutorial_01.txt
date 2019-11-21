@@ -1,0 +1,9 @@
+Benvingut a SCP: Laboratori Secret! Sóc un dels narradors del joc.\nDeixa'm explicar-te els fundaments del joc.\nIntenta trobar les targetes d'accés als banys.\n
+<color=#00FF58>Usa <b>W, A, S & D</b> per anar als <b>banys</b>\nUtilitza <b>E</b> per <b>interactuar</b> amb puertes i objetes.</color>
+Perfecte, ara pren-la.
+Les targetes d'accés són els objetes més importants del joc, et permeten entrar a zones tancades.\nTroba alguna porta i tracta d'obrirla amb la tarjeta.
+<color=#00FF58>Usa <b>TABULADOR</b> per obrir l'inventari.\n<b>Clic esquerre del ratolí</b> per seleccionar un objete\ni <b>dret</b> per llançar-ho.
+Si realment vols escapar - Et sugereixo trobar una millor targeta.
+Cada targeta té el seu propi nivell d'accés. Pots comparar cada targeta pasant el cursor per damunt de cada una.
+Felicitats! Has completat la primera part del tutorial!
+
