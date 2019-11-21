@@ -10,8 +10,9 @@ Detonada
 Sin usar
 La proxima ronda empezara en [time] segundos
 HABILIDAD ESPECIAL
-CREAR AGUJERO NEGRO
-USAR AGUJERO NEGRO
+CREAR Portal
+USAR Portal
 HAS MUERTO
 Has sido eliminado por
 como
+Pasivo

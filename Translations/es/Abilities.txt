@@ -1,9 +1,9 @@
 Habilidad no encontrada:El ID asociado a la habilidad no existe.
-Sprint:Aumenta tu velocidad de movimiento,tambien aumenta el sonido que haces al moverte.
+Sprint:Aumenta tu velocidad de movimiento, tambien aumenta el sonido que emites al moverte.
 Sigilo:Tu movimiento se hace mas silencioso a costa de velocidad de movimiento.
-Inventario:Abre tu inventario y selecciona el objeto usando clic izquierdo,tambien puedes usar clic derecho para soltar.
+Inventario:Abre tu inventario y selecciona el objeto usando clic izquierdo, tambien puedes usar clic derecho para soltar.
 Desarmado:No tienes nada. Encuentra algo . Lo que sea, y rapido.
-Tarjeta de acceso:Tienes una tarjeta de acceso,no es la mejor, pero, por tu bien, no la pierdas.
+Tarjeta de acceso:Tienes una tarjeta de acceso, no es la mejor, pero, por tu bien, no la pierdas.
 Equipamiento estandar:Tienes en el inventario un Rifle, granadas, una radio, un desarmador y una tarjeta de acceso.
 Peligroso Armado:Te han asignado una ametralladora ligera, una herramienta de hackeo (Tarjeta de acceso) y un botiquin.
 Velocidad vertiginosa:Cuando ningun humano puede verte te mueves muy rapido. Si un humano te esta mirando directamente no puedes moverte ni atacar, pero, todos los humanos parpadean simultaneamente cada varios segundos dandote la oportunidad de actuar.
