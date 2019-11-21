@@ -3,9 +3,9 @@ Sprint:Aumenta tu velocidad de movimiento,tambien aumenta el sonido que haces al
 Sigilo:Tu movimiento se hace mas silencioso a costa de velocidad de movimiento.
 Inventario:Abre tu inventario y selecciona el objeto usando clic izquierdo,tambien puedes usar clic derecho para soltar.
 Desarmado:No tienes nada. Encuentra algo . Lo que sea, y rapido.
-Tarjeta de acceso:Tienes una tarjeta de acceso,no es la mejor pero no la pierdas.
+Tarjeta de acceso:Tienes una tarjeta de acceso,no es la mejor, pero, por tu bien, no la pierdas.
 Equipamiento estandar:Tienes en el inventario un Rifle, granadas, una radio, un desarmador y una tarjeta de acceso.
-Armado y Peligroso:Te han asignado una ametralladora ligera, una herramienta de hackeo (Tarjeta de acceso) y un botiquin.
+Peligroso Armado:Te han asignado una ametralladora ligera, una herramienta de hackeo (Tarjeta de acceso) y un botiquin.
 Velocidad vertiginosa:Cuando ningun humano puede verte te mueves muy rapido. Si un humano te esta mirando directamente no puedes moverte ni atacar, pero, todos los humanos parpadean simultaneamente cada varios segundos dandote la oportunidad de actuar.
 Panico:Te mueves mas rapido segun tu vida disminuye.
 Portal:Colocas o te teletransportas a tu portal.\nSolo puedes tener un solo portal a la vez pero lo puedes mover en cualquier momento. Teletransportarte tarda unos segundos.
