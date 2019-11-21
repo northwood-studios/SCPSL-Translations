@@ -25,7 +25,7 @@ Cambia impostazioni di post-processing. Questi cambiamenti non avranno effetti s
 MODALITA' DI RENDERIZZAZIONE DELLE LUCI:\nQuando disattivato - il gioco avra' un aspetto peggiore. E' consigliabile usarlo solo se si possiede un computer di fascia bassa
 V-SYNC
 CONNETTITI
-IMPOSTAZIONI QUALITA'
+IMPOSTAZIONI QUALITÀ
 Cambia le preferenze sulle ombre. Posizionare questi sliders sul valore piu' basso potrebbe migliorare la fluidita' di gioco.
 MENU
 MODALITA' DI RENDERIZZAZIONE DELLE LUCI
