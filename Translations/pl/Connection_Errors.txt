@@ -7,7 +7,7 @@
 <size=80>ROZŁĄCZONO</size>\nUtracono połączenie z serwerem (time-out).
 <size=80>ROZŁĄCZONO</size>\nUtracono połączenie z serwerem (time-out).
 <size=80>ROZŁĄCZONO</size>\nOperacja niewspierana.
-<size=80>ROZŁĄCZONO</size>\nNieprawidłowe ustawienia serwera (niezgodna wersja gry).
+<size=80>ROZŁĄCZONO</size>\nTwoja wersja gry różni się od wersji serwera.
 <size=80>ROZŁĄCZONO</size>\nNieprawidłowe ustawienia serwera.
 <size=80>ROZŁĄCZONO</size>\nPodany adres nie mógł zostać rozwiązany, upewnij się czy jest on poprawny.
 <size=80>ROZŁĄCZONO</size>\nWystąpił nieznany problem!
@@ -17,3 +17,15 @@
 <size=80>NIEZGODNOŚĆ WERSJI</size>\nTwoja wersja gry różni się od wersji serwera\n(Twoja - [your]; Serwer - [server])
 <size=80>POŁĄCZONO</size>\n<size=35>Ładowanie placówki...</size>
 <size=35>Ładowanie placówki...</size>
+<size=80>ROZŁĄCZONO</size>\nNieokreślony błąd pojawił się na serwerze.
+<size=80>ROZŁĄCZONO</size>\nTen serwer wymaga weryfikacji.
+<size=80>ROZŁĄCZONO</size>\nNie znajdujesz się na whiteliście tego serwera.
+<size=80>ROZŁĄCZONO</size>\nZostałeś globalnie zbanowany.
+<size=80>ROZŁĄCZONO</size>\nZostałeś globalnie zbanowany: [reason].
+<size=80>ROZŁĄCZONO</size>\nZostałeś zbanowany z tego serwera.
+<size=80>ROZŁĄCZONO</size>\nZostałeś zbanowany z tego serwera.\nBan się kończy: [date] [time]
+<size=80>ROZŁĄCZONO</size>\nTwój token wygasł.\nSerwer może mieć czas lub strefę czasową źle ustawioną.\nProszę skontaktować się z administratorem serwera.
+<size=80>ROZŁĄCZONO</size>\nPodjęto zbyt częste próby połączenia. Zaczekaj i spróbuj ponownie za kilka sekund.
+<size=80>ROZŁĄCZONO</size>\nSerwer nie przyjmuje połączeń z twojej lokacji geograficznej.\nNazwa lub opis serwera może zawierać więcej szczegółów.
+<size=80>ROZŁĄCZONO</size>\nZostałeś wyrzucony przez modyfikację na serwerze.\n\nPowód: [reason]\nTo jest modyfikacja serwerowa, nie jest ona częścią gry.\nSkontaktuj się z administratorem serwera po więcej informacji.
+<size=80>ROZŁĄCZONO</size>\nTwój token został odrzucony przez serwer.\nProszę uruchomić grę ponownie lub skontaktować się z naszą pomocą techniczną.
