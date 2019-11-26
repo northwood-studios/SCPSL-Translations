@@ -1,5 +1,5 @@
-Alfa Savaş Başlığı tarafından buharlaştırılmış.
-Düşmekten kaynaklanan ölümcül travmalara parçalanmış bacaklar ve ayaklar işaret eder.
+Alfa Savaş Başlığı tarafından buharlaştırıldı.
+Düşmekten kaynaklanan parçalanmış ayaklar ve bacaklar ölümcül travmalara işaret eder.
 Dolaşım şokuyla ölümü, her iki femur kemiğinde de ciddi travma belirtileri ile anlaşılır.
 Cep boyutunda çürümüş.
 SCP-106'nın bir kalıntısı.
@@ -12,6 +12,6 @@ Yaşam belirtilerinin aniden kesilmesi. Açık travma yok.
 Bilinmeyen ölüm nedeni.
 Bu<b>[user]</b>'nin cesedi, o bir [class]!\n\Ölüm sebebi: [cause]
 Büyük yırtılmalar ve aşırı kan kaybı.
-Kafatasının etrafında büyük, derin ısırık izleri görülür.
+Kafatasının etrafında büyük, derin ısırık izleri.
 Aşındırıcı bir madde ile eritildi.
 Bir patlamadan ve şarapnelden kaynaklanan 3. derece yanıklar.
