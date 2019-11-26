@@ -33,3 +33,4 @@ SCP-018:Aşırı güçlü bir şekilde sekebilen süper top.
 SCP-268:Giyildiğinde geçici olarak seni görünmez yapar. Başka biriyle etkileşime girdiğinde bozulur.
 Adrenalin:Dayanıklılığını geçiçi olarak arttırır.
 Ağrı kesici:Küçük yaralarını dindirir.
+Para:Bunu neden taşımak istediğin hakkında bir fikrin yok...
