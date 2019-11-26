@@ -1,29 +1,29 @@
 Yetenek Bulunamadı:Bu yetenekle ilişkili yetenek kimliği mevcut değil.
-Depar:Hareket hızınızı arttırır, ancak hareket ederken çıkan sesi de arttırır.
-Sinsi:Adımlarınız sessizleşir, beraberinde büyük oranda hız kaybedersiniz.
-Envanter:Envanterini açarsın ve Sol Tık ile topladığın eşyayı seçersin, veya Sağ Tık ile yere düşürebilirsiniz.
-Silahsız:Hiçbirşeyin yok. Bir şeyler bul. Herhangi bir şey.
+Koşu:Hareket hızınızı arttırır, ancak hareket ederken çıkan sesi de arttırır.
+Yavaşça:Adımlarınız sessizleşir, beraberinde büyük oranda hız kaybedersiniz.
+Envanter:Envanterini açarsın ve Sol Tık ile topladığın eşyayı seçersin, veya Sağ Tık ile yere bırakabilirsin.
+Korumasız:Hiçbirşeyin yok. Bir şeyler bul. Herhangi bir şey.
 Erişim Kartı:Bir erişim kartın var, en iyisi değil fakat kaybetme.
-Standart Donanım:Bir Tüfek, Bombalar, bir Radyo, bir Kelepçe ve bir Erişim kartı ile donanılırsın.
+Standart Donanım:Bir Tüfek, Bomba, bir Radyo, bir Kelepçe ve bir Erişim kartı ile donanılırsın.
 Silahlı & Tehlikeli:Bir Hafif Makinalı Silah, bir Hackleme aracı, ve bir İlk-Yardım Kiti sevkettin.
-Başlangıç Hızı:Hiçbir insan seni görmediğinde, hızlıca hareket edersin. Eğer bir insan tarafından direktmen izlenirsen, yürüyemezsin veya saldıramazsın, fakat tüm izleyen insanlar birkaç saniyede bir aynı anda göz kırpar, hareket etmeni sağlar.
+Ürkünç Hız:Hiçbir insan seni görmediğinde, hızlıca hareket edersin. Eğer bir insan tarafından direktmen izlenirsen, yürüyemezsin veya saldıramazsın, fakat tüm izleyen insanlar birkaç saniyede bir aynı anda göz kırpar, bu da senin hareket etmeni sağlar.
 Panik:Canın azaldıkça daha hızlı hareket edersin.
 Dolin:Kendi dolinini yerleştir veya ışınlan, zeminde siyah bir leke ile temsil edilir.\nBir seferde yalnızca bir tane  olabilir, fakat herhangi bir zaman kaldırılabilir. Işınlanmak birkaç saniye sürer.
 Korozyon:Kapıların içinden geçerek hareket edebilirsiniz.
-Son Eser: El bombası ve elektrik hariç hiçbir kaynaktan neredeyse hiç hasar almazsınız, ancak barındırma odanızda herhangi bir oyuncunun kendilerini öldürmek için girebileceği küçük bir oda var. Ondan sonra, herhangi biri on beş saniyelik bir gecikmeden sonra sizi anında geri barındırma için o odadaki düğmeye basabilir.
+Son Eser: El bombası ve elektrik hariç hiçbir kaynaktan neredeyse hiç hasar almazsınız, ancak barındırma odanızda herhangi bir oyuncunun kendisini öldürmek için girebileceği küçük bir oda vardır. Ondan sonra, herhangi biri odadaki düğmeye basarak on beş saniyelik bir gecikmeden sonra sizi anında geri barındırır.
 Cep Boyutu:Bir insanı yakala ve onu 8 kapılı bir cep boyutuna ışınla; kapılardan biri tesisin rastgele bir odasına ışınlarken, diğer yedisi onları öldürür.\nİnsanlar boyutta durduğu müddet boyunca yavaşça ölür.
-Utangaç:Varsayılan olarak, yavaşça hareket edersin ve saldıramazsın, ve sessiz bir ağlama sesi yayarsın. Eğer insanlar yeterince sana bakarlarsa, beş saniyeliğine olduğun yerde durarsın, ve sonrasında Öfkelenirsin.
-Anti-Sosyal Öfke:Öfkede iken, çok hızlı hareket edersin ve gürültülü çığlıklar atarsın. Öfke yirmi saniye kadar sürer; sona erdikten sonra, kısa bir süreliğine Öfke moduna giremezsin, bu süre boyunca ağlamazsın.\nÖfkede iken, butona tıklamak ve ya basılı tutmak kısa menzildeki insanları anında öldürür.
+Utangaç:Varsayılan olarak, yavaşça hareket edersin ve saldıramazsın, ayrıca sessiz bir ağlama sesi yayarsın. Eğer insanlar yeterince sana bakarlarsa, beş saniyeliğine olduğun yerde durarsın, ve sonrasında Öfkelenirsin.
+Anti-Sosyal Öfke:Öfkede iken, çok hızlı hareket edersin ve gürültülü çığlıklar atarsın. Öfke yirmi saniye kadar sürer; sona erdikten sonra, kısa bir süreliğine Öfke moduna giremezsin, bu süre boyunca ağlamazsın.\nÖfkede iken, fareye tıklamak ve ya basılı tutmak kısa menzildeki insanları anında öldürür.
 Yıkım:Öfkede iken, kapılarla etkilişime girerek onları yok edebilirsiniz.
 Duyarlı:İnsanlar koşmadıkça, sana çarpmadıkça, veya yakın mesafeden sana ateş etmedikçe onları göremezsin.
 Hücum:Hareket hızın artar.
 Taklitçi:İnsanlar dahil, yakındaki tüm oyuncularla yüksek sesle konuşabilirsiniz.
 Isırık:Bir insan sana yaklaştığı vakit saldır ve anında ciddi hasar ver.
-Panzehir:Bir insana saldır, onları anında öldürür ve onları diriltmek için birkaç saniyeliğine savunmasız hale getir. Bunun bir bekleme süresi yoktur.
-Diriltme:Yakın zamanda öldürdüğünüz cesedin üzerinde bir müddet bu tuşa basılı tutarak, onu diriltirsin, insandan zombiye çevirirsin. Düşük can ve zayıf saldırılara sahiptirler, ancak nispeten hızlı hareket ettiği gibi sizinle ve diğer SCP'ler ile iletişim kurabilir.\nNe kadar insanın diriltileceği hakkında bir sınırlama yoktur.
+Panzehir:Bir insana saldır, onları anında öldürür ve birkaç saniyeliğine diriltilmeye eğilimli hale getir. Bunun bir bekleme süresi yoktur.
+Diriltme:Yakın zamanda öldürdüğünüz cesedin üzerinde bir müddet bu tuşa basılı tutarak, onu insandan zombiye çevirip diriltirsin. Düşük can ve zayıf saldırılara sahiptirler, ancak nispeten hızlı hareket ettiği gibi sizinle ve diğer SCP'ler ile iletişim kurabilir.\nNe kadar insanın diriltileceği hakkında bir sınırlama yoktur.
 Saldırı:Bir insana saldır ve onlara küçük miktarda hasar ver.
 Kapıları Aç/Kapat:5 YG'ye kapılarla etkileşime girip onları açabilir ve kapatabilirsiniz. Ayrıca onları kilitleyebilirsiniz, YG'nizi harcar ancak kilitlemeyi kaldırana veya YG bitinceye kadar kimsenin açmasını veya kapatmasını önler.
 Tesla Şarjlama:Bir Tesla Geçitini anında tetiklemek için 50 YG'ye aktifleştirebilirsiniz, içindeki veya yakınındaki oyuncuları öldürür.
-Kilitlenme:Erişim Seviyesi 3'te başlatılır, bazı kapıları kilitlemek için onlarla etkileşime girebilirsin, bütün kapıları kapatır ve ışıkları söndürür. İnsanlar kilitli odalarda iken, SCP-173'ü göremezler.
+Kilitleme:Erişim Seviyesi 3'te başlatılır, bazı kapıları kilitlemek için onlarla etkileşime girebilirsin, bütün kapıları kapatır ve ışıkları söndürür. İnsanlar kilitli odalarda iken, SCP-173'ü göremezler.
 Neredeyse Yıkılmaz: Ağır Barındırma içinde 5 jenaratör doğar, aktif etmek için yüksek seviye cephanelik kartı ve silah yönetim tableti gerektirir. Seni öldürmenin tek yolu insanların bu jeneratörlere güç vermesi ile gerçekleşir; İnsanlar veya diğer SCP'ler onlarla etkileşime girip iptal edebilirler.\nHer jeneratör iki dakikalık geri sayım sürecine sahiptir, ve her aktif jeneratör senin YG yenilenme hızını arttırır. Bütün beş jeneratör de bir kez aktif edildiğinde, 1 dakikalığına sınırsız YG'ye sahip olursun, ardından ölürsün.
 Boyun Kırma:Bir insanın boynunu kırmak için tıkla veya basılı tut. Bir insan yakın menzilde iken göz kırparsa ona saldırır ve anında öldürürsün.
