@@ -1,4 +1,4 @@
-﻿语音音量
+语音音量
 是
 强制开始游戏
 启动SCP-106\n重新收容程序
@@ -9,7 +9,7 @@
 亮度
 设置
 断开连接
-ALPHA核弹头已禁用
+ALPHA核弹已关闭
 权限拒绝
 游戏内语音
 背包已满
@@ -32,3 +32,4 @@ ALPHA核弹头已禁用
 你是
 逃离耗时: [escape_minutes] 分 [escape_seconds] 秒
  [time] 后才能再次使用 [item] 
+按下 <color=white><b>F1</b></color> 了解角色信息
