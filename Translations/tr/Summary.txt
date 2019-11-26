@@ -3,7 +3,7 @@ SCPler KAZANDI
 MGG KAZANDI
 D-SINIF KAZANDI
 BERABERE
-[summary_scpfrags] insanı öldürmekten sorumludurlar.
+Onlar [summary_scpfrags] insanı öldürmekten sorumludurlar.
 Tehdit sonlandırıldı. Burası tekrar güvenli.
 Tüm Vakıf güvenliği etkisiz hale getirildi.
 Her iki taraf da kayıplar yaşadı ve büyük yararlar sağladı. Kazanan belli değil.
