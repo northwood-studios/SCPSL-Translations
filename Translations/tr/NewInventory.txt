@@ -10,7 +10,7 @@ MGG Komutanı Kartı:Açıklama yok
 Tesis Müdürü Kartı:Açıklama yok
 Kaos İsyancılarının Erişim Cihazı
 O5-Seviye Kart
-Telsiz:KM = Kısa Menzil \nOM = Orta Menzil \nUM = Uzun Menzil \nMM= Mega Menzil \nAçıkken pil kullanır. Daha uzun mesafe daha fazla pil kullanımı demek.
+Telsiz:SR = Kısa Menzil \nMR = Orta Menzil \nLR = Uzun Menzil \nUR= Ultra Menzil \nAçıkken pil kullanır. Daha uzun mesafe daha fazla pil kullanımı demek.
 COM-15 Tabancası:Açıklama yok
 İlk Yardım Kiti:Yaralarını iyileştirir.
 El Feneri:Orayı aydınlatmama izin ver!
@@ -26,8 +26,8 @@ Logicer:No description
 El Bombası:Bum!
 Flaş bombası:Rakiplerini kör eder.
 Kelepçe:Sol tık kelepçeler,Sağ tık serbest bırakır. \nAynı takımda olduğun birini serbest bırakmak için E'ye basılı tutunuz.
-Düşürülmüş 7.62:Açıklama yok.
-Düşürülmüş 9mm:Açıklama yok.
+Bırakılmış 7.62:Açıklama yok.
+Bırakılmış 9mm:Açıklama yok.
 USP:Açıklama yok.
 SCP-018:Aşırı güçlü bir şekilde sekebilen süper top.
 SCP-268:Giyildiğinde geçici olarak seni görünmez yapar. Başka biriyle etkileşime girdiğinde bozulur.
