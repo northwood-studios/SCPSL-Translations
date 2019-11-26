@@ -1,5 +1,5 @@
 ÖLDÜN
 <color=yellow>Silah Yönetim Tableti</color> 'ni yerleştirmek için {KEYBINDING_INTERACTION} tuşuna bas.
 <color=yellow>Silah Yönetim Tableti</color> 'ni toplamak için {KEYBINDING_INTERACTION} tuşuna bas.
-Bu <color=yellow>iş istasyonu</color> çoktan başkasının <color=yellow>Silah Yönetim Tableti</color> ile bağlanmış.
-Bu <color=yellow>iş istasyonu</color> 'nu kullanmak için <color=yellow>Silah Yönetim Tableti</color> 'ne ihtiyacın vardır.
+Bu <color=yellow>iş santrali</color> çoktan başkasının <color=yellow>Silah Yönetim Tableti</color> ile bağlanmış.
+Bu <color=yellow>iş santrali</color> 'nu kullanmak için <color=yellow>Silah Yönetim Tableti</color> 'ne ihtiyacın vardır.
