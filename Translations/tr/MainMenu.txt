@@ -2,7 +2,7 @@ KATIL
 KAPAT
 GÖLGE ÇÖZÜNÜRLÜĞÜ
 AYARLAR
-<i>SCP: CONTAINMENT BREACH</i>'TEN ESİNLENMİŞTİR.
+<i>SCP: CONTAINMENT BREACH</i>'TEN ESİNLENİLMİŞTİR.
 GERİ
 DİL
 KENAR YUMUŞATMA
@@ -67,6 +67,7 @@ SESLİ SOHBET
 SES EFEKTLERİ
 OYNANIŞ AYARLARI
 HIZLI TANITIM SOLGUNLAŞTIRMASI
+Sınıf tanıtım metni daha çabuk kaybolur.
 SCP-079 - GÖRÜNÜM MODUNU DEĞİŞTİR
 Kamera modları arasında geçiş yapmak için bir kere basınız.
 SCP-079 - İŞLEM-SONRASI
@@ -74,7 +75,7 @@ Devre dışı bırakılırsa, kamera efektleri çok azalır.
 KAFA SALLANMASI
 Birinci şahıs kamerasının hareket halinde sallanmasını etkinleştirir.
 KOŞUYA GEÇİŞ
-Koşmak için basılı tutmak yerine, açılıp kapanır.
+Koşmak için basılı tutmak yerine, aç-kapa yapabilirsin.
 SP ÇUBUĞUNU YAPAY AYIRMA
 SP'na sahte bir kaplama yerine kendi sağlık çubuğunu verir.
 Çevirilerimiz GitHub'da açık kaynak kodludur!\nYardım etmek ister misin? Depoya erişmek için buraya tıklayın.
