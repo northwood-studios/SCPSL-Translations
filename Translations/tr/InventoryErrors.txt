@@ -1,5 +1,5 @@
-<color=yellow>{0} Cephane</color> limiti sınırına ulaştı (<color=yellow>{1} mermi</color>)
-Bu tür eşyadan sadece <color=yellow>{0}</color> kadar taşıyabilirsin (<color=yellow>{1}</color>)
+<color=yellow>{0} Cephane</color> limiti (<color=yellow>{1} mermi</color>) sınırına ulaştı
+Bu (<color=yellow>{1}</color>) türünden sadece <color=yellow>{0}</color> kadar eşya taşıyabilirsin
 Sadece <color=yellow>8</color> eşya taşıyabilirsin
-Şuan bu tür eşyanın limit sınırına ulaştın: <color=yellow>{0}</color> ({1}/{1})
+Şuan bu eşya türünün limit sınırına ulaştın: <color=yellow>{0}</color> ({1}/{1})
 Tutuklandın\n<size=40>emirlere uy veya takım arkadaşlarından yardım iste</size>
