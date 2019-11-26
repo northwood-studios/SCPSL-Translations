@@ -1,5 +1,5 @@
 达到可持有的<color=yellow>{0} 弹药</color>上限(共<color=yellow>{1}</color>发)
-你最多可持有<color=yellow>{0}</color>件该类物品(<color=yellow>{1}</color>)
+你最多可持有<color=yellow>{0}</color>件该类物品(现持有<color=yellow>{1}</color>个)
 你最多可持有<color=yellow>8</color>件物品
-已达到物品<color=yellow>{0}</color>的获取上限<color=yellow>({1}/{1})</color>
+已达到物品<color=yellow>{0}</color>的获取上限({1}/{1})
 你已被缴械\n<size=40>束手就擒听从指挥，或向队友寻求帮助</size>
