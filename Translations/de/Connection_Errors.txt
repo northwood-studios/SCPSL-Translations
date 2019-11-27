@@ -3,7 +3,7 @@
 <size=80>Verbindung unterbrochen</size>\nDie angegebene Verbindungs-ID existiert nicht.
 <size=80>Verbindung unterbrochen</size>\nDer angegebene Kanal existiert nicht.
 <size=80>Verbindung unterbrochen</size>\nServer ist voll.
-<size=80>Verbindung unterbrochen</size>\nFalsches Paket erhalten.
+<size=80>Verbindung unterbrochen</size>\nUngültiges Paket erhalten.
 <size=80>Verbindung unterbrochen</size>\nZeitüberschreitung (time out).
 <size=80>Verbindung unterbrochen</size>\nZeitüberschreitung (time out).
 <size=80>Verbindung unterbrochen</size>\nOperation ist nicht unterstützt.
