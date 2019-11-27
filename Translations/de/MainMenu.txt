@@ -1,87 +1,87 @@
-BEITRETEN
-SCHLIESSEN
-Schattenauflösung
-EINSTELLUNGEN
-Basiert auf <i>SCP: CONTAINMENT BREACH</i>
-ZURÜCK
-SPRACHE
-KANTENGLÄTTUNG
-Ändere Details:\n-PIXEL LICHT QUELLEN- maximale Anzahl and Lichtquellen welche in seperaten Pixeln gerendert werden.\n-V-Sync - synchronisiert mit der Bildwiederholrate deines Monitors.
-SPIEL BEIRETEN
-Nach-\nbearbeitung
+JOIN
+CLOSE
+SHADOW RESOLUTION
+SETTINGS
+BASED ON <i>SCP: CONTAINMENT BREACH</i>
+BACK
+LANGUAGE
+ANTIALIASING
+Change details:\n-PIXEL LIGHT COUNT - Maximum number of light sources that have their light rendered on individual pixels.\n-V-Sync - Enable synchronising with the refresh rate of the display device.
+JOIN GAME
+POST\nPROCESSING
 CREDITS
-SPIEL BEENDEN
-VOLLBILDMODUS
-BILDSCHIRMEINSTELLUNGEN
-FARBKORREKTUR
-IP-Adresse eingeben...
-BILDSCHIRMAUFLÖSUNG
-SPIELEN
-PIXEL LICHT QUELLEN
-Schatten
-Schatten
-ERSTELLE SPIEL
-Das ändern dieser Einstellung wirkt sich nicht auf die Spielperformance aus. Standard Einstellungen sind empfohlen.
-Einfacher Rendermodus:\nWenn aus - lässt das Spiel schlechter aussehen. Es ist empfohlen diese Einstellung nur zu nutzen wenn du ein schlechtes PC setup (low-end) besitzt.
+QUIT GAME
+Fullscreen mode
+SCREEN SETTINGS
+COLOR CORRECTION
+Enter IP Address...
+SCREEN RESOLUTION
+PLAY
+PIXEL LIGHT COUNT
+SHADOW TYPE
+SHADOWS
+CREATE GAME
+Change post-processing settings. These settings generally don't affect performance, leaving default values is recommended.
+Light rendering mode:\nWhen off, graphics quality is significantly reduced. Disabling this setting is only recommended for low-end computers.
 V-SYNC
-VERBINDE
-QUALITÄTSEINSTELLUNGEN
-Das verschieben des Reglers auf einen niedrigeren Wert kann die allgemeine Performance erhöhen.
-HAUPTMENÜ
-Einfacher Rendermodus
-BEWEGUNGSSCHÄRFE
-Schattenabstand
-Details
+CONNECT
+QUALITY SETTINGS
+Change shadow preferences. Setting these sliders at lower values may increase gameplay smoothness.
+MAIN MENU
+LIGHT RENDERING MODE
+MOTION BLUR
+SHADOW DISTANCE
+DETAILS
 3. SCP-914
 TUTORIALS
-WARNUNG
-Suche nach verfügbaren Servern.
-Nicht nochmal anzeigen
-Wie würdest du gerne beitreten?
+WARNING
+Browse available servers
+Don't show it again
+How would you like to connect?
 SERVER BROWSER
 OKAY
-SPIEL FINDEN
-2. Waffen nutzen
-Wir nutzen Discord als Forum. Keine Installation nötig.\n(klick auf das Logo um beizutreten)
-Normal wird der Server im lokalem Netzwerk aufgesetzt.\nSpieler brauchen deine <color=#ffff00>offene IP-Adresse und den Port (7777 bis 7782, Port forwarding nötig)</color> um beitreten zu können.\nWenn du einen öffentlichen Server aufsetzen willst, führe LocalAdmin.exe aus und folge den Anweisungen.\nWenn du Fragen hast, frage unseren Tech-Support. (link im Hauptmenü)
-1. Die Grundlagen
-Das Spiel befindet sich immernoch in der öffentlichen Beta.\nEs können Fehler auftreten.\nDer jetzige Zustand reflektiert nicht das finale Spiel.
-4. (mehr Tutorials folgen)
-DIREKT VERBINDEN
-TECH-SUPPORT / FORUM
-Allgemeine Spiellautstärke
-Gib die IP-Adresse oder Domain des Servers ein.
-DATEN WERDEN HERUNTERGELADEN
-KEINE SERVER VERFÜGBAR
-DRÜCKE ESC ZUM SCHLIESSEN / ABBRECHEN
-TASTENBELEGUNG
-MAX. SICHTBARES BLUT
+FIND MATCH
+2. Using weapons
+We use Discord as a forum. No installation needed.\n(click the logo to join)
+By default, the server will set up on the local network.\nYour friends will need the direct IP address to connect.\nIf you want to set up a public server, select LocalAdmin.exe and follow the instructions.\nIf you have any questions, please ask our technical support (link in the main menu)
+1. The basics
+The presented game is still in a public beta.\nYou may experience connection problems and many other bugs.\nThe current state does not reflect the final version.
+4. (more tutorials later)
+DIRECT CONNECT
+TECH SUPPORT / FORUM
+SOUND VOLUME
+Enter the IP address of the specific server.
+DOWNLOADING DATA
+NO SERVERS AVAILABLE
+PRESS ESC TO CLOSE / CANCEL
+KEY BINDING
+MAX BLOOD AMOUNT
 FPS Limit
-FPS Limit funktioniert nicht wenn V-Sync an ist!
-Zurücksetzen
-Wir nutzen die Steam Diskussionen als Forum. (Klicke auf das Logo um das Forum aufzurufen)
-AUDIO EINSTELLUNGEN
-GESAMTLAUTSTÄRKE
-HAUPTMENÜ MUSIK
-SPRACHCHAT
-SOUND EFFEKTE
-GAMEPLAY OPTIONEN
-INTRO SCHNELL AUSBLENDEN
-Das Klassen Intro wird bei Rundenstart schneller ausgeblendet.
-SCP-079 ANSICHT UMSCHALTEN
-Der Kameramodus wird durch einmaliges betätigen umgeschaltet.
-SCP-079 NACHBEARBEITUNG
-Wenn ausgeschaltet, werden Kamera Effekte stark reduziert.
-KAMERA WACKELN
-Schaltet das wackeln der first-person Kamera an während sich der Spieler bewegt.
-SPRINTEN UMSCHALTEN
-Sprinten wird ein/aus geschaltet, anstatt die Taste gedrückt zu halten.
-SEPARATER HP BALKEN
-Künstliche HP hat einen eigenen HP Balken, statt eines Overlays.
-Unsere Übersetzungen sind open-source auf Github!\nMöchtest du uns helfen? Dann klicke hier um Zugriff zu erhalten.
+FPS Limit does not work when vSync is enabled!
+Set Default
+We use Steam Discussions as a forum. (Click the logo below to open the forum)
+AUDIO SETTINGS
+MASTER VOLUME
+MENU MUSIC
+VOICE CHAT
+SOUND EFFECTS
+GAMEPLAY OPTIONS
+FAST INTRO FADE
+Class intro text will fade out much more quickly.
+SCP-079 - TOGGLE VIEW MODE
+Press once to swap between camera modes.
+SCP-079 - POST-PROCESSING
+If disabled, camera effects will be heavily reduced.
+HEAD BOB
+Enables first-person camera bobbing during movement.
+TOGGLE SPRINT
+Sprinting toggles on and off, instead of being held down.
+SEPARATE ARTIFICIAL HP BAR
+Gives artificial HP its own health bar, instead of an overlay.
+Our translations are open-source on GitHub!\nWant to help? Click here to access the repo.
 RICH PRESENCE
-Wenn eingeschaltet, wird dein Status auf Discord/Steam angezeigt.
-ZEIGE HP PUNKTE AN
-Zeigt die exakte Anzahl an HP Punkten an, anstelle von Prozent.
-ÖFFENTLICHE LOBBY
-Wenn eingeschaltet, können deine Steam Freunde dir ohne Erlaubnis beitreten.
+If enabled, your status will be displayed on Discord/Steam.
+DISPLAY EXACT HP VALUE
+Displays exact HP, instead of just the percentage.
+PUBLIC LOBBY
+If enabled, your steam friends can join you without permission.

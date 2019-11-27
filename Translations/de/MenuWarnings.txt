@@ -1,4 +1,4 @@
-WARNUNG
+WARNING
 OKAY
-<b>Intel Grafikeinheit</b> wurde erkannt welche <b>nicht unterstützt</b> wird./nEs ist <b>empfohlen</B> eine <b>nicht-integrierte</b> Grafikkarte zu nutzen./nDas Spiel wird höchstwahrscheinlich <b>oft abstürzen</b> mit diesem Setup.
-Ein wichtiges System Update welches für den Voice Chat erforderlich ist kann nicht gefunden werden. Bitte stelle sicher dass du die neuste Windows Version installiert hast. Das Spiel kann ansonsten nicht richtig funktionieren. Wenn dieses Problem bestehen bleibt, kontaktiere bitte unseren Tech-Support für weitere Hilfe.
+<b>Intel graphics</b> have been detected which is <b>not supported</b>./nIt is <b>recommended</B> to use a <b>non-integrated</b> graphics card./nThe game may <b>often crash</b> with the current setup.
+An important system update that is required by the voice chat cannot be found. Please ensure that your Windows is fully up to date, otherwise the game may not function properly. If this issue persists, please contact our tech support team for further assistance

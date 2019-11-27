@@ -1,17 +1,17 @@
-die Runde ist beendet!
-SCPs SIEGEN
-MTF SIEGEN
-KLASSE-D's SIEGEN
-UNENTSCHIEDEN
-Sie sind verantwortlich für [summary_scpfrags] menschliche Verluste.
-Bedrohung beseitigt. Die Sicherheit dieses Ortes ist wiederhergestellt.
-Die gesamte Foundationsicherheit wurde getötet.
-Beide Seiten haben erhebliche Verluste erlitten. Der Sieger kann nicht ermittelt werden.
-[summary_d_escaped] Klasse-D's entkamen
-[summary_s_escaped] Wissenschaftler überlebten
-Der Alpha Warhead tötete [summary_warhead_kills] Lebewesen.
-Der Alpha Warhead wurde nicht genutzt.
-Die Mission dauerte [summary_round_minutes] Minuten und [summary_round_seconds] Sekunden.
-[summary_scp_terminated] getötete SCP's
-Nächste Runde startet in [summary_next_round_countdown] Sekunden.
-Du hast [summary_damages] Schaden verursacht und [summary_kills] Spieler getötet.
+the round has finished!
+SCPs WON
+MTF WON
+CLASS-D WON
+STALEMATE
+They are responsible for killing [summary_scpfrags] human beings.
+Threat terminated. This place is now safe again.
+All Foundation security has been terminated.
+Both sides have suffered losses and benefited greatly. The winner is undetermined.
+[summary_d_escaped] class-d escaped
+[summary_s_escaped] scientist(s) survived
+Alpha Warhead detonation terminated [summary_warhead_kills] beings.
+Alpha Warhead was not detonated during this mission.
+The mission took [summary_round_minutes] minutes and [summary_round_seconds] seconds.
+[summary_scp_terminated] terminated SCPs
+next round in [summary_next_round_countdown] seconds.
+You have dealt [summary_damages] damage and killed [summary_kills] players.

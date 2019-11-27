@@ -1,31 +1,31 @@
-<size=80>Du wurdest gekickt</size>\nDer Server hat die Verbindung gestoppt.\n<size=26>\nDu wurdest möglicherweise temporär gebannt, oder du erfüllst die Serveranforderungen nicht (z.B. Verbindung zu Steam).\nFür mögliche temporäre Bans sind die Spieleentwickler <u>nicht</u> verantwortlich.\n</size>
-<size=80>Verbindung unterbrochen</size>\nDer angegebene Host ist nicht erreichbar.
-<size=80>Verbindung unterbrochen</size>\nDie angegebene Verbindungs-ID existiert nicht.
-<size=80>Verbindung unterbrochen</size>\nDer angegebene Kanal existiert nicht.
-<size=80>Verbindung unterbrochen</size>\nServer ist voll.
-<size=80>Verbindung unterbrochen</size>\nFalsches Paket erhalten.
-<size=80>Verbindung unterbrochen</size>\nZeitüberschreitung (time out).
-<size=80>Verbindung unterbrochen</size>\nZeitüberschreitung (time out).
-<size=80>Verbindung unterbrochen</size>\nOperation ist nicht unterstützt.
-<size=80>Verbindung unterbrochen</size>\nDeine Spielversion unterscheidet sich von der Serverversion
-<size=80>Verbindung unterbrochen</size>\nFalsche Serverkonfiguration
-<size=80>Verbindung unterbrochen</size>\nDie Adresse ist ungültig oder kann nicht zurückverfolgt werden.
-<size=80>Verbindung unterbrochen</size>\nEin unerwarteter Fehler ist aufgetreten!
-<size=80>BITTE WARTEN</size>\n<size=35>Verbindung wird aufgebaut...</size>
-<size=80>RUNDEN NEUSTART</size>\n<size=35>Die Runde wird neugestartet...</size>
-<size=80>BITTE WARTEN</size>\n<size=35>Lade das Tutorial...</size>
-<size=80>VERSION INKOMPATIBILITÄT</size>\nDu nutzt eine unterschiedliche Spielversion als der Server.\n(Deine - [your]; Server - [server])
-<size=80>VERBUNDEN</size>\n<size=35>Laden des Levels...</size>
-<size=35>Laden der Einrichtung...</size>
-<size=80>Verbindung unterbrochen</size>\nNicht definierter Fehler trat auf dem Server ein.
-<size=80>Verbindung unterbrochen</size>\nDieser Server erfordert Authentifikation der Central Server. 
-<size=80>Verbindung unterbrochen</size>\nDu bist nicht auf der Server Whitelist eingetragen.
-<size=80>Verbindung unterbrochen</size>\nYou bist global gebannt.
-<size=80>Verbindung unterbrochen</size>\nYou bist global gebannt: [reason].
-<size=80>Verbindung unterbrochen</size>\nYou bist von diesem Server gebannt.
-<size=80>Verbindung unterbrochen</size>\nYou bist auf diesem Server gebannt.\nBan läuft aus: [date] [time]
-<size=80>Verbindung unterbrochen</size>\nDein Authentifikationstoken ist abgelaufen.\nDer Server hat vielleicht eine falsche Uhrzeit oder Zeitzone eingestellt.\nBitte kontaktiere den Server Administrator.
-<size=80>Verbindung unterbrochen</size>\nDu bist rate limited. Versuche es in ein paar Sekunden erneut.
-<size=80>Verbindung unterbrochen</size>\nServer aktzeptiert Verbindungen deiner geographischen Lage nicht.\nServername oder Info könnte mehr Informationen dazu beinhalten.
-<size=80>Verbindung unterbrochen</size>\nDu wurdest durch eine Servermodifikation gekickt.\n\nGrund: [reason]\nDies ist eine Servermodifikation, kein Bestandteil des Spiels im allgemeinen.\nKontaktiere den Server Administrator für mehr Informationen.
-<size=80>Verbindung unterbrochen</size>\nDein Authentifikationstoken wurde vom Server abgelehnt.\nBitte starte dein Spiel neu oder kontaktiere unseren Tech Support sollte der Fehler weiter bestehen.
+<size=80>YOU HAVE BEEN KICKED</size>\nThe server was forced to stop the connection.\n<size=26>\nYou've probably been temporarily banned by the administrator\nor you don't meet the requirements of the server (e.g. connection to Steam).\nFor possible time bans - the game authors are <b>not</b> responsible.\n</size>
+<size=80>DISCONNECTED</size>\nThe specified host is not available.
+<size=80>DISCONNECTED</size>\nThe specified connection Id doesn't exist.
+<size=80>DISCONNECTED</size>\nThe specified channel doesn't exist.
+<size=80>DISCONNECTED</size>\nServer is full.
+<size=80>DISCONNECTED</size>\nReceived wrong packet.
+<size=80>DISCONNECTED</size>\nConnection lost (timed out).
+<size=80>DISCONNECTED</size>\nConnection lost (timed out).
+<size=80>DISCONNECTED</size>\nOperation is not supported.
+<size=80>DISCONNECTED</size>\nYour game version is different from the server.
+<size=80>DISCONNECTED</size>\nWrong server config.
+<size=80>DISCONNECTED</size>\nThe address is invalid or could not be resolved.
+<size=80>DISCONNECTED</size>\nAn unexpected problem has occurred!
+<size=80>PLEASE WAIT</size>\n<size=35>Establishing connection...</size>
+<size=80>ROUND RESTART</size>\n<size=35>The round is restarting...</size>
+<size=80>PLEASE WAIT</size>\n<size=35>Loading tutorial...</size>
+<size=80>VERSION INCOMPATIBILITY</size>\nYour game version is different from the server\n(Your - [your]; Server - [server])
+<size=80>CONNECTED</size>\n<size=35>Loading the level...</size>
+<size=35>Loading the facility...</size>
+<size=80>DISCONNECTED</size>\nUnspecified error occurred on the server.
+<size=80>DISCONNECTED</size>\nThis server requires authentication by central servers.
+<size=80>DISCONNECTED</size>\nYou are not whitelisted on this server.
+<size=80>DISCONNECTED</size>\nYou are globally banned.
+<size=80>DISCONNECTED</size>\nYou are globally banned: [reason].
+<size=80>DISCONNECTED</size>\nYou are banned from this server.
+<size=80>DISCONNECTED</size>\nYou are banned from this server.\nBan expires: [date] [time]
+<size=80>DISCONNECTED</size>\nYour authentication token has expired.\nServer might have invalid time or timezone set.\nPlease contact server administrator.
+<size=80>DISCONNECTED</size>\nYou are being rate limited. Try again in a few seconds.
+<size=80>DISCONNECTED</size>\nServer is not accepting connections from your geographic location.\nServer name or info may contain more details.
+<size=80>DISCONNECTED</size>\nYou have been kicked by a server modification.\n\nReason: [reason]\nThis is a server modification, not a game feature.\nContact server administrator for more information.
+<size=80>DISCONNECTED</size>\nYour authentication token has been rejected by the server.\nPlease restart the game and again or contact our technical support.

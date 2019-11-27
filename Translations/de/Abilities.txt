@@ -1,29 +1,29 @@
-Fähigkeit nicht gefunden:Die dieser Fähigkeit zugeordnete Fähigkeits-ID existiert nicht.
-Sprinten:Erhöht deine Bewegungsgeschwindigkeit, aber auch die deine Laufgeräusche.
-Schleichen:Deine Bewegungen werden leiser auf Kosten der Geschwindigkeit.
-Inventar:Öffne dein Inventar und wähle ein Item mit Links-Klick aus, oder lasse es mit Rechts-Klick fallen.
-Unbewaffnet:Du hast gar nichts. Finde etwas, egal was.
-Zugangskarte:Du hast eine Zugangskarte, nicht die beste aber immerhin. Verlier sie nicht!
-Standard Ausrüstung:Du bist mit einem Gewehr, Granaten, einem Radio, einem Entwaffner und einer Zugangskarte ausgerüstet.
-Bewaffnet & Gefährlich:Du bist mit einem LMG (Leichtes Maschinengewehr), einem Hacker-Tool (Zugangskarte) und einem \nErste Hilfe Paket ausgerüstet.
-Erschreckende Geschwindigkeit:Wenn du unbeobachtet bist kannst du dich sehr schnell bewegen. Wenn dich aber ein Mensch direkt ansieht, kannst du weder angreifen noch dich bewegen.\nKeine Sorge, alle Menschen die dich beobachten blinzeln gleichzeitig alle paar Sekunden, in diesem Moment kannst du zuschlagen.
-Panik:Du bewegst dich schneller je weniger HP du hast.
-Schlupfloch:Du kannst eine schwarze Pfütze aus Korrosion platzieren und dich jederzeit zu ihr zurück teleportieren. Teleportieren dauert ein paar Sekunden.\nDu kannst dein Schlupfloch bewegen, indem du es noch einmal neu platzierst.
-Korrosion:Du kannst durch Türen laufen.
-Schwanengesang:Du nimmst annähernd keinen Schaden verursacht durch Schusswaffen. Allerdings kannst du nahezu sofort wieder eingedämmt werden, indem sich ein Mensch in deiner Eindämmungskammer opfert.
-Pocket Dimension:Fange Menschen ein und teleportiere sie in deine Pocket Dimension in welcher sie schnell sterben. Menschen müssen den richtigen Ausgang auswählen ansonsten sterben sie.
-Schüchtern:Standardmäßig bewegst du dich langsam, kannst niemanden attackieren und gibst leises Weinen von dir. Wenn dich ein Mensch lange genug anschaut, bleibst du für 5 Sekunden stehen und verfällst danach in Raserei.
-Anti-Soziale Raserei:Während der Raserei bewegest du dich extrem schnell und schreist sehr laut. Die Raserei hält für knapp 20 Sekunden. Sobald die Raserei vorbei ist, kannst du für einen kurzen Zeitraum nicht wieder in Raserei verfallen. In dieser Zeit gibst du kein Weinen von dir.\nWenn du während der Raserei diese Taste klickst oder gedrückt hälst, tötest du Menschen in kurzer Reichweite.
-Nervenzusammenbruch:Während der Raserei kannst du Türen zerstören.
-Ultrasensitiv:Du kannst Menschen nicht sehen, außer sie rennen, stoßen mit dir zusammen oder schießen in deiner Nähe.
-Jäger:Deine Schritte sind lautlos. Halte die vergebene Taste um deine Bewegungsgeschwindigkeit zu erhöhen, allerdings macht dies deine Bewegungen hörbar.
-Imitator:Du kannst mit anderen Spielern in der nähe kommunizieren, sogar mit Menschen.
-Biss:Attackierst du einen Menschen im Nahkampf, so fügst du Ihm schweren Schaden zu.
-Gegenmittel:Berühre einen Menschen in naher Reichweite, dies tötet Ihn sofort.
-Die Heilung:Reanimiere einen Menschen welchen du vor kurzem getötet hast. Geheilte Menschen werden zu Zombies welche wenig Leben haben aber dafür schnell sind.\nEs gibt kein Limit für das Wiederbeleben von Menschen.
-Schlag:Attackiere einen Menschen und verursache Schaden.
-Öffnen/Schließen von Türen:Du kannst mit Türen interagieren um sie zu öffnen oder zu schließen, dies kostet dich 5 AP. Du kannst sie auch verschließen, dies verbraucht aber deine AP über Zeit. Die Tür bleibt dann verschlossen bis du sie wieder freigibst oder deine AP verbraucht ist.
-Tesla Überladung:Du kannst ein Tesla Gate für 50 AP sofort aktivieren, dies tötet Spieler in und um das Tesla Gate.
-Lockdown:Startet mit Access level 3, du kannst mit Räumen interagieren um sie in den Lockdown Modus zu setzen. Alle Lampen werden ausgeschaltet und Türen werden verschlossen. Während des Lockdowns können Menschen SCP-173 nicht sehen.
-Praktisch Unzerstörbar: Fünf Generatoren spawnen in der Heavy Containment Zone. Wenn alle entriegelt und aktiviert sind wirst du eingedämmt.\nGeneratoren haben eine Hochfahrsequenz welche von jedem Spieler abgebrochen werden kann, indem der "CANCEL" Knopf des Generator gedrückt wird.
-Genickbruch:Halte oder klicke auf einen Menschen um sein Genick zu brechen. Dies tötet Ihn sofort, solange er dich entweder nicht sehen kann oder blinzelt.
+Ability Not Found:The ability ID associated with this ability does not exist.
+Sprint:Increases your movement speed, but also increases sound made while moving.
+Sneak:Your movements become silent, at the cost of a lot of speed.
+Inventory:Open your inventory and select an item you have picked up using LMB, or drop it using RMB.
+Unarmed:You have nothing. Find something. Anything.
+Access Card:You have an access card, it's not the best but don't lose it.
+Standard Issue:You are equipped with a Rifle, Grenades, a Radio, a Disarmer and an Access Card.
+Armed & Dangerous:You have consigned a Light Machine Gun, a Hacking Tool (access card), and a First-Aid Kit.
+Startling Speed:When no humans can see you, you move very quickly. If you're being directly watched by a human, you can't move or attack, but all watching humans will simultaneously blink every few seconds, allowing you to act.
+Panic:You move more quickly as your health decreases.
+Sinkhole:You can place a black pool of corrosion and teleport back to it at any time. Teleporting takes a few seconds.\nYou can move your sinkhole by placing it again.
+Corrosion:You can move through doors by walking into them.
+Swan Song: You take almost no damage from bullets, but you can be instantly recontained via a human sacrifice within your containment chamber.
+Pocket Dimension:Captures a human and teleports them to a pocket dimension that quickly kills them. Humans must choose the correct exit, or die.
+Shy:By default, you move slowly and can't attack, and emit quiet crying. If humans look at you for long enough, you freeze in place for five seconds, and then enter Rage.
+Anti-Social Rage:In rage, you move extremely quickly and scream loudly. Rage lasts for about twenty seconds; after it expires, you can't enter Rage for a short duration, during which you won't cry.\nWhile in Rage, clicking or holding this button will instantly kill humans in short range.
+Breakdown:While in rage, interacting with doors will destroy them.
+Ultrasensitive:You can't see humans unless they run, bump you, or fire a weapon in close proximity to you.
+Predator:Your footsteps are silent. Holding the assigned key increases your speed, but makes your movement audible.
+Mimic:You can speak out loud to any nearby players, including humans.
+Bite:Attacks a human in melee range, instantly dealing severe damage.
+Antidote:Touches a human within close range, instantly killing them.
+The Cure:Reanimates a recently killed human. Cured humans play as zombies with fast movement and low health.\nThere is no limit on how many humans can be reanimated.
+Strike:Attacks a human and deals a moderate amount of damage to them.
+Open/Close Doors:You can interact with doors to open and close them for 5 AP. You can also lock them down, draining your AP but preventing anyone from opening or closing it until you lift the lockdown or run out of AP.
+Tesla Overcharge:You can activate a Tesla Gate for 50 AP to instantly trigger it, killing any players in or near it.
+Lockdown:Starting at Access Level 3, you can interact with some rooms to lock them down, shutting off all lights and closing all doors. While in locked down rooms, humans can't see SCP-173.
+Virtually Indestructible: Five generators spawn across the Heavy Containment Zone. If all of them are unlocked and activated, you become recontained.\nGenerators have a countdown sequence that any player can interrupt by pressing the "CANCEL" button on the generator.
+Neck Snap:Hold or click to snap a human's neck, instantly killing them as long as they can't see you or are blinking.

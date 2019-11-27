@@ -1,18 +1,19 @@
-Verdampfte durch den Alpha Warhead
-gebrochene Beine und Füße suggerieren ein tödliches Trauma verursacht durch einen hohen Fall.
-Anzeichen eines schweren Traumas an beiden Oberschenkelknochen, deuten auf einen Tod durch Kreislaufschock hin.
-verweste in der Pocket Dimension.
-Überreste von SCP-106.
-starke elektrische Verbrennungen.
-tödliches stumpfes Trauma; Der Körper ist schwer verstümmelt und zerdrückt.
-[ammotype] Schusswunden.
-starke Frakturen an der Schädelbasis.
-massive Mengen an Gewebeverfall sind auf dem Körper vorhanden.
-plötzliches Aufhören der Lebenszeichen. Kein klares Trauma erkennbar.
-unbekannte Todesursache.
-Es ist <b>[user]</b>'s Körper! - Er/Sie war [class]!\n\nTodesgrund: [cause]
-massive Schnittwunden und übermäßiger Blutverlust.
-große, tiefe Bisswunden verteilt um den Schädel sind sichtbar.
-wurde von einer stark ätzenden Substanz zerschmolzen.
-Splitterwunden- und Verbrennungen dritten Grades durch eine Explosion.
-Bleiche Haut und aus dem Mund austretendes Blut suggerieren innere Blutungen, verursacht durch Einnahme einer unbekannten Substanz.
+Vaporized by the Alpha Warhead.
+Shattered legs and feet suggest fatal trauma caused by a fall.
+Signs of severe trauma to both femur bones suggests death by circulatory shock.
+Decayed in the Pocket Dimension.
+It's a remnant of SCP-106.
+Severe electrical burns.
+Fatal blunt trauma; the body is badly mutilated and pulped.
+[ammotype] bullet wounds.
+Cervical fracture at the base of the skull.
+Massive amounts of tissue decay are present on the body.
+Sudden cessation of life signs. No clear trauma.
+Unknown cause of death.
+It's <b>[user]</b>'s body - they were [class]!\n\nCause of death: [cause]
+Massive lacerations and excessive blood loss.
+Large, deep bite marks around the cranium are observed.
+Melted by a highly corrosive substance.
+Shrapnel and third-degree burns caused by an explosion.
+Pale skin and blood leaking from the mouth suggest internal bleeding caused by substance ingestion.
+Recontained by human.

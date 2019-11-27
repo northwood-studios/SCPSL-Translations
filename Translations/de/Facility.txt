@@ -1,35 +1,35 @@
-SPRACHCHAT LAUTSTÄRKE
-Ja
-START ERZWINGEN
-SCP-106 EINDÄMMUNGS-\nPROZEDUR EINLEITEN
-Invertiere Y-Achse
-ZUSAMMENFASSUNG
-Abbrechen
-I N V E N T A R
-HELLIGKEIT
-EINSTELLUNGEN
-SERVER VERLASSEN
-ALPHA WARHEAD IST DEAKTIVIERT
-ZUGANG VERWEIGERT
-SPRACHCHAT
-INVENTAR VOLL
-MAUS EMPFINDLICHKEIT
-HACKE
-HEBE AUF...
-Das erhöhen der Helligkeit <b>verschlechtert die Stimmung des Spiels signifikant</b>.\nVersuche diese Einstellung so niedrig wie möglich zu halten.\n<b>Die Standardeinstellung ist empfohlen.</b>
-[1] TÜREN ÖFFNEN/SCHLIESSEN\n[2] VERRIEGEL TÜREN*\n\n*Das verriegeln von Türen vebraucht deine Spezialfähigkeit.
-TÜR WURDE VON SCP-079 VERRIEGELT
-Vollbildmodus
-Bist du dir sicher dass du den Server verlassen möchtest?
-Grundeinstellungen. Volle Liste von Einstellungen befinden sich im Hauptmenü.
-WARTE AUF SPIELER
-ZUSAMMENFASSUNG
-WEITER
-SPIELLAUTSTÄRKE
-VERBUNDEN
-Du bist als Wissenschaftler entkommen und trittst dem MTF bei.
-Du bist als Klasse-D entkommen und trittst der Chaos Insurgency bei.
-DU BIST
-Fluchtzeit: [escape_minutes] Minuten und [escape_seconds] Sekunden.
-Warte [time] bis du wieder [item] benutzen kannst.
-HALTE <color=white><b>F1</b></color> FÜR MEHR INFORMATIONEN
+VOICE VOLUME
+Yes
+FORCE START
+SCP-106 RE-CONTAINMENT\nPROCEDURE OVERRIDE
+Invert Y-axis
+SUMMARY
+Cancel
+I N V E N T O R Y
+BRIGHTNESS
+SETTINGS
+DISCONNECT
+ALPHA WARHEAD IS DISABLED
+ACCESS DENIED
+VOICE CHAT
+INVENTORY OVERLOAD
+M. SENSITIVITY
+HACKING
+PICKING UP...
+Increasing brightness <b>significantly worsens the mood </b>of the game.\nTry to set this value to as low as you can.\n<b>The default value is recommended.</b>
+[1] OPEN/CLOSE DOOR\n[2] LOCK DOOR*\n\n*Locking the door uses special ability
+DOOR HAS BEEN LOCK-DOWN BY SCP-079
+Fullscreen mode
+Are you sure you want to leave the server?
+Basic options. Full list of settings in the menu.
+WAITING FOR PLAYERS
+SUMMARY
+CONTINUE
+MAIN VOLUME
+connected
+You escaped as a Scientist and joined the MTF units.
+You escaped as a Class D and joined the Chaos Insurgency.
+YOU ARE
+Escape time: [escape_minutes] minutes and [escape_seconds] seconds
+Wait [time] until you can use [item] again.
+HOLD <color=white><b>F1</b></color> FOR MORE INFO
