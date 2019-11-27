@@ -78,7 +78,7 @@ SPRINTEN UMSCHALTEN
 Sprinten wird ein/aus geschaltet, anstatt die Taste gedrückt zu halten.
 SEPARATER HP BALKEN
 Künstliche HP hat einen eigenen HP Balken, statt eines Overlays.
-Unsere Übersetzungen sind open-source auf Github!\nMöchtest du uns helfen? Dann klicke hier um Zugriff zu erhalten.
+Unsere Übersetzungen sind open-source auf Github!\nMöchtest du uns helfen? Dann klicke hier.
 RICH PRESENCE
 Wenn eingeschaltet, wird dein Status auf Discord/Steam angezeigt.
 ZEIGE HP PUNKTE AN
