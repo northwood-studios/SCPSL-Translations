@@ -61,7 +61,7 @@ FPS Limit funktioniert nicht wenn V-Sync an ist!
 Zurücksetzen
 Wir nutzen die Steam Diskussionen als Forum. (Klicke auf das Logo um das Forum aufzurufen)
 AUDIO EINSTELLUNGEN
-GESAMTLAUTSTÄRKE
+ALLG.-LAUTSTÄRKE
 HAUPTMENÜ MUSIK
 SPRACHCHAT
 SOUND EFFEKTE
