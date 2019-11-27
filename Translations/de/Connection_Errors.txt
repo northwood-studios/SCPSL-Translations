@@ -20,10 +20,10 @@
 <size=80>Verbindung unterbrochen</size>\nNicht definierter Fehler trat auf dem Server ein.
 <size=80>Verbindung unterbrochen</size>\nDieser Server erfordert Authentifikation der Central Server.
 <size=80>Verbindung unterbrochen</size>\nDu bist nicht auf der Server Whitelist eingetragen.
-<size=80>Verbindung unterbrochen</size>\nYou bist global gebannt.
-<size=80>Verbindung unterbrochen</size>\nYou bist global gebannt: [reason].
-<size=80>Verbindung unterbrochen</size>\nYou bist von diesem Server gebannt.
-<size=80>Verbindung unterbrochen</size>\nYou bist auf diesem Server gebannt.\nBan läuft aus: [date] [time]
+<size=80>Verbindung unterbrochen</size>\nDu bist global gebannt.
+<size=80>Verbindung unterbrochen</size>\nDu bist global gebannt: [reason].
+<size=80>Verbindung unterbrochen</size>\nDu bist von diesem Server gebannt.
+<size=80>Verbindung unterbrochen</size>\nDu bist auf diesem Server gebannt.\nBan läuft aus: [date] [time]
 <size=80>Verbindung unterbrochen</size>\nDein Authentifikationstoken ist abgelaufen.\nDer Server hat vielleicht eine falsche Uhrzeit oder Zeitzone eingestellt.\nBitte kontaktiere den Server Administrator.
 <size=80>Verbindung unterbrochen</size>\nDu bist rate limited. Versuche es in ein paar Sekunden erneut.
 <size=80>Verbindung unterbrochen</size>\nServer aktzeptiert Verbindungen deiner geographischen Lage nicht.\nServername oder Info könnte mehr Informationen dazu beinhalten.
