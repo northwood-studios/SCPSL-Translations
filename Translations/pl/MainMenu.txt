@@ -5,7 +5,7 @@ USTAWIENIA
 NA PODSTAWIE <i>SCP: CONTAINMENT BREACH</i>
 POWRÓT
 JĘZYK
-ANTIALIASING
+ANTYALIASING
 Objaśnienia detali:\n-LICZBA ŚWIATEŁ - maksymalna liczba źródeł światła, które są renderowane na poszczególnych pikselach.\n-V-Sync - synchronizuje ilość FPS do częstotliwości monitora.
 DOŁĄCZ DO GRY
 POST\nPROCESSING
