@@ -7,7 +7,7 @@
 <size=80>Verbindung unterbrochen</size>\nZeitüberschreitung (time out).
 <size=80>Verbindung unterbrochen</size>\nZeitüberschreitung (time out).
 <size=80>Verbindung unterbrochen</size>\nOperation ist nicht unterstützt.
-<size=80>Verbindung unterbrochen</size>\nFalsche Serverkonfiguration (Version ist nicht kompatibel).
+<size=80>Verbindung unterbrochen</size>\nDeine Spielversion unterscheidet sich von der Serverversion
 <size=80>Verbindung unterbrochen</size>\nFalsche Serverkonfiguration
 <size=80>Verbindung unterbrochen</size>\nDie Adresse ist ungültig oder kann nicht zurückverfolgt werden.
 <size=80>Verbindung unterbrochen</size>\nEin unerwarteter Fehler ist aufgetreten!
