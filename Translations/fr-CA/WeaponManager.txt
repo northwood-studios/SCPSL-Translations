@@ -1,0 +1,7 @@
+Appuyez sur une touche fléchée pour commencer...
+Navigation - Flèches HAUT/BAS\nSélection - Flèche DROITE\nRetour - Flèche GAUCHE
+[var_name]\n\nType de munitions : [var_atype]\nRéserve de munitions : [var_ares]\nTaille du chargeur : [var_mag]\n\nDégâts maximum : [var_maxdmg]\nDégâts effectifs : [var_effdmg]\nTirs par seconde : [var_sps]\n\nPersonnalisations disponibles : [var_custs]\n\nFLÈCHE DROITE POUR PERSONNALISER L'ARME
+Vous êtes sur le point de jeter [var_nom]\nFlèches HAUT/BAS pour changer la quantité.\nFlèche DROITE pour jeter.\nFlèche GAUCHE pour revenir.
+Pas assez de munitions pour jeter (type [var_nom]).\nFlèche GAUCHE pour revenir.
+CANON
+AUTRE
