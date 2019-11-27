@@ -17,7 +17,7 @@ Latarka:"Niech się stanie światłość!".
 Micro H.I.D.:Mobilny miotacz wyładowań o wysokim napięciu.
 SCP-500: Panaceum.
 SCP-207: Szkodliwie zwiększa twą prędkość.
-Tablet Menadżera Broni:Używa się do wyrzucania amunicji i modyfikowania broni.
+Tablet Menadżera Broni:Używany do wyrzucania amunicji i modyfikowania broni.
 MTF-E11-SR:No description
 Project 90:No description
 Upuszczone 5.56:Debug Item.
@@ -25,7 +25,7 @@ MP7:No description
 Logicer:No description
 Granat Odłamkowy:Kaboom!
 Granat Błyskowy:Oślepia przeciwnika.
-Rozbrajacz:Lewym rozbrajasz, prawym uwalniasz. \nPrzytrzymaj E na kimś kto jest rozbrojony w twojej drużynie, by go uwolnić.
+Rozbrajacz:Lewym rozbrajasz, prawym uwalniasz. \nPrzytrzymaj E na rozbrojonej osobie z twojej drużyny, by ją uwolnić.
 Upuszczone 7.62:Debug Item.
 Upuszczone 9mm:Debug Item.
 Pistolet USP:No description.
