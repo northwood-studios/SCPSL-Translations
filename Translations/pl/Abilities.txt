@@ -20,7 +20,7 @@ Drapieżnik:Twoje kroki są prawie niesłyszalne. Trzymanie przypisanego klawisz
 Imitacja:Możesz głośno mówić do graczy w pobliżu, wliczając w to ludzi.
 Gryzienie:Atakujesz człowieka z bliska, zadając poważne obrażenia.
 Antidotum:Dotykając człowieka, natychmiastowo go zabijasz.
-Lekarstwo:Wskrzesasz osobę którą ostatnio zabiłeś. Uleczone osoby grają jako zombie z dużą prędkością ruchu oraz małą ilością życia.\nNie ma maksymalnej liczby ludzi których możesz wskrzesić.
+Lekarstwo:Wskrzesasz niedawno zabitą osobę. Uleczone osoby grają jako zombie z dużą prędkością ruchu oraz małą ilością życia.\nNie ma maksymalnej liczby ludzi których możesz wskrzesić.
 Uderzenie:Atakujesz człowieka zadając mu niewielką ilość obrażeń.
 Otwórz/Zamknij Drzwi:Możesz wchodzić w interakcję z drzwiami za 5 punktów energii. Możesz również je zablokować, wyczerpując powoli swą energię, lecz zapobiegając ich otworzeniu lub zamknięciu, dopóki ich nie odblokujesz lub nie stracisz całej energii.
 Przeciążenie Tesli:Możesz aktywować bramę tesli za 50 punktów energii, aby natychmiast ją uruchomić, zabijając każdego gracza znajdującego się w niej lub w jej otoczeniu.
