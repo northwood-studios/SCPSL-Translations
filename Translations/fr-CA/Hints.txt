@@ -1,0 +1,4 @@
+Vous avez été avisé de votre rôle lorsque la manche a commencé. Chaque rôle a différents buts qui ont besoin d'être accomplis. Pour en savoir plus, appuyez sur le bouton d'aide.
+Certaines portes requièrent un niveau d'accès spécifique. Trouvez la carte avec les permissions appropriées et réessayez.
+L'ogive alpha a été désactivée. Allez au silo dans la zone de haute confinement pour la réactiver.
+SCP-294 requiert une pièce!
