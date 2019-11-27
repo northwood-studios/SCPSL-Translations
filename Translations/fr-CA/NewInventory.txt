@@ -1,0 +1,36 @@
+Carte d'accès de concierge:Aucune description.
+Carte d'accès de scientifique:Aucune description.
+Carte d'accès de superviseur de recherche:Aucune description.
+Carte d'accès de chef de zone:Aucune description.
+Carte d'accès de garde:Aucune description.
+Carte d'accès de cadet de la MTF:Aucune description.
+Carte d'accès d'ingénieur de confinement:Aucune description.
+Carte d'accès de lieutenant de la MTF:Aucune description.
+Carte d'accès de commandant de la MTF:Aucune description.
+Carte d'accès de directeur du complexe:Aucune description.
+Dispositif d'accès de la Chaos Insurgency
+Carte d'accès de niveau O5
+Radio:SR = Courte portée\nMR = Moyenne portée\nLR = Longue portée\nUR = Ultra longue portée\nUtilise la pile une fois en marche. Plus la portée est longue, plus la pile est utilisée.
+Pistolet COM-15:Aucune description.
+Kit de premiers soins:Soigne vos blessures.
+Lampe de poche:Que la lumière soit!
+Micro D.H.I.:Lanceur mobile de décharge électrique haute intensité.
+SCP-500:La panacée.
+SCP-207:Augmente douloureusement vos facultés motrices.
+Tablette de gestion d'armes:Utilisée pour jeter des munitions et améliorer vos armes.
+MTF-E11-SR:Aucune description.
+Project 90:Aucune description.
+5.56 jeté:Aucune description.
+MP7:Aucune description.
+Logicer:Aucune description.
+Grenade à fragmentations:Boum!
+Grenade aveuglante:Aveugle vos ennemis.
+Désarmeur:Clic gauche pour désarmer, clic droit pour délier.\nMaintenez E sur quelqu'un de votre équipe qui est désarmé pour le libérer.
+7.62 jeté:Aucune description.
+9mm jeté:Aucune description.
+USP:Aucune description.
+SCP-018:Super balle capable de rebondir avec une extrême efficacité.
+SCP-268:Lorsque portée, vous rend temporairement invisible jusqu'à ce que vous effectuez une interaction.
+Adrénaline:Augmente temporairement votre endurance.
+Antidouleurs:Soulage les blessures mineures.
+Pièce:Vous n'êtes pas sûr pourquoi vous voudriez trimbaler ça...
