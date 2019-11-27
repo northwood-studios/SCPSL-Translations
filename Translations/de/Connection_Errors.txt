@@ -18,14 +18,14 @@
 <size=80>VERBUNDEN</size>\n<size=35>Laden des Levels...</size>
 <size=35>Laden der Einrichtung...</size>
 <size=80>Verbindung unterbrochen</size>\nNicht definierter Fehler trat auf dem Server ein.
-<size=80>Verbindung unterbrochen</size>\nDieser Server erfordert Freigabe der Central Server. 
+<size=80>Verbindung unterbrochen</size>\nDieser Server erfordert Authentifikation der Central Server. 
 <size=80>Verbindung unterbrochen</size>\nDu bist nicht auf der Server Whitelist eingetragen.
 <size=80>Verbindung unterbrochen</size>\nYou bist global gebannt.
 <size=80>Verbindung unterbrochen</size>\nYou bist global gebannt: [reason].
 <size=80>Verbindung unterbrochen</size>\nYou bist von diesem Server gebannt.
 <size=80>Verbindung unterbrochen</size>\nYou bist auf diesem Server gebannt.\nBan läuft aus: [date] [time]
-<size=80>Verbindung unterbrochen</size>\nDein Freigabetoken ist abgelaufen.\nDer Server hat vielleicht eine falsche Uhrzeit oder Zeitzone eingestellt.\nBitte kontaktiere den Server Administrator.
+<size=80>Verbindung unterbrochen</size>\nDein Authentifikationstoken ist abgelaufen.\nDer Server hat vielleicht eine falsche Uhrzeit oder Zeitzone eingestellt.\nBitte kontaktiere den Server Administrator.
 <size=80>Verbindung unterbrochen</size>\nDu bist rate limited. Versuche es in ein paar Sekunden erneut.
 <size=80>Verbindung unterbrochen</size>\nServer aktzeptiert Verbindungen deiner geographischen Lage nicht.\nServername oder Info könnte mehr Informationen dazu beinhalten.
 <size=80>Verbindung unterbrochen</size>\nDu wurdest durch eine Servermodifikation gekickt.\n\nGrund: [reason]\nDies ist eine Servermodifikation, kein Bestandteil des Spiels im allgemeinen.\nKontaktiere den Server Administrator für mehr Informationen.
-<size=80>Verbindung unterbrochen</size>\nDein Freigabetoken wurde vom Server abgelehnt.\nBitte starte dein Spiel neu oder kontaktiere unseren Tech Support sollte der Fehler weiter bestehen.
+<size=80>Verbindung unterbrochen</size>\nDein Authentifikationstoken wurde vom Server abgelehnt.\nBitte starte dein Spiel neu oder kontaktiere unseren Tech Support sollte der Fehler weiter bestehen.
