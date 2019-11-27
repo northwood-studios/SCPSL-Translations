@@ -18,7 +18,7 @@
 <size=80>VERBUNDEN</size>\n<size=35>Laden des Levels...</size>
 <size=35>Laden der Einrichtung...</size>
 <size=80>Verbindung unterbrochen</size>\nNicht definierter Fehler trat auf dem Server ein.
-<size=80>Verbindung unterbrochen</size>\nDieser Server erfordert Authentifikation der Central Server. 
+<size=80>Verbindung unterbrochen</size>\nDieser Server erfordert Authentifikation der Central Server.
 <size=80>Verbindung unterbrochen</size>\nDu bist nicht auf der Server Whitelist eingetragen.
 <size=80>Verbindung unterbrochen</size>\nYou bist global gebannt.
 <size=80>Verbindung unterbrochen</size>\nYou bist global gebannt: [reason].
