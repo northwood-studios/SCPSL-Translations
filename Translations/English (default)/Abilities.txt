@@ -20,7 +20,7 @@ Predator:Your footsteps are silent. Holding the assigned key increases your spee
 Mimic:You can speak out loud to any nearby players, including humans.
 Bite:Attacks a human in melee range, instantly dealing severe damage.
 Antidote:Touches a human within close range, instantly killing them.
-The Cure:Reanimates a human who has been killed recently. Cured humans play as zombies with fast movement and low health.\nThere is no limit on how many humans can be reanimated.
+The Cure:Reanimates a recently killed human. Cured humans play as zombies with fast movement and low health.\nThere is no limit on how many humans can be reanimated.
 Strike:Attacks a human and deals a moderate amount of damage to them.
 Open/Close Doors:You can interact with doors to open and close them for 5 AP. You can also lock them down, draining your AP but preventing anyone from opening or closing it until you lift the lockdown or run out of AP.
 Tesla Overcharge:You can activate a Tesla Gate for 50 AP to instantly trigger it, killing any players in or near it.
