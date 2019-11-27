@@ -20,7 +20,7 @@ Jäger:Deine Schritte sind lautlos. Halte die vergebene Taste um deine Bewegungs
 Imitator:Du kannst mit anderen Spielern in der nähe kommunizieren, sogar mit Menschen.
 Biss:Attackierst du einen Menschen im Nahkampf, so fügst du Ihm schweren Schaden zu.
 Gegenmittel:Berühre einen Menschen in naher Reichweite, dies tötet Ihn sofort.
-Die Heilung:Reanimiere einen Menschen welchen du vor kurzem getötet hast. Geheilte Menschen werden zu Zombies welche wenig Leben haben aber dafür schnell sind.\nEs gibt kein Limit für das Wiederbeleben von Menschen.
+Die Heilung:Reanimiere einen Menschen welcher vor kurzem verstorben ist. Geheilte Menschen werden zu Zombies welche wenig Leben haben aber dafür schnell sind.\nEs gibt kein Limit für das Wiederbeleben von Menschen.
 Schlag:Attackiere einen Menschen und verursache Schaden.
 Öffnen/Schließen von Türen:Du kannst mit Türen interagieren um sie zu öffnen oder zu schließen, dies kostet dich 5 AP. Du kannst sie auch verschließen, dies verbraucht aber deine AP über Zeit. Die Tür bleibt dann verschlossen bis du sie wieder freigibst oder deine AP verbraucht ist.
 Tesla Überladung:Du kannst ein Tesla Gate für 50 AP sofort aktivieren, dies tötet Spieler in und um das Tesla Gate.
