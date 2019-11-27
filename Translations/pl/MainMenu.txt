@@ -57,7 +57,7 @@ WCIŚNIJ ESC ABY ANULOWAĆ/ZAMKNĄĆ
 STEROWANIE
 MAKSYMALNA ILOŚĆ KRWI
 Limitowane FPS
-Limitowane FPS nie działają, gdy włączony jest V-SYNC!
+Limitowane FPS nie działają, gdy V-SYNC ON!
 Przywróć Domyślne
 Używamy sekcji "Dyskusje" na Steam jako forum. (Kliknij na logo poniżej, by otworzyć)
 USTAWIENIA DŹWIĘKU
