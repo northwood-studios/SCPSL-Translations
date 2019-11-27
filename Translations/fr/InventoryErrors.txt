@@ -1,0 +1,5 @@
+La limite de munitions de <color=yellow>{0}</color> a été atteinte. (<color=yellow>{1} rounds</color>)
+Vous ne pouvez porter que <color=yellow>{0}</color> objets de ce type. (<color=yellow>{1}</color>)
+Vous ne pouvez porter que <color=yellow>8</color> objets.
+Vous ne pouvez pas porter plus d'objets de ce type: <color=yellow>{0}</color> ({1}/{1})
+Vous avez été menotté\n<size=40>suivez les ordres ou demandez de l'aide à quelqu'un.</size>
