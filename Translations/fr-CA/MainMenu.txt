@@ -56,7 +56,7 @@ AUCUN SERVEUR DE DISPONIBLE
 APPUYEZ SUR ESC POUR FERMER/ANNULER
 CONTRÔLES
 QUANTITÉ DE SANG MAX
-Limite de FPS 
+Limite de FPS
 La limite de FPS ne fonctionne pas si la sync. verticale est activée!
 Par défaut
 Nous utilisons les discussions de Steam comme forum. (Cliquez sur le logo ci-dessous pour ouvrir le forum)
