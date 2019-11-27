@@ -1,0 +1,31 @@
+<size=80>VOUS AVEZ ÉTÉ KICKÉ</size>\nLe serveur a été forcé d'arrêter la connexion.\n<size=26>\nVous avez probablement été banni temporairement par l'administrateur\nou vous ne répondez pas aux exigences du serveur (ex : connexion à Steam).\nLes auteurs du jeu ne sont <b>pas</b> responsables d'éventuels bannissements.\n</size>
+<size=80>DÉCONNECTÉ</size>\nL'hôte spécifié n'est pas disponible.
+<size=80>DÉCONNECTÉ</size>\nL'ID de connexion spécifié n'existe pas.
+<size=80>DÉCONNECTÉ</size>\nLe canal spécifié n'existe pas.
+<size=80>DÉCONNECTÉ</size>\nLe serveur est plein.
+<size=80>DÉCONNECTÉ</size>\nMauvais paquet reçu.
+<size=80>DÉCONNECTÉ</size>\nConnexion perdue (délai expiré).
+<size=80>DÉCONNECTÉ</size>\nConnexion perdue (délai expiré).
+<size=80>DÉCONNECTÉ</size>\nL'opération n'est pas supportée.
+<size=80>DÉCONNECTÉ</size>\nVotre version du jeu est différente de celle du serveur.
+<size=80>DÉCONNECTÉ</size>\nMauvaise configuration du serveur.
+<size=80>DÉCONNECTÉ</size>\nL'adresse est invalide ou n'a pas été trouvée.
+<size=80>DÉCONNECTÉ</size>\nUn problème inattendu est survenu!
+<size=80>VEUILLEZ PATIENTER</size>\n<size=35>Connexion en cours...</size>
+<size=80>REDÉMARRAGE DE LA MANCHE</size>\n<size=35>La manche redémarre...</size>
+<size=80>VEUILLEZ PATIENTER</size>\n<size=35>Chargement du tutoriel...</size>
+<size=80>INCOMPATIBILITÉ DE VERSION</size>\nVotre version du jeu est différente de celle du serveur.\n(La vôtre - [your]; Celle du serveur - [server])
+<size=80>CONNECTÉ</size>\n<size=35>Chargement du niveau...</size>
+<size=35>Chargement du complexe...</size>
+<size=80>DÉCONNECTÉ</size>\nUne erreur non spécifiée est survenue sur le serveur.
+<size=80>DÉCONNECTÉ</size>\nCe serveur requiert une authentification par des serveurs centraux.
+<size=80>DÉCONNECTÉ</size>\nVous n'êtes pas inscrit sur la liste blanche de ce serveur.
+<size=80>DÉCONNECTÉ</size>\nVous êtes globalement banni.
+<size=80>DÉCONNECTÉ</size>\nVous êtes globalement banni : [reason].
+<size=80>DÉCONNECTÉ</size>\nVous êtes banni de ce serveur.
+<size=80>DÉCONNECTÉ</size>\nVous êtes banni de ce serveur.\nExpiration : le [date] à [time]
+<size=80>DÉCONNECTÉ</size>\nVotre jeton d'authentification a expiré.\nLe serveur peut avoir l'heure ou le fuseau horaire défini invalide.\nVeuillez contacter l'administrateur du serveur.
+<size=80>DÉCONNECTÉ</size>\nVotre taux est limité. Veuillez réessayer dans quelques secondes.
+<size=80>DÉCONNECTÉ</size>\nLe serveur n'accepte pas les connexions de votre position géographique.\nLe nom du serveur ou son info peut contenir plus de détails.
+<size=80>DÉCONNECTÉ</size>\nVous avez été kické par une modification du serveur.\n\nRaison : [reason]\nCeci est une modification du serveur, pas une fonctionnalité du jeu.\nContactez l'administrateur du serveur pour plus d'informations.
+<size=80>DÉCONNECTÉ</size>\nVotre jeton d'authentification a été rejeté par le serveur.\nVeuillez redémarrer le jeu de nouveau ou contactez notre support technique.
