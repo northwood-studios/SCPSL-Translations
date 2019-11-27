@@ -8,24 +8,26 @@
 <size=80>Verbindung unterbrochen</size>\nZeitüberschreitung (time out).
 <size=80>Verbindung unterbrochen</size>\nOperation ist nicht unterstützt.
 <size=80>Verbindung unterbrochen</size>\nDeine Spielversion unterscheidet sich von der Serverversion
-<size=80>Verbindung unterbrochen</size>\nFalsche Serverkonfiguration
+<size=80>Verbindung unterbrochen</size>\nUngültige Serverkonfiguration
 <size=80>Verbindung unterbrochen</size>\nDie Adresse ist ungültig oder kann nicht zurückverfolgt werden.
 <size=80>Verbindung unterbrochen</size>\nEin unerwarteter Fehler ist aufgetreten!
 <size=80>BITTE WARTEN</size>\n<size=35>Verbindung wird aufgebaut...</size>
 <size=80>RUNDEN NEUSTART</size>\n<size=35>Die Runde wird neugestartet...</size>
 <size=80>BITTE WARTEN</size>\n<size=35>Lade das Tutorial...</size>
-<size=80>VERSION INKOMPATIBILITÄT</size>\nDu nutzt eine unterschiedliche Spielversion als der Server.\n(Deine - [your]; Server - [server])
+<size=80>VERSION INKOMPATIBILITÄT</size>\nDu nutzt eine unterschiedliche Spielversion als der Server.\n(Client - [your]; Server - [server])
 <size=80>VERBUNDEN</size>\n<size=35>Laden des Levels...</size>
 <size=35>Laden der Einrichtung...</size>
 <size=80>Verbindung unterbrochen</size>\nNicht definierter Fehler trat auf dem Server ein.
 <size=80>Verbindung unterbrochen</size>\nDieser Server erfordert Authentifikation der Central Server.
 <size=80>Verbindung unterbrochen</size>\nDu bist nicht auf der Server Whitelist eingetragen.
-<size=80>Verbindung unterbrochen</size>\nDu bist global gebannt.
-<size=80>Verbindung unterbrochen</size>\nDu bist global gebannt: [reason].
-<size=80>Verbindung unterbrochen</size>\nDu bist von diesem Server gebannt.
-<size=80>Verbindung unterbrochen</size>\nDu bist auf diesem Server gebannt.\nBan läuft aus: [date] [time]
+<size=80>Verbindung unterbrochen</size>\nDu wurdest global gebannt.
+<size=80>Verbindung unterbrochen</size>\nDu wurdest global gebannt: [reason].
+<size=80>Verbindung unterbrochen</size>\nDu wurdest von diesem Server gebannt.
+<size=80>Verbindung unterbrochen</size>\nDu wurdest auf diesem Server gebannt.\nBan läuft aus: [date] [time]
 <size=80>Verbindung unterbrochen</size>\nDein Authentifikationstoken ist abgelaufen.\nDer Server hat vielleicht eine falsche Uhrzeit oder Zeitzone eingestellt.\nBitte kontaktiere den Server Administrator.
-<size=80>Verbindung unterbrochen</size>\nDu bist rate limited. Versuche es in ein paar Sekunden erneut.
-<size=80>Verbindung unterbrochen</size>\nServer aktzeptiert Verbindungen deiner geographischen Lage nicht.\nServername oder Info könnte mehr Informationen dazu beinhalten.
+<size=80>Verbindung unterbrochen</size>\nDu wurdest Raten limitiert. Versuche es in ein paar Sekunden erneut.
+<size=80>Verbindung unterbrochen</size>\nDer Server aktzeptiert Verbindungen deiner geographischen Lage nicht.\nServername und/oder Info könnten mehr Informationen dazu beinhalten.
 <size=80>Verbindung unterbrochen</size>\nDu wurdest durch eine Servermodifikation gekickt.\n\nGrund: [reason]\nDies ist eine Servermodifikation, kein Bestandteil des Spiels im allgemeinen.\nKontaktiere den Server Administrator für mehr Informationen.
-<size=80>Verbindung unterbrochen</size>\nDein Authentifikationstoken wurde vom Server abgelehnt.\nBitte starte dein Spiel neu oder kontaktiere unseren Tech Support sollte der Fehler weiter bestehen.
+<size=80>Verbindung unterbrochen</size>\nDein Authentifikationstoken wurde vom Server abgelehnt.\nBitte starte dein Spiel neu oder kontaktiere den Tech Support des Entwicklerstudios sollte der Fehler weiter bestehen.
+<size=80>Verbindung unterbrochen</size>\nDu wurdest auf diesem Server gebannt.\nGrund: [reason]
+<size=80>DISCONNECTED</size>\nDu wurdest auf diesem Server gebannt.\nBan läuft aus: [date] [time]\nGrund: [reason]
