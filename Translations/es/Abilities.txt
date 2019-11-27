@@ -20,7 +20,7 @@ Depredador:Tu movimiento no emite sonido, manten la tecla asignada para aumentar
 Imitador:Puedes hablar en voz alta con los jugadores cercanos, incluidos humanos.
 Mordisco:Atacas a un humano mientras esta cerca tuya inflingiendo graves heridas.
 Cura:Atacas a un humano matandolo al instante y haciendo su cadaver vulnerable a la reanimacion durante unos segundos. Este ataque no tiene tiempo de reutilizacion.
-Reanimacion:Manteniendo pulsado este boton durante varios segundos en un cadaver que hayas matado recientemente podras revivirlo, el cadaver humano sera un zombie. Los zombies tienen poca vida y poco daño pero se mueven relativamente rapido y pueden comunicarse con otros SCPs.\nNo hay limite de humanos que puedas reanimar.
+Reanimacion:Manteniendo pulsado este boton durante varios segundos en un cadaver que haya muerto recientemente podras revivirlo, el cadaver humano sera un zombie. Los zombies tienen poca vida y poco daño pero se mueven relativamente rapido y pueden comunicarse con otros SCPs.\nNo hay limite de humanos que puedas reanimar.
 Golpe:Atacas a un humano y lo dejas malherido.
 Abrir/Cerrar Puertas:Puedes interactuar con las puertas para abrir y cerrarlas por 5 EA(Energia Auxiliar).Tambien puedes bloquearlas,lo cual drenara tu Energia Auxiliar, mientras una puerta este bloqueada los jugadores no podrar ni abrir ni cerrar dicha puerta,puedes bloquear varias puertas, cada puerta aumenta la velocidad con la que pierdes energia. Al quedarte sin energia las puertas se desbloquean.
 Sobrecarga Tesla:Puedes activar una tesla por 50 de energia, lo que provocara grandes daños a todos los jugadores que esten en ella o los matara directamente.
