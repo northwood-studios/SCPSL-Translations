@@ -1,3 +1,5 @@
 Limite di <color=yellow>{0} munizioni</color> raggiunto (<color=yellow>{1} colpi</color>)
 Puoi avere solo <color=yellow>{0}</color> oggetti di questo tipo (<color=yellow>{1}</color>)
 Puoi portare assieme a te solo <color=yellow>8</color> oggetti
+Hai raggiunto il limite per questo tipo di oggetti: <color=yellow>{0}</color> ({1}/{1})
+Sei stato arrestato\n<size=40>segui gli ordini o chiedi aiuto ai tuoi compagni di squadra</size>

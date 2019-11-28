@@ -17,3 +17,15 @@
 <size=80>VERSION INCOMPATIBLE</size>\nLa version de tu juego es diferente a la del servidor\n(Tu version - [your]; Version en el servidor- [server])
 <size=80>CONECTADO</size>\n<size=35>Cargando partida...</size>
 <size=35>Cargando la instalacion...</size>
+<size=80>DESCONECTADO</size>\nHa ocurrido un error sin especificar en el servidor.
+<size=80>DESCONECTADO</size>\nEste servidor necesita autentificacion con los servidores centrales.
+<size=80>DESCONECTADO</size>\nNo estas en la Whitelist de este servidor.
+<size=80>DESCONECTADO</size>\nHas sido baneado globalmente.
+<size=80>DESCONECTADO</size>\nHas sido baneado globalmente: [reason].
+<size=80>DESCONECTADO</size>\nHas sido baneado de este servidor.
+<size=80>DESCONECTADO</size>\nHas sido baneado de este servidor.\nBan expires: [date] [time]
+<size=80>DESCONECTADO</size>\nTu token de autentificacion ha expirado.\nProbablemente el servidor tenga una zona horaria invalida.\nPor favor,contacta con el administrador.
+<size=80>DESCONECTADO</size>\nHas sido vetado temporalmente. Intentalo otra vez en unos segundos.
+<size=80>DESCONECTADO</size>\nEl Servidor no acepta conexion desde tu ubicacion geografica.\nMira el nombre o/y la descripcion del servidor para mas informacion.
+<size=80>DESCONECTADO</size>\nHas sido expulsado por una modificacion del servidor.\n\nRazon: [reason]\nEsto es una modificacion del servidor no una caracteristica del juego.\nContacta con el administrador para mas informacion.
+<size=80>DISCONNECTED</size>\nTu token de autentificacion ha sido rechazado por el servidor.\nPor favor, reinicia el juego y/o contacta con el soporte tecnico.
