@@ -8,13 +8,13 @@
 <size=80>DISCONNESSO</size>\nConnessione persa (tempo scaduto).
 <size=80>DISCONNESSO</size>\nL'Operazione non è supportata.
 <size=80>DISCONNESSO</size>\nLa tua versione del gioco è diversa da quella del server.
-<size=80>DISCONNESSO</size>\nConfigurazione del server sbagliata.
+<size=80>DISCONNESSO</size>\nConfigurazione del server erratta.
 <size=80>DISCONNESSO</size>\nL'indirizzo inserito è invalido o insesistente.
 <size=80>DISCONNESSO</size>\nE' stato riscontrato un' errore inaspettato!
 <size=80>ATTENDERE</size>\n<size=35>Connessione...</size>
 <size=80>ROUND RICOMINCIATO</size>\n<size=35>Il server sta riavviando il livello...</size>
 <size=80>ATTENDERE</size>\n<size=35>Caricamento tutorial...</size>
-<size=80>VERSIONE INCOMPATIBILE</size>\nLa tua versione del gioco è differente rispetto a quella del server\n(Your - [your]; Server - [server])
+<size=80>VERSIONE INCOMPATIBILE</size>\nLa tua versione del gioco è differente rispetto a quella del server\n(Client - [your]; Server - [server])
 <size=80>CONNESSO</size>\n<size=35>Caricamento del livello...</size>
 <size=35>Caricamento della struttura...</size>
 <size=80>DISCONNESSO</size>\nErrore sconosciuto sul server.
