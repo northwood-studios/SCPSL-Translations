@@ -5,7 +5,7 @@ LES CLASSE D ONT GAGNÉ
 PARTIE NULLE
 Ils sont responsables d'avoir tués [summary_scpfrags] êtres humains.
 La menace a été éliminée. Cet endroit est de nouveau sécuritaire.
-Toute la sécurité de la fondation a été éliminée.
+Toute la sécurité de la Fondation a été éliminée.
 Les deux camps ont autant encaissé des pertes et bénéficié grandement. Il n'y a pas de gagnant.
 Nombre de classe D qui se sont échappés : [summary_d_escaped]
 Nombre de scientifiques qui ont survécu : [summary_s_escaped]
