@@ -3,50 +3,50 @@ readme:
 credits: 
  - Translations/credits.txt
 en: 
- - Translations/English (default)/**/*
+ - Translations/English (default)/*
 cs: 
- - Translations/cs/**/*
+ - Translations/cs/*
 da: 
- - Translations/da/**/*
+ - Translations/da/*
 de: 
- - Translations/de/**/*
+ - Translations/de/*
 es: 
- - Translations/es/**/*
+ - Translations/es/*
 fi: 
- - Translations/fi/**/*
+ - Translations/fi/*
 fr: 
- - Translations/fr/**/*
+ - Translations/fr/*
 hu: 
- - Translations/hu/**/*
+ - Translations/hu/*
 it: 
- - Translations/it/**/*
+ - Translations/it/*
 ja: 
- - Translations/ja/**/*
+ - Translations/ja/*
 ko: 
- - Translations/ko/**/*
+ - Translations/ko/*
 lv: 
- - Translations/lv/**/*
+ - Translations/lv/*
 nb: 
- - Translations/nb/**/*
+ - Translations/nb/*
 nl: 
- - Translations/nl/**/*
+ - Translations/nl/*
 pl: 
- - Translations/pl/**/*
+ - Translations/pl/*
 pt-BR: 
- - Translations/pt-BR/**/*
+ - Translations/pt-BR/*
 pt: 
- - Translations/pt/**/*
+ - Translations/pt/*
 ru: 
- - Translations/ru/**/*
+ - Translations/ru/*
 sk: 
- - Translations/sk/**/*
+ - Translations/sk/*
 th: 
- - Translations/th/**/*
+ - Translations/th/*
 tr: 
- - Translations/tr/**/*
+ - Translations/tr/*
 uk: 
- - Translations/uk/**/*
+ - Translations/uk/*
 zh-Hans: 
- - Translations/zh-Hans/**/*
+ - Translations/zh-Hans/*
 zh-Hant: 
- - Translations/zh-Hant/**/*
+ - Translations/zh-Hant/*
