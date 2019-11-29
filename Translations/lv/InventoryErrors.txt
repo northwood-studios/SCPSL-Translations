@@ -1,0 +1,5 @@
+Limits ar <color=yellow>{0} patronām</color> sasniegts (<color=yellow>{1} raundi</color>)
+Tu vari turēt tikai <color=yellow>{0}</color> Šāda veida lietas (<color=yellow>{1}</color>)
+Tu tikai vari turēt <color=yellow>8</color> lietas
+Tu esi sasniedzis limitu šaj veida lietai: <color=yellow>{0}</color> ({1}/{1})
+Jūs tikāt arestēts\n<size=40>Klausi pavēles, vai prasi komandai palīdzību</size>

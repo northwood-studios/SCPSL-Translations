@@ -1,17 +1,18 @@
-EMIR VEREBILIRSIN
-EMIRLERINI TAKIP ET
-AYNI YETKI SEVIYESI
-Class-D Elemani kacti
-Arastirmaci hayatta kaldi
-SCP tarafindan olduruldu
-Sonlandirilmis SCP maruz kalanlari
+EMİR VEREBİLİRSİN
+EMİRLERİNİ TAKİP ET
+AYNI RÜTBE
+D-Sınıf personel kaçtı
+Bilim Adamı hayatta kaldı
+SCP tarafından öldürülen
+İmha edilmiş SCP denekleri
 Alfa Savas Basligi
-Patlatilmis
-Kullanilmamis
-[time] zaman icerisinde yeni oyun baslayacak.
-OZEL YETENEK
-DUDEN YARAT
-DUDENI KULLAN
-YOU DIED
-You were killed by
-as
+Patlatılmış
+Kullanılmamış
+[time] saniye içerisinde yeni oyun başlayacak.
+ÖZEL YETENEK
+DOLİN OLUŞTUR
+DOLİNİ KULLAN
+ÖLDÜN
+Şu kişi tarafından öldürüldün
+rolü
+Pasif

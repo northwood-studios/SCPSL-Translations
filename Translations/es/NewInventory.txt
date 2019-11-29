@@ -13,20 +13,18 @@ Tarjeta de miembro del consejo O5
 Radio:SR = Corto alcance \nMR = Alcance medio \nLR = Largo alcance \nUR = Alcance Maximo \nUsa bateria mientras esta enchufada. Cuanto mas alcance mas consumo de bateria.
 COM-15 Sidearm:No description
 Kit de primeros auxilios : Cura tus heridas.
-Linterna:Que se haga la luz!
+Linterna:¡Que se haga la luz!
 Micro H.I.D.:Lanzador movil de descargas de alto voltaje.
 SCP-500:La panacea.
 SCP-207:A costa de tu salud aumenta tu velocidad de movimiento.
-Moneda:Parecen ser 50 centimos!
-Vaso:Que contiene? Mejor no preguntes
 PDA para gestionar armas:Se usa para soltar municion y mejorar armas.
 MTF-E11-SR:No description
 Project 90:No description
 Dropped 5.56:No description
 MP7:No description
 Logicer:No description
-Granada de fragmentacion:Boom!
-Granada cegadora :Ciega a tus enemigos!
+Granada de fragmentacion:¡Explota, Boom!
+Granada cegadora :¡Ciega a tus enemigos!
 Desarmador:Clic izquierdo desarma, clic derecho libera. \nManten E en alguien desarmado para liberar.
 Dropped 7.62:No description.
 Dropped 9mm:No description.
@@ -35,3 +33,4 @@ SCP-018:Superbola capaz de rebotar con eficiencia extrema.
 SCP-268:Cuando se equipa te hace temporalmente invisible hasta que es interrumpido por alguna accion del jugador.
 Adrenalina:Aumenta temporalmente la resistencia.
 Analgesicos:Sana heridas menores.
+Moneda:¡Parecen ser 50 centimos!
