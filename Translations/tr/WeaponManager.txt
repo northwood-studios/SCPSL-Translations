@@ -1,6 +1,6 @@
 Başlamak için herhangi bir yön tuşunu kullanın...
 Gazinme - YUKARI/AŞAĞI yön tuşları \nSeç - SAĞ yön tuşu \nGeri - SOL yön tuşu
-[var_name]\n\nMermi türü: [var_atype]\nRezerv mermi: [var_ares]\nŞarjör boyutu: [var_mag]\n\nEn fazla hasar: [var_maxdmg]\nEtkin hasar: [var_effdmg]\nSaniye başına atış: [var_sps]\n\nMevcut özelleştirmeler: [var_custs]\n\nSİLAHINIZI ÖZELLEŞTİRMEK İÇİN SAĞ YÖN TUŞUNA BASINIZ
+[var_name]\n\nMermi türü: [var_atype]\nRezerv mermi: [var_ares]\nŞarjör boyutu: [var_mag]\n\nEn fazla hasar: [var_maxdmg]\nEtkin hasar: [var_effdmg]\nSaniye başına atış: [var_sps]\n\nMevcut özelleştirmeler: [var_custs]\n\nMERMİ BIRAKMAK İÇİN SAĞ YÖN TUŞUNA BASINIZ
 [var_nom] bırakmak üzeresiniz\nYUKARI/AŞAĞI yön tuşları ile miktarı değiştirebilirsiniz.\nSAĞ yön tuşu ile bırak.\nSOL yön tuşu ile geri git.
 (type [var_nom]) bırakmak için yeterli merminiz yok. \nSOL yol tuşu ile geri git.
 NAMLU
