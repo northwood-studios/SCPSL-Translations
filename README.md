@@ -54,3 +54,5 @@ This issue should be fixed in the next update.
 
 ***
 ## Got any questions about contributing? Please open an issue [here](https://github.com/northwood-studios/SCPSL-Translations/issues/new).
+
+Bratwurst
