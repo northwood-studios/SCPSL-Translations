@@ -1,0 +1,231 @@
+﻿===Czech===
+File Abilities.txt does not exist!
+File Class_Bio.txt does not exist!
+File Class_Descriptions.txt has 17 lines, expected 18
+File Class_Names.txt has 17 lines, expected 18
+File Class_Nicknames.txt does not exist!
+File Connection_Errors.txt has 19 lines, expected 33
+File Death_Causes.txt has 17 lines, expected 19
+File Facility.txt has 33 lines, expected 35
+File InventoryErrors.txt does not exist!
+File Legacy_Interfaces.txt has 17 lines, expected 18
+File MainMenu.txt has 62 lines, expected 87
+File MenuWarnings.txt does not exist!
+File NewInventory.txt has 31 lines, expected 36
+File SCP_Interfaces.txt does not exist!
+
+===Danish===
+File Abilities.txt does not exist!
+File Class_Bio.txt does not exist!
+File Class_Descriptions.txt has 17 lines, expected 18
+File Class_Names.txt has 17 lines, expected 18
+File Class_Nicknames.txt does not exist!
+File Connection_Errors.txt has 19 lines, expected 33
+File Death_Causes.txt has 17 lines, expected 19
+File Facility.txt has 33 lines, expected 35
+File InventoryErrors.txt does not exist!
+File Legacy_Interfaces.txt has 17 lines, expected 18
+File MainMenu.txt has 62 lines, expected 87
+File MenuWarnings.txt does not exist!
+File NewInventory.txt has 31 lines, expected 36
+File SCP_Interfaces.txt does not exist!
+
+===German===
+
+===Spanish===
+File Connection_Errors.txt has 31 lines, expected 33
+File WeaponManager.txt has 8 lines, expected 7
+
+===Finnish===
+File Class_Descriptions.txt has 17 lines, expected 18
+File Class_Names.txt has 17 lines, expected 18
+File Connection_Errors.txt has 19 lines, expected 33
+File Death_Causes.txt has 17 lines, expected 19
+File Facility.txt has 34 lines, expected 35
+File InventoryErrors.txt does not exist!
+File MainMenu.txt has 62 lines, expected 87
+File MenuWarnings.txt does not exist!
+File NewInventory.txt has 35 lines, expected 36
+File SCP_Interfaces.txt does not exist!
+
+===French===
+File Connection_Errors.txt has 31 lines, expected 33
+File SCP_Interfaces.txt does not exist!
+
+===Hungarian===
+File Abilities.txt does not exist!
+File Class_Bio.txt does not exist!
+File Class_Descriptions.txt has 17 lines, expected 18
+File Class_Names.txt has 17 lines, expected 18
+File Class_Nicknames.txt does not exist!
+File Connection_Errors.txt has 19 lines, expected 33
+File Death_Causes.txt has 17 lines, expected 19
+File Facility.txt has 33 lines, expected 35
+File InventoryErrors.txt does not exist!
+File Legacy_Interfaces.txt has 17 lines, expected 18
+File MainMenu.txt has 62 lines, expected 87
+File MenuWarnings.txt does not exist!
+File NewInventory.txt has 31 lines, expected 36
+File SCP_Interfaces.txt does not exist!
+
+===Italian===
+File Class_Bio.txt does not exist!
+File Connection_Errors.txt has 19 lines, expected 33
+File Death_Causes.txt has 17 lines, expected 19
+File Facility.txt has 34 lines, expected 35
+File MainMenu.txt has 83 lines, expected 87
+File NewInventory.txt has 35 lines, expected 36
+File SCP_Interfaces.txt does not exist!
+
+===Japanese===
+File Connection_Errors.txt has 19 lines, expected 33
+File Death_Causes.txt has 17 lines, expected 19
+File Facility.txt has 34 lines, expected 35
+File NewInventory.txt has 35 lines, expected 36
+File SCP_Interfaces.txt does not exist!
+
+===Korean===
+File Abilities.txt does not exist!
+File Class_Descriptions.txt has 17 lines, expected 18
+File Class_Names.txt has 17 lines, expected 18
+File Connection_Errors.txt has 19 lines, expected 33
+File Death_Causes.txt has 17 lines, expected 19
+File Facility.txt has 34 lines, expected 35
+File InventoryErrors.txt does not exist!
+File Legacy_Interfaces.txt has 17 lines, expected 18
+File MainMenu.txt has 62 lines, expected 87
+File MenuWarnings.txt does not exist!
+File NewInventory.txt has 35 lines, expected 36
+File SCP_Interfaces.txt does not exist!
+
+===Latvian===
+File Connection_Errors.txt has 19 lines, expected 33
+File Death_Causes.txt has 17 lines, expected 19
+File Facility.txt has 34 lines, expected 35
+File NewInventory.txt has 35 lines, expected 36
+File SCP_Interfaces.txt does not exist!
+
+===Norwegian (Bokmål)===
+File Abilities.txt does not exist!
+File Class_Bio.txt does not exist!
+File Class_Descriptions.txt has 17 lines, expected 18
+File Class_Names.txt has 17 lines, expected 18
+File Class_Nicknames.txt does not exist!
+File Connection_Errors.txt has 19 lines, expected 33
+File Death_Causes.txt has 17 lines, expected 19
+File Facility.txt has 33 lines, expected 35
+File InventoryErrors.txt does not exist!
+File Legacy_Interfaces.txt has 17 lines, expected 18
+File MainMenu.txt has 62 lines, expected 87
+File MenuWarnings.txt does not exist!
+File NewInventory.txt has 31 lines, expected 36
+File SCP_Interfaces.txt does not exist!
+
+===Dutch===
+File Abilities.txt does not exist!
+File Class_Bio.txt does not exist!
+File Class_Descriptions.txt has 17 lines, expected 18
+File Class_Names.txt has 17 lines, expected 18
+File Class_Nicknames.txt does not exist!
+File Connection_Errors.txt has 19 lines, expected 33
+File Death_Causes.txt has 17 lines, expected 19
+File Facility.txt has 33 lines, expected 35
+File InventoryErrors.txt does not exist!
+File Legacy_Interfaces.txt has 17 lines, expected 18
+File MainMenu.txt has 62 lines, expected 87
+File MenuWarnings.txt does not exist!
+File NewInventory.txt has 31 lines, expected 36
+File SCP_Interfaces.txt does not exist!
+
+===Polish===
+
+===Portuguese===
+File Abilities.txt does not exist!
+File Class_Bio.txt does not exist!
+File Class_Descriptions.txt has 17 lines, expected 18
+File Class_Names.txt has 17 lines, expected 18
+File Class_Nicknames.txt does not exist!
+File Connection_Errors.txt has 19 lines, expected 33
+File Death_Causes.txt has 17 lines, expected 19
+File Facility.txt has 33 lines, expected 35
+File InventoryErrors.txt does not exist!
+File Legacy_Interfaces.txt has 17 lines, expected 18
+File MainMenu.txt has 62 lines, expected 87
+File MenuWarnings.txt does not exist!
+File NewInventory.txt has 31 lines, expected 36
+File SCP_Interfaces.txt does not exist!
+File Summary.txt does not exist!
+
+===Portuguese (Brazil)===
+File Abilities.txt does not exist!
+File Class_Bio.txt does not exist!
+File Class_Descriptions.txt has 17 lines, expected 18
+File Class_Names.txt has 17 lines, expected 18
+File Class_Nicknames.txt does not exist!
+File Connection_Errors.txt has 19 lines, expected 33
+File Death_Causes.txt has 17 lines, expected 19
+File Facility.txt has 33 lines, expected 35
+File InventoryErrors.txt does not exist!
+File Legacy_Interfaces.txt has 17 lines, expected 18
+File MainMenu.txt has 61 lines, expected 87
+File NewInventory.txt has 31 lines, expected 36
+File SCP079.txt has 13 lines, expected 17
+File SCP_Interfaces.txt does not exist!
+
+===Russian===
+File Connection_Errors.txt has 19 lines, expected 33
+File Death_Causes.txt has 17 lines, expected 19
+File Facility.txt has 34 lines, expected 35
+File InventoryErrors.txt has 3 lines, expected 5
+File Legacy_Interfaces.txt does not exist!
+File NewInventory.txt has 35 lines, expected 36
+File SCP_Interfaces.txt does not exist!
+
+===Slovak===
+File Abilities.txt does not exist!
+File Class_Bio.txt does not exist!
+File Class_Descriptions.txt has 17 lines, expected 18
+File Class_Names.txt has 17 lines, expected 18
+File Class_Nicknames.txt does not exist!
+File Connection_Errors.txt has 19 lines, expected 33
+File Death_Causes.txt has 17 lines, expected 19
+File Facility.txt has 33 lines, expected 35
+File InventoryErrors.txt does not exist!
+File Legacy_Interfaces.txt has 17 lines, expected 18
+File MainMenu.txt has 61 lines, expected 87
+File MenuWarnings.txt does not exist!
+File NewInventory.txt has 31 lines, expected 36
+File SCP079.txt has 13 lines, expected 17
+File SCP_Interfaces.txt does not exist!
+
+===Thai===
+File Connection_Errors.txt has 31 lines, expected 33
+
+===Turkish===
+File Connection_Errors.txt has 31 lines, expected 33
+
+===Ukrainian===
+File Abilities.txt does not exist!
+File Class_Bio.txt does not exist!
+File Class_Descriptions.txt has 17 lines, expected 18
+File Class_Names.txt has 17 lines, expected 18
+File Class_Nicknames.txt does not exist!
+File Connection_Errors.txt has 20 lines, expected 33
+File Death_Causes.txt has 17 lines, expected 19
+File Facility.txt has 33 lines, expected 35
+File InventoryErrors.txt does not exist!
+File Legacy_Interfaces.txt has 17 lines, expected 18
+File MainMenu.txt has 62 lines, expected 87
+File MenuWarnings.txt does not exist!
+File NewInventory.txt does not exist!
+File SCP_Interfaces.txt does not exist!
+
+===Chinese (Simplified)===
+
+===Chinese (Traditional)===
+File Connection_Errors.txt has 19 lines, expected 33
+File Death_Causes.txt has 17 lines, expected 19
+File Facility.txt has 34 lines, expected 35
+File NewInventory.txt has 35 lines, expected 36
+File SCP_Interfaces.txt does not exist!
+
