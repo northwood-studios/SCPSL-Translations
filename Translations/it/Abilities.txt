@@ -1,6 +1,6 @@
 Abilità non trovata:l'ID associato a questa abilità non esiste.
 Scatto:Aumenta la tua velocità di movimento ma in compenso aumenta il suono dei passi.
-Spia:I tuoi movimenti diventano silenziosi, la velocità sarà ridotta di molto.
+Spia:I tuoi movimenti diventano silenziosi, la tua velocità però verrà ridotta di molto.
 Inventario:Apri il tuo inventario e seleziona un oggetto usando il tasto sinistro del mouse oppure lascialo cadere usando il tasto destro.
 Disarmato:Non hai niente. Trova qualcosa. Qualsiasi cosa.
 Carta d'accesso:Hai una carta d'accesso, non è la migliore ma non perderla.
@@ -8,11 +8,11 @@ Problema standard:Sei equipaggiato con un fucile, granate, radio, manette e una 
 Armato e Pericoloso:Ti è stato consegnata una Mitragliatrice leggera, uno strumento per l'hacking (carta d'accesso) e un kit medico!
 Velocità Sorprendente:Quando nessun umano riesce a vederti ti muovi molto velocemente. Se sei guardato direttamente da un umano non ti puoi muovere oppure attaccare, tutti gli umani che ti stanno guardando batteranno gli occhi simultaneamente ogni qualche secondo, permettendoti di agire.
 Panico:La tua velocità aumenta mentre la vita diminuisce.
-Sinkhole:Piazzi oppure ti teletrasporti alla tua trappola rappresentata da una macchia nera nel terreno.\nPuoi avere solo una macchia alla volta, però può venire spostata in un qualsiasi momento. Il teletrasporto richiede qualche secondo.
+Buco nel terreno:Piazzi oppure ti teletrasporti verso una tua trappola (rappresentata da una macchia nera) nel terreno.\nPuoi avere solo una macchia alla volta, però può venire spostata in un qualsiasi momento. Il teletrasporto richiede qualche secondo.
 Corrosione:Ti muovere attraverso le porte camminandoci dentro.
 Canto del cigno: Non prendi quasi nessun danno tranne per il danno di tipo elettrico e granate, la tua camera di contenimento ha una piccola stanza dove i giocatori possono suicidarsi entrandoci. Da quel momento chiunque può premere il pulsante in quella stanza per ricontenerti istantaneamente dopo un ritardo di quindici secondi.
 Dimensione Tascabile:Cattura un essere umano e lo teletrasporta nella dimensione tascabile con otto porte; una di esse lo teletrasporta in una stanza a caso all'interno del edificio, le altre sette lo uccidono.\nGli esseri umani moriranno lentamente all'interno della dimensione tascabile.
-Timido:Di base,ti muovi lentamente, non puoi attacare ed emetti un fievole pianto. Se gli umani ti guardano abbastanza a lungo, ti fermerai per cinque secondi, poi entrerai in modalità rabbia
+Timido:Di base ti muovi lentamente, non puoi attaccare ed emetti un fievole pianto. Se gli umani ti guardano abbastanza a lungo, ti fermerai per cinque secondi, poi entrerai in modalità rabbia.
 Rabbia Anti-Sociale:Quando sei arrabbiato ti muovi molto velocemente e urli rumorosamente. Lo stato resta attivo per circa 30 secondi; quando finisce non potrai entrare in modalità rabbia per un breve periodo di tempo, durante il quale non piangerai.\nMentre sei arrabbiato clicca o tieni premuto il pulsante destro del mouse per uccidere instantaneamente qualasiasi essere umano in prossimità.
 Abbattuto:Mentre sei arrabbiato se interagisci con le porte le romperai!
 Ultra Sensibile:Non puoi vedere gli esseri umani a meno che essi non corrano, ti urtino o sparino nelle tue vicinante.
@@ -20,10 +20,10 @@ Corsa:Aumenta la tua velocità di movimento!
 Imitare:Puoi parlare a qualsiasi giocatore nelle vicinance, umani inclusi.
 Morso:Attacca un'essere umano nelle vicinanze infliggendoli istantaneamente danni gravi.
 Antidoto:Attacca un essere umano uccidendolo istantaneamente e rendendolo vulnerabile per molti secondi alla rianimazione. Non ha tempi d'attesa.
-Rianimazione:Tenendo premuto questo pulsante per molti secondi su un corpo che hai recentemente ucciso lo rianimerai facendolo diventare zombie. Loro hanno poca vita e un'attacco debole ma in compenso sono relativamente veloci e possono comunicare con tutti gli SCP.\nNon c'è nessun limite sul numero di essere umani che è possibile rianimare.
+Rianimazione:Tenendo premuto questo pulsante per molti secondi su un corpo che hai recentemente ucciso lo rianimerai facendolo diventare uno zombi. Questi hanno poca vita e un'attacco debole ma in compenso sono relativamente veloci e possono comunicare con tutti gli SCP.\nNon c'è nessun limite al numero di esseri umani che è possibile far diventare zombi.
 Colpo:Attacca un umano e infliggi una piccola quantità di danni.
 Apri/Chiudi Porta:Puoi interagire con le porte aprendole e chiudendole per 5 AP; Le puoi bloccare consumando i tuoi AP impendendo l'apertura fino a quando non le sblocchi o finisci gli AP.
-Sovvracarico della tesla:Puoi attivare istantaneamente una tesla per 50 AP uccidendo qualsiasi giocare all'interno op nelle vicinanze di essa!
+Sovvracarico della tesla: Puoi attivare istantaneamente una tesla per 50 AP uccidendo qualsiasi giocare all'interno op nelle vicinanze di essa!
 Lockdown:A partire dal livello 3 puoi interagire con alcune stanze bloccandole, spegnendo le luci e chiudendo tutte le porte. Durante il proccesso di lockdown gli esseri umani non possono vedere SCP-173.
-Virtualmente indistruttibile: Cinque generatori si generano nella zona di contenimento pesante, richiedendo una chiave magnetica di alto livello e un tablet di gestione delle armi per attivarlo. L'unico modo per ucciderti è alimentare questi generatori; Gli esseri umani o altri SCP possono cancellare questo proccesso in qualsiasi momento interagendo con essi.\nOngi generatore ha un conto alla rovescia di due minuti e ogni generatore attivo aumenta la rigenerazione degli AP. Una volta attivati tutti e cinque i generatori avrai AP illimitati per 1 minuto e dopo morirai.
-Strappo al collo:Tieni premuto o clicca per rompere il collo dei umani. Attaccare un essere umano mentre stanno battendo le ciglia lo uccidera istantaneamente.
+Virtualmente indistruttibile:Cinque generatori si genereranno nella zona di contenimento pesante, richiedendo una chiave magnetica di alto livello e un tablet di gestione delle armi per attivarlo. L'unico modo per farti fuori è alimentare questi generatori; Gli esseri umani o altri SCP possono cancellare questo processo in qualsiasi momento interagendo con essi.\nOgni generatore ha un conto alla rovescia di due minuti e ogni generatore attivo aumenta la rigenerazione degli AP. Una volta attivati tutti e cinque i generatori avrai AP illimitati per 1 minuto dopodichè morirai.
+Rompi il collo:Tieni premuto o clicca per rompere il collo dei umani. Attaccare un essere umano mentre sta battendo le ciglia lo ucciderà istantaneamente.
