@@ -1,13 +1,12 @@
-name: Pull request labeler
+name: Labeler
 on:
   schedule:
     - cron: '*/5 * * * *'
 jobs:
-  labeler:
+  label:
     runs-on: ubuntu-latest
     steps:
-      - uses: paulfantom/periodic-labeler@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_REPOSITORY: ${{ github.repository }}
-          LABEL_MAPPINGS_FILE: .github/labeler.yml
+      - uses: actions/labeler@v2
+        if: github.repository == 'northwood-studios/SCPSL-Translations'
+        with:
+          repo-token: "${{ secrets.GITHUB_TOKEN }}"
