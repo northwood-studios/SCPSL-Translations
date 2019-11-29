@@ -29,3 +29,5 @@
 <size=80>DISCONNESSO</size>\nIl server non accetta connessioni dalla tua posizione geografica.\nIl nome del server o le informazioni potrebbero contenere maggiori dettagli.
 <size=80>DISCONNESSO</size>\nSei stato espulso da una modifica del server.\n\nMotivazione: [reason]\nQuesta è una modifica del server, non una funzione del gioco.\nContatta l'amministratore del server per maggiori informazioni.
 <size=80>DISCONNESSO</size>\nIl tuo token d'autenticazione è stato rifiutato dal server.\nSi prega di riavviare il gioco oppure contattare il nostro supporto tecnico.
+<size=80>DISCONNESSO</size>\nSei stato bannato da questo server.\nMotivazione: [reason]
+<size=80>DISCONNESSO</size>\nSei stato bannato da questo server.\nPotrai riconnetterti nuovamente il:: [date] [time]\nMotivazione: [reason]
