@@ -3,15 +3,15 @@ SCPs SIEGEN
 MTF SIEGEN
 KLASSE-D's SIEGEN
 UNENTSCHIEDEN
-Sie sind verantwortlich für [summary_scpfrags] menschliche Verluste.
+Sie sind verantwortlich für {0} menschliche Verluste.
 Bedrohung beseitigt. Die Sicherheit dieses Ortes ist wiederhergestellt.
 Die gesamte Foundationsicherheit wurde getötet.
 Beide Seiten haben erhebliche Verluste erlitten. Der Sieger kann nicht ermittelt werden.
-[summary_d_escaped] Klasse-D's entkamen
-[summary_s_escaped] Wissenschaftler überlebten
-Der Alpha Warhead tötete [summary_warhead_kills] Lebewesen.
+{0} Klasse-D's entkamen
+{0} Wissenschaftler überlebten
+Der Alpha Warhead tötete {0} Lebewesen.
 Der Alpha Warhead wurde nicht genutzt.
-Die Mission dauerte [summary_round_minutes] Minuten und [summary_round_seconds] Sekunden.
-[summary_scp_terminated] getötete SCP's
-Nächste Runde startet in [summary_next_round_countdown] Sekunden.
-Du hast [summary_damages] Schaden verursacht und [summary_kills] Spieler getötet.
+Die Mission dauerte {0} Minuten und {1} Sekunden.
+{0} getötete SCP's
+Nächste Runde startet in {0} Sekunden.
+Du hast {0} Schaden verursacht und {1} Spieler getötet.
