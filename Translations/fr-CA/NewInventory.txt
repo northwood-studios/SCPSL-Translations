@@ -12,7 +12,7 @@ Dispositif d'accès de la Chaos Insurgency
 Carte d'accès de niveau O5
 Radio:SR = Courte portée\nMR = Moyenne portée\nLR = Longue portée\nUR = Ultra longue portée\nUtilise la pile une fois en marche. Plus la portée est longue, plus la pile est utilisée.
 Pistolet COM-15:Aucune description.
-Kit de premiers soins:Soigne vos blessures.
+Trousse de premiers soins:Soigne vos blessures.
 Lampe de poche:Que la lumière soit!
 Micro D.H.I.:Lanceur mobile de décharge électrique haute intensité.
 SCP-500:La panacée.
