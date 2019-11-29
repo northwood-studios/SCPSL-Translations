@@ -27,3 +27,4 @@ Przeciążenie Tesli:Możesz aktywować bramę tesli za 50 punktów energii, aby
 Blokada:Począwszy od trzeciego poziomu dostępu, możesz wejść w interakcję z pomieszczeniem, aby je zablokować, wyłączyć światła oraz zamknąć drzwi. W zablokowanych pomieszczeniach ludzie nie mogą widzieć SCP-173.
 Praktycznie Niezniszczalny: Pięć generatorów pojawia się w Strefie Ciężkiego Nadzoru. Jeśli wszystkie zostaną odblokowane i aktywowane, zostaniesz zabezpieczony.\nKażdy generator ma sekwencję odliczania, którą każdy gracz może przerwać, klikając przycisk "ANULUJ" na generatorze.
 Łamanie Karku: Przytrzymaj lub kliknij, aby złamać człowiekowi kark, natychmiastowo go zabijając, gdy cię nie widzi lub mrugnie.
+TEST LINE: TEST LINE
