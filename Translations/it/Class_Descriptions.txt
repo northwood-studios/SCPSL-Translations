@@ -14,5 +14,5 @@ Aiuta gli <color=#FFFF7CFF>scienziati</color> a scappare.\nNeutralizza gli altri
 Aiuta gli <color=#FFFF7CFF>scienziati</color> a scappare.\nNeutralizza gli altri soggetti.\nSegui gli ordini dei tuoi superiori.
 Esegui le direttive per completare il tuo obiettivo.
 Aiuta gli <color=#FFFF7CFF>scienziati</color> a scappare\nCoopera con gli <color=#0096FF>NTF</color>\nNeutralizza gli altri soggetti.
-Uccidi tutti.\nNon far scappare nessuno.\nCoopera con gli altri <color=#f00>SCPs.</color>
-Uccidi tutti.\nNon far scappare nessuno.\nCoopera con gli altri <color=#f00>SCPs.</color>
+Uccidi tutti.\nNon far scappare nessuno.\nCoopera con gli altri <color=#f00>SCP.</color>
+Uccidi tutti.\nNon far scappare nessuno.\nCoopera con gli altri <color=#f00>SCP.</color>
