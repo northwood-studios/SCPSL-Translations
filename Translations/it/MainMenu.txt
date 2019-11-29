@@ -59,7 +59,7 @@ SANGUE
 Limita FPS
 Se il vSync è attivo i frame non verranno limitati!
 Ripristina
-We use Steam Discussions as a forum. (Click the logo below to open the forum)
+Usiamo le discussioni di Steam come un Forum. (Clicca sul logo in basso per aprire i forum)
 IMPOSTAZIONI AUDIO
 VOLUME PRINCIPALE
 MUSICA DEL MENU'
@@ -69,15 +69,15 @@ OPZIONI GAMEPLAU
 INTRODUZIONE VELOCE
 Velocizza l'introduzione
 SCP-079 - MODALITA' VISUALIZZAZIONE
-Premi una volta per cambiare le modalità della camera.
+Premi una volta per cambiare le modalità della telecamera.
 SCP-079 - POST-PROCESSING
 Se disabilitato gli effetti della camera verranno pesantemente ridotti.
-HEAD BOB
-Enables first-person camera bobbing during movement.
-CORSA ATTIVA
-Imposta la corsa ad on oppure off invece che tenere premuto il pulsante.
+SOBBALZO TESTA
+Abilita il sobbalzo della telecamera in prima persona durante i movimenti.
+ATTIV/DISATTIVA CORSA
+Attiva o disattiva la corsa con un tasto invece che tenere premuto il pulsante.
 SEPARA BARRA HP ARTIFICIALE
-Fornisce agli HP la propria barra della salute, anziché una overlay.
-Our translations are open-source on GitHub!\nWant to help? Click here to access the repo.
+Fornisce agli HP la propria barra della salute, anziché un overlay.
+Le nostra traduzioni sono Opensource su GitHub!\nVuoi dare una mano? Clicca qui per accedere al repository.
 RICH PRESENCE
-If enabled, your status will be displayed on Discord/Steam.
+Se abilitata, il tuo stato verrà mostrato su Discord/Steam.
