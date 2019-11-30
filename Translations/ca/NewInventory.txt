@@ -33,3 +33,4 @@ SCP-018:La super bola és capaç de rebotar amb molta força.
 SCP-268:Quan es porta, et fa invisible temporalment fins que realitzis cap interacció.
 Adrenalina:Augmenta temporalment la resistència al córrer.
 Analgèsics:Alleuja les lesions lleus.
+Moneda:No entenc per què vols portar això per tot arreu...
