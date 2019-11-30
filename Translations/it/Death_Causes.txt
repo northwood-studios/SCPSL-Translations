@@ -1,17 +1,19 @@
-Morto a causa di un' esplosione.
-La caduta ha terminato la sua vita.
-Morto per ricontenere l' SCP-106.
-Perduto nella dimensione tascabile.
-Sono dei resti lasciati dal SCP-106.
-Scossa ad alta tensione.
-Schiacciato da una struttura pesante.
-Ci sono molte ferite da arma da fuoco sul cadavere. Probabilmente, sono state causate da delle munizioni di tipo [ammotype].
+Vaporizzato da una Testata Alpha.
+Game e piedi fratturati suggeriscono un trauma fatale causato da una caduta.
+Segni di traume su entrambe le ossa femorali suggeriscono una morta da schock circolatorio.
+Deceuto nella Dimensione Tascabile.
+Resti lasciati dall'SCP-106.
+Gravi bruciature causate dall'elettricità.
+Trauma da arma contundente fatale; il corpo è stato mutilato.
+{0} ferite da proiettile.
 Il collo è spezzato alla base del cranio.
-Non è sopravvissuto all' incontro con l' SCP-106.
-Il soggetto è stato curato dalla piaga.
+Enormi quantità di tessuto morto sono presenti sul corpo.
+Cessazione immediata della vita. Nessun trauma visibile.
 Causa della morte sconosciuta.
-I resti del corpo di <b>[user]</b>, Ruolo: [class]!\n\nCausa della morte: [cause]
-Fatto a pezzi dal SCP-096.
-Morso potente sul cranio.
+E' il corpo di <b>{0}</b>, è morto per mano di {1}!\n\nCausa della morte: {2}
+Lacerazioni e perdità di sangue ingente.
+Un morso grosso e profondo sul cranio è l'unica traccia visibile.
 Sciolto da una sostanza altamente corrosiva.
-Ferite post esplosione.
+Shrapnel e ustioni di terzo grado causate da un'esplosione.
+Pelle chiara e sangue che esce dalla bocca suggerisce sanguinamento interno causato dall'ingerimento di una sostanza.
+Ricontenuto da un'umano.
