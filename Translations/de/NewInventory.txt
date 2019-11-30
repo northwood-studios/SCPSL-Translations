@@ -33,3 +33,4 @@ SCP-018:Superball, welcher mit extremer Effizienz umher springt
 SCP-268:Wenn ausgerüstet, macht dich vorübergehend unsichtbar, außer du wirst durch Interaktionen anderer Spieler gestört
 Adrenalin:Erhöht deine Ausdauer vorübergehend
 Schmerzmittel:Lindert leichte Verletzungen
+Münze:Du bist dir nicht sicher warum du sowas mit dir herum tragen solltest...

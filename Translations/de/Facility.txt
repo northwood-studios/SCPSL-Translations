@@ -13,7 +13,7 @@ ALPHA WARHEAD IST DEAKTIVIERT
 ZUGANG VERWEIGERT
 SPRACHCHAT
 INVENTAR VOLL
-MAUS EMPFINDLICHKEIT
+<size=20>MAUSEMPFINDLICHKEIT</size>
 HACKE
 HEBE AUF...
 Das erhöhen der Helligkeit <b>verschlechtert die Stimmung des Spiels signifikant</b>.\nVersuche diese Einstellung so niedrig wie möglich zu halten.\n<b>Die Standardeinstellung ist empfohlen.</b>
@@ -32,3 +32,4 @@ Du bist als Klasse-D entkommen und trittst der Chaos Insurgency bei.
 DU BIST
 Fluchtzeit: [escape_minutes] Minuten und [escape_seconds] Sekunden.
 Warte [time] bis du wieder [item] benutzen kannst.
+HALTE <color=white><b>F1</b></color> FÜR MEHR INFORMATIONEN

@@ -31,3 +31,5 @@ Has escapado como cientifico y te has unido a las fuerzas de la NTF.
 Has escapado como clase D y te has unido a los Insurgentes del caos.
 ERES
 Has escapado en: [escape_minutes] minutos y [escape_seconds] segundos.
+Espera [time] hasta que puedas usar [item] de nuevo.
+Manten <color=white><b>F1</b></color> Para mas informacion
