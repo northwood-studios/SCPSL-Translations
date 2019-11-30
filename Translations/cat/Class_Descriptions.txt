@@ -15,3 +15,4 @@ Ajuda als <color=#FFFF7CFF>científics</color> a escapar\nNeutralitza als altres
 Completa eks objetius per guanyar.
 Ajuda als <color=#FFFF7CFF>sc</color> a escapar\nCoopera amb els <color=#0096FF>MTF</color>\nNeutralitza als altres subjectes
 Assassina a tothom.\nEviteu que els altres escapin.\nCoopera amb els altres <color=#f00>SCPs.</color>
+Assassina a tothom.\nEviteu que els altres escapin.\nCoopera amb els altres <color=#f00>SCPs.</color>

@@ -26,7 +26,7 @@ Forma de renderitzat de llums:\noff - fa que el joc es vegi pitjor. Es recomana 
 V-SYNC
 CONECTAR
 OPCIONS DE QUALITAT
-Canviar preferencies d'ombres. Disminuir aquests valors pot incrementar el rendimiento del joc. 
+Canviar preferencies d'ombres. Disminuir aquests valors pot incrementar el rendimiento del joc.
 MENÚ PRINCIPAL
 LIGHT RENDERING MODE
 MOTION BLUR
@@ -59,3 +59,29 @@ MÀXIMA QUANTITAT DE SANG
 Límit d'FPS
 El límit d'FPS no funciona quan el vSync està activat!
 Opcions per defecte
+Utilitzem Steam Discussions com a fòrum. (Feu clic al logotip següent per obrir el fòrum)
+OPCIONS D'ÀUDIO
+VOLUM GENERAL
+MENÚ DE MÚSICA
+XAT DE VEU
+EFECTES DE SO
+OPCIONS DEL JOC
+FAST INTRO FADE
+Class intro text will fade out much more quickly.
+SCP-079 - CANVIAR MODE DE VISUALITZACIÓ
+Premeu una vegada per canviar el mode de càmera.
+SCP-079 - POST-PROCESSING
+Si es troba desactivat, els efectes de càmara es reuiran molt.
+MOVIMENT DE CAP
+Activa l'agitació de la càmera quan et mous per fer-ho més realista.
+ACTIVAR SPRINT
+L'esprint s'activa i es desactiva en comptes de mantindre's actiu.
+BARRA DE VIDA ARTIFICIAL SEPARADA
+La barra de vida artificial romandrà a part en comptes de sobreposar-se.
+Les traduccions són open-source i les pots trobar en GitHub!\nVols ajudar? Fles clic aquí per accedir al "repo".
+PRESÈNCIA
+Si s'activa, es mostrarà el teu estat a Discord/Steam.
+MOSTRA VIDA EXACTA
+Mostra el valor exacte de la teva vida en comptes del percentatge.
+LOBBY PUBLIC
+Si s'activa, els teus amics i amigues es podran unir sense permís.

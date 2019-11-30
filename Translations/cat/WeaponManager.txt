@@ -4,4 +4,4 @@ Navega - fletxes AMUNT/ABAIX \nSelecció - fletxa DRETA \nEnrere - fletxa ESQUER
 Vas a llançar [var_nom]\nfletxes AMUNT/ABAIX per variar la quantitat.\nfletxa DRETA per llançar.\nfletxa ESQUERRA per anar enrere.
 No hi ha suficient munició per llançar (type [var_nom]). \nfletxa ESQUERRA per anar enrere.
 BARREL
-OTHER
+ALTRES

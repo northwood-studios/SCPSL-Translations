@@ -1,0 +1,5 @@
+(<color=yellow>{1} Rondes</color>) límit de <color=yellow>{0} munició</color> assolit
+Solament pots portar <color=yellow>{0}</color> objectes d'aquest tipus (<color=yellow>{1}</color>)
+Solament pots portar <color=yellow>8</color> objectes
+Heu arribat al límit d'elements d'aquest tipus: <color=yellow>{0}</color> ({1}/{1})
+Has sigut esposat\n<size=40>segueix les ordres o demana ajuda al teu equip</size>

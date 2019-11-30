@@ -1,13 +1,13 @@
-Tarjeta del Conserge:Sense descripció 
-Tarjeta del Científic:Sense descripció 
-Tarjeta del Supervisor de Recerca:Sense descripció 
-Tarjeta del Gestor de la Zona:Sense descripció 
-Tarjeta del Guàrdia de Seguretat:Sense descripció 
-Tarjeta del Cadet MTF:Sense descripció 
-Tarjeta de l'Enginyer:Sense descripció 
-Tarjeta del Tinent MTF:Sense descripció 
-Tarjeta del Comandant MTF:Sense descripció 
-Tarjeta del Gerent de les Instal·lacions:Sense descripció 
+Tarjeta del Conserge:Sense descripció
+Tarjeta del Científic:Sense descripció
+Tarjeta del Supervisor de Recerca:Sense descripció
+Tarjeta del Gestor de la Zona:Sense descripció
+Tarjeta del Guàrdia de Seguretat:Sense descripció
+Tarjeta del Cadet MTF:Sense descripció
+Tarjeta de l'Enginyer:Sense descripció
+Tarjeta del Tinent MTF:Sense descripció
+Tarjeta del Comandant MTF:Sense descripció
+Tarjeta del Gerent de les Instal·lacions:Sense descripció
 Dispositiu d'Accés de l'Insurgent del Caos
 nivell O5 Tarjeta
 Ràdio:SR = Short Range \nMR = Medium Range \nLR = Long Range \nUR = Ultra Range \nUtilitza bateria mentres està encés. Més abast significa més consum de bateria.
@@ -29,3 +29,7 @@ Disarmer:Clic esquerre desarma, clic dret deslliga. \Prem E sobre algú desarmat
 Dropped 7.62:Sense descripció.
 Dropped 9mm:Sense descripció.
 USP:Sense descripció.
+SCP-018:La super bola és capaç de rebotar amb molta força.
+SCP-268:Quan es porta, et fa invisible temporalment fins que realitzis cap interacció.
+Adrenalina:Augmenta temporalment la resistència al córrer.
+Analgèsics:Alleuja les lesions lleus.

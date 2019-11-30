@@ -6,4 +6,3 @@ Les targetes d'accés són els objetes més importants del joc, et permeten entr
 Si realment vols escapar - Et sugereixo trobar una millor targeta.
 Cada targeta té el seu propi nivell d'accés. Pots comparar cada targeta pasant el cursor per damunt de cada una.
 Felicitats! Has completat la primera part del tutorial!
-
