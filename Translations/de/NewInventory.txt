@@ -2,7 +2,7 @@ Hausmeister Zugangskarte:No description
 Wissenschaftler Zugangskarte:No description
 Hauptwissenschaftler Zugangskarte:No description
 Zonenmanager Zugangskarte:No description
-Wachpersonal Zugangskarte:No description
+Sicherheitspersonal Zugangskarte:No description
 MTF Kadett Zugangskarte:No description
 Eindämmungsingenieur Zugangskarte:No description
 MTF Leutnant Zugangskarte:No description
