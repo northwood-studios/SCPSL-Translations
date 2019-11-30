@@ -29,3 +29,5 @@
 <size=80>DÉCONNECTÉ</size>\nLe serveur n'accepte pas les connexions de votre position géographique.\nLe nom du serveur ou son info peut contenir plus de détails.
 <size=80>DÉCONNECTÉ</size>\nVous avez été kické par une modification du serveur.\n\nRaison : [reason]\nCeci est une modification du serveur, pas une fonctionnalité du jeu.\nContactez l'administrateur du serveur pour plus d'informations.
 <size=80>DÉCONNECTÉ</size>\nVotre jeton d'authentification a été rejeté par le serveur.\nVeuillez redémarrer le jeu de nouveau ou contactez notre support technique.
+<size=80>DÉCONNECTÉ</size>\nVous êtes banni de ce serveur.\nRaison : [reason]
+<size=80>DÉCONNECTÉ</size>\nVous êtes banni de ce serveur.\nExpiration : le [date] à [time]\nRaison : [reason]
