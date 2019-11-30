@@ -21,7 +21,7 @@ Waffenbearbeitungstablet:Wird genutzt um Munition fallen zu lassen und Aufsätze
 MTF-E11-SR:Standard MTF Ausrüstung
 Project 90:Verbesserte Version der P90
 Dropped 5.56:Sieht aus wie 5.56 Munition
-MP7:Standard Ausrüstung des Wachpersonals
+MP7:Standard Ausrüstung des Sicherheitspersonals
 Logicer:Leichtes Maschinengewehr und standard Ausrüstung der Chaos Insurgency
 Splittergranate:Es macht Boom!
 Blendgranate:Blendet deine Feinde!
