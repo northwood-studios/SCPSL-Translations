@@ -1,4 +1,4 @@
-﻿<size=80>HAS SIGUT EXPULSAT/EXPULSADA</size>\nEl servidor ha detingut la connexió.\n<size=26>\nProbablement has sigut banejat per l'administrador o no compleixes amb els requisits del servidor (ej: conectar-se a Steam).\nRespecte als temps de baneig - els creadors del joc <u>no</u> son responsables.\n</size>
+<size=80>HAS SIGUT EXPULSAT/EXPULSADA</size>\nEl servidor ha detingut la connexió.\n<size=26>\nProbablement has sigut banejat per l'administrador o no compleixes amb els requisits del servidor (ej: conectar-se a Steam).\nRespecte als temps de baneig - els creadors del joc <u>no</u> son responsables.\n</size>
 <size=80>DESCONECTAT</size>\nEl servidor no es troba disponible.
 <size=80>DESCONECTAT</size>\nEl ID de connexió especificat no existeix.
 <size=80>DESCONECTAT</size>\nEl canal especificat no existeix.
