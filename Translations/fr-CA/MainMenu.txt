@@ -6,7 +6,7 @@ BASÉ SUR <i>SCP: CONTAINMENT BREACH</i>
 RETOUR
 LANGUE
 ANTICRÉNELAGE
-Change les détails :\n- PIXEL LIGHT COUNT - nombre maximum de sources lumineuses qui ont leur lumière rendue sur chacun des pixels.\n- SYNC. VERTICALE - active la synchronisation avec le taux de rafraîchissement de l'écran.
+Change les détails :\n- PIXEL LIGHT COUNT - nombre maximum de sources lumineuses qui ont leur lumière rendue sur chacun des pixels.\n- SYNC. VERTICALE - active la synchronisation avec le taux de rafraîchissement de l'écran.
 <size=32>REJOINDRE UNE PARTIE</size>
 POST\nTRAITEMENT
 CRÉDITS
@@ -22,10 +22,10 @@ TYPE D'OMBRAGE
 OMBRES
 <size=32>CRÉER UNE PARTIE</size>
 Change les paramètres de post-traitement. Ces changements n'affectent pas la performance. Laisser les valeurs par défaut est recommandé.
-MODE DE RENDU DE LA LUMIÈRE :\nLorsque désactivée, cette option rend le look du jeu horrible. Il est recommandé de la désactiver uniquement si vous avez une ancienne machine.
+MODE DE RENDU DE LA LUMIÈRE :\nLorsque désactivée, cette option rend le look du jeu horrible. Il est recommandé de la désactiver uniquement si vous avez une ancienne machine.
 SYNC. VERTICALE
 CONNEXION
-<size=45>PARAMÈTRES GRAPHIQUES</size>
+PARAMÈTRES GRAPHIQUES
 Change les préférences d'ombrage. Réduire la valeur de ces paramètres peut augmenter la fluidité de la jouabilité.
 MENU PRINCIPAL
 MODE DE RENDU DE LA LUMIÈRE
@@ -48,7 +48,7 @@ Par défaut, le serveur va se configurer sur votre réseau local.\nVos amis auro
 Le présent jeu est encore en beta publique.\nVous pouvez rencontrer des problèmes de connexion et toutes sortes d'autres bogues.\nL'état actuel du jeu ne reflète pas la version finale.
 4. (plus de tutoriels plus tard)
 CONNEXION DIRECTE
-<size=38>SUPPORT TECHNIQUE / FORUM</size>
+SUPPORT TECHNIQUE / FORUM
 VOLUME SONORE
 Entrez l'adresse IP du serveur spécifique.
 TÉLÉCHARGEMENT DES DONNÉES
@@ -57,7 +57,7 @@ APPUYEZ SUR ESC POUR FERMER/ANNULER
 CONTRÔLES
 QUANTITÉ DE SANG MAX
 Limite de FPS
-La limite de FPS ne fonctionne pas si la sync. verticale est activée!
+<size=21>La limite de FPS ne fonctionne pas si la synchronisation verticale est activée!</size>
 Par défaut
 Nous utilisons les discussions de Steam comme forum. (Cliquez sur le logo ci-dessous pour ouvrir le forum)
 PARAMÈTRES AUDIO
@@ -68,7 +68,7 @@ EFFETS SONORES
 OPTIONS DE GAMEPLAY
 FONDU RAPIDE DE L'INTRO
 Le texte d'intro de la classe s'estompera plus rapidement.
-SCP-079 - ALTERNER LE MODE DE VUE
+<size=44>SCP-079 - ALTERNER LE MODE DE VUE</size>
 Appuyez une fois pour alterner entre les modes de caméra.
 SCP-079 - POST-TRAITEMENT
 Si l'option est désactivée, les effets de caméra seront grandement réduits.
@@ -76,12 +76,12 @@ BALANCEMENT DE TÊTE
 Active le balancement de la caméra à la première personne durant les déplacements.
 ALTERNER LE MODE COURIR
 Alterne le mode courir au-lieu de maintenir la touche enfoncée.
-SÉPARER LA BARRE DE PV ARTIFICIELS
-Donne aux PV artificiels sa propre barre de vie au-lieu d'un calque.
+<size=44>SÉPARER LA BARRE DE PV ARTIFICIELS</size>
+Donne une barre de vie propre aux PV artificiels au-lieu d'un overlay.
 Nos traductions sont open source sur GitHub!\nVoulez-vous nous aider? Cliquez ici pour accéder au dépôt.
 PRÉSENCE RICHE
 Si l'option est activée, votre statut s'affichera sur Discord/Steam.
-AFFICHER LA VALEUR EXACTE DE PV
-Affiche les PV exacts au-lieu de juste son pourcentage.
+<size=44>AFFICHER LA VALEUR EXACTE DE PV</size>
+Affiche les PV exacts au-lieu du pourcentage.
 LOBBY PUBLIC
 Si l'option est activée, vos amis Steam pourront vous rejoindre sans permission.
