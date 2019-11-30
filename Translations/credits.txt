@@ -26,4 +26,4 @@ tr by Jhrino
 uk by TRI99ER
 zh-Hans by Schrodinger_Sig & ShingekiNoRex
 zh-Hant by X-EROS
-cat by ThiEstoRil
+ca by ThiEstoRil
