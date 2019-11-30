@@ -32,4 +32,4 @@ D계급으로 탈출하여 혼돈의 반란으로 들어갔습니다.
 현재 진영:
 탈출 시간: [escape_minutes]분 [escape_seconds]초
 [item]을 다시 사용하기까지 [time] 만큼 남았습니다.
- 더 많은 정보를 보기 위해 <color=white><b>F1</b></color>을 눌러주십시오
+더 많은 정보를 보고싶으시다면 <color=white><b>F1</b></color>을 눌러주십시오
