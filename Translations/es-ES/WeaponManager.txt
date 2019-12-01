@@ -1,7 +1,0 @@
-Usa cualquier tecla de dirección para empezar...
-Navegar - teclas de dirección ARRIBA/ABAJO  \nSeleccionar - tecla DERECHA \nAtrás - tecla IZQUIERDA
-[var_name]\n\nCalibre: [var_atype]\nMunición en reserva: [var_ares]\nCapacidad de cargador: [var_mag]\n\nDaño máximo: [var_maxdmg]\nDaño efectivo: [var_effdmg]\nDisparos por segundo: [var_sps]\n\nAccesorios disponibles: [var_custs]\n\nTECLA DE DIRECCIÓN DERECHA PARA PRESONALIZAR ARMA
-Estás apunto de soltar [var_nom]\nPulsa las flechas ARRIBA/ABAJO para cambiar la cantidad.\nFlecha DERECHA para soltar.\nFlecha IZQUIERDA para cancelar.
-Insuficiente munición del calibre (type [var_nom]). \nFlecha IZQUIERDA para cancelar.
-MODULO DELANTERO
-OTROS MODULOS
