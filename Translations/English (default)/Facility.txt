@@ -32,3 +32,4 @@ You escaped as a Class D and joined the Chaos Insurgency.
 YOU ARE
 Escape time: [escape_minutes] minutes and [escape_seconds] seconds
 Wait [time] until you can use [item] again.
+HOLD <color=white><b>F1</b></color> FOR MORE INFO

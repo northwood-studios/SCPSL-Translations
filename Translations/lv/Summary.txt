@@ -1,0 +1,17 @@
+Raunds ir pabeigts!
+SCPs WON
+MTF WON
+KLASES-D WON
+NEIZŠKIRTS
+viņi ir atbildīgi par nogalināšanu [summary_scpfrags] cilvēkus.
+Briesmas iznīcinātas. Šī vieta atkal ir droša.
+Visa Fonda drošība tika nogalināta.
+Abas komandas cieta zaudejumus un guvumus. Uzvarētaji nav izškirti.
+[summary_d_escaped] klase(s)-d izmuka
+[summary_s_escaped] zinatieki(i) izmuka
+Ātom bumbas sprādziens nogalināja [summary_warhead_kills] būtnes.
+Ātom bumba netika uzspridzināta šajā raundā
+Misija prasija [summary_round_minutes] minūtes un [summary_round_seconds] sekundes.
+[summary_scp_terminated] nogalināti SCPs
+nākamais raunds pēc [summary_next_round_countdown] sekundēm.
+Tu esi nodarijis [summary_damages] dzīvības un nogalinjājis [summary_kills] cilvēkus.

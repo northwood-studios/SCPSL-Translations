@@ -17,3 +17,5 @@
    -  (Exception to this is when edits has __only__ been made in-browser)
 - [ ] I have made sure that I'm not submitting a duplicate translation 
 - [ ] I have not included any advertisements/pointers to non-game stuff other than author in the folder name
+- [ ] I have made sure to label my translation folder by [Microsoft Language Tag Standards](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-lcid/a9eac961-e77d-41a6-90a5-ce1a8b0cdb9c)
+   - Only in cases of new translations
