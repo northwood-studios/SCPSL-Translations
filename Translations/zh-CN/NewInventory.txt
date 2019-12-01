@@ -25,7 +25,7 @@ MP7冲锋枪:No description
 Logicer轻机枪:No description
 破片手雷:用法包含但不限于电梯雷和自杀。
 闪光弹:闪瞎你的敌人...和队友。
-缴械器:鼠标左键缴械，鼠标右键松绑。\n按住E键可以为被缴械的人松绑。
+缴械器:鼠标左键缴械敌人，鼠标右键为其松绑。\n按住交互键可以为被他人缴械的人松绑。
 掉落的7.62弹药:No description.
 掉落的9mm弹药:No description.
 USP手枪:No description.
