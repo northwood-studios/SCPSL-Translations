@@ -1,17 +1,17 @@
-the round has finished!
-SCPs WON
-MTF WON
-CLASS-D WON
-STALEMATE
-They are responsible for killing {0} human beings.
-Threat terminated. This place is now safe again.
-All Foundation security has been terminated.
-Both sides have suffered losses and benefited greatly. The winner is undetermined.
-{0} class-d escaped
-{0} scientist(s) survived
-Alpha Warhead detonation terminated {0} beings.
-Alpha Warhead was not detonated during this mission.
-The mission took {0} minutes and {1} seconds.
-{0} terminated SCPs
-next round in {0} seconds.
-You have dealt {0} damage and killed {1} players.
+라운드가 종료되었습니다!
+SCP 승리
+MTF 승리
+D 클래스 승리
+무승부
+그들은 {0}명의 사람들이 죽게한 책임이 있습니다.
+모든 위험이 제거되었습니다. 이제 이 장소는 다시 안전해졌습니다.
+모든 재단의 보안이 제거되었습니다.
+양쪽 모두 손해를 보고 큰 이익을 얻었습니다. 승자를 결정지을 수 없습니다.
+{0} 명의 D 클래스 탈출
+{0} 명의 과학자 생존
+알파 탄두의 폭발로 인해 {0}명의 존재가 제거되었습니다.
+알파 탄두가 이번 미션동안 폭발하지 않았습니다.
+이번 임무는 {0}분 {1}초 만큼 진행되었습니다.
+{0} 명의 SCP 제거
+다음 라운드는 {0}초 이후에 시작됩니다.
+당신은 {0} 만큼의 데미지를 주었고 {1} 만큼의 플레이어들을 사살하였습니다.
