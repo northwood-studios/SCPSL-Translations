@@ -4,6 +4,8 @@ credits:
  - Translations/credits.txt
 en: 
  - Translations/English (default)/*
+ca:
+ - Translations/ca/*
 cs: 
  - Translations/cs/*
 da: 

@@ -25,7 +25,7 @@ Cambia impostazioni di post-processing. Questi cambiamenti non avranno effetti s
 MODALITA' DI RENDERIZZAZIONE DELLE LUCI:\nQuando disattivato - il gioco avra' un aspetto peggiore. E' consigliabile usarlo solo se si possiede un computer di fascia bassa
 V-SYNC
 CONNETTITI
-IMPOSTAZIONI QUALITA'
+IMPOSTAZIONI QUALITÀ
 Cambia le preferenze sulle ombre. Posizionare questi sliders sul valore piu' basso potrebbe migliorare la fluidita' di gioco.
 MENU
 MODALITA' DI RENDERIZZAZIONE DELLE LUCI
@@ -65,7 +65,7 @@ VOLUME PRINCIPALE
 MUSICA DEL MENU'
 CHAT VOCALE
 EFFETTI SONORI
-OPZIONI GAMEPLAU
+OPZIONI GAMEPLAY
 INTRODUZIONE VELOCE
 Velocizza l'introduzione
 SCP-079 - MODALITA' VISUALIZZAZIONE
@@ -78,6 +78,11 @@ ATTIV/DISATTIVA CORSA
 Attiva o disattiva la corsa con un tasto invece che tenere premuto il pulsante.
 SEPARA BARRA HP ARTIFICIALE
 Fornisce agli HP la propria barra della salute, anziché un overlay.
-Le nostra traduzioni sono Opensource su GitHub!\nVuoi dare una mano? Clicca qui per accedere al repository.
+Le nostre traduzioni sono Opensource su GitHub!\nVuoi dare una mano? Clicca qui per accedere al repository.
 RICH PRESENCE
 Se abilitata, il tuo stato verrà mostrato su Discord/Steam.
+MOSTRA VALORE HP ESATTO
+Mostra il valore degli HP esatto al posto della percentuale.
+LOBBY PUBBLICA
+Se attiva, i tuoi amici possono unirsi alla tua lobby senza chiedere il permesso.
+

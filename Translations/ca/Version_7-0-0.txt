@@ -1,0 +1,5 @@
+HAS MORT
+Presiona {KEYBINDING_INTERACTION} per colocar la <color=yellow>Tableta de Gestió d'Armes</color>.
+Presiona {KEYBINDING_INTERACTION} per agafar la <color=yellow>Tableta de Gestió d'Armes</color>.
+Aquesta <color=yellow>taula de treball</color> té una altra <color=yellow>Tableta de Gestió d'Armes</color> conectada.
+Necesites una <color=yellow>Tableta de Gestió d'Armes</color> per utilitzar la <color=yellow>taula de treball</color>.
