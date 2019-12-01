@@ -1,5 +1,5 @@
-Has alcanzado el limite de <color=yellow>{0} municion</color> (<color=yellow>{1} balas</color>)
+Has alcanzado el limite de <color=yellow>{0} munición</color> (<color=yellow>{1} balas</color>)
 Solo puedes cargar <color=yellow>{0}</color> objetos de este tipo (<color=yellow>{1}</color>)
 Solo puedes cargar <color=yellow>8</color> objetos
 Has alcanzado el limite de objetos de este tipo: <color=yellow>{0}</color> ({1}/{1})
-Has sido arrestado \n<size=40>sigue las ordenes de quienes te hayan arrestado o pide ayuda a los miembros de tu equipo </size>
+Te han esposado\n<size=40>sigue las ordenes o pregunta a compañeros de equipo por ayuda</size>
