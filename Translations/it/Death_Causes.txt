@@ -1,11 +1,11 @@
 Vaporizzato da una Testata Alpha.
-Game e piedi fratturati suggeriscono un trauma fatale causato da una caduta.
-Segni di traume su entrambe le ossa femorali suggeriscono una morta da schock circolatorio.
-Deceuto nella Dimensione Tascabile.
+Le fratture a gambe e piedi suggeriscono un trauma fatale causato da una caduta.
+I segni di un grave trauma ad entrambe le ossa femorali suggeriscono una morte per shock circolatorio.
+Deceduto nella Dimensione Tascabile.
 Resti lasciati dall'SCP-106.
 Gravi bruciature causate dall'elettricità.
-Trauma da arma contundente fatale; il corpo è stato mutilato.
-{0} ferite da proiettile.
+Trauma fatale da arma contundente; il corpo è stato mutilato.
+{0} ferite da colpi di proiettile.
 Il collo è spezzato alla base del cranio.
 Enormi quantità di tessuto morto sono presenti sul corpo.
 Cessazione immediata della vita. Nessun trauma visibile.
@@ -15,5 +15,6 @@ Lacerazioni e perdità di sangue ingente.
 Un morso grosso e profondo sul cranio è l'unica traccia visibile.
 Sciolto da una sostanza altamente corrosiva.
 Shrapnel e ustioni di terzo grado causate da un'esplosione.
-Pelle chiara e sangue che esce dalla bocca suggerisce sanguinamento interno causato dall'ingerimento di una sostanza.
+La pelle chiara e il sangue che esce dalla bocca suggerisce sanguinamento interno causato dall'ingerimento di una sostanza.
 Ricontenuto da un'umano.
+

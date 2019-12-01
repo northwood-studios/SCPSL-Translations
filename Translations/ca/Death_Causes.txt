@@ -1,0 +1,19 @@
+Mort per explosió.
+Mort per caiguda.
+Mort per recontenir al SCP-106.
+Perdut en la Dimensió Butxaca.
+La resta de l'SCP-106.
+Mort per Shock elèctric d'alt voltatge.
+Aplastat per una estructura pesada.
+Múltiples feridas de bales en el cos. Semblen impactes de munició [ammotype].
+Coll trencat des de la base del crani.
+No ha sobreviscut a la trobada amb l'SCP-106.
+Ha sigut curat de la plaga.
+Causa de mort desconeguda.
+És el cadàver de <b>[user]</b>', era [class]!\n\nCausa de la mort: [cause]
+Ha sigut convertit en troços per l'SCP-096.
+Potent picada al crani.
+Fundit per substància altament corrosiva.
+Ferides postexplosió.
+La pell pàl·lida i la fugida de sang de la boca suggereixen un sagnat intern causat per la ingestió de substàncies.
+Reconstruït per un humà.
