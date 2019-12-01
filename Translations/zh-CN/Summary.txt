@@ -3,15 +3,15 @@ SCP获胜
 MTF获胜
 D级人员获胜
 陷入僵局
-它们身上共背负了 [summary_scpfrags] 条人命。
+它们身上共背负了 {0} 条人命。
 威胁已被排除，区域恢复安全。
 设施内的安保已彻底瘫痪。
 双方皆有得有失，最终的赢家难下定论。
-[summary_d_escaped] 名D级人员逃离设施
-[summary_s_escaped] 名科学家逃离设施
-Alpha核弹共了结了 [summary_warhead_kills] 条人命。
+{0} 名D级人员逃离设施
+{0} 名科学家逃离设施
+Alpha核弹共了结了 {0} 条人命。
 Alpha核弹并未在本局中使用。
-此次任务共花费 [summary_round_minutes] 分 [summary_round_seconds] 秒。
-共消灭了 [summary_scp_terminated] 个SCP
-下一局游戏将在 [summary_next_round_countdown] 秒后开始。
-你共造成了 [summary_damages] 伤害，杀死了 [summary_kills] 名玩家。
+此次任务共花费 {0} 分 {1} 秒。
+共消灭了 {0} 个SCP
+下一局游戏将在 {0} 秒后开始。
+你共造成了 {0} 伤害，杀死了 {1} 名玩家。
