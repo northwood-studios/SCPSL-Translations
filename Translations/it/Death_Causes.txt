@@ -1,19 +1,19 @@
 Vaporizzato dalla testata nucleare.
 Le fratture a gambe e piedi suggeriscono un trauma fatale causato da una caduta.
-I segni di un grave trauma ad entrambe le ossa del femore suggeriscono la morte per shock circolatorio.
+I segni di un grave trauma ad entrambe le ossa femorali suggeriscono la morte per shock circolatorio.
 Perduto nella dimensione tascabile.
 Sono dei resti lasciati dal SCP-106.
-Scossa ad alta tensione.
+Ustioni da elettrocuzione gravi.
 Trauma contusivo fatale; il corpo è gravemente mutilato e spappolato.
-Ci sono molte ferite da arma da fuoco sul cadavere. Probabilmente, sono state causate da delle munizioni di tipo [ammotype].
+{0} ferite da colpi di proiettile.
 Il collo è spezzato alla base del cranio.
-Enormi quantità di decadimento dei tessuti sono presenti sul corpo.
+Enormi quantità di decadimento dei tessuti presenti sul corpo.
 Interruzione improvvisa dei segni vitali. Nessun trauma.
 Causa della morte sconosciuta.
 I resti del corpo di <b>[user]</b>, Ruolo: [class]!\n\nCausa della morte: [cause]
 Lacerazioni massicce ed eccessiva perdita di sangue.
-Si osservano segni di morso profondi attorno al cranio.
+Si osservano segni di morsi profondi attorno al cranio.
 Sciolto da una sostanza altamente corrosiva.
-Ferite post esplosione.
-Pelle pallida e perdite di sangue dalla bocca suggeriscono un'emorragia interna causata dall'ingestione di sostanze.
-Ricontenuto da un'essere umano.
+Shrapnel e ustioni di terzo grado causate da un'esplosione.
+La pelle pallida e le perdite di sangue dalla bocca suggeriscono un'emorragia interna causata dall'ingestione di sostanze.
+Ricontenuto da un umano.
