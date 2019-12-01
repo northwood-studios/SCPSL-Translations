@@ -1,29 +1,29 @@
 Abilità non trovata:l'ID associato a questa abilità non esiste.
-Scatto:Aumenta la tua velocità di movimento ma in compenso aumenta il suono dei passi.
+Scatto:Aumenta la tua velocità di movimento, in compenso aumenta il suono dei passi.
 Spia:I tuoi movimenti diventano silenziosi, la velocità sarà ridotta di molto.
 Inventario:Apri il tuo inventario e seleziona un oggetto usando il tasto sinistro del mouse oppure lascialo cadere usando il tasto destro.
 Disarmato:Non hai niente. Trova qualcosa. Qualsiasi cosa.
-Carta d'accesso:Hai una carta d'accesso, non è la migliore ma non perderla.
-Problema standard:Sei equipaggiato con un fucile, granate, radio, manette e una carta d'accesso!
+Scheda d'Accesso:Hai una scheda d'accesso, non è la migliore ma non perderla.
+Equipaggiamento Standard:Sei equipaggiato con un fucile, granate, radio, manette e una scheda d'accesso!
 Armato e Pericoloso:Ti è stato consegnata una Mitragliatrice leggera, uno strumento per l'hacking (carta d'accesso) e un kit medico!
-Velocità Sorprendente:Quando nessun umano riesce a vederti ti muovi molto velocemente. Se sei guardato direttamente da un umano non ti puoi muovere oppure attaccare, tutti gli umani che ti stanno guardando batteranno gli occhi simultaneamente ogni qualche secondo, permettendoti di agire.
+Velocità Sorprendente:Quando nessun umano riesce a vederti ti muovi molto velocemente. Se sei guardato direttamente da un umano non ti puoi muovere ne attaccare, tutti gli umani che ti stanno guardando batteranno gli occhi simultaneamente ogni paio di secondi, permettendoti di agire.
 Panico:La tua velocità aumenta mentre la vita diminuisce.
-Sinkhole:Puoi posizionare una pozza nera di corrosione e teletrasportarti ad essa in qualsiasi momento. Il teletrasporto richiede alcuni secondi.\nPer spostare la pozza è sufficiente spostarla di nuovo.
-Corrosione:Ti muovere attraverso le porte camminandoci dentro.
-Canto del cigno: Non subisci praticamente nessun danno dai proiettili, ma puoi essere immediatamente ricontenuto attraverso un sacrificio umano all'interno della tua camera di contenimento.
-Dimensione Tascabile:Cattura un essere umano e lo teletrasporta nella dimensione tascabile che lo uccide rapidamente. L'umano dovrà scegliere l'uscita corretta o morire.
-Timido:Di base,ti muovi lentamente, non puoi attaccare ed emetti un fievole pianto. Se gli umani ti guardano abbastanza a lungo, ti fermerai per cinque secondi, poi entrerai in modalità rabbia
-Rabbia Anti-Sociale:Quando sei arrabbiato ti muovi molto velocemente e urli rumorosamente. Lo stato resta attivo per circa 30 secondi; quando finisce non potrai entrare in modalità rabbia per un breve periodo di tempo, durante il quale non piangerai.\nMentre sei arrabbiato clicca o tieni premuto il pulsante destro del mouse per uccidere istantaneamente qualsiasi essere umano in prossimità.
-Abbattuto:Mentre sei arrabbiato se interagisci con le porte le romperai!
-Ultra Sensibile:Non puoi vedere gli esseri umani a meno che essi non corrano, ti urtino o sparino nelle tue vicinante.
-Predatore:I tuoi passi sono silenziosi. Tenere premuto il tasto assegnato allo scatto aumenterà la tua velocità ma i tuoi movimenti verranno resi più udibili.
-Imitare:Puoi parlare a qualsiasi giocatore nelle vicinance, umani inclusi.
-Morso:Attacca un'essere umano a distanza ravvicinata infliggendoli istantaneamente danni gravi.
+Buco nel Terreno:Puoi posizionare una pozza nera di corrosione e teletrasportarti ad essa in qualsiasi momento. Il teletrasporto richiede alcuni secondi.\nPer spostare la pozza è sufficiente piazzarla di nuovo.
+Corrosione:Ti puoi muovere attraverso le porte camminandoci attraverso.
+Canto del Cigno: Non subisci praticamente nessun danno dai proiettili, ma puoi essere immediatamente ricontenuto attraverso un sacrificio umano all'interno della tua camera di contenimento.
+Dimensione Tascabile:Cattura un essere umano e lo teletrasporta nella dimensione tascabile che lo ucciderà rapidamente. L'umano dovrà scegliere l'uscita corretta o morirà.
+Timido:Di base, ti muovi lentamente, non puoi attaccare ed emetti un fievole pianto. Se gli umani ti guardano abbastanza a lungo, ti fermerai per cinque secondi, poi entrerai in modalità rabbia.
+Rabbia Anti-Sociale:Quando sei arrabbiato ti muovi molto velocemente e urli rumorosamente. Lo stato resta attivo per circa 30 secondi; quando finisce non potrai entrare in modalità rabbia per un breve periodo di tempo, durante il quale non piangerai.\nMentre sei arrabbiato clicca o tieni premuto il pulsante destro del mouse per uccidere istantaneamente qualsiasi essere umano nelle tue prossimità.
+Abbattuto:Mentre sei arrabbiato, se interagisci con le porte le romperai!
+Ultra Sensibile:Non puoi vedere gli esseri umani a meno che essi non corrano, ti urtino o sparino nelle tue vicinanze.
+Predatore:I tuoi passi sono silenziosi. Tenere premuto il tasto assegnato allo scatto aumenterà la tua velocità ma i tuoi movimenti saranno più rumorosi.
+Imitazione:Puoi parlare a qualsiasi giocatore nelle vicinance, umani inclusi.
+Morso:Attacca un'essere umano a distanza ravvicinata, infliggendogli istantaneamente gravi danni.
 Antidoto:Tocca un essere umano a distanza ravvicinata, uccidendolo all'istante.
-La cura:Rianima un essere umano morto di recente. Gli umani guariti diventano zombi, essi sono molto veloci e hanno bassa salute. \n Non c'è nessun limite al numero di umani che possono essere rianimati.
+La Cura:Rianima un essere umano morto di recente. Gli umani guariti diventano zombi, questi sono molto veloci e hanno poca salute.\n Non c'è nessun limite al numero di umani che possono essere rianimati.
 Colpo:Attacca un umano e infliggi una moderata quantità di danni.
-Apri/Chiudi Porta:Puoi interagire con le porte aprendole e chiudendole per 5 AP; Le puoi bloccare consumando i tuoi AP impendendo l'apertura fino a quando non le sblocchi o finisci gli AP.
-Sovraccarico della tesla:Puoi attivare istantaneamente una tesla per 50 AP uccidendo qualsiasi giocare all'interno op nelle vicinanze di essa!
-Lockdown:A partire dal livello 3 puoi interagire con alcune stanze bloccandole, spegnendo le luci e chiudendo tutte le porte. Durante il processo di lockdown gli esseri umani non possono vedere SCP-173.
-Virtualmente indistruttibile: Cinque generatori si generano nella Heavy Containment Zone. Se tutti i generatori vengono sbloccati e attivati, verrai ricontenuto.\nI generatori hanno una sequenza di conto alla rovescia che qualsiasi giocatore può interrompere premendo il pulsante "CANCEL" sul generatore.
-Strappo al collo:Tieni premuto o fai clic per spezzare il collo di un essere umano, uccidendolo all'istante fintanto che non possono vederti o battono le ciglia.
+Apri/Chiudi Porta:Puoi interagire con le porte aprendole e chiudendole per 5 EA; Le puoi bloccare consumando i tuoi AP impendendo l'apertura fino a quando non le sblocchi o finisci gli EA.
+Sovraccarico della tesla:Puoi attivare istantaneamente una tesla per 50 EA uccidendo qualsiasi giocare all'interno o nei suoi pressi!
+Blocco:A partire dal livello 3 puoi interagire con alcune stanze bloccandole, spegnendo le luci e chiudendo tutte le porte. Durante il processo di blocco, gli esseri umani non possono vedere l'SCP-173.
+Virtualmente Indistruttibile: Cinque generatori si generano nella Zona di Contenimeto Pesante. Se tutti i generatori vengono sbloccati e attivati, verrai ricontenuto.\nI generatori hanno una sequenza di conto alla rovescia che qualsiasi giocatore può interrompere premendo il pulsante "CANCEL" sul generatore.
+Rottura del Collo:Tieni premuto o fai clic per spezzare il collo di un essere umano, uccidendolo all'istante, fintanto che non possono vederti o battono le ciglia.
