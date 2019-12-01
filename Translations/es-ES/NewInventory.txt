@@ -8,17 +8,15 @@ Tarjeta de Ingeniero de Contención:No description
 Tarjeta de Teniente de la MTF:No description
 Tarjeta de Comandante de la MTF:No description
 Tarjeta de Administrador:No description
-Aparato de los Insurgentes del Caos
+Aparato de los Insurgentes del Caos:No description
 Tarjeta Nivel-05
 Radio:SR = Corto alcance \nMR = Alcance medio \nLR = Largo alcance \nUR = Alcance Máximo \nUsa batería mientras este activa. A más alcance, más gasto de batería.
 Pistola COM-15:No description
-Botiquín: Cura tus heridas.
+Botiquín primeros auxilios: Cura tus heridas.
 Linterna:¡Que se haga la luz!
 Micro H.I.D.:Desintegrador Móvil de Alta Intensidad.
 SCP-500:La panacea.
-SCP-207:A costa de salud, aumenta tu velocidad de movimiento.
-Moneda:¡Parece ser 50 céntimos!
-Vaso:¿Que contiene? Mejor no preguntes
+SCP-207:Aumenta tu velocidad de movimiento de una forma dolorosa.
 Administrador de armas:Úsalo para tirar munición y mejorar armas.
 MTF-E11-SR:No description
 Proyecto 90:No description
@@ -35,3 +33,4 @@ SCP-018:Superbola capaz de rebotar con eficiencia extrema.
 SCP-268:Equipada, te hace temporalmente invisible a no ser que se interrumpa por alguna acción del jugador.
 Adrenalina:Aumenta temporalmente la resistencia.
 Analgésicos:Sana heridas menores.
+Moneda:No estas seguro por que quieres guardar esto...

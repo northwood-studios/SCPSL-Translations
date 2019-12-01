@@ -42,7 +42,7 @@ EXPLORADOR DE SERVIDORES
 VALE
 ENCONTRAR PARTIDA
 2. Usando armas
-Usamos Discord como foro. No es necesario instalarlo.\n(clic en el logo para unirse)
+Usamos Discusiones Steam como foro. No es necesario instalarlo.\n(clic en el logo para unirse)
 Por defecto, el servidor se crea en su red local.\nTus amigos necesitaran usar conexión directa y tu IP para conectarse.\nSi quiere iniciar un servidor publico, abra LocalAdmin.exe y siga las instrucciones.\nSi tiene alguna pregunta, contacte con nuestro soporte técnico (enlace en el menú principal)
 1. Fundamentos
 El juego actual esta en Beta abierta.\nPuede experimentar problemas de conexión u otros errores.\nEl estado actual de juego no refleja el producto final.
@@ -59,7 +59,7 @@ MÁXIMA CANTIDAD DE SANGRE
 Límite de FPS
 ¡El limite de FPS no funciona cuando la sincronización vertical esta activa!
 Restaurar valor predeterminado
-Usamos las discusiones de Steam como foro. (Clic en el logo para abrir el foro)
+Usamos las Discusiones de Steam como foro. (Clic en el logo debajo para abrirlo)
 OPCIONES DE AUDIO
 VOLUMEN MAESTRO
 MÚSICA DEL MENÚ
@@ -78,7 +78,7 @@ ACTIVAR CARRERA
 Carrera se activa y se desactiva, en vez de tener que mantener el botón.
 SEPARAR BARRA ARTIFICIAL PV
 Da a los PV artificiales su propia barra de salud en vez de estar sobre-expuesto.
-¡Nuestras traducciones están de código abierto en GitHub! \n¿Quieres ayudar? Haz clic aquí para acceder al repositorio.
+¡Nuestras traducciones son open-source en GitHub! \n¿Quieres ayudar? Haz clic aquí para acceder al repositorio.
 PRESENCIA ENRIQUECIDA
 Si se activa, tu estado se mostrara en Discord/Steam.
 MOSTRAR VALOR EXACTO DE SALUD

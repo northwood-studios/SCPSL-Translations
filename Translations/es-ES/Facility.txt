@@ -30,4 +30,6 @@ Conectado
 Escapaste como Científico y te uniste a las unidades del MTF.
 Escapaste como Clase-D y te uniste a Insurgentes del Caos.
 TÚ ERES
-Huistes en: [escape_minutes] minutos y [escape_seconds] segundos
+Huiste en: [escape_minutes] minutos y [escape_seconds] segundos
+Espera [time] para poder usar [item] de nuevo.
+MANTÉN <color=white><b>F1</b></color> PARA MÁS INFORMACIÓN

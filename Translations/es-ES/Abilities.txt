@@ -6,7 +6,7 @@ Desarmado:No tienes nada. Encuentra algo. Lo que sea, y rápido.
 Tarjeta de acceso:Tienes una tarjeta de acceso, no es la mejor, pero no la pierdas.
 Equipamiento estándar:Tienes en el inventario un Rifle, granadas, una radio, un desarmador y una tarjeta de acceso.
 Armado y Peligroso:Te han asignado una ametralladora ligera, una herramienta de hackeo (Tarjeta de acceso) y un botiquín.
-Velocidad vertiginosa:Cuando ningún humano puede verte te mueves muy rápido. Si un humano te esta mirando directamente no puedes moverte ni atacar, pero todos los humanos parpadean simultáneamente cada varios segundos dándote la oportunidad de actuar.
+Velocidad vertiginosa:Cuando ningún humano puede verte te mueves muy rápido. Si un humano te mira directamente no podrás moverte ni atacar, pero todos los humanos parpadean simultáneamente cada varios segundos dándote la oportunidad de actuar.
 Pánico:Te mueves mas rápido según tu vida disminuye.
 Portal:Colocas o te teletransportas a tu portal, el cual es representado con una mancha negra en el suelo.\nSolo puedes tener un solo portal a la vez el cual puedes mover en cualquier momento. Teletransportarse tarda unos segundos.
 Corrosión:Puedes traspasar puertas solo con caminar en ellas.
@@ -18,7 +18,7 @@ Destrozos:En el estado de rabia, intentar abrir una puerta provocara que la romp
 Ultrasentidos:No puedes ver humanos hasta que corren, te golpean o disparan un arma cerca tuya.
 Acometida:Aumenta tu velocidad de movimiento.
 Imitador:Puedes hablar en voz alta con los jugadores cercanos, incluidos humanos.
-Mordisco:Atacas a un humano mientras esta cerca tuya, infringiendo graves heridas.
+Mordisco:Atacas a un humano mientras esté cerca tuya, infligiendo graves heridas.
 Cura:Atacas a un humano matándolo al instante y haciendo su cadáver vulnerable a la reanimación durante unos segundos. Este ataque no tiene tiempo de reutilización.
 Reanimación:Mantén pulsado este botón durante varios segundos en un cadáver que hayas matado recientemente para revivirlo, el cadáver humano sera un zombi. Los zombis tienen poca vida y poco daño pero se mueven relativamente rápido y pueden comunicarse con otros SCPs.\nNo hay límite de humanos que puedas reanimar.
 Golpe:Atacas a un humano y lo dejas malherido.
@@ -26,4 +26,4 @@ Abrir/Cerrar Puertas:Puedes interactuar con las puertas para abrir y cerrarlas p
 Sobrecarga Tesla:Puedes activar una tesla por 50 de EA, lo que provocara grandes daños o incluso la muerte a todos los jugadores que estén en ella.
 Apagón:Al llegar al Nivel de acceso 3 puedes interactuar con algunas salas para bloquear todas las puertas y apagar todas las luces de dicha sala. Mientras las luces estén apagadas los humanos no podrán ver a SCP-173.
 Virtualmente indestructible: Cinco generadores aparecen en la zona de contención pesada, los generadores requieren una tarjeta de acceso capaz de abrir la armería que guarda la MicroHID, cada generador necesita un Administrador de armas para ser activado. Los generadores y el Silo Alfa son la única forma de matarte; los humanos y otros SCPs pueden detener la activación de los generadores en cualquier momento interactuando con ellos.\nCada generador tarda dos minutos en activarse y cada uno que esté activo aumenta tu regeneración de EA. Cuando todos los generadores hayan sido activados, tendrás EA ilimitada durante 1 minuto, y al pasar este minuto, morirás.
-Rompe cuellos:Mantén o pulsa clic izquierdo para romper cuellos. Atacar a un humano que este en rango mientras parpadean provocará su muerte de forma instantánea.
+Rompe cuellos:Mantén o pulsa clic izquierdo para romper cuellos. Atacar a un humano que este en rango mientras que parpadean provocará su muerte de forma instantánea.
