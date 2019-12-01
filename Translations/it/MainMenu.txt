@@ -74,7 +74,7 @@ SCP-079 - POST-PROCESSING
 Se disabilitato gli effetti della camera verranno pesantemente ridotti.
 SOBBALZO TESTA
 Abilita il sobbalzo della telecamera in prima persona durante i movimenti.
-ATTIV/DISATTIVA CORSA
+ATTIVA/DISATTIVA CORSA
 Attiva o disattiva la corsa con un tasto invece che tenere premuto il pulsante.
 SEPARA BARRA HP ARTIFICIALE
 Fornisce agli HP la propria barra della salute, anziché un overlay.
