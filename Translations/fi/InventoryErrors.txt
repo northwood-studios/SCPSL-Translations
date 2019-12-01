@@ -1,5 +1,5 @@
-<color=yellow>{0} ammusten</color> raja saavutettu (<color=yellow>{1} rounds</color>)
+<color=yellow>{0} ammusten</color> raja saavutettu (<color=yellow>{1} ammusta</color>)
 Voit kantaa <color=yellow>{0}</color> tämän tyyppistä tavaraa (<color=yellow>{1}</color>)
-Voit kantaa <color=yellow>8</color> tavaraa.
+Voit kantaa ainoastaan <color=yellow>8</color> tavaraa.
 Olet saavuttanut tämän tyyppisten tavaroiden rajan: <color=yellow>{0}</color> ({1}/{1})
 Sinut on pidätetty\n<size=40>seuraa käskyjä tai kysy tiimiläisiltäsi apua</size>
