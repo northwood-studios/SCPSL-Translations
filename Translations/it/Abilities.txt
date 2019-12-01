@@ -22,7 +22,7 @@ Morso:Attacca un'essere umano a distanza ravvicinata, infliggendogli istantaneam
 Antidoto:Tocca un essere umano a distanza ravvicinata, uccidendolo all'istante.
 La Cura:Rianima un essere umano morto di recente. Gli umani guariti diventano zombi, questi sono molto veloci e hanno poca salute.\n Non c'è nessun limite al numero di umani che possono essere rianimati.
 Colpo:Attacca un umano e infliggi una moderata quantità di danni.
-Apri/Chiudi Porta:Puoi interagire con le porte aprendole e chiudendole per 5 EA; Le puoi bloccare consumando i tuoi AP impendendo l'apertura fino a quando non le sblocchi o finisci gli EA.
+Apri/Chiudi Porta:Puoi interagire con le porte aprendole e chiudendole per 5 EA; Le puoi bloccare consumando i tuoi AP impendendo l'apertura fino a quando non le sblocchi o finisci l'EA.
 Sovraccarico della tesla:Puoi attivare istantaneamente una tesla per 50 EA uccidendo qualsiasi giocare all'interno o nei suoi pressi!
 Blocco:A partire dal livello 3 puoi interagire con alcune stanze bloccandole, spegnendo le luci e chiudendo tutte le porte. Durante il processo di blocco, gli esseri umani non possono vedere l'SCP-173.
 Virtualmente Indistruttibile: Cinque generatori si generano nella Zona di Contenimeto Pesante. Se tutti i generatori vengono sbloccati e attivati, verrai ricontenuto.\nI generatori hanno una sequenza di conto alla rovescia che qualsiasi giocatore può interrompere premendo il pulsante "CANCEL" sul generatore.
