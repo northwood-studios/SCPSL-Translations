@@ -60,3 +60,28 @@ Kuvataajuuden rajoitus
 Kuvataajuuden rajoitus ei toimi kun vSync on päällä!
 Palauta oletukset
 Me käytämme Steamin foorumia keskustelualueenamme. (Paina logoa avataksesi foorumin)
+ÄÄNI ASETUKSET
+MASTER VOLUME
+PÄÄVALIKKO MUSIIKKI
+ÄÄNIKESKUSTELU
+ÄÄNITEHOSTEET
+PELIN VAIHTOEHDOT
+NOPEA ESITTELYN HAIHTUMINEN
+Luokan esittely teksti katoaa paljon nopeammin.
+SCP-079 - VAIHDA NÄHTÄVYYS TILAA
+Paina kerran vaihtaaksesi kamera tilaa.
+SCP-079 - JÄLKIKÄSITTELY
+Jos poissa käytöstä, kameran tehosteet vähenevät huomattavasti.
+PÄÄN KEIKKUMINEN
+Aktivoi ensimmäisen persoonan kameran keikkumisen liikkeessä.
+AKTIVOI JUOKSU
+Sprinting toggles on and off, instead of being held down.
+Erillinen keinotekoinen HP-palkki
+Antaa keinotekoiselle HP:lle oman terveyspalkin peittokuvan sijasta.
+Käännöksemme ovat avointa lähdekoodia GitHubissa!\nHaluatko auttaa? Napsauta tätä päästäksesi repoon.
+RICH PRESENCE
+Jos aktivoituna, statuksesi näkyy Discordissa/Steamissa.
+NÄYTÄ OIKEA HP-ARVO
+Näyttää oikean HP:n, pelkästään prosentin sijasta.
+JULKINEN AULA
+Jos aktivoituna, kaverisi voivat liittyä sinuun ilman lupaa.
