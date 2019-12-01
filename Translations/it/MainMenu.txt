@@ -85,4 +85,3 @@ MOSTRA VALORE HP ESATTO
 Mostra il valore degli HP esatto al posto della percentuale.
 LOBBY PUBBLICA
 Se attiva, i tuoi amici possono unirsi alla tua lobby senza chiedere il permesso.
-
