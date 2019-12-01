@@ -1,8 +1,0 @@
-¡Bievenido a <i>"SCP: Secret Lab"</i>! Soy uno de los narradores del juego.\nDejame introducirte a las reglas básicas del juego.\nIntenta ir a los baños para buscar una tarjeta de acceso.\n
-<color=#00FF58>Usa <b>W, A, S & D</b> para ir a los <b>baños</b>\nUsa <b>E</b> para <b>interactuar</b> con puertas y objetos.</color>
-Bien, ahora cogela.
-Las tarjetas de acceso es uno de los elementos más básicos del juego, permitiendo acceso a zonas cerradas.\nMira las puertas cercanas y trata de abrirlas con tu tarjeta.
-<color=#00FF58>Usa <b>TABULADOR</b> para abrir el inventario.\n<b>Botón izquierdo del ratón</b> para seleccionar un objeto\ny <b>derecho</b> para tirarlo.
-Si realmente quieres escapar - Te sugiero encontrar una mejor tarjeta.
-Cada tarjeta tiene su propio nivel de acceso. Puedes comparar cada tarjeta pasando el cursor encima de cada una.
-¡Felicidades! ¡Has pasado la primera parte del tutorial!
