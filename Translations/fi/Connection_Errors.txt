@@ -27,7 +27,7 @@
 <size=80>YHTEYS KATKAISTU</size>\nTodennustunnuksesi on vanhentunut.\nPalvelimella voi olla virheellinen aika tai aikavyöhyke asetettuna. \nOta yhteyttä palvelimen järjestelmänvalvojaan.
 <size=80>YHTEYS KATKAISTU</size>\nNopeuttasi on rajoitettu. Yritä uudestaan parin sekunnin kuluttua.
 <size=80>YHTEYS KATKAISTU</size>\nPalvelin ei hyväksy yhteyksiä maantieteellisestä sijainnistasi.\nPalvelimen nimi tai tiedot voivat sisältää lisätietoja.
-<size=80>YHTEYS KATKAISTU</size>\nPalvelinmuutos on potkaissut sinut.\n\nSyystä: [reason]\nTämä on palvelimen muokkaus, ei pelitoiminto.\nOta yhteyttä palvelimen järjestelmänvalvojaan saadaksesi lisätietoja.
+<size=80>YHTEYS KATKAISTU</size>\nPalvelimen lisäosa on potkaissut sinut.\n\nSyystä: [reason]\nTämä on palvelimen muokkaus, ei pelitoiminto.\nOta yhteyttä palvelimen järjestelmänvalvojaan saadaksesi lisätietoja.
 <size=80>YHTEYS KATKAISTU</size>\nPalvelin on hylännyt todennustunnuksesi.\nKäynnistä peli uudelleen ja tai ota uudelleen yhteyttä studion tekniseen tukeen.
 <size=80>YHTEYS KATKAISTU</size>\nSinulla on porttikielto tälle palvelimelle.\nSyystä: [reason]
 <size=80>YHTEYS KATKAISTU</size>\nSinulla on porttikielto tälle palvelimelle.\nPorttikielto päättyy: [date] [time]\nSyystä: [reason]
