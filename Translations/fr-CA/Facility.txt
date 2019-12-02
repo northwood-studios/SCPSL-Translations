@@ -17,7 +17,7 @@ SENSIBILITÉ SOURIS
 PIRATAGE
 RAMASSE...
 Augmenter la luminosité <b>affecte considérablement l'immersion</b> du jeu.\nEssayez de garder cette valeur au plus bas.\n<b>La valeur par défaut est recommandée.</b>
-[1] OUVRIR/FERMER LA PORTE\n[2] VERROUILLER LA PORTE*\n\n*Verrouiller la porte utilise votre aptitude spéciale 
+[1] OUVRIR/FERMER LA PORTE\n[2] VERROUILLER LA PORTE*\n\n*Verrouiller la porte utilise votre aptitude spéciale
 LA PORTE A ÉTÉ VERROUILLÉE PAR SCP-079
 Mode plein écran
 Voulez-vous vraiment quitter le serveur?

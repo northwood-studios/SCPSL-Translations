@@ -12,6 +12,6 @@ Nombre de scientifiques qui ont survécu : [summary_s_escaped]
 La détonation de l'ogive alpha a causé [summary_warhead_kills] victimes.
 L'ogive alpha n'a pas explosé durant cette mission.
 La mission a pris [summary_round_minutes] minutes et [summary_round_seconds] secondes.
-Nombre de SCPs éliminés : [summary_scp_terminated] 
+Nombre de SCPs éliminés : [summary_scp_terminated]
 Prochaine manche dans [summary_next_round_countdown] secondes.
 Vous avez causé [summary_damages] points de dégâts et tué [summary_kills] joueurs.
