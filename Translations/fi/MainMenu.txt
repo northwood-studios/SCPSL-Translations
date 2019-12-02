@@ -61,21 +61,21 @@ Kuvataajuuden rajoitus ei toimi kun vSync on päällä!
 Palauta oletukset
 Me käytämme Steamin foorumia keskustelualueenamme. (Paina logoa avataksesi foorumin)
 ÄÄNI ASETUKSET
-MASTER VOLUME
+PÄÄ-ÄÄNENVOIMAKKUUS
 PÄÄVALIKKO MUSIIKKI
 ÄÄNIKESKUSTELU
 ÄÄNITEHOSTEET
 PELIN VAIHTOEHDOT
 NOPEA ESITTELYN HAIHTUMINEN
 Luokan esittely teksti katoaa paljon nopeammin.
-SCP-079 - VAIHDA NÄHTÄVYYS TILAA
-Paina kerran vaihtaaksesi kamera tilaa.
+SCP-079 - VAIHDA NÄKYVYYS TILAA
+Paina kerran vaihtaaksesi kameran tilaa.
 SCP-079 - JÄLKIKÄSITTELY
-Jos poissa käytöstä, kameran tehosteet vähenevät huomattavasti.
+Jos poissa käytöstä, näytön tehosteet vähenevät huomattavasti.
 PÄÄN KEIKKUMINEN
 Aktivoi ensimmäisen persoonan kameran keikkumisen liikkeessä.
-AKTIVOI JUOKSU
-Sprinting toggles on and off, instead of being held down.
+AKTIVOI JUOKSEMINEN
+Juokseminen vaihtelee päälle ja pois, napin pohjassapitämisen sijaan.
 Erillinen keinotekoinen HP-palkki
 Antaa keinotekoiselle HP:lle oman terveyspalkin peittokuvan sijasta.
 Käännöksemme ovat avointa lähdekoodia GitHubissa!\nHaluatko auttaa? Napsauta tätä päästäksesi repoon.
