@@ -1,8 +1,0 @@
-SCP: Secret Laboratory'ya hosgeldiniz! Ben bu oyunun ses aktorlerinden birisiyim.\nSana basit oyun kurallarini ogreteyim.\nPotansiyel olarak bir kart bulmak icin tuvaletlere bir goz at.\n
-<color=#00FF58><b>W, A, S & D</b> tuslarina bas <b>tuvalete</b> gitmek icin\n<b>E</b> tusunu kapilar ve esyalarla <b>etkilesim</b> icin kullan </color>
-Guzel, simdi onu al
-Kartlar oyunun en basit elementlerinden birisidir, kapali yerlere giris saglarlar.\nYakindaki kapilara goz at ve onlari kartinla ac.
-<color=#00FF58>Envanteri acmak icin <b>TAB</b> tab tusunu kullan.\n<b>Sol fare tusu/b> esya secmek icin\nve <b>Sag tus</b> birakmak icin.
-Eger gercekten kacmak istiyorsan - Daha iyi bir kart bulmani oneririm.
-Her kartin kendine has erisim seviyeleri vardir. Kartlari fare imlecini hepsinin uzerine teker teker goturerek karsilastirma yapabilirsin.
-Tebrikler! Egitimin ilk kismini basariyla gectin!

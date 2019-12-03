@@ -33,3 +33,4 @@ SCP-018:Superball able to bounce with extreme efficiency.
 SCP-268:When worn, temporarily makes you invisible unless it is interrupted by any user interaction.
 Adrenaline:Temporarily increases endurance.
 Painkillers:Relieve minor injuries.
+Coin:You're not sure why you'd want to carry this around...

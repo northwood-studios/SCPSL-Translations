@@ -2,7 +2,7 @@ Hausmeister Zugangskarte:No description
 Wissenschaftler Zugangskarte:No description
 Hauptwissenschaftler Zugangskarte:No description
 Zonenmanager Zugangskarte:No description
-Wachpersonal Zugangskarte:No description
+Sicherheitspersonal Zugangskarte:No description
 MTF Kadett Zugangskarte:No description
 Eindämmungsingenieur Zugangskarte:No description
 MTF Leutnant Zugangskarte:No description
@@ -21,7 +21,7 @@ Waffenbearbeitungstablet:Wird genutzt um Munition fallen zu lassen und Aufsätze
 MTF-E11-SR:Standard MTF Ausrüstung
 Project 90:Verbesserte Version der P90
 Dropped 5.56:Sieht aus wie 5.56 Munition
-MP7:Standard Ausrüstung des Wachpersonals
+MP7:Standard Ausrüstung des Sicherheitspersonals
 Logicer:Leichtes Maschinengewehr und standard Ausrüstung der Chaos Insurgency
 Splittergranate:Es macht Boom!
 Blendgranate:Blendet deine Feinde!
@@ -33,3 +33,4 @@ SCP-018:Superball, welcher mit extremer Effizienz umher springt
 SCP-268:Wenn ausgerüstet, macht dich vorübergehend unsichtbar, außer du wirst durch Interaktionen anderer Spieler gestört
 Adrenalin:Erhöht deine Ausdauer vorübergehend
 Schmerzmittel:Lindert leichte Verletzungen
+Münze:Du bist dir nicht sicher warum du sowas mit dir herum tragen solltest...

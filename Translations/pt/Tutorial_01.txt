@@ -1,8 +1,0 @@
-Bem vindo ao SCP: Secret Laboratory! Eu sou um dos dubladores do jogo.\nDeixe-me lhe apresentar as regras basicas do jogo.\nTente achar banheiros, para achar potenciais cartões.\n
-<color=#00FF58>Use <b>W, A, S & D</b> para se mover e achar os <b>banheiros</b>\nAperte <b>E</b> para <b>interagir</b> com portas e items.</color>
-Otimo, Agora pegue ele.
-Cartões é o elemento mais basico do jogo, permitindo você abrir portas trancadas.\nCheque as portas por perto e tente abrir-las.
-<color=#00FF58>Aperte <b>TAB</b> para abrir o inventário.\n<b>LMB</b> para selecionar um item.\naperte <b>RMB</b> para soltar-lo.
-Se você quer mesmo sair sugiro achar um cartão melhor.
-Cada cartão tem seu nivel de acesso. Você pode comparar passando o mouse em cima do cartão em seu inventário.
-Parabéns! Você passou o primeiro tutorial.

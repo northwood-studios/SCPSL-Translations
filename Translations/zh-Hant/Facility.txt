@@ -1,7 +1,7 @@
 語音音量
 是
 強制開始
-SCP-106 重新收容\n程序啟動
+重新收容 SCP-106\n程序啟動
 反轉Y軸
 總結
 取消
@@ -31,4 +31,5 @@ ALPHA核彈頭已關閉
 你作為 D 級人員逃出了，並且加入了混沌分裂者。
 你是
 逃出時間 : [escape_minutes] 分 [escape_seconds] 秒
-等候[time]後您可以再次使用[item]。
+等候[time]後後您可以再次使用[item]。
+按著 <color=white><b>F1</b></color> 來獲得角色信息

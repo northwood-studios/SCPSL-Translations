@@ -1,0 +1,17 @@
+PUISSANCE AUX.
+EXPERIENCE
+TRANSMISSION DE LA CAMERA
+[KEY] POUR ALTERNER LA CARTE DE SURVEILLANCE
+Expérience obtenue :
+Travail coopératif
+Aide à la mort d'un classe D
+Aide à la mort d'un C. I.
+Aide à la mort d'un MTF
+Aide à la mort d'un scientifique
+Aide à la mort d'un SCP
+PORTES VERROUILLEES : [LOCKED_NUM] <size=25>CLIC DROIT POUR TOUT DEVERROUILLER</size>
+Interactions générales
+Vous êtes attaqué!
+Les générateurs ont été marqués sur la carte
+DANGER
+SCPs {0}MTF et gardes {1}Scientifiques {2}Classes D {3}Chaos Insurgency {4}

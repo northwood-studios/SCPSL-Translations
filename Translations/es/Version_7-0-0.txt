@@ -1,5 +1,5 @@
 HAS MUERTO
-Press {KEYBINDING_INTERACTION} to place the <color=yellow>Weapon Manager Tablet</color>.
-Press {KEYBINDING_INTERACTION} to pick up the <color=yellow>Weapon Manager Tablet</color>.
-This <color=yellow>workstation</color> already has someone else's <color=yellow>Weapon Manager Tablet</color> connected.
-You need a <color=yellow>Weapon Manager Tablet</color> to use this <color=yellow>workstation</color>.
+Presiona {KEYBINDING_INTERACTION} para poner el <color=yellow>Administrador de armas</color>.
+Presiona {KEYBINDING_INTERACTION} para coger el <color=yellow>Administrador de armas</color>.
+Esta <color=yellow>mesa de trabajo</color> ya tiene el <color=yellow>Administrador de armas</color> de alguien conectado.
+Necesitas un <color=yellow>Administrador de armas</color> para usar esta <color=yellow>mesa de trabajo</color>.
