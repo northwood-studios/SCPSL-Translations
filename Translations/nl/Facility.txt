@@ -30,4 +30,6 @@ verbonden
 Je bent ontsnapt als de Wetenschapper.
 Je bent ontsnapt as de Klasse-D Personeel.
 JE BENT EEN
-Escape time: [escape_minutes] minutes and [escape_seconds] seconds
+Ontsnappings tijd: [escape_minutes] minuten en [escape_seconds] seconden
+Wacht [time] tot je [item] kan opnieuw gebruiken.
+HOU <color=white><b>F1</b></color> INGEDRUKT VOOR MEER INFO
