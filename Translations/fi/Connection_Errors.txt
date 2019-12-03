@@ -20,8 +20,8 @@
 <size=80>YHTEYS KATKAISTU</size>\nPalvelimella tapahtui määrittelemätön virhe.
 <size=80>YHTEYS KATKAISTU</size>\nTämä palvelin vaatii todentamisen keskuspalvelimilta.
 <size=80>YHTEYS KATKAISTU</size>\nSinua ei ole sallittu tälle palvelimelle.
-<size=80>YHTEYS KATKAISTU</size>\nSinulle on annettu maailmanlaajuinen porttikielto.
-<size=80>YHTEYS KATKAISTU</size>\nSinulle on annettu maailmanlaajuinen porttikielto: [reason].
+<size=80>YHTEYS KATKAISTU</size>\nSinulle on annettu globaali porttikielto.
+<size=80>YHTEYS KATKAISTU</size>\nSinulle on annettu globaali porttikielto: [reason].
 <size=80>YHTEYS KATKAISTU</size>\nSinulla on porttikielto tälle palvelimelle.
 <size=80>YHTEYS KATKAISTU</size>\nSinulla on porttikielto tälle palvelimelle.\nPorttikielto päättyy: [date] [time]
 <size=80>YHTEYS KATKAISTU</size>\nTodennustunnuksesi on vanhentunut.\nPalvelimella voi olla virheellinen aika tai aikavyöhyke asetettuna. \nOta yhteyttä palvelimen järjestelmänvalvojaan.
