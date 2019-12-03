@@ -5,8 +5,8 @@
 警卫钥匙卡:No description
 MTF新兵钥匙卡:No description
 收容工程师钥匙卡:No description
-MTF士官钥匙卡:No description
-MTF指挥官钥匙卡:No description
+MTF尉官钥匙卡:No description
+MTF校官钥匙卡:No description
 设施总监钥匙卡:No description
 混沌分裂者权限装置
 O5级别钥匙卡
@@ -25,7 +25,7 @@ MP7冲锋枪:No description
 Logicer轻机枪:No description
 破片手雷:用法包含但不限于电梯雷和自杀。
 闪光弹:闪瞎你的敌人...和队友。
-缴械器:鼠标左键缴械敌人，鼠标右键为其松绑。\n按住交互键可以为被他人缴械的人松绑。
+缴械器:鼠标左键缴械敌人，鼠标右键为其松绑。\n对被缴械的人进行交互可以为其松绑。
 掉落的7.62弹药:No description.
 掉落的9mm弹药:No description.
 USP手枪:No description.
