@@ -1,0 +1,5 @@
+Limiet van <color=yellow>{0} ammo</color> bereikt (<color=yellow>{1} rounds</color>)
+Je kan alleen <color=yellow>{0}</color> items van deze type dragen (<color=yellow>{1}</color>)
+Je kan alleen <color=yellow>8</color> items dragen
+Je hebt nu de limiet van deze item bereikt: <color=yellow>{0}</color> ({1}/{1})
+Je bent cuffed\n<size=40>volg bevelen of vraag teamgenoten voor help</size>
