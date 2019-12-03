@@ -15,3 +15,4 @@ Help <color=#FFFF7CFF>wetenschappers</color> te ontsnappen\nNeutralizeer de ande
 Volg de taken om het te voltooien
 Help <color=#FFFF7CFF>wetenschappers</color> te ontsnappen\nWerk samen met<color=#0096FF>MTF</color>\nNeutralizeer de andere teams
 Vermoord iedereen.\nLaat niemand ontsnappen.\nWerk samen met andere <color=#f00>SCPs.</color>
+Vermoord iedereen.\nLaat niemand ontsnappen.\nWerk samen met andere <color=#f00>SCPs.</color>
