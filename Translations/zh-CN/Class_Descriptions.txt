@@ -9,7 +9,7 @@
 帮助<color=#FF8E00>D级人员</color>逃离设施。\n消灭其他事物。
 与其他<color=#f00>SCP</color>合作，杀死所有人/阻止任何人逃脱。
 与其他<color=#f00>SCP</color>合作，杀死所有人/阻止任何人逃脱。<color=#ffff00>\n鼠标左键将伤害敌人，但有短暂的前摇。</color>
-帮助<color=#FFFF7CFF>科学家</color>逃离设施。\n消灭其他事物。\n指挥你的部下。\n服从校官指挥。
+帮助<color=#FFFF7CFF>科学家</color>逃离设施。\n消灭其他事物。\n指挥你的部下。\n服从指挥官的指令。
 帮助<color=#FFFF7CFF>科学家</color>逃离设施。\n消灭其他事物。\n指挥你的部下。
 帮助<color=#FFFF7CFF>科学家</color>逃离设施。\n消灭其他事物。\n服从上级指挥。
 遵循指令以完成使命。
