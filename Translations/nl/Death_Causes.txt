@@ -8,10 +8,10 @@ Fatale stomp trauma; het lichaam is slecht verminkt en verpulverd.
 Er zijn veel schotwonden op het lichaam. Waarschijnlijk een [ammotype] munitie type was gebruikt.
 Cervicale fractuur aan de grond van de schedel.
 Enorm veel weefselbederf zijn aanwezing op het lichaam.
-Plotseling werking van organen gestopt. Er is geen trauma. 
+Plotseling werking van organen gestopt. Er is geen trauma.
 Onbekende doodsoorzaak.
 Het is <b>[user]</b>'s lichaam, hij was een [class]!\n\nDoodsoorzaak: [cause]
-Enorme snijwonden en overmatig veel bloodverlies. 
-Grote, diepe bijt wonden rond de schedel zijn aanwezig. 
+Enorme snijwonden en overmatig veel bloodverlies.
+Grote, diepe bijt wonden rond de schedel zijn aanwezig.
 Versmolten door een enorm bijtend stof.
 Shrapnel en derdegraads brandwonden door een explosie.

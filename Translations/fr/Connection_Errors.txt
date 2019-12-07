@@ -1,5 +1,5 @@
-<size=80>VOUS AVEZ ÉTÉ ÉJECTÉ</size>\nLe serveur a terminé la connexion.\n<size=26>\nVous avez probablement été banni temporairement par les administrateurs\nou vous n'avez pas les exigences requises du serveur (Redémarrez Steam).\nEn ce qui concerne les bannissements du serveur : les auteurs du jeu ne sont PAS responsables.\n</size>
-<size=80>DÉCONNECTÉ</size>\nL'hôte spécifié n'est pas disponible.
+<size=80>VOUS AVEZ ÉTÉ ÉJECTÉ</size>\nLe serveur a terminé la connexion.\n<size=26>\nVous avez probablement été banni temporairement par les administrateurs\nou vous n'avez pas les exigences requises du serveur (</size><size=35>Redémarrez le jeu ou sinon Steam</size><size=26>).\nEn ce qui concerne les bannissements du serveur : les auteurs du jeu ne sont PAS responsables.\n</size>
+<size=80>DÉCONNECTÉ</size>\nL'hôte spécifié n'est pas disponible.\n(Vérifiez si l'IP est bien marquée et s'il n'y a pas d'espace en trop)
 <size=80>DÉCONNECTÉ</size>\nL'Identifiant de connexion spécifié n'existe pas.
 <size=80>DÉCONNECTÉ</size>\nLe canal spécifié n'existe pas.
 <size=80>DÉCONNECTÉ</size>\nLe serveur est plein.
@@ -14,6 +14,20 @@
 <size=80>VEUILLEZ PATIENTER</size>\n<size=35>Établissement de la connexion...</size>
 <size=80>REDÉMARRAGE DE LA PARTIE</size>\n<size=35>Le serveur redémarre la partie...</size>
 <size=80>VEUILLEZ PATIENTER</size>\n<size=35>Chargement du tutoriel...</size>
-<size=80>INCOMPATIBILITÉE DE VERSION</size>\nLa version de votre jeu est différente du serveur\n(La votre : [your]; Celle du serveur : [server])
+<size=80>INCOMPATIBILITÉE DE VERSION</size>\nLa version de votre jeu est différente du serveur\n(La votre : [your]; Celle du serveur : [serveur])
 <size=80>CONNEXION</size>\n<size=35>Chargement de la partie...</size>
 <size=35>Chargement de l'installation...</size>
+<size=80>DÉCONNECTÉ</size>\nUne erreur non spécifiée s'est produite sur le serveur.
+<size=80>DÉCONNECTÉ</size>\nCe serveur nécessite une authentification par les serveurs centraux.
+<size=80>DÉCONNECTÉ</size>\nVous n'êtes pas sur la whitelist de ce serveur.
+<size=80>DÉCONNECTÉ</size>\nVous êtes globalement banni.
+<size=80>DÉCONNECTÉ</size>\nVous êtes globalement banni: [reason].
+<size=80>DÉCONNECTÉ</size>\nVous êtes banni de ce serveur.
+<size=80>DÉCONNECTÉ</size>\nVous êtes banni de ce serveur.\nExpiration du bannissement: [date] [time]
+<size=80>DÉCONNECTÉ</size>\nVotre token d'authentification a expiré.\nLe serveur peut avoir une heure ou un fuseau horaire incorrect.\nContactez l'administrateur du serveur s'il le faut.
+<size=80>DÉCONNECTÉ</size>\nIl y a un problème. Veuillez réessayer dans quelques secondes.
+<size=80>DÉCONNECTÉ</size>\nLe serveur n'accepte pas les connexions de votre emplacement géographique.\nLe nom ou les informations du serveur peuvent contenir plus de détails.
+<size=80>DÉCONNECTÉ</size>\nVous avez été éjecté par une modification du serveur.\n\nRaison: [reason]\nCeci est une modification du serveur, pas une fonctionnalité du jeu.\nContactez l'administrateur du serveur s'il le faut.
+<size=80>DÉCONNECTÉ</size>\nVotre token d'authentification n'a pas été accepté par le serveur.\nVeuillez redémarrer le jeu ou bien contactez notre support technique si cela persiste.
+<size=80>DISCONNECTED</size>\nVous avez été banni de ce serveur.\nRaison: [reason]
+<size=80>DISCONNECTED</size>\nVous avez été banni de ce serveur.\nExpiration du bannissement: [date] [time]\nRaison: [reason]

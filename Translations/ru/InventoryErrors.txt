@@ -1,3 +1,5 @@
 Лимит <color=yellow>{0} патронов</color> достиг (<color=yellow>{1} пуль</color>)
-Вы можете нести только <color=yellow>{0}</color> предметов типа (<color=yellow>{1}</color>)
-Вы можете нести только <color=yellow>8</color> предметов
+Вы можете нести <color=yellow>{0}</color> предметов типа (<color=yellow>{1}</color>)
+Вы можете нести <color=yellow>8</color> предметов
+Вы не можете нести больше предметов типа: <color=yellow>{0}</color> ({1}/{1})
+Ваши руки связаны\n<size=40>следуйте приказам или попросите помощи у союзников</size>

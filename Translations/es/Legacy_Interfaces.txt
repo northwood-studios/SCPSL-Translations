@@ -1,17 +1,18 @@
-PUEDES DARLE ORDENES
-DEBES SEGUIR SUS ORDENES
+PUEDES DARLE ÓRDENES
+SIGUE SUS ÓRDENES
 MISMO NIVEL DE AUTORIDAD
-Clases D escapados
-Cientificos supervivientes
-Eliminado por SCP
-Anomalias SCP Eliminadas
-Alpha Warhead
-Detonada
+Clase-D escapados
+Científicos supervivientes
+Asesinados por SCP
+SCP Eliminados
+Silo Alfa
+Detonado
 Sin usar
-La proxima ronda empezara en [time] segundos
+La próxima ronda comenzará en [time] segundos.
 HABILIDAD ESPECIAL
 CREAR AGUJERO NEGRO
 USAR AGUJERO NEGRO
 HAS MUERTO
 Has sido eliminado por
 como
+Pasivo

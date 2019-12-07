@@ -1,0 +1,5 @@
+<color=yellow>{0}</color>弾は<color=yellow>{1}発</color>までしか所持できません
+<color=yellow>{1}</color>は<color=yellow>{0}</color>個までしか持ち運べません
+持ち運べるのは<color=yellow>8</color>個だけです
+<color=yellow>{0}</color>は最大{1}個まで持ち運べます
+あなたは武装解除されました\n<size=40>指示に従うか仲間に助けを求めましょう</size>

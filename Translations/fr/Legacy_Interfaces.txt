@@ -10,8 +10,9 @@ Activée
 Désactivée
 La prochaine partie débutera dans [time] secondes.
 CAPACITÉ SPÉCIALE
-CRÉER PORTAIL
-UTILISER PORTAIL
+CRÉER UN PORTAIL
+UTILISER LE PORTAIL
 VOUS ÊTES MORT
-<color=#ff0000>Vous avez été tué par :</color>
-<color=#ffff00>en tant que :</color>
+Vous avez été tué par :
+en tant que :
+Passif
