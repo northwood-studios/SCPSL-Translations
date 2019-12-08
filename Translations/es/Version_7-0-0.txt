@@ -1,5 +1,5 @@
 HAS MUERTO
-Pulsa {KEYBINDING_INTERACTION} para colocar la <color=yellow>PDA para gestionar armas</color>.
-Pulsa {KEYBINDING_INTERACTION} para recoger <color=yellow>PDA para gestionar armas</color>.
-Esta <color=yellow>estacion de trabajo</color> ya tiene una <color=yellow>PDA para gestionar armas</color> colocada.
-Necesitas una <color=yellow>PDA para gestionar armas</color> para usar esta <color=yellow>estacion de trabajo</color>.
+Presiona {KEYBINDING_INTERACTION} para poner el <color=yellow>Administrador de armas</color>.
+Presiona {KEYBINDING_INTERACTION} para coger el <color=yellow>Administrador de armas</color>.
+Esta <color=yellow>mesa de trabajo</color> ya tiene el <color=yellow>Administrador de armas</color> de alguien conectado.
+Necesitas un <color=yellow>Administrador de armas</color> para usar esta <color=yellow>mesa de trabajo</color>.

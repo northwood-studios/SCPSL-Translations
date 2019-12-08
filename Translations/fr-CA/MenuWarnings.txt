@@ -1,0 +1,4 @@
+AVERTISSEMENT
+OK
+Un processeur graphique <b>Intel graphics</b> a été détecté et n'est <b>pas supporté</b>./nIl est <b>recommandé</b> d'utiliser une carte graphique <b>non intégrée</b>./nLe jeu peut <b>planter souvent</b> avec la configuration actuelle.
+Une mise à jour importante du système qui est requise pour le chat vocal n'a pas été trouvée. Assurez-vous que votre version de Windows soit à jour. Autrement, le jeu pourrait ne pas fonctionner correctement. Si le problème persiste, veuillez contacter notre équipe du support technique pour obtenir de l'aide.

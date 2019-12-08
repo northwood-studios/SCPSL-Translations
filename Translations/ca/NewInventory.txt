@@ -1,0 +1,36 @@
+Tarjeta del Conserge:Sense descripció
+Tarjeta del Científic:Sense descripció
+Tarjeta del Supervisor de Recerca:Sense descripció
+Tarjeta del Gestor de la Zona:Sense descripció
+Tarjeta del Guàrdia de Seguretat:Sense descripció
+Tarjeta del Cadet MTF:Sense descripció
+Tarjeta de l'Enginyer:Sense descripció
+Tarjeta del Tinent MTF:Sense descripció
+Tarjeta del Comandant MTF:Sense descripció
+Tarjeta del Gerent de les Instal·lacions:Sense descripció
+Dispositiu d'Accés de l'Insurgent del Caos
+nivell O5 Tarjeta
+Ràdio:SR = Short Range \nMR = Medium Range \nLR = Long Range \nUR = Ultra Range \nUtilitza bateria mentres està encés. Més abast significa més consum de bateria.
+COM-15 Armament Letal:Sense descripció
+Kit de primers auxilis:Et cura de les ferides.
+Llanterma:Visca la llum!
+Micro H.I.D.:Llançador elèctric d'alta intensitat mòbil.
+Moneda:Sense descripció
+Copa:Visca els Cupaires
+Tablet de gerent d'armes:Utilitzat per llançar munició i millorar les teves armes.
+MTF-E11-SR:Sense descripció
+Project 90:Sense descripció
+Dropped 5.56:Sense descripció
+MP7:Sense descripció
+Logicer:Sense descripció
+Granada de fragmentació:Boom!
+Flashbang:Cega a l'enemic.
+Disarmer:Clic esquerre desarma, clic dret deslliga. \Prem E sobre algú desarmat en el teu equip per a deixar-li lliure.
+Dropped 7.62:Sense descripció.
+Dropped 9mm:Sense descripció.
+USP:Sense descripció.
+SCP-018:La super bola és capaç de rebotar amb molta força.
+SCP-268:Quan es porta, et fa invisible temporalment fins que realitzis cap interacció.
+Adrenalina:Augmenta temporalment la resistència al córrer.
+Analgèsics:Alleuja les lesions lleus.
+Moneda:No entenc per què vols portar això per tot arreu...
