@@ -29,5 +29,5 @@ FŐ HANGERŐ
 csatlakozott
 Elmenekültél egy tudósként és csatlakoztál az MTF-hez.
 Elmenekültél és csatlakoztál a Chaos Insurgencyhez.
-A KÖVETKEZŐ VAGY:
-Escape time: [escape_minutes] minutes and [escape_seconds] seconds
+EZ VAGY:
+Elszökési idő: [escape_minutes] perc és [escape_seconds] másodperc
