@@ -8,7 +8,7 @@ IDIOMA
 ANTIALIASING
 MUDAR DETALHES:\nPixels de luz - Numero maximo de fonte de luz em cada pixel.\nV-Sync - Ativa a sincronização com a taxa de atualização do monitor.
 ENTRAR NO JOGO
-PÓS\nPROCESSAMENTO
+PÓS-PROCESSA.
 CRÉDITOS
 SAIR DO JOGO
 Modo tela cheia
@@ -25,7 +25,7 @@ Alterar configurações de pós-processamento: \nEssas alterações geralmente n
 Modo de renderização leve:\nQuando desligado, a qualidade gráfica é significantemente reduzida. Desabilitar essa configuração só é recomendada para computadores mais fracos.
 V-SYNC
 CONECTAR
-CONFIGURAÇÕES DE QUALIDADE
+QUALIDADE
 Muda as preferências de sombra. Geralmente quanto menos sombra, maior é a suavidade da gameplay.
 MENU PRINCIPAL
 MODO DE RENDERIZAÇÃO LEVE
@@ -55,17 +55,17 @@ BAIXANDO DADOS
 NÃO HÁ SERVIDORES DISPONÍVEIS
 APERTE ESC PARA FECHAR / CANCELAR
 CONTROLES
-QUANTIDADE MÁXIMA DE SANGUE
+QUANTIDADE DE SANGUE
 Limite de FPS
 Limite de FPS não funciona quando vSync está ligado!
 Definir controles padrão
 Nós usamos Steam Discussions como um fórum. (Clique no logotipo abaixo para abrir o fórum)
-CONFIGURAÇÕES DE ÁUDIO
+ÁUDIO
 VOLUME MASTER
 MÚSICA DO MENU
 CHAT DE VOZ
 EFEITOS SONOROS
-OPÇÕES DE GAMEPLAY
+GAMEPLAY
 RÁPIDO DESAPARECIMENTO DE INTRODUÇÃO
 Texto de introdução à sua classe sumirá da tela muito mais rapidamente.
 SCP-079 - ALTERNAR MODO DE VISUALIZAÇÃO
