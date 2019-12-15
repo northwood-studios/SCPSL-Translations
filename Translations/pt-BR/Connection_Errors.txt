@@ -1,19 +1,33 @@
-<size=80>VOCÊ FOI EXPULSO</size>\nO servidor foi forçado a terminar a conexão.\n<size=26>\nVocê foi temporariamente banido pelo administrador.\nou não cumpria com o requisitado pelo servidor. (Ex: Conexão com a Steam).</size>
-<size=80>DESCONECTADO</size>\nO host específicado não existe.
-<size=80>DESCONECTADO</size>\nA conexão especificada não existe.
+<size=80>VOCÊ FOI EXPULSO</size>\nO servidor foi forçado à parar a conexão.\n<size=26>\nVocê provavelmente foi temporariamente banido pelo administrador\ou não preenche os requisitos do servidor (Ex: conexão com a Steam).\nPara possíveis banimentos temporários - os autores do jogo <b>NÃO</b> são os responsáveis.\n</size>
+<size=80>DESCONECTADO</size>\nO host especificado não está disponível.
+<size=80>DESCONECTADO</size>\nO ID de conexão especificado não existe.
 <size=80>DESCONECTADO</size>\nO canal especificado não existe.
-<size=80>DESCONECTADO</size>\nO servidor está cheio.
-<size=80>DESCONECTADO</size>\nPacote errado recebido.
-<size=80>DESCONECTADO</size>\nConexão perdida (tempo esgotado).
-<size=80>DESCONECTADO</size>\nconexão perdida (tempo esgotado).
-<size=80>DESCONECTADO</size>\nA operacão não é suportada.
-<size=80>DESCONECTADO</size>\nConfiguração do servidor errada (Versão não compativel).
-<size=80>DESCONECTADO</size>\nConfiguração do servidor errada.
-<size=80>DESCONECTADO</size>\nO endereço fornecido para conexão é inválido ou não pode ser resolvido.
-<size=80>DESCONECTADO</size>\nFoi detectado um problema inesperado.
-<size=80>ESPERE UM MOMENTO</size>\n<size=35>Estabilizando conexão...</size>
-<size=80>REINICIANDO PARTIDA</size>\n<size=35>O servidor está reiniciando...</size>
-<size=80>ESPERE UM MOMENTO</size>\n<size=35>Carregando tutorial...</size>
-<size=80>VERSÃO INCOMPATÍVEL</size>\nA sua versão do jogo é diferente da versão do servidor.\n(Sua versão - [your]; Versão do servidor - [server])
-<size=80>CONECTANDO</size>\n<size=35>Carregando o nível...</size>
+<size=80>DESCONECTADO</size>\nServidor está cheio.
+<size=80>DESCONECTADO</size>\nUm pacote de dados errado foi recebido.
+<size=80>DESCONECTADO</size>\nConexão perdida(tempo limite excedido).
+<size=80>DESCONECTADO</size>\nConexão perdida(tempo limite excedido).
+<size=80>DESCONECTADO</size>\nOperação não é suportada.
+<size=80>DESCONECTADO</size>\nA versão do seu jogo é diferente da versão do servidor.
+<size=80>DESCONECTADO</size>\nConfiguração de servidor inválida.
+<size=80>DESCONECTADO</size>\nO endereço é inválido ou não pôde ser resolvido.
+<size=80>DESCONECTADO</size>\nOcorreu um problema inesperado!
+<size=80>POR FAVOR AGUARDE</size>\n<size=35>Estabelecendo conexão...</size>
+<size=80>REINÍCIO DE RODADA</size>\n<size=35>A rodada está reiniciando...</size>
+<size=80>POR FAVOR AGUARDE</size>\n<size=35>Carregando tutorial...</size>
+<size=80>INCOMPATIBILIDADE DE VERSÕES</size>\nA versão do seu jogo é diferente da versão do servidor\n(Versão do seu jogo - [your]; Versão do servidor - [server])
+<size=80>CONECTADO</size>\n<size=35>Carregando o nível...</size>
 <size=35>Carregando a instalação...</size>
+<size=80>DESCONECTADO</size>\nErro inespecífico ocorreu no servidor.
+<size=80>DESCONECTADO</size>\nEsse servidor requer autenticação pelos servidores centrais.
+<size=80>DESCONECTADO</size>\nVocê não está na lista desse servidor de pessoas autorizadas.
+<size=80>DESCONECTADO</size>\nVocê foi banido globalmente.
+<size=80>DESCONECTADO</size>\nVocê foi banido globalmente: [reason].
+<size=80>DESCONECTADO</size>\nVocê foi banido desse servidor.
+<size=80>DESCONECTADO</size>\nVocê foi banido desse servidor.\nO banimento expira em: [date] [time]
+<size=80>DESCONECTADO</size>\nYour authentication token has expired.\nServer might have invalid time or timezone set.\nPlease contact an server administrator.
+<size=80>DESCONECTADO</size>\nVocê foi limitado por excesso de tentativas. Tente novamente em alguns segundos.
+<size=80>DESCONECTADO</size>\nServidor não está aceitando conexões da sua localização geográfico.\nO nome do servidor ou INFO pode conter mais detalhes.
+<size=80>DESCONECTADO</size>\nVocê foi expulso por uma modificação do servidor.\n\nMotivo: [reason]\nIsso é uma modificação do servidor, não uma característica do jogo.\nEntre em contato com um administrador do servidor para mais informações.
+<size=80>DESCONECTADO</size>\nSeu token de autenticação foi rejeitado pelo servidor.\nPor favor reinicie o jogo e tente de novo ou entre em contato com o suporte técnico do estúdio.
+<size=80>DESCONECTADO</size>\nVocê foi banido desse servidor.\nMotivo: [reason]
+<size=80>DESCONECTADO</size>\nVocê foi banido desse servidor.\nO banimento expira em: [date] [time]\nMotivo: [reason]

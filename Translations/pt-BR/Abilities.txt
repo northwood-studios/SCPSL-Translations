@@ -5,7 +5,7 @@ Inventário:Abre seu inventário e seleciona um item que você pegou usando o bo
 Desarmado:Você não tem nada. Ache algo. Qualquer coisa.
 Cartão de Acesso:Você tem um cartão de acesso, não é o melhor mas não o perca.
 Standard Issue:Você é equipado com um Rifle, Granadas, um Rádio, um Desarmador e um Cartão de Acesso.
-Armado & Perigoso:Você tem uma Metralhadora Leve, uma ferramenta hacker (cartão de acesso), e um Kit de Primeiros Socorros. 
+Armado & Perigoso:Você tem uma Metralhadora Leve, uma ferramenta hacker (cartão de acesso), e um Kit de Primeiros Socorros.
 Velocidade Surpreendente:Quando nenhum humano consegue te ver, você se move muito rapidamente. Se você está sendo diretamente observado por um humano, você não pode se mover ou atacar, mas todos os humanos que te observam irão piscar simultaneamente a cada alguns segundos, o que te permite agir.
 Pânico:Você se mexe mais rápido quanto mais sua vida cai.
 Buraco:Você consegue colocar uma piscina preta de corrosão e se teleportar de volta à ela a qualquer momento. Teleportar-se demora alguns segundos.\nVocê pode mover o seu buraco ao colocá-lo de novo.
@@ -19,7 +19,7 @@ Ultrassensível:Você não consegue ver humanos ao menos que eles corram, encost
 Predador:Seus passos são silenciosos. Segurando a tecla designada aumenta sua velocidade, mas torna seu movimento audível.
 Imitar:Você pode falar com jogadores próximos, incluindo humanos.
 Mordida:Ataca um humano, instantaneamente dando uma quantidade severa de dano à ele.
-Antídoto:Enconsta em um humano próximo, instantaneamente matando ele. 
+Antídoto:Enconsta em um humano próximo, instantaneamente matando ele.
 A Cura:Reanima um humano recentemente morto. Humanos curados jogam como zumbis com movimento rápido e pouca vida.\nNão há limite sobre quantos humanos podem ser reanimados.
 Ataque:Ataca um humano próximo dando uma quantidade moderada de dano à ele.
 Abrir/Fechar Portas:Você pode interagir com portas para abrir ou fechá-las por 5 de AP. Você também pode trancá-las, o que drena seu AP mas também previne qualquer um de abrir ou fechá-las até que você as destranque ou que seu AP se esgote.
