@@ -14,4 +14,4 @@ Az Alpha robbanófej nem volt felrobbantva ezen a küldetésen.
 Ez a küldetés [summary_round_minutes] percig és [summary_round_seconds] mp-ig tartott.
 [summary_scp_terminated] likvidált SCP
 a következő kör [summary_next_round_countdown] mp múlva.
-You have dealed [summary_damages] damages, and killed [summary_kills] players.
+[summary_damages] sebzést okoztál, és megöltél [summary_kills] játékost.
