@@ -1,6 +1,6 @@
 Mate todos\nNão deixe ninguém escapar\nCoopere com os outros <color=#f00>SCPs</color>
 Fuja da instalação\nCoopere com a <color=#008f1e>Insurgência do Caos</color>\nEvite os <color=#f00>SCPs</color> e o pessoal da fundação (<color=#808080>Guarda</color>, <color=#FFFF7CFF>Cientista</color> e <color=#0096FF>MTF</color>)
-Você será respawnado logo.
+Você ressurgirá logo.
 Mate todos\nNão deixe ninguém escapar\nCoopere com os outros <color=#f00>SCPs</color>
 Ajude os <color=#FFFF7CFF>Cientistas</color> a escapar\nContenha os <color=#f00>SCPs</color> e elimine a <color=#008f1e>Insurgência do Caos</color> e o <color=#FF8E00>Pessoal Classe-D</color>
 Mate todos\nNão deixe ninguém escapar\nCoopere com os outros <color=#f00>SCPs</color>

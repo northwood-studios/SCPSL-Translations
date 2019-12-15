@@ -5,12 +5,12 @@ Apodreceu na Dimensão de Bolso.
 É uma sobra do SCP-106 agora.
 Queimaduras elétricas severas.
 Trauma físico fatal; o corpo está mutilado e amassado.
-Vários tiros de munição de [ammotype] ao redor do corpo.
+Vários tiros de munição de {0} ao redor do corpo.
 Fratura cervical na base do crânio.
 Quantidades massivas de apodrecimento de tecido estão presentes no corpo.
 Parada repentina de sinais de vida. Não há um trauma claro.
 Causa da morte desconhecida.
-É o corpo de <b>[user]</b>, ele(a) era [class]!\n\nCausa da morte: [cause]
+É o corpo de <b>{0}</b> - ele(a) era {1}!\n\nCausa da morte: {2}
 Lacerações massivas e perda de sangue excessiva.
 Grandes, profundas marcas de mordidas ao redor do crânio são observadas.
 Derretido(a) por uma substância altamente corrosiva.

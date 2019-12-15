@@ -1,7 +1,7 @@
-SCP-173 não consegue se mexer ou atacar enquanto estiver sendo observado. A escultura é um teror contra classes desarmadas ou grupos pequenos, mas deve se aproximar lutas armadas com cautela.
-Pessoas descartáveis usadas pela Fundação para testar anomalias. Seu objetivo primário é escapar da instalação, evitando <color=#f00>SCPs</color> e <color=#0096FF>MTF</color>.\n<color=#008f1e>Insurgentes do Caos</color> ajuda eles a escaparem.
-Você respawnará logo.\nNo meio tempo aproveite e assista tudo dando errado.
-SCP-106 is a slow, hardy tank - an unstoppable force capable of easily bypassing any door in the facility.
+SCP-173 não consegue se mexer ou atacar enquanto estiver sendo observado. A escultura é um terror contra classes desarmadas ou grupos pequenos, mas deve se aproximar lutas armadas com cautela.
+Pessoas descartáveis usadas pela Fundação para testar anomalias. Seu objetivo primário é escapar da instalação, evitando <color=#f00>SCPs</color> e <color=#0096FF>MTF</color>.\n<color=#008f1e>Insurgentes do Caos</color> ajudam eles a escaparem.
+Você ressurgirá logo.\nEnquanto isso, aproveite e assista tudo dando errado.
+SCP-106 é um tanque devagar e resistente- uma força imparável capaz de facilmente atravessar qualquer porta na instalação.
 Um membro de uma força tarefa de elite que responde à fugas de contenção, garantindo a segurança da Fundação. Seu objetivo primário é eliminar todos <color=#f00>SCPs</color>, <color=#008f1e>Insurgentes do Caos</color> e <color=#FF8E00>Classe-D</color>, assim como escoltar <color=#FFFF7CFF>Cientistas</color> para a segurança.
 Devagar e frágil, SCP-049 se especializa em ser um predador que embosca, capaz de rapidamente virar o jogo com hordas de pessoas "curadas".
 Pessoas da Fundação cuja tarefa é a pesquisa de objetos anômalos. Seu objetivo primário é escapar da instalação, evitando <color=#f00>SCPs</color> e <color=#008f1e>Insurgentes do Caos</color>. <color=#0096FF>MTF</color> os ajuda em escapar.

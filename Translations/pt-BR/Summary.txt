@@ -3,15 +3,15 @@ SCPs GANHARAM
 MTF GANHOU
 CLASSE-D GANHOU
 EMPATE
-Eles são responsáveis por matar [summary_scpfrags] seres humanos.
+Eles são responsáveis por matar {0} seres humanos.
 Ameaça exterminada. Este lugar agora é seguro novamente.
 Toda a segurança da Fundacao foi exterminada.
 Ambos os lados sofreram perdas e se beneficiaram grandemente. O vencedor é indeterminado.
-[summary_d_escaped] classe-d escaparam
-[summary_s_escaped] cientista(s) sobreviveram
-Detonação da Ogiva Nuclear Alfa exterminou [summary_warhead_kills] seres.
+{0} classe-d escaparam
+{0} cientista(s) sobreviveram
+Detonação da Ogiva Nuclear Alfa exterminou {0} seres.
 A Ogiva Nuclear Alfa não foi detonada durante esta missão.
-A missão levou [summary_round_minutes] minutos e [summary_round_seconds] segundos.
-[summary_scp_terminated] SCPs exterminados.
-próxima rodada em [summary_next_round_countdown] segundos.
-Você deu [summary_damages] de dano, e matou [summary_kills] jogadores.
+A missão levou {0} minutos e {1} segundos.
+{0} SCPs exterminados.
+próxima rodada em {0} segundos.
+Você deu {0} de dano, e matou {1} jogadores.

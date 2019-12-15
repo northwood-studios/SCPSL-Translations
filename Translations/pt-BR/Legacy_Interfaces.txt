@@ -8,7 +8,7 @@ SCPs mortos/contidos
 Ogiva Nuclear Alfa
 Detonado
 Não usado
-A próxima rodada iniciará em [time] segundos.
+A próxima rodada iniciará em {0} segundos.
 HABILIDADE ESPECIAL
 CRIAR BURACO
 USAR BURACO

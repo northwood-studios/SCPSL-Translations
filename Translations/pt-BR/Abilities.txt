@@ -22,8 +22,8 @@ Mordida:Ataca um humano, instantaneamente dando uma quantidade severa de dano à
 Antídoto:Enconsta em um humano próximo, instantaneamente matando ele.
 A Cura:Reanima um humano recentemente morto. Humanos curados jogam como zumbis com movimento rápido e pouca vida.\nNão há limite sobre quantos humanos podem ser reanimados.
 Ataque:Ataca um humano próximo dando uma quantidade moderada de dano à ele.
-Abrir/Fechar Portas:Você pode interagir com portas para abrir ou fechá-las por 5 de AP. Você também pode trancá-las, o que drena seu AP mas também previne qualquer um de abrir ou fechá-las até que você as destranque ou que seu AP se esgote.
-Sobrecarga de Tesla:Você pode ativar um Portão de Tesla por 50 de AP para instantaneamente ativá-lo, matando quaisquer jogadores nele ou perto dele.
+Abrir/Fechar Portas:Você pode interagir com portas para abrir ou fechá-las por 5 de PA. Você também pode trancá-las, o que drena seu PA mas também previne qualquer um de abrir ou fechá-las até que você as destranque ou que seu PA se esgote.
+Sobrecarga de Tesla:Você pode clicar em um Portão de Tesla por 50 de PA para instantaneamente ativá-lo, matando quaisquer jogadores nele ou perto dele.
 Confinamento:A partir do Nível de Acesso 3, você pode interagir com algumas salas para trancá-las, apagando todas as luzes e fechando todas as portas. Enquanto em salas trancadas, humanos não conseguem ver o SCP-173.
-Virtualmente Indestrutível:Cinco geradores spawnam na Zona de Contenção Pesada. Se todos eles forem desbloqueados e ativados, você se torna recontido.\nGeradores tem uma contagem regressiva que qualquer jogador consegue interromper ao pressionar o botão "CANCEL" no gerador.
+Virtualmente Indestrutível:Cinco geradores ressurgem na Zona de Contenção Pesada. Se todos eles forem desbloqueados e ativados, você se torna recontido.\nGeradores tem uma contagem regressiva que qualquer jogador consegue interromper ao pressionar o botão "CANCEL" no gerador.
 Estalo de Pescoço:Segure ou clique para quebrar o pescoço de um humano, instantaneamente o matando contanto que ele não consiga te ver ou esteja piscando.

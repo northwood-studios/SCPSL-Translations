@@ -1,5 +1,5 @@
 VOCÊ MORREU
-Pressione {KEYBINDING_INTERACTION} para colocar o <color=yellow>Tablet gerenciador de armas</color>.
-Pressione {KEYBINDING_INTERACTION} para pegar o <color=yellow>Tablet gerenciador de armas</color>.
+Pressione {0} para colocar o <color=yellow>Tablet gerenciador de armas</color>.
+Pressione {0} para pegar o <color=yellow>Tablet gerenciador de armas</color>.
 Esta <color=yellow>área de trabalho</color> já tem o <color=yellow>Tablet gerenciador de armas</color> de alguém conectado.
 Você precisa de um<color=yellow>Tablet gerenciador de armas</color> para usar essa <color=yellow>área de trabalho</color>.

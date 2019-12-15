@@ -32,5 +32,5 @@ USP:Nenhuma descrição.
 SCP-018:Superbola capaz de quicar com extrema eficiência.
 SCP-268:Quando usado, temporariamente te torna invisível a menos que seja interrompido por qualquer interação do usuário.
 Adrenalina:Temporariamente aumenta resistência.
-Analgésicos:Alivia ferimentos leves.
+Analgésico:Alivia ferimentos leves.
 Moeda:Você não tem certeza por que você iria querer andar com isso...

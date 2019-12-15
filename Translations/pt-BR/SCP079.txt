@@ -1,7 +1,7 @@
 ENERGIA AUXILIAR
 EXPERIÊNCIA
 FEED DE CÂMERAS ONLINE
-PRESSIONE [KEY] PARA ALTERNAR PRO MAPA DE VIGILÂNCIA
+PRESSIONE {0} PARA ALTERNAR PRO MAPA DE VIGILÂNCIA
 Experiência ganha:
 Trabalho cooperativo
 Assistência na eliminação do classe-D
@@ -9,7 +9,7 @@ Assistência na eliminação do I. C.
 Assistência na eliminação do MTF
 Assistência na eliminação do cientista
 Assistência na eliminação do SCP
-PORTAS BLOQUEADAS: [LOCKED_NUM]<size=25>BOTÃO DIREITO DO MOUSE PARA DESBLOQUEAR TODAS</size>
+PORTAS BLOQUEADAS: {0}<size=25>BOTÃO DIREITO DO MOUSE PARA DESBLOQUEAR TODAS</size>
 Interações gerais
 Você está sendo atacado!
 Geradores foram destacados no mapa
