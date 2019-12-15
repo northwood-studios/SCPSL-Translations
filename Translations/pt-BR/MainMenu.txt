@@ -1,61 +1,87 @@
 ENTRAR
 FECHAR
 RESOLUÇÃO DA SOMBRAS
-OPÇÕES
+CONFIGURAÇÕES
 BASEADO EM <i>SCP: CONTAINMENT BREACH</i>
 VOLTAR
 IDIOMA
 ANTIALIASING
-TROCAR DETALHES:\nPixels de luz - Numero maximo de fonte de luz em cada pixel.\nV-Sync - Ativa a sincronização com a taxa de atualização do monitor.
+MUDAR DETALHES:\nPixels de luz - Numero maximo de fonte de luz em cada pixel.\nV-Sync - Ativa a sincronização com a taxa de atualização do monitor.
 ENTRAR NO JOGO
-PROCESSA\nMENTO
-CREDITOS
+PÓS\nPROCESSAMENTO
+CRÉDITOS
 SAIR DO JOGO
-Modo Tela cheia
-RESOLUÇÃO
+Modo tela cheia
+CONFIGURAÇÕES DE TELA
 CORREÇÃO DE COR
-Digite o endereço IP ...
+Digite o endereço de IP...
 RESOLUÇÃO
 JOGAR
-PIXELS DE LUZ
-SOMBRA
-SOMBRA
+CONTAGEM DE PIXEIS DE LUZ
+TIPO DE SOMBRA
+SOMBRAS
 CRIAR JOGO
-Alterar configurações de pós-processamento: \nEssas alterações não afetam o desempenho. É recomendado deixar os valores no padrão.
-Modo de renderização leve:\nQuando ligado - deixa o jogo com graficos ruims. é recomendado liga-lo caso tenha um computador fraco.
+Alterar configurações de pós-processamento: \nEssas alterações geralmente não afetam o desempenho, deixar os valores padrões é recomendado.
+Modo de renderização leve:\nQuando desligado, a qualidade gráfica é significantemente reduzida. Desabilitar essa configuração só é recomendada para computadores mais fracos.
 V-SYNC
 CONECTAR
-GRÁFICOS
-Ao alterar as configurações de sombra, quanto menos sombra, melhor o desempenho do jogo.
+CONFIGURAÇÕES DE QUALIDADE
+Muda as preferências de sombra. Geralmente quanto menos sombra, maior é a suavidade da gameplay.
 MENU PRINCIPAL
 MODO DE RENDERIZAÇÃO LEVE
 MOTION BLUR
-DISTANCIA DA SOMBRA
+DISTÂNCIA DA SOMBRA
 DETALHES
 3. SCP-914
 TUTORIAIS
 ATENÇÃO
 Pesquisar servidores disponíveis
 Não mostrar isso denovo
-Gostaria de se conectar ?
+Gostaria de se conectar?
 LISTA DE SERVIDORES
 OK
 PROCURAR PARTIDA
 2. Usando armas
-Usamos Discord como forum. Instalação não requerida.\n(Clique no logo para abrir)
-Por padrão, o servidor será iniciado em rede local.\nSeus amigos precisarão do endereço IP para se conectar.\nSe você quiser configurar um servidor público, selecione o arquivo LocalAdmin.exe e siga as instruções.\nCaso tiver alguma pergunta, por favor, pergunte ao nosso suporte técnico (link no menu principal)
+Usamos Discord como fórum. Instalação não é requerida.\n(clique no logotipo para abrir)
+Por padrão, o servidor será iniciado em rede local.\nSeus amigos precisarão do endereço de IP direto para se conectar.\nSe você quiser configurar um servidor público, selecione o arquivo LocalAdmin.exe e siga as instruções.\nCaso tiver alguma pergunta, por favor, pergunte ao nosso suporte técnico (link no menu principal)
 1. O Basico
 O jogo apresentado esta em "public beta".\nTalves experiencie poblemas de conexão e outros bugs.\nA versão atual do jogo não reflete de maneira alguma a versão final do jogo.
 4. (mais tutorias logo...)
 CONEXÃO DIRETA
-SUPORTE TECNICO / FORUM
+SUPORTE TÉCNICO / FÓRUM
 VOLUME
-Entre em um servidor a partir do endereço IP.
+Coloque o endereço de IP do servido específico.
 BAIXANDO DADOS
-SEM SERVIDORES DISPONÍVEIS
-APERTE ESC PARA CANCELAR / FECHAR
+NÃO HÁ SERVIDORES DISPONÍVEIS
+APERTE ESC PARA FECHAR / CANCELAR
 CONTROLES
-QUANTIDADE DE SANGUE
+QUANTIDADE MÁXIMA DE SANGUE
 Limite de FPS
-Limite de FPS não funciona quando V-sync está ligado.
+Limite de FPS não funciona quando vSync está ligado!
 Definir controles padrão
+Nós usamos Steam Discussions como um fórum. (Clique no logotipo abaixo para abrir o fórum)
+CONFIGURAÇÕES DE ÁUDIO
+VOLUME MASTER
+MÚSICA DO MENU
+CHAT DE VOZ
+EFEITOS SONOROS
+OPÇÕES DE GAMEPLAY
+RÁPIDO DESAPARECIMENTO DE INTRODUÇÃO
+Texto de introdução à sua classe sumirá da tela muito mais rapidamente.
+SCP-079 - ALTERNAR MODO DE VISUALIZAÇÃO
+Aperte uma vez para trocar entre modos de câmera.
+SCP-079 - PÓS-PROCESSAMENTO
+Se desativado, efeitos de câmera serão fortemente reduzidos.
+BALANÇO DE CABEÇA
+Habilita o movimento da câmera em primeira pessoa durante movimento.
+ALTERNAR CORRIDA
+Sua velocidade alterna entre normal e correr ao aperto de um botão, em vez de ter que segurá-lo.
+SEPARATE ARTIFICIAL HP BAR
+Dá para o HP artifical sua própria barra de vida, em vez de uma sobreposição.
+Nossas traduções são open-source no GitHub!\nQuer ajudar? Clique aqui para acessar o site.
+PRESENÇA RICA
+Se habilitado, seu status será exibido no Discord/Steam
+EXIBIR VALOR EXATO DO HP
+Exibe o seu HP exato, em vez de apenas a porcentagem.
+SAGUÃO PÚBLICO
+Se habilitado, seus amigos da steam poderão se juntar à você sem permissão.

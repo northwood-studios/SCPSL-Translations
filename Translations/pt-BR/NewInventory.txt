@@ -1,31 +1,36 @@
-Cartao de Zelador:Nenhuma descrição
-Cartao de Cientista:Nenhuma descrição
-Cartao de Cientista Major:Nenhuma descrição
-Cartao de Diretor de Zona:Nenhuma descrição
-Cartao de Guarda:Nenhuma descrição
-Cartao de Recruta NTF:Nenhuma descrição
-Cartao de Engenheiro de contencao:Nenhuma descrição
-Cartao de Tenente NTF:Nenhuma descrição
-Cartao de Comandante NTF:Nenhuma descrição
-Cartao de Gerente da instalacao:Nenhuma descrição
-Dispositivo da Insurgencia do Caos
-Cartao O5
-Radio:SR = Curto Alcance \nMR = Medio  Alcance \nLR = Longo Alcance \nUR = Ultra Alcance \nUsa bateria enquanto ligado. Maior alcance significa maior uso de bateria.
+Cartão de Zelador:Nenhuma descrição
+Cartão de Cientista:Nenhuma descrição
+Cartão de Cientista Major:Nenhuma descrição
+Cartão de Diretor de Zona:Nenhuma descrição
+Cartão de Guarda:Nenhuma descrição
+Cartão de Recruta NTF:Nenhuma descrição
+Cartão de Engenheiro de contencao:Nenhuma descrição
+Cartão de Tenente NTF:Nenhuma descrição
+Cartão de Comandante NTF:Nenhuma descrição
+Cartão de Gerente da instalacao:Nenhuma descrição
+Dispositivo de Acesso da Insurgência do Caos
+Cartão de nível O5
+Rádio:SR = Curto Alcance \nMR = Médio  Alcance \nLR = Longo Alcance \nUR = Ultra Alcance \nUsa bateria enquanto ligado. Maior alcance significa maior uso de bateria.
 Pistola COM15:Nenhuma descrição
-Kit medico:Cura seus ferimentos.
+Kit médico:Cura seus ferimentos.
 Lanterna:Que haja luz!
-Micro H.I.D.:Lancador de descarga eletrica movel de alta intensidade.
-Moeda:Pode ser usada no SCP-294
-Copo:Usado para acondicionar pequenas porções de líquidos.
-Gerenciador de arma:Usado para soltar municao, atualizar suas armas & sobrecarregar os geradores.
+Micro H.I.D.:Lancador móvel de descarga elétrica de alta intensidade.
+SCP-500:A panaceia.
+SCP-207:Aumenta as habilidades motoras de modo prejudicial.
+Tablet gerenciador de armas:Usado para soltar munição & atualizar suas armas.
 MTF-E11-SR:Nenhuma descrição
 P90:Nenhuma descrição
-Municao de 5.56:Utilizada nas armas MTF-E11-SR
+Munição de 5.56:Utilizada nas armas MTF-E11-SR
 MP7:Nenhuma descrição
 Logicer:Nenhuma descrição
 Granada de Fragmentacao:Xablau!
 Granada de Luz:Cega seus inimigos.
-Desarmador:Botao esquerdo para desarmar, botao direito para soltar. \nSegure E em alguem que esta desarmado em sua equipe para liberta-los.
-Municao de 7.62:Utilizada nas armas Logicer e MP7.
-Municao de 9mm:Utilizada nas armas COM15, P90 e USP.
+Desarmador:Botão esquerdo desarma, botão direito solta. \nSegure E em alguém que está desarmado em sua equipe para libertá-los.
+Munição de 7.62:Utilizada nas armas Logicer e MP7.
+Munição de 9mm:Utilizada nas armas COM15, P90 e USP.
 USP:Nenhuma descrição.
+SCP-018:Superbola capaz de quicar com extrema eficiência.
+SCP-268:Quando usado, temporariamente te torna invisível a menos que seja interrompido por qualquer interação do usuário.
+Adrenalina:Temporariamente aumenta resistência.
+Analgésicos:Alivia ferimentos leves.
+Moeda:Você não tem certeza por que você iria querer andar com isso...

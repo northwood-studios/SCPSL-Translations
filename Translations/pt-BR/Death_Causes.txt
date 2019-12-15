@@ -1,17 +1,19 @@
-Morreu por uma explosão.
-A queda terminou com sua vida.
-Morreu para re-conter o SCP-106.
-Se perdeu na "Pocket Dimension".
-É um pedaço de SCP-106 agora.
-Choque elétrico de alta voltagem.
-Esmagado por uma estrutura grande.
-Varios tiros ao redor de seu corpo. Provavelmente, munição de [ammotype] foi usada.
-Pescoço quebrado.
-Não sobreviveu ao encontrar o SCP-106.
-Foi curado da "praga".
-Morte desconhecida.
-É o corpo de <b>[user]</b>, ele era [class]!\n\nCausa da morte: [cause]
-Estraçalhado em pedaços pelo SCP-096.
-Mordida poderosa para o crânio.
-Derretido por substância fortemente corrosiva.
-Feridas pós-explosão.
+Vaporizado pela Ogiva Nuclear Alfa.
+Pernas e pés estilhaçados sugerem trauma fatal causado por uma queda. 
+Sinais de trauma severo em ambos fêmurs sugerem morte por um choque circulatório.
+Apodreceu na Dimensão de Bolso.
+É uma sobra do SCP-106 agora.
+Queimaduras elétricas severas.
+Trauma físico fatal; o corpo está mutilado e amassado.
+Vários tiros de munição de [ammotype] ao redor do corpo.
+Fratura cervical na base do crânio.
+Quantidades massivas de apodrecimento de tecido estão presentes no corpo.
+Parada repentina de sinais de vida. Não há um trauma claro.
+Causa da morte desconhecida.
+É o corpo de <b>[user]</b>, ele(a) era [class]!\n\nCausa da morte: [cause]
+Lacerações massivas e perda de sangue excessiva.
+Grandes, profundas marcas de mordidas ao redor do crânio são observadas.
+Derretido(a) por uma substância altamente corrosiva.
+Estilhaços de granada e queimaduras de terceiro grau causadas por uma explosão.
+Pele pálida e sangue vazando pela boca sugerem hemorragia interna causada por ingestão de substância.
+Recontido por um humano.
