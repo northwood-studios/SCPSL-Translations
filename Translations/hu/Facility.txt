@@ -29,5 +29,5 @@ FŐ HANGERŐ
 csatlakozott
 Elmenekültél egy tudósként és csatlakoztál az MTF-hez.
 Elmenekültél és csatlakoztál a Chaos Insurgencyhez.
-Ez vagy:
+EZ VAGY:
 Ennyi idő alatt szöktél el: {0} perc és {1} másodperc
