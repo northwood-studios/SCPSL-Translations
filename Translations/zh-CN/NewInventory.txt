@@ -17,7 +17,7 @@ COM-15便携式手枪:No description
 Micro H.I.D.:便携式高压电浆喷射器。
 SCP-500:万能药。
 SCP-207:提升行动能力，同时逐渐损坏你的身体。
-武器控制面板:用来丢下弹药，放置在工作台上可以改装枪械，放置在发电机上可以启动其开启倒数。
+武器控制面板:用于丢下弹药，放置在工作台上可以改装枪械，放置在发电机上可以启动其开启倒数。
 MTF-E11-SR制式步枪:No description
 Project 90冲锋枪:No description
 掉落的5.56弹药:No description
