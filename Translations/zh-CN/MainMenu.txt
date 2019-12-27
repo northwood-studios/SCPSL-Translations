@@ -2,7 +2,7 @@
 关闭
 阴影解析度
 设置
-基于游戏：<i>SCP:收容失效 (SCP:Containment Breach)</i>
+基于游戏：<i>SCP:收容失效</i>
 返回
 语言选择
 抗锯齿
