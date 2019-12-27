@@ -29,7 +29,7 @@ Logicer轻机枪:No description
 掉落的7.62弹药:No description.
 掉落的9mm弹药:No description.
 USP手枪:No description.
-SCP-018:具有极大势能的弹力球。
+SCP-018:具有极大弹性势能的弹力球。
 SCP-268:戴上后将在短时间内隐形，任何交互行为都将打断效果。
 肾上腺素:临时提升对疼痛的忍性。
 止痛药:缓和轻伤。
