@@ -34,7 +34,7 @@ Schattenabstand
 Details
 3. SCP-914
 TUTORIALS
-WARNUNG
+ACHTUNG
 Suche nach verfügbaren Servern.
 Nicht nochmal anzeigen
 Wie würdest du gerne beitreten?
