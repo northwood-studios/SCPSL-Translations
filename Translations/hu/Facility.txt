@@ -17,7 +17,7 @@ EGÉR ÉRZÉKENYSÉG
 FELTÖRÉS
 FELVÉTEL...
 A fényerő emelése <b>jelentősen rontja a hangulatát </b>a játéknak.\nPróbáld olyan alacsonyan tartani amennyire csak lehet.\n<b>Az eredeti érték ajánlott.</b>
-{1} AJTÓ NYITÁSA/ZÁRÁSA\n{2} ZÁRT AJTÓ*\n\n*Az ajtó zárása a speciális képességgel történik
+[1] AJTÓ NYITÁSA/ZÁRÁSA\n[2] ZÁRT AJTÓ*\n\n*Az ajtó zárása a speciális képességgel történik
 AZ AJTÓ ZÁRVA SCP-079 ÁLTÁL
 Teljes képernyős mód
 Biztosan le szeretnél csatlakozni a szerverről?
