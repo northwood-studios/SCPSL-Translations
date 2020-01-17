@@ -31,3 +31,6 @@
 <size=80>DISCONNECTED</size>\nYour authentication token has been rejected by the server.\nPlease restart the game and again or contact studio technical support.
 <size=80>DISCONNECTED</size>\nYou have been banned from this server.\nReason: [reason]
 <size=80>DISCONNECTED</size>\nYou have been banned from this server.\nBan expires: [date] [time]\nReason: [reason]
+<size=80>Please wait</size>\nProcessing server security verification...
+<size=80>DISCONNECTED</size>\nFailed to process server security verification.
+<size=80>DISCONNECTED</size>\nProcessing of server security verification was too slow for the server.\nPlease try again or contact server administrator.

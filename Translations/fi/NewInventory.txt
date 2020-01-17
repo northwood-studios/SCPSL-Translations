@@ -32,4 +32,5 @@ USP:Ei kuvausta.
 SCP-018:Superpallo joka kykenee pomppimaan erittäin tehokkaasti.
 SCP-268:Puettuna tekee sinut väliaikaisesti näkymättömäksi, ellei käyttäjä keskeytä sitä.
 Adrenaliini:Tilapäisesti lisää kestävyyttä.
-Painkillers:Paranna pieniä vammoja.
+Kipulääke:Paranna pieniä vammoja.
+Kolikko:Et tiedä miksi kannat tätä mukanasi...

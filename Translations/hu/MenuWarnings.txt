@@ -1,0 +1,4 @@
+FIGYELEM
+RENDBEN
+<b>Intel graphics</b> észlelve, ami <b>nem támogatott</b>./n<b>Ajánlott</B>, hogy <b>nem integrált</b> videokártyát használj./nA játék <b>többször összeomolhat</b> a jelenlegi beállításokkal.
+Egy fontos rendszerfrissítés - ami a hangos csevegéshez szükséges - nem található meg a számítógépen. Kérlek ellenőrízd, hogy a Windows legújabb verziója fut a számítógépen, ellenkező esetben a játék lehet, hogy nem fog rendeltetés szerűen működni. Ha a hiba továbbra is fennáll, kérlek vedd fel a kapcsolatot a "Tech-Support" csapatunkkal további segítségkérésért.

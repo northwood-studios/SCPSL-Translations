@@ -18,6 +18,8 @@ fi:
  - Translations/fi/*
 fr: 
  - Translations/fr/*
+fr-CA:
+ - Translations/fr-CA/*
 hu: 
  - Translations/hu/*
 it: 
