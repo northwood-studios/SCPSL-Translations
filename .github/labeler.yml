@@ -1,26 +1,60 @@
-readme: README.md
-credits: Translations/credits.txt
-en: Translations/English (default)/**/*
-cs: Translations/cs/**/*
-da: Translations/da/**/*
-de: Translations/de/**/*
-es: Translations/es/**/*
-fi: Translations/fi/**/*
-fr: Translations/fr/**/*
-hu: Translations/hu/**/*
-it: Translations/it/**/*
-ja: Translations/ja/**/*
-ko: Translations/ko/**/*
-lv: Translations/lv/**/*
-nb: Translations/nb/**/*
-nl: Translations/nl/**/*
-pl: Translations/pl/**/*
-pt-BR: Translations/pt-BR/**/*
-pt: Translations/pt/**/*
-ru: Translations/ru/**/*
-sk: Translations/sk/**/*
-th: Translations/th/**/*
-tr: Translations/tr/**/*
-uk: Translations/uk/**/*
-zh-Hans: Translations/zh-Hans/**/*
-zh-Hant: Translations/zh-Hant/**/*
+readme: 
+ - README.md
+steam-achievements:
+ - Steam-Translations/Achievements/*
+steam-richpresence:
+ - Steam-Translations/Rich Presence/*
+credits: 
+ - Translations/credits.txt
+en: 
+ - Translations/English (default)/*
+ca:
+ - Translations/ca/*
+cs: 
+ - Translations/cs/*
+da: 
+ - Translations/da/*
+de: 
+ - Translations/de/*
+es: 
+ - Translations/es/*
+fi: 
+ - Translations/fi/*
+fr: 
+ - Translations/fr/*
+fr-CA:
+ - Translations/fr-CA/*
+hu: 
+ - Translations/hu/*
+it: 
+ - Translations/it/*
+ja: 
+ - Translations/ja/*
+ko: 
+ - Translations/ko/*
+lv: 
+ - Translations/lv/*
+nb: 
+ - Translations/nb/*
+nl: 
+ - Translations/nl/*
+pl: 
+ - Translations/pl/*
+pt-BR: 
+ - Translations/pt-BR/*
+pt: 
+ - Translations/pt/*
+ru: 
+ - Translations/ru/*
+sk: 
+ - Translations/sk/*
+th: 
+ - Translations/th/*
+tr: 
+ - Translations/tr/*
+uk: 
+ - Translations/uk/*
+zh-Hans: 
+ - Translations/zh-Hans/*
+zh-Hant: 
+ - Translations/zh-Hant/*

@@ -1,17 +1,20 @@
-Egy robbanástól halt meg.
-Egy esés véget vetett az életének.
-Áldozatként halt meg, hogy újra elzárják az SCP-106-ot.
-Elveszett a "Pocket" dimenzióban.
-Ez az SCP-106 maradéka.
-Magasfeszültésgű elektromos sokk.
-Egy nehéz szerkezet nyomta össze.
-Túl sok lőtt sérülés van a testen. Legtöbbet [ammotype] típusú lőszert használtak.
-Eltörték a nyakát, a koponya aljánál.
-Nem élte túl a találkozást az SCP-106-tal.
-Kigyógyult a pestisből.
-A halál oka ismeretlen.
-Ez <b>[user]</b> teste, a következő volt: [class].\n\nA halál oka: [cause]
-Az SCP-096 darabokra tépte.
-Koponyára mért erőteljes harapás.
-Erősen korrozív anyag által szétmállott.
-Robbanás utáni sérülések.
+Elporlasztva az Alpha robbanófej által.
+Összerogyott lábak halálos sérülésekre utalnak egy esés által.
+Számos sérülés nyomai mindkettő combcsont körül, a keringési rendszer összeomlására utal.
+Elveszett a "Pocket" Dimenzióban.
+SCP-106 maradéka.
+Számos elektronikai égés.
+Halálos, lapos sérülés; a test erősen meg van csonkítva, illeteve pépesítve.
+[ammotype]-os lövedék nyomok.
+Nyaki törések a koponya aljánál.
+Masszív mennyiségű szövetelhalás van jelen a testen.
+Az életjelek hirtelen megszűntek. Nincs tisztázott sérülés.
+A halál oka ismeretlen .
+Ez <b>[user]</b> teste - a következő volt: [class]!\n\nA halál oka: [cause]
+Masszív sérülések és túl nagy mennyiségű vérveszteség.
+Nagy, mély harapásnyomok lelhetőek fel a koponya körül.
+Mállás rendkívül korrózív anyag által.
+Apró szilánkok és harmadfokú égések egy robbanás által.
+Sápadt arc, illetve a szájból kifolyó vér belső vérzésre utal, egy anyag emésztése okozhatta.
+Újra elzárva.
+Tompa sérülés, illetve apró karcolások vannak jelen a testen.

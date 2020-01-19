@@ -1,0 +1,35 @@
+VOLUME DES VOIX
+Oui
+<size=34>FORCER LE DÉMARRAGE</size>
+<size=60>ENTAMER LA PROCÉDURE DE\nRECONFINEMENT DE SCP-106</size>
+Inverser l'axe Y
+RÉSUMÉ
+Annuler
+I N V E N T A I R E
+LUMINOSITÉ
+PARAMÈTRES
+DÉCONNEXION
+L'OGIVE ALPHA EST DÉSACTIVÉE
+ACCÈS REFUSÉ
+CHAT VOCAL
+INVENTAIRE PLEIN
+SENSIBILITÉ SOURIS
+PIRATAGE
+RAMASSE...
+Augmenter la luminosité <b>affecte considérablement l'immersion</b> du jeu.\nEssayez de garder cette valeur au plus bas.\n<b>La valeur par défaut est recommandée.</b>
+[1] OUVRIR/FERMER LA PORTE\n[2] VERROUILLER LA PORTE*\n\n*Verrouiller la porte utilise votre aptitude spéciale
+LA PORTE A ÉTÉ VERROUILLÉE PAR SCP-079
+Mode plein écran
+Voulez-vous vraiment quitter le serveur?
+Options de base. Liste complète des paramètres dans le menu.
+EN ATTENTE DE JOUEURS
+RÉSUMÉ
+CONTINUER
+VOLUME PRINCIPAL
+connecté(s)
+Vous vous êtes échappé en tant que scientifique et avez rejoint les unités de la MTF.
+Vous vous êtes échappé en tant que classe D et avez rejoint la Chaos Insurgency.
+VOUS ÊTES
+Durée de l'évasion : [escape_minutes] minutes et [escape_seconds] secondes
+Attendez [time] avant de pouvoir utiliser [item] de nouveau.
+MAINTENEZ <color=white><b>F1</b></color> POUR PLUS D'INFOS

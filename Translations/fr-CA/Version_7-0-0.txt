@@ -1,0 +1,5 @@
+VOUS ÊTES MORT
+Appuyez sur {KEYBINDING_INTERACTION} pour placer la <color=yellow>tablette de gestion d'armes</color>.
+Appuyez sur {KEYBINDING_INTERACTION} pour prendre la <color=yellow>tablette de gestion d'armes</color>.
+Cette <color=yellow>station de travail</color> a déjà une <color=yellow>tablette de gestion d'armes</color> de quelqu'un d'autre de connectée.
+Vous avez besoin d'une <color=yellow>tablette de gestion d'armes</color> pour utiliser cette <color=yellow>station de travail</color>.
