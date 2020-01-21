@@ -85,3 +85,5 @@ ZEIGE HP PUNKTE AN
 Zeigt die exakte Anzahl an HP Punkten an, anstelle von Prozent.
 ÖFFENTLICHE LOBBY
 Wenn eingeschaltet, können deine Steam Freunde dir ohne Erlaubnis beitreten.
+IP VERBERGEN
+Wenn eingeschaltet, werden kein IP's in der client Konsole angezeigt.
