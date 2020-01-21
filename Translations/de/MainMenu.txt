@@ -29,7 +29,7 @@ QUALITÄTSEINSTELLUNGEN
 Das verschieben des Reglers auf einen niedrigeren Wert kann die allgemeine Performance erhöhen.
 HAUPTMENÜ
 Einfacher Rendermodus
-BEWEGUNGSSCHÄRFE
+BEWEGUNGSUNSCHÄRFE
 Schattenabstand
 Details
 3. SCP-914
