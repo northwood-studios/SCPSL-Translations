@@ -1,6 +1,6 @@
 Раунд завершено!
 SCP ПЕРЕМОГЛИ
-Nine-Tailed Fox ПЕРЕМОГЛИ
+Мобильні Оперативні Групи ПЕРЕМОГЛИ
 Персонал класу D ПЕРЕМОГЛИ
 НІЧИЯ
 Вони відповідальні за смерть [summary_scpfrags] людей.
@@ -14,4 +14,4 @@ Nine-Tailed Fox ПЕРЕМОГЛИ
 Раунд тривав [summary_round_minutes] хвилин і [summary_round_seconds] секунд.
 [summary_scp_terminated] SCP знищено
 Наступний раунд через [summary_next_round_countdown] секунд.
-You have dealed [summary_damages] damages, and killed [summary_kills] players.
+Ви уклали угоду [summary_damages] пошкодження, та вбивств [summary_kills] гравців.

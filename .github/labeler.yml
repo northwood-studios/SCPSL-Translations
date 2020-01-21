@@ -1,5 +1,9 @@
 readme: 
  - README.md
+steam-achievements:
+ - Steam-Translations/Achievements/*
+steam-richpresence:
+ - Steam-Translations/Rich Presence/*
 credits: 
  - Translations/credits.txt
 en: 

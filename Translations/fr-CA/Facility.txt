@@ -28,7 +28,7 @@ CONTINUER
 VOLUME PRINCIPAL
 connecté(s)
 Vous vous êtes échappé en tant que scientifique et avez rejoint les unités de la MTF.
-Vous vous êtes échappé en tant que classe D et avec rejoint la Chaos Insurgency.
+Vous vous êtes échappé en tant que classe D et avez rejoint la Chaos Insurgency.
 VOUS ÊTES
 Durée de l'évasion : [escape_minutes] minutes et [escape_seconds] secondes
 Attendez [time] avant de pouvoir utiliser [item] de nouveau.
