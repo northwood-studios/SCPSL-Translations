@@ -26,7 +26,7 @@ Light rendering mode:\nเมื่อปิด - จะทำให้เกม
 V-SYNC
 เชื่อมต่อ
 การตั้งค่ากราฟฟิก
-Change shadow preferences การตั้งค่านี้ให้มีค่าที่ต่ำอาจทำให้เกมมีความไหลลื่นขึ้น
+Change shadow preferences การตั้งค่านี้ให้มีค่าที่ต่ำอาจทำให้เกมมีความลื่นไหลขึ้น
 เมนูหลัก
 LIGHT RENDERING MODE
 MOTION BLUR
