@@ -3,85 +3,85 @@ CERRAR
 RESOLUCION DE SOMBRAS
 OPCIONES
 BASADO EN <i>SCP: CONTAINMENT BREACH</i>
-ATRAS
+ATRÁS
 IDIOMAS
 ANTIALIASING
-Cambiar detalles:\n-CANTIDAD DE PIXELES DE LUZ - cantidad de pixeles para el renderizado de luces.\n-V-Sync - activar la sincronizacion vertical con la tasa de refresco del monitor.
+Cambiar detalles:\n-Nº PÍXELES DE LUZ - Cantidad máxima de fuentes que tienen sus luces renderizadas en pixeles individuales.\n-Sincronización Vertical - Habilítalo para sincronizar con la tasa de refresco del monitor.
 UNIRSE AL JUEGO
 POST\nPROCESADO
-CREDITOS
+CRÉDITOS
 SALIR
 Modo pantalla completa
-OPCIONES DE GRAFICAS
-CORRECION DE COLOR
-Introducir direccion IP...
-RESOLUCION DE PANTALLA
+OPCIONES GRAFICAS
+CORRECIÓN DE COLOR
+Introduzca la dirección IP...
+OPCIONES DE PANTALLA
 JUGAR
-PIXELES DE LUZ
-TIPO DE SOMBRA
+PÍXELES DE LUZ
+TIPO DE SOMBRAS
 SOMBRAS
 CREAR PARTIDA
-Cambiar opciones del post-procesado. Estos cambios no afectan al rendimiento. Mantener estos valores predeterminados es la opcion recomendada.
-Renderizado de luz:\nApagado - Hace que el juego se vea peor. Es recomendado si tienes un equipo de baja gama
-V-SYNC
-CONECTAR
-OPCIONES GRAFICAS
-Cambiar prefencias de sombras. Estas opciones a nivel bajo permite jugar con fluidez.
-MENU PRINCIPAL
-MODO DE RENDERIZADO DE LUCES
-MOTION BLUR
+Opciones del post-procesado. Estos cambios no suelen afectar al rendimiento. Se recomienda dejar las opciones por defecto.
+Renderizado de luz:\nDesactivado - Hace que el juego se vea peor. Se recomienda desactivarlo cuando el PC no cumple los requisitos mínimos.
+SINCR. VERTICAL
+CONECTARSE
+OPCIONES DE CALIDAD
+Cambiar las preferencias de sombras. Disminuir estos valores puede aumentar el rendimiento del juego.
+MENÚ PRINCIPAL
+RENDERIZADO DE LUCES
+DESENFOQUE DE MOVIMENTO
 DISTANCIA DE SOMBRAS
 DETALLES
 3. SCP-914
 TUTORIALES
-PELIGRO
-Buscar servidores disponbiles
-No mostrar este mensaje mas
-Como te gustaria conectar?
-BUSCADOR DE SERVIDORES
-ENTENDIDO
-BUSCAR PARTIDA
+ADVERTENCIA
+Buscar servidores disponibles
+No mostrar de nuevo
+¿Como te quieres conectar?
+EXPLORADOR DE SERVIDORES
+VALE
+ENCONTRAR PARTIDA
 2. Usando armas
-Usamos discord como foro,no hace falta instalacion.\n(clic en el logo para unirte)
-Por defecto el servidor se crea en red local.\nTus amigos necesitara usar conexion directa y tu IP para conectarse.\nSi quieres un servidor publico selecciona LocalAdmin.exe y sigue las instrucciones.\nSi tienes preguntas pregunta a nuestro soporte tecnico (enlace en el menu principal)
-1. Lo basico
-El juego actual esta en beta abierta.\nEs posible que tengas problemas de conexion y algunos bugs.\nEl juego actual no refleja el juego completo.
-4. (Mas tutoriales proximamente)
-CONEXION DIRECTA
-SOPORTE TECNICO / FORO
+Usamos Discusiones Steam como foro. No es necesario instalarlo.\n(clic en el logo para unirse)
+Por defecto, el servidor se crea en su red local.\nTus amigos necesitaran usar conexión directa y tu IP para conectarse.\nSi quiere iniciar un servidor publico, abra LocalAdmin.exe y siga las instrucciones.\nSi tiene alguna pregunta, contacte con nuestro soporte técnico (enlace en el menú principal)
+1. Fundamentos
+El juego actual esta en Beta abierta.\nPuede experimentar problemas de conexión u otros errores.\nEl estado actual de juego no refleja el producto final.
+4. (Más tutoriales próximamente)
+CONEXIÓN DIRECTA
+SOPORTE TÉCNICO / FORO
 VOLUMEN DEL SONIDO
-Introduce la direccion IP .
+Introduzca la dirección IP.
 DESCARGANDO DATOS
-NO HAY SERVIDORES DISPONIBLES
+NINGÚN SERVIDOR DISPONIBLE
 PULSA ESC PARA CERRAR / CANCELAR
-CONFIGURACION DE TECLAS
-CANTIDAD DE SANGRE
-LIMITE DE FPS
-El limite de FPS no funciona con el V-SYNC activado!
+ASIGNACIÓN DE TECLAS
+MÁXIMA CANTIDAD DE SANGRE
+Límite de FPS
+¡El limite de FPS no funciona cuando la sincronización vertical esta activa!
 Restaurar valor predeterminado
-Usamos las discusiones de Steam como foro. (Clic en el logo para abrir el foro)
+Usamos las Discusiones de Steam como foro. (Clic en el logo debajo para abrirlo)
 OPCIONES DE AUDIO
 VOLUMEN MAESTRO
-MUSICA DEL MENU
+MÚSICA DEL MENÚ
 CHAT DE VOZ
 EFECTOS DE SONIDO
 OPCIONES DE JUGABILIDAD
-DESAPARICION DE INTRO RAPIDA
-El texto que introduce la clase desaparecera mucho mas rapido.
-SCP-079 - Cambiar modo de vista
-Pulsa una vez para cambiar entre modos de camara
-SCP-079 - POST- PROCESADO
-Si se desactiva, los efectos de camara se reduciran drasticamente.
+DESAPARICIÓN DE INTRO RÁPIDA
+El texto que presenta a tu clase desaparecerá mucho más rápido.
+SCP-079 - CAMBIAR MODO DE VISTA
+Pulsa una vez para cambiar entre modos de cámara.
+SCP-079 - POST-PROCESADO
+Si se desactiva, los efectos de cámara se reducirán drásticamente.
 MOVIMIENTO DE CABEZA
-Activa el movimiento de cabeza en la camara de primera persona.
-ACTIVAR SPRINT
-Esprintar se activa y se desactiva en vez de tener que mantener el boton.
-SEPARAR BARRA ARTIFICIAL HP
-Da una HP artificial en su propia barra de salud en vez de un overlay.
-Nuestras traducciones son de codigo abierto en GitHub! \n Quieres ayudar? Haz clic aqui para acceder al repositorio.
-PRESENCIA ENRIQUECEDORA
-Si se activa,tu estado se mostrara en Discord/Steam.
+Activa el movimiento de cabeza en la cámara de primera persona al moverse.
+ACTIVAR CARRERA
+Carrera se activa y se desactiva, en vez de tener que mantener el botón.
+SEPARAR BARRA ARTIFICIAL PV
+Da a los PV artificiales su propia barra de salud en vez de estar sobre-expuesto.
+¡Nuestras traducciones son open-source en GitHub! \n¿Quieres ayudar? Haz clic aquí para acceder al repositorio.
+PRESENCIA ENRIQUECIDA
+Si se activa, tu estado se mostrara en Discord/Steam.
 MOSTRAR VALOR EXACTO DE SALUD
-Muetra una cantidad de salud exacta en vez de un porcentaje.
-SALA PUBLICA
-Si se activa tus amigos de Steam podran entrar sin permiso.
+Muestra la cantidad de salud exacta, en vez de un porcentaje.
+SALA PÚBLICA
+Si se activa, tus amigos de Steam podrán entrar sin permiso.
