@@ -1,0 +1,35 @@
+ÂM LƯỢNG VOICE CHAT
+Yes
+BẮT ĐẦU LUÔN
+TÁI QUẢN THÚC SCP-106\nKHỞI ĐỘNG
+Đảo Trục Y
+TÓM TẮT
+Cancel
+T Ú I Đ Ồ
+ĐỘ SÁNG MÀN HÌNH
+CÀI ĐẶT
+NGẮT KẾT NỐI
+ĐẦU ĐẠN ALPHA BỊ VÔ HIỆU HÓA
+KHÔNG CÓ QUYỀN
+VOICE CHAT
+TÚI ĐỒ ĐẦY
+ĐỘ NHẠY CỦA CHUỘT
+HACKING
+NHẶT LÊN ...
+Tăng độ sáng sẽ <b>giảm độ mượt </b>của game.\nĐể trị số này thấp nhất co thể.\n<b>Giá trị gốc nên để nguyên.</b>
+[1] MỞ/ĐÓNG CỬA\n[2] KHÓA*\n\n*Dùng skill đặc biệt để khóa cửa
+SCP-079 ĐÃ KHÓA CỬA NÀY
+Chế độ Toàn màn hình
+Bạn có chắc là muốn rời Server?
+Lựa chọn Cơ bản. Toàn bộ lựa chọn thiết lập trong Menu.
+CHỜ NGƯỜI CHƠI
+TÓM TẮT SƠ BỘ
+TIẾP TỤC
+ÂM LƯỢNG
+đã kết nối
+Bạn đã thoát ra với tư cách là Nghiên cứu viên và gia nhập MTF
+Bạn đã thoát ra với tư cách là Cấp D và gia nhập Chaos Insurgency.
+BẠN LÀ
+Tổng thời gian: [escape_minutes] phút và [escape_seconds] giây
+Chờ [time] để sự dụng lại [item] này.
+NHẤN GIỮ <color=white><b>F1</b></color> ĐỂ THÊM CHI TIẾT

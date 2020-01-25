@@ -1,0 +1,36 @@
+Janitor Keycard:No description
+Scientist Keycard:No description
+Research Supervisor Keycard:No description
+Zone Manager Keycard:No description
+Guard Keycard:No description
+MTF Cadet Keycard:No description
+Containment Engineer Keycard:No description
+MTF Lieutenant Keycard:No description
+MTF Commander Keycard:No description
+Facility Manager Keycard:No description
+Chaos Insurgency Access Device
+O5-level Keycard
+Radio:SR = Short Range \nMR = Medium Range \nLR = Long Range \nUR = Ultra Range \nUses battery while on. Longer range means higher battery use.
+COM-15 Sidearm:No description
+First AID Kit:Heals your injuries.
+Flashlight:Let there be light!
+Micro H.I.D.:Mobile high-intensity electrical discharge thrower.
+SCP-500:The panacea.
+SCP-207:Harmfully increases motor skills.
+Weapon Manager Tablet:Used to drop ammo & upgrade your weapons.
+MTF-E11-SR:No description
+Project 90:No description
+Dropped 5.56:No description
+MP7:No description
+Logicer:No description
+Frag Grenade:Boom!
+Flashbang Grenade:Blinds your enemies.
+Disarmer:Left click disarms, right click unties. \nHold E on someone who is disarmed on your team to free them.
+Dropped 7.62:No description.
+Dropped 9mm:No description.
+USP:No description.
+SCP-018:Superball able to bounce with extreme efficiency.
+SCP-268:When worn, temporarily makes you invisible unless it is interrupted by any user interaction.
+Adrenaline:Temporarily increases endurance.
+Painkillers:Relieve minor injuries.
+Coin:You're not sure why you'd want to carry this around...

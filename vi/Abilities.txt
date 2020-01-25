@@ -1,0 +1,29 @@
+Không tìm thấy khả năng:Mã ID của khả năng này không tồn tại.
+Chạy:Tăng tốc độ di chuyển của bạn, nhưng đồng thời cũng gây ồn ào khi bạn di chuyển.
+Rón rén:Bạn di chuyển trong im lặng, và sẽ đi rất chậm.
+Túi đồ:Mở túi đồ và chọn đồ bạn nhặt được bằng cách bấm chuột trái, hoặc bấm chuột phải để đặt xuống.
+Tay không:Bạn chẳng có gì cả. Tìm bất cứ thứ gì. Gì cũng được.
+Thẻ khóa:Bạn đã có thẻ khóa, tuy không phải là tốt nhất nhưng cũng đừng làm mất nó.
+Tiêu chuẩn:Bạn được trang bị với Súng Trường, Lựu đạn, Bộ đàm, Bộ Còng Tay và một thẻ khóa.
+Có vũ trang & Nguy hiểm:Bạn được giao cho một Khẩu Súng Máy hạng Nhẹ, bộ Bẻ Khóa (cũng là thẻ khóa), và một bộ sơ cứu.
+Tốc độ bàn thờ:Khi không ai để mắt đến bạn, bạn sẽ di chuyển rất nhanh. Nhưng nếu bị người nào đó nhìn trực diện, bạn không thể di chuyển lẫn tấn công, nhưng tất cả mọi người đều sẽ nháy mắt cùng lúc sau vài giây, cho phép bạn hành động.
+Hoảng loạn:Mức máu càng thấp, bạn di chuyển càng nhanh.
+Lỗ thủng:Bạn có thể đặt vũng chất lỏng đen sì ăn mòn tại đây rồi teleport lại bất cứ khi nào. Quá trình teleport mất vài giây.\nBạn có thể di dời vũng chất lỏng đó bằng cách đặt lại.
+Sự ăn mòn:Chỉ cần đi thẳng về phía cửa, không cần làm gì hết, bạn tự động đi xuyên qua cửa.
+Thiên nga ca: Bạn gần như không bị ảnh hưởng bởi súng đạn, nhưng sẽ bị tái quản thúc ngay tức thì nếu có ai đó chấp nhận hi sinh trong khu vực quản thúc.
+Không gian bỏ túi:Bắt người và bỏ họ vào không gian đó để họ chết nhanh hơn. Con người phải chọn bất kì một lối đi để thoát, hoặc là chết.
+Xấu hổ:Bình thường, bạn chuyển chậm chạp và không manh động, và phát ra tiếng khóc khá nhỏ. Nếu con người nhìn bạn đủ lâu, bạn sẽ lên cơn trong 5 giây, sau đó muốn xử ai thì xử.
+Cơn thịnh nộ "Chống chủ nghĩa xã hội" mode:Trong trạng thái này, bạn di chuyển cực nhanh và hét rất to. thời gian kéo dài khoảng 20 giây; sau ki kết thúc, bạn không thể trở nên manh động trong một khoảng thời gian ngắn, trong lúc mà bạn không khóc.\nKhi đang hung hăng, nhấn hoặc giữ nút này để instant kill mọi người trong tầm ngắn.
+Phá cửa:Khi đang hung hăng, tương tác với cửa đồng nghĩa với việc phá cửa.
+Siêu nhạy:Bạn không thể nhình thấy con người trừ lúc họ đang chạy hoặc "đụng" vào bạn, thậm chí là bắn súng trong khoảng cách gần. 
+Thú săn mồi mode:Bạn sẽ đi trong thinh lặng. Giữ nút bấm đã thiết lập để tăng tốc, nhưng sẽ gây tiếng động khi bạn di chuyển.
+Bắt chước:Bạn có thể nói rõ to để người chơi gần đó nghe thấy, bao gồm con người.
+Cắn:Tấn công con người trong khoảng cận chiến, ngay lập tức để lại viết thương chí mạng.
+Thuốc giải:"Đụng chạm" con ngừoi trong tầm ngắm, ta được instant kill.
+Tác dụng phụ của phương thuốc:Làm hồi sinh lại người vừa mới chết. Người được chữa sẽ trở thành zombie với tốc độ di chuyển nhanh nhưng máu thấp.\nSố lượng người có thể hồi sinh là không giới hạn.
+Đột kích:Tấn công các nhân sự và gây ra thiệt hại kha khá cho họ.
+Mở/Đóng cửa:Bạn có thể tương tác với cửa để đóng mở nó, tốn 5 AP. Bạn cũng có thể khóa nó lại, làm kiệt quệ số AP của bạn nhưng không ai được phép đóng mở cửa trừ khi bạn gỡ khóa hoặc bạn cạn AP.
+Kích Hàng rào Tesla:Bạn có bỏ ra 50 AP để làm chập hàng rào Tesla ngay tức thì, giết bất kì ai đứng gần nó.
+Phong tỏa:Bắt đầu từ Mức Truy cập Hạng 3, bạn có thể tương tác với một số căn phòng để phong tỏa nó, tắt toàn bộ ánh sáng và khóa tất. Khi căn phòng bị phong tỏa, con người không thể nhìn thấy SCP-173 .
+Vô hình chung bất khả xâm phạm: Tất cả 5 máy phát điện đều được bố trí khắp các Khu Quản Thúc Hạng Nặng (Heavy Containment Zone). Nếu cả 5 máy đó đều được mở khóa và đang vận hành, bạn sẽ bị tái quản thúc.\nCác máy phát điện có quy trình đếm ngược ,người chơi có thẻ nhấn nút "CANCEL" để hủy quy trình.
+Bẻ cổ:Nhấn và giữ để bẻ cổ con người, instant kill họ trong khi họ không thấy bạn hoặc họ đang nhắm mắt.
