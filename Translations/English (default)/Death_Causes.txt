@@ -18,3 +18,5 @@ Shrapnel and severe burns caused by an explosion.
 Pale skin and blood leaking from the mouth suggest internal bleeding caused by substance ingestion.
 Recontained.
 Blunt trauma and minor scratches are present on the body.
+Severe blood loss caused by deep wounds.
+Sickly yellow skin and a rancid smell suggests death by poison.
