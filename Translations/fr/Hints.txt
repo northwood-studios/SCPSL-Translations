@@ -1,4 +1,0 @@
-Vous êtes notifié de votre rôle quand la partie commence. Chaque rôle a des objectifs différents qu'ils doivent compléter. Si vous souhaitez en savoir plus, appuyez sur le bouton aide.
-Certaines portes ont besoin d'un niveau d'accès différent. Trouvez la carte ayant les permissions appropriées et réessayez.
-L'ogive alpha a été désactivée. Allez au silo dans la zone de confinement lourde pour la réactiver.
-SCP-294 nécessite une pièce !

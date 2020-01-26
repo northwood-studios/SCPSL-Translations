@@ -30,4 +30,7 @@
 <size=80>Verbindung unterbrochen</size>\nDu wurdest durch eine Servermodifikation gekickt.\n\nGrund: [reason]\nDies ist eine Servermodifikation, kein Bestandteil des Spiels im allgemeinen.\nKontaktiere den Server Administrator für mehr Informationen.
 <size=80>Verbindung unterbrochen</size>\nDein Authentifikationstoken wurde vom Server abgelehnt.\nBitte starte dein Spiel neu oder kontaktiere den Tech Support des Entwicklerstudios sollte der Fehler weiter bestehen.
 <size=80>Verbindung unterbrochen</size>\nDu wurdest auf diesem Server gebannt.\nGrund: [reason]
-<size=80>DISCONNECTED</size>\nDu wurdest auf diesem Server gebannt.\nBan läuft aus: [date] [time]\nGrund: [reason]
+<size=80>Verbindung unterbrochen</size>\nDu wurdest auf diesem Server gebannt.\nBan läuft aus: [date] [time]\nGrund: [reason]
+<size=80>Bitte warten</size>\nVerarbeite Server Sicherheitsverifikation.
+<size=80>Verbindung unterbrochen</size>\nFehler beim verarbeiten der Server Sicherheitsverifikation.
+<size=80>Verbindung unterbrochen</size>\nVerarbeitung der Server Sicherheitsverifikation war zu langsam für den Server.\nBitte versuche es erneut oder kontaktiere den Server Administrator.
