@@ -33,3 +33,4 @@ ALPHA核弹已关闭
 逃离耗时: [escape_minutes] 分 [escape_seconds] 秒
 [time] 后才能再次使用 [item]
 按下 <color=yellow><b>F1</b></color> 了解更多信息
+你已被缴械\n<size=40>束手就擒听从指挥，或向队友寻求帮助</size>
