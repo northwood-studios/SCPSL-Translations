@@ -1,0 +1,4 @@
+You have been notified about your role when the round had started. Each role has different goals in which they need to complete. If you wish to know more, press the help button.
+Some doors require a specific access level. Find the card with the appropriate permissions and try again.
+Alpha Warhead has been turned off. Go to the silo in the Heavy Containment Zone to turn it on.
+SCP-294 requires a coin!

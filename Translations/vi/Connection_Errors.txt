@@ -1,0 +1,33 @@
+<size=80>BẠN ĐÃ BỊ ĐUỔI</size>\nServer đã buộc phải ngắt kết nối.\n<size=26>\nCó lẽ bạn đã bị member quản trị tạm thời ban\nhoạc là bạn không thực hiện được những yêu cầu của server (e.g. Đang kết nối đến Steam).\nTác giả của game <b>sẽ không</b> chịu trách nhiệm cho thời gian bạn bị ban bao lâu.\n</size>
+<size=80>DISCONNECTED</size>\nThe specified host is not available.
+<size=80>DISCONNECTED</size>\nThe specified connection ID does not exist.
+<size=80>DISCONNECTED</size>\nThe specified channel does not exist.
+<size=80>DISCONNECTED</size>\nServer is full.
+<size=80>DISCONNECTED</size>\nReceived wrong packet.
+<size=80>DISCONNECTED</size>\nConnection lost (timed out).
+<size=80>DISCONNECTED</size>\nConnection lost (timed out).
+<size=80>DISCONNECTED</size>\nOperation is not supported.
+<size=80>DISCONNECTED</size>\nYour game version is different from the server.
+<size=80>DISCONNECTED</size>\nInvalid server config.
+<size=80>DISCONNECTED</size>\nThe address is invalid or could not be resolved.
+<size=80>DISCONNECTED</size>\nAn unexpected problem has occurred!
+<size=80>XIN CHỜ ĐỢI</size>\n<size=35>Đang thiết lập kết nối...</size>
+<size=80>THIẾT LẬP LẠI</size>\n<size=35>Màn chơi đang thiết lập lại...</size>
+<size=80>XIN CHỜ ĐỢI</size>\n<size=35>Đang tải hướng dẫn...</size>
+<size=80>VERSION INCOMPATIBILITY</size>\nYour game version is different from the server\n(Client - [your]; Server - [server])
+<size=80>ĐÃ KẾT NỐI</size>\n<size=35>Đang tải các tài nguyên...</size>
+<size=35>Loading the facility...</size>
+<size=80>DISCONNECTED</size>\nUnspecified error occurred on the server.
+<size=80>DISCONNECTED</size>\nThis server requires authentication by central servers.
+<size=80>DISCONNECTED</size>\nYou are not whitelisted on this server.
+<size=80>DISCONNECTED</size>\nYou have been globally banned.
+<size=80>DISCONNECTED</size>\nYou have been globally banned: [reason].
+<size=80>DISCONNECTED</size>\nYou have been banned from this server.
+<size=80>DISCONNECTED</size>\nYou have been banned from this server.\nBan expires: [date] [time]
+<size=80>DISCONNECTED</size>\nYour authentication token has expired.\nServer might have invalid time or timezone set.\nPlease contact an server administrator.
+<size=80>DISCONNECTED</size>\nYou have been rate limited. Try again in a few seconds.
+<size=80>DISCONNECTED</size>\nServer is not accepting connections from your geographic location.\nServer name or info may contain more details.
+<size=80>DISCONNECTED</size>\nYou have been kicked by a server modification.\n\nReason: [reason]\nThis is a server modification, not a game feature.\nContact an server administrator for more information.
+<size=80>DISCONNECTED</size>\nYour authentication token has been rejected by the server.\nPlease restart the game and again or contact studio technical support.
+<size=80>DISCONNECTED</size>\nYou have been banned from this server.\nReason: [reason]
+<size=80>DISCONNECTED</size>\nYou have been banned from this server.\nBan expires: [date] [time]\nReason: [reason]

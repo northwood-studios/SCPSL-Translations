@@ -1,0 +1,5 @@
+Bạn chỉ được mang đạn <color=yellow>{0} ammo</color> này tối đa là (<color=yellow>{1} rounds</color>)
+Bạn chỉ được mang tối đa <color=yellow>{0}</color> của loại đồ này (<color=yellow>{1}</color>)
+Tối đa là <color=yellow>8</color> thứ thôi
+Bạn không thể mang nhiều hơn thứ này: <color=yellow>{0}</color> ({1}/{1})
+Bạn bị khống chế rồi\n<size=40>vâng lời hoặc kêu đồng đội tới cứu</size>
