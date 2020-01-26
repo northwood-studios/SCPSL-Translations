@@ -1,0 +1,6 @@
+<color=red>权限拒绝</color>
+已达到可持有的<color=yellow>[type]弹药</color>上限 (<color=yellow>共[max_type_count]发</color>)
+<b>已持有</b>最大限额的<color=yellow>[type]弹药</color> (<color=yellow>共[max_type_count]发</color>)
+已达到可持有的<color=yellow>[type]</color>上限 (<color=yellow>共[max_type_count]个</color>)
+<b>已持有</b>最大限额的<color=yellow>[type]</color> (<color=yellow>共[max_type_count]个</color>)
+你最多可持有<color=yellow>[max_item_count]件物品</color>
