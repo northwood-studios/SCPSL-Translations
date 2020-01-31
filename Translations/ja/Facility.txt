@@ -32,4 +32,4 @@ ALPHA WARHEADは使用不可
 あなたは
 脱出所要時間: [escape_minutes] 分 [escape_seconds] 秒
 [item]が使用できるようになるまで[time]待つ必要があります。
-<color=white><b>F1</b></color>を押し続けて詳細な説明を表示
+<color=yellow><b>F1</b></color>を押し続けて説明を表示します。

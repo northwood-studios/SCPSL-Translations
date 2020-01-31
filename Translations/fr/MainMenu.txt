@@ -85,3 +85,5 @@ Si activé, votre statut sera affiché sur Discord/Steam.
 Affiche la valeur exacte des points de vie au lieu des pourcentages.
 ENTRÉE PUBLIQUE
 Si activé, vos amis Steam peuvent vous rejoindre sans permission.
+CACHER L'IP
+Si activé, l'adresse IP n'apparaîtra pas dans la console client.
