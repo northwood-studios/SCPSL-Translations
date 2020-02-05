@@ -17,7 +17,7 @@ function Verify
 $client = New-Object System.Net.WebClient
 $client.DownloadFile("https://github.com/KernelErr0r/LibVDF/releases/download/v1.0.0/LibVDF.dll", "LibVDF.dll")
 
-Add-Type -Path "LibVDF.dll"
+[System.Reflection.Assembly]::LoadFile([System.IO.Path]::GetFullPath("LibVDF.dll"))
 
 $parser = New-Object LibVDF.VDFParser
 
