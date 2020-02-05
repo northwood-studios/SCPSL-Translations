@@ -33,3 +33,4 @@ ALPHA核弹头已禁用
 逃离耗时: [escape_minutes] 分 [escape_seconds] 秒
  [time] 后才能再次使用 [item]
 按下 <color=white><b>F1</b></color> 了解角色信息
+你已被捆绑\n<size=40>听从指挥或向队友寻求帮助</size>
