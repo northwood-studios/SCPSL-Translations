@@ -33,3 +33,4 @@ YOU ARE
 Escape time: [escape_minutes] minutes and [escape_seconds] seconds
 Wait [time] until you can use [item] again.
 Press <color=yellow><b>F1</b></color> for help.
+You have been cuffed\n<size=40>follow orders or ask teammates for help</size>
