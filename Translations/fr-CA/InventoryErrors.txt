@@ -1,5 +1,0 @@
-Limite de <color=yellow>munitions {0}</color> atteinte (<color=yellow>{1} cartouches</color>).
-Vous pouvez seulement transporter <color=yellow>{0}</color> items de ce type (<color=yellow>{1}</color>).
-Vous pouvez seulement transporter <color=yellow>8</color> items.
-Vous avez maintenant atteint la limite d'items de ce type : <color=yellow>{0}</color> ({1}/{1}).
-Vous venez d'être menotté.\n<size=40>Suivez les ordres ou demandez de l'aide.</size>
