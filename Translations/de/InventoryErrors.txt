@@ -1,5 +1,0 @@
-Limit von <color=yellow>{0} Munition</color> erreicht (<color=yellow>{1} Schuss</color>)
-Du kannst nur <color=yellow>{0}</color> Item(s) von diesem Typ tragen (<color=yellow>{1}</color>)
-Du kannst nur <color=yellow>8</color> Items tragen
-Du hast nun das Itemlimit von diesem Typ erreicht: <color=yellow>{0}</color> ({1}/{1})
-Du bist gefesselt\n<size=40>Folge den Anweisungen oder bitte deine Teammates um Hilfe</size>
