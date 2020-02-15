@@ -32,4 +32,4 @@ Du bist als Klasse-D entkommen und trittst der Chaos Insurgency bei.
 DU BIST
 Fluchtzeit: [escape_minutes] Minuten und [escape_seconds] Sekunden.
 Warte [time] bis du wieder [item] benutzen kannst.
-HALTE <color=white><b>F1</b></color> FÜR MEHR INFORMATIONEN
+DRÜCKE <color=white><b>F1</b></color> FÜR MEHR INFORMATIONEN
