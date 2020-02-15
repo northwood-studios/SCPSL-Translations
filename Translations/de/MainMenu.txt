@@ -87,3 +87,5 @@ Zeigt die exakte Anzahl an HP Punkten an, anstelle von Prozent.
 Wenn eingeschaltet, können deine Steam Freunde dir ohne Erlaubnis beitreten.
 IP VERBERGEN
 Wenn eingeschaltet, werden keine IP's in der client Konsole angezeigt.
+AUFHEBEN UMSCHALTEN
+Das aufheben von Items erfordert kein halten der Taste; Drücke erneut um abzubrechen.
