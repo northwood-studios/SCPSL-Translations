@@ -33,3 +33,4 @@ DU BIST
 Fluchtzeit: [escape_minutes] Minuten und [escape_seconds] Sekunden.
 Warte [time] bis du wieder [item] benutzen kannst.
 DRÜCKE <color=white><b>F1</b></color> FÜR MEHR INFORMATIONEN
+Du bist gefesselt\n<size=40>Folge den Anweisungen oder bitte deine Teammates um Hilfe</size>
