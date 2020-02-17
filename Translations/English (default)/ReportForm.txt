@@ -2,4 +2,4 @@ Report Player
 Target:\nPlayer ID:\n\nDescription:
 Cancel
 Confirm
-Is for cheating
+Is for cheating or raiding
