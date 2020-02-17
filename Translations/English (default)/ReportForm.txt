@@ -1,0 +1,5 @@
+Report Player
+Target:\nPlayer ID:\n\nDescription:
+Cancel
+Confirm
+Is for cheating
