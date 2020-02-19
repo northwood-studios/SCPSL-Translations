@@ -1,5 +1,5 @@
 Report Player
-Target:\nPlayer ID:\n\nDescription:
+Target:\nPlayer ID:\nDescription:
 Cancel
-Confirm
-Is for cheating or raiding
+Report for breaking server rules
+Report for cheating, griefing or raiding
