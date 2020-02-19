@@ -2,4 +2,4 @@ Report Player
 Target:\nPlayer ID:\nDescription:
 Cancel
 Report for breaking server rules
-Report for cheating, griefing or raiding
+Report for cheating or raiding
