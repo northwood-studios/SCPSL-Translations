@@ -1,0 +1,6 @@
+<color=red>Доступ запрещён</color>
+Достигнут лимит <color=yellow>[type] патронов</color> (<color=yellow>[max_type_count] пуль</color>)
+<b>Вы уже</b> достигли лимита <color=yellow>[type] патронов</color> (<color=yellow>[max_type_count] пуль</color>)
+Достигнут лимит <color=yellow>[type]</color> (<color=yellow>[max_type_count] предметов</color>)
+<b>Вы уже</b> достигли лимита <color=yellow>[type]</color> (<color=yellow>[max_type_count] предметов</color>)
+Вы можете нести <color=yellow>[max_item_count]</color> предметов.

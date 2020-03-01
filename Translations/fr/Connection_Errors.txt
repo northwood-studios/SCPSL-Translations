@@ -31,3 +31,6 @@
 <size=80>DÉCONNECTÉ</size>\nVotre token d'authentification n'a pas été accepté par le serveur.\nVeuillez redémarrer le jeu ou bien contactez notre support technique si cela persiste.
 <size=80>DISCONNECTED</size>\nVous avez été banni de ce serveur.\nRaison: [reason]
 <size=80>DISCONNECTED</size>\nVous avez été banni de ce serveur.\nExpiration du bannissement: [date] [time]\nRaison: [reason]
+<size=80>Veuillez patienter</size>\nVérification de la sécurité du serveur...
+<size=80>DISCONNECTED</size>\nÉchec de la vérification de la sécurité du serveur.
+<size=80>DISCONNECTED</size>\nLe traitement de la vérification de la sécurité du serveur était trop lent pour le serveur.\nVeuillez réessayer ou contacter l'administrateur du serveur.

@@ -19,6 +19,8 @@ __Please follow these rules, as well as the guidelines in the Pull Request templ
 ***
 Translation folders are named by [Microsofts Language Codes. Click here to learn more](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-lcid/a9eac961-e77d-41a6-90a5-ce1a8b0cdb9c)
 
+Steam language files are named by [SteamWorks Documentation](https://partner.steamgames.com/doc/store/localization). See the *"API language code"* list.
+
 ***
 ## From local editor:   
 1. Create fork of this repository
