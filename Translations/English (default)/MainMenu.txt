@@ -87,3 +87,5 @@ PUBLIC LOBBY
 If enabled, your steam friends can join you without permission.
 HIDE IP
 If enabled, any IP in client console is not displayed.
+TOGGLE SEARCH
+Item pickup will not require a held key; press again to cancel.

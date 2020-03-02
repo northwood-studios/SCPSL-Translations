@@ -32,4 +32,4 @@ Bir D-Sınıf olarak kaçtın ve Kaos İsyancılarına katıldın.
 SEN
 Kaçış süresi: [escape_minutes] dakika ve [escape_seconds] saniye
 [item] eşyasını tekrar kullanmak için [time] kadar bekleyin.
-DAHA FAZLA BİLGİ İÇİN <color=white><b>F1</b></color> TUŞUNA BASILI TUT
+DAHA FAZLA BİLGİ İÇİN <color=white><b>F1</b></color> TUŞUNA BAS

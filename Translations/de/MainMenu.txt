@@ -6,8 +6,8 @@ Basiert auf <i>SCP: CONTAINMENT BREACH</i>
 ZURÜCK
 SPRACHE
 KANTENGLÄTTUNG
-Ändere Details:\n-PIXEL LICHT QUELLEN- maximale Anzahl and Lichtquellen welche in seperaten Pixeln gerendert werden.\n-V-Sync - synchronisiert mit der Bildwiederholrate deines Monitors.
-SPIEL BEIRETEN
+Ändere Details:\n-PIXEL LICHT QUELLEN- maximale Anzahl an Lichtquellen welche in separaten Pixeln gerendert werden.\n-V-Sync - synchronisiert mit der Bildwiederholrate deines Monitors.
+SPIEL BEITRETEN
 Nach-\nbearbeitung
 CREDITS
 SPIEL BEENDEN
@@ -29,7 +29,7 @@ QUALITÄTSEINSTELLUNGEN
 Das verschieben des Reglers auf einen niedrigeren Wert kann die allgemeine Performance erhöhen.
 HAUPTMENÜ
 Einfacher Rendermodus
-BEWEGUNGSSCHÄRFE
+BEWEGUNGSUNSCHÄRFE
 Schattenabstand
 Details
 3. SCP-914
@@ -85,3 +85,7 @@ ZEIGE HP PUNKTE AN
 Zeigt die exakte Anzahl an HP Punkten an, anstelle von Prozent.
 ÖFFENTLICHE LOBBY
 Wenn eingeschaltet, können deine Steam Freunde dir ohne Erlaubnis beitreten.
+IP VERBERGEN
+Wenn eingeschaltet, werden keine IP's in der client Konsole angezeigt.
+AUFHEBEN UMSCHALTEN
+Das aufheben von Items erfordert kein halten der Taste; Drücke erneut um abzubrechen.
