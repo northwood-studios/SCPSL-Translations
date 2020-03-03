@@ -50,7 +50,7 @@ Fast Intro Fade
 แสดงค่า HP เป็นตัวเลขดิบ
 Rich Presence
 ล็อบบี้แบบเปิด
-Toggle Search
+ระบบหยิบของแบบเปิด/ปิด
 SCP-079 - Toggle View Mode
 SCP-079 - Post-Processing
 ภาษา
@@ -60,4 +60,4 @@ SCP-079 - Post-Processing
 การเปลี่ยนแปลงนี้จะมีผลหลังการโหลดใหม่\nต้องการจะรีโหลดเมนูเลยไหม?
 ใช่
 ไม่
-Are you sure you want to quit?
+แน่ใจน่ะว่าคุณอยากจะออก?
