@@ -15,8 +15,8 @@ Pistola COM15:Nenhuma descrição
 Kit medico:Cura seus ferimentos.
 Lanterna:Que haja luz!
 Micro H.I.D.:Lancador de descarga eletrica movel de alta intensidade.
-Moeda:Pode ser usada no SCP-294
-Copo:Usado para acondicionar pequenas porções de líquidos.
+SCP-500: A panacéia
+SCP-207: aumenta prejudicialmente suas abilidades motoras.
 Gerenciador de arma:Usado para soltar municao, atualizar suas armas & sobrecarregar os geradores.
 MTF-E11-SR:Nenhuma descrição
 P90:Nenhuma descrição
@@ -29,3 +29,8 @@ Desarmador:Botao esquerdo para desarmar, botao direito para soltar. \nSegure E e
 Municao de 7.62:Utilizada nas armas Logicer e MP7.
 Municao de 9mm:Utilizada nas armas COM15, P90 e USP.
 USP:Nenhuma descrição.
+SCP-018:Uma Superbola que é capaz de pular com extrema eficiência.
+SCP-268:Enquanto vestido, você ficará temporáriamente invisivel exceto se for interrompido por alguma interação do usuário.
+Adrenalina:Aumenta temporáriamente sua resistência.
+Analgésicos:Alivia ferimentos leves.
+Moéda: Quem quer dinheiro? Mahoi.

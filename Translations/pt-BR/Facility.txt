@@ -17,7 +17,7 @@ SENSIBILIDADE
 HACKEANDO
 PEGANDO...
 Aumentar o brilho <b>piora significamente a emoção </b>do jogo.\nTente deixar esse valor o mais baixo possivel.\n<b>é recomendado deixar no valor padrão.</b>
-[1] ABRIR/FECHAR PORTA\n[2] TRANCAR A PORTA*\n\n*Ao fechar a porta usa a habilidade especial.
+{0} ABRIR/FECHAR PORTA\n{1} TRANCAR A PORTA*\n\n*Ao fechar a porta usa a habilidade especial.
 A PORTA FOI BLOQUEADO PELO SCP-079.
 Modo tela cheia.
 Tem certeza que deseja sair desse servidor?
@@ -28,6 +28,6 @@ CONTINUAR
 VOLUME PRINCIPAL
 conectado(s)
 Você escapou como cientista e se juntou as tropas da MTF.
-Você escapou como Classe-D e se juntou as tropas da Insurgencia do Caos.
+Você escapou como Classe-D e se juntou as tropas da Insurgência do Caos.
 VOCÊ É
-Tempo de fuga: [escape_minutes] minutos e [escape_seconds] segundos
+Tempo de fuga: {0} minutos e {1} segundos

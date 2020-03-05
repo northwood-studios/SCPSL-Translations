@@ -3,15 +3,15 @@ SCPs GANHARAM
 MTF GANHARAM
 CLASS-D GANHARAM
 EMPATE
-Eles sao responsaveis por matar [summary_scpfrags] seres humanos.
+Eles sao responsaveis por matar {0} seres humanos.
 Ameaca terminada. Este lugar agora esta seguro novamente.
 Toda a seguranca da Fundacao foi encerrada.
 Ambos os lados sofreram perdas e se beneficiaram grandemente. O vencedor e indeterminado.
-[summary_d_escaped] class-d escaparam
-[summary_s_escaped] cientista(s) sobreviveram
-Detonacao da Ogiva Alfa terminada [summary_warhead_kills] seres eliminados.
+{0} class-d escaparam
+{0} cientista(s) sobreviveram
+Detonacao da Ogiva Alfa terminada {0} seres eliminados.
 A Ogiva Alfa nao foi detonada durante esta missao.
-A missao levou [summary_round_minutes] minutos e [summary_round_seconds] segundos.
-[summary_scp_terminated] SCPs terminados.
-proxima rodada em [summary_next_round_countdown] segundos.
-Voce deu [summary_damages] de dano, e matou [summary_kills] jogadores.
+A missao levou {0} minutos e {1} segundos.
+{0} SCPs terminados.
+proxima rodada em {0} segundos.
+Voce deu {0} de dano, e matou {1} jogadores.

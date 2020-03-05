@@ -1,0 +1,29 @@
+Abilidade não encontrada:O ID associado com essa abilidade não existe.
+Correr:Aumenta sua velocidade, mas também aumenta o barulho que você faz enquanto se move.
+Esgueirar-se:Seus movimentos se tornam silenciosos, em troca de muita velocidade.
+Inventário:Abra o inventário e selecione um item que você pegou usando BEM(LMB), ou largue usando BDM(RMB).
+Desarmado:Você não tem nada. Procure algo. Qualquer coisa.
+Cartão de Acesso:Você tem um cartão de acesso, não é o melhor, mas não perca!
+Emissão Padrão:Você está equipado com um Rifle, Granadas, um Rádio, um Desarmador e um Cartão de Acesso.
+Armado & Perigoso:Você adquiriu uma Metralhadora Leve, um Dispositivo Hacker (cartão de acesso), e um Kit de primeiro Socorros.
+Velocidade Surpreendente:Enquanto nenhum humano está a te enxergar,você se move rápidamente. Se você estiver sendo diretamente observado por um humano, Você não conseguira se mover ou atacar, mas todos os humanos irão piscar simultaneamente a cada alguns segundos, Permitindo que você aja.
+Pânico:Você se move mais rápido conforme sua vida diminui.
+Buracos:Você consegue colocar uma piscina preta de corrossão e se teleportar para ela a qualquer momento. A teleportação demora alguns segundos.\nVocê pode mover seu Buraco colocando-o novamente.
+Corrosão:Você consegue atravessar portas.
+Canção de um Poéta: Você não toma quase nenhum dano de projéteis, mas você pode ser contido instantaneamente através de um sacrifício humano dentro da sua camara de contenção.
+"Pocket Dimension":Captura humanos e teleporta eles até sua "Pocket Dimension" que rápidamente mata eles. Humanos devem escolher a saída correta, ou morrer.
+Timidez:Por padrão, você anda lentamente e não consegue atacar, emitindo um choro baixo. Se humanos te olhar por tempo suficiente, você irá congelar no lugar por cinco segundos, e então entrar em fúria.
+Fúria Anti-Social:Em fúria,você se move em alta velocidade enquanto grita alto. A Fúria dura aproximadamente 20 segundos;quando esse tempo acabar, você não poderá entrar em Fúria por um curto tempo, no qual você não estará chorando.\nEnquanto na Fúria, clicar ou segurar esse botão irá matar instantaneamente humanos em uma curta distância.
+Colapso:Enquanto em Fúria, interagir com portas irá destruí-las.
+Ultrasensitividade:Você não consegue enxergar humano, exceto se eles correrem, se esbarrarem com você, ou se atirarem próximo a você.
+Predador:Os seus passos são silenciosos. Ao, but makes your movement audible. Segurar a tecla para correr aumentará sua velocidade, mas deixa seu movimento perceptível
+Imitação:Você consegue conversar com qualquer jogador próximo, incluindo humanos.
+Mordida:Ataca um humano com um alcance corpo-a-corpo, causando graves danos instantaneamente.
+Antidoto:Toque em um Humano próximo, para mata-lo instantaneamente.
+A Cura:Reanima um humano que foi recentemente morto. Humanos curados jogam como zumbis rápidos e com pouca vida.\nNão há um limite de quantos humanos podem ser reanimados.
+Corpo a Corpo:Ao atacar um humano você dará uma quantidade moderada de dano nele.
+Abrir/Fechar Portas:Você pode interagir com portas para abrir e fechar elas com 5 Energia Auxiliar(EA). Você pode também tranca-los, drenando sua EA e prevenindo que qualquer um abra ou feche a porta, até que que você destranque ou sua EA Acabe.
+Tesla Sobrecarregada:Você pode ativar um Portão Tesla por 50 EA para ligar-la instantaneamente, matando qualquer jogador que estiver em ou perto do mesmo.
+Bloqueio:Começando no Nível de Acesso 3, você pode interagir com algumas salas para bloquealas, desligando todas as luzes e fechando todas as portas. Enquanto estiverem bloqueados, humanos não conseguem ver SCP-173.
+Virtualmente Indestrutível: Cinco geradores são espalhados através da Zona de Contenção Pesada. Se todos eles forem desbloqueados e ativados, você será recontido.\nGeradores possuem uma contagem regressiva que qualquer jogador pode interromper apertando o botão "Cancelar" no gerador.
+Neck Snap:Hold or click to snap a human's neck, instantly killing them as long as they can't see you or are blinking.

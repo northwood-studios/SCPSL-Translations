@@ -1,17 +1,18 @@
 VOCÊ PODE DAR ORDENS
 SIGA ORDENS
 O MESMO NIVEL DE PERMISSÃO
-Class-D Personnel escaparam
+Classe-D Personnel escaparam
 Cientistas sobreviveram
 Mortos por SCPs
 SCPs mortos/contidos
 Ogiva Alfa
 Detonado
 Não usado
-A proxima partida iniciara em [time] segundos.
+A proxima partida iniciara em {0} segundos.
 HABILIDADE ESPECIAL
 CRIAR BURACO
 USAR BURACO
 VOCÊ MORREU
 Voce foi morto por
 como
+Passivo
