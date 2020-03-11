@@ -1,8 +1,8 @@
-die Runde ist beendet!
-SCPs SIEGEN
-MTF SIEGEN
-KLASSE-Ds SIEGEN
-UNENTSCHIEDEN
+Die Runde ist beendet!
+<size=100>SCPs HABEN GEWONNEN</size>
+<size=100>MTF HABEN GEWONNEN</size>
+<size=100>KLASSE-Ds HABEN GEWONNEN</size>
+<size=100>UNENTSCHIEDEN</size>
 Sie sind verantwortlich für [summary_scpfrags] menschliche Verluste.
 Bedrohung beseitigt. Die Sicherheit dieses Ortes ist wiederhergestellt.
 Das gesamte Sicherheitspersonal der Foundation wurde getötet.
