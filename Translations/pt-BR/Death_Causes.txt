@@ -5,7 +5,7 @@ Apodreceu na Dimensão de Bolso.
 É uma sobra do SCP-106 agora.
 Queimaduras elétricas severas.
 Trauma físico fatal; o corpo está mutilado e amassado.
-Vários tiros de munição de {0} ao redor do corpo.
+{0} foi o calibre dos tiros observados ao redor do corpo.
 Fratura cervical na base do crânio.
 Quantidades massivas de apodrecimento de tecido estão presentes no corpo.
 Parada repentina de sinais de vida. Não há um trauma claro.
@@ -17,3 +17,6 @@ Derretido(a) por uma substância altamente corrosiva.
 Estilhaços de granada e queimaduras de terceiro grau causadas por uma explosão.
 Pele pálida e sangue vazando pela boca sugerem hemorragia interna causada por ingestão de substância.
 Recontido por um humano.
+Trauma físico e alguns arranhões estão presentes no corpo.
+Perda de sangue severa causada por feridas profundas.
+Pele levemente amarela e um cheiro ráncido sugerem morte por envenenamento. 

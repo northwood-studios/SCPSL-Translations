@@ -31,3 +31,6 @@
 <size=80>DESCONECTADO</size>\nSeu token de autenticação foi rejeitado pelo servidor.\nPor favor reinicie o jogo e tente de novo ou entre em contato com o suporte técnico do estúdio.
 <size=80>DESCONECTADO</size>\nVocê foi banido desse servidor.\nMotivo: [reason]
 <size=80>DESCONECTADO</size>\nVocê foi banido desse servidor.\nO banimento expira em: [date] [time]\nMotivo: [reason]
+<size=80>Por favor aguarde</size>\nProcessando a verificação de segurança do servidor...
+<size=80>DESCONECTADO</size>\nFalha em processar a verificação de segurança do servidor.
+<size=80>DESCONECTADO</size>\nProcessamento da verificação de segurança do servidor foi muito lenta para o servidor.\nPor favor tente novamente ou entre em contato com a administração do servidor.

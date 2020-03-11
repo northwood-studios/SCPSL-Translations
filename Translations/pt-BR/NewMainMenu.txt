@@ -1,0 +1,65 @@
+Notícias
+Servidores
+Configurações
+Sair
+Redes Sociais
+Internet
+Favoritos
+Oficial
+Histórico
+Amigos
+Procurar Servidores
+Criar Servidor
+Re-Entrar
+Conexão Direta
+Atualizar
+Esconder Jogos Vazios
+Esconder Jogos Cheios
+Sem Whitelist
+Vídeo
+Áudio
+Controles
+Gameplay
+Outros
+Modo Janela
+Tela Cheia Exclusiva
+Janela Sem Borda
+Janela Maximizada
+Janela
+V-Sync
+Limite de FPS
+Desligado
+Qualidade Da Textura
+Quantidade Máxima De Sangue
+Sombras
+Resolução Das Sombras
+Distância Das Sombras
+Desfocar Ao Mover
+Correção De Cores
+Anti Aliasing
+Modo De Renderização Leve
+Volume Master
+Efeitos Sonoros
+Chat De Voz
+Música Do Menu
+Volume Da Interface
+Tema Do Menu
+Intro Acabar Rapidamente
+Balanço De Cabeça
+Alternar Correr
+Mostrar Valor De HP Exato
+Presença Rica
+Saguão Público
+Alternar Busca
+SCP-079 - Alternar Modo De Visualização
+SCP-079 - Pós-Processamento
+Idioma
+Menu Principal
+Conectar
+Voltar
+Essa mudança requer um reinício.\nReiniciar o menu agora?
+Sim
+Não
+Você tem certeza que deseja sair?
+Resolução Da Tela
+Esconder IP

@@ -1,0 +1,5 @@
+Denunciar Jogador
+Alvo:\nID do Jogador:\nDescrição:
+Cancelar
+Denunciar por quebrar as regras do servidor
+Denunciar por trapacear ou invadir o servidor

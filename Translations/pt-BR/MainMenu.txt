@@ -85,3 +85,7 @@ EXIBIR VALOR EXATO DO HP
 Exibe o seu HP exato, em vez de apenas a porcentagem.
 SAGUÃO PÚBLICO
 Se habilitado, seus amigos da steam poderão se juntar à você sem permissão.
+ESCONDER IP
+Se habilitado, qualquer IP no console do cliente do jogo não será mostrado.
+ALTERNAR BUSCA
+Não será necessário segurar a tecla para pegar itens; aperte ela de novo para cancelar.

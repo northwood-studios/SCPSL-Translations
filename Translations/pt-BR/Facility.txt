@@ -33,3 +33,4 @@ VOCÊ É
 Tempo de fuga: {0} minutos e {1} segundos
 Espere {0} até que você possa usar {1} de novo.
 SEGURE <color=white><b><F1></b></color> PARA MAIS INFORMAÇÕES
+Você foi algemado\n<size=40>siga ordens ou peça ajuda à seus companheiros de equipe</size>
