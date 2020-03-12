@@ -1,0 +1,6 @@
+<color=red>Zugang verweigert</color>
+Munitionslimit für <color=yellow>[type] Munition</color> erreicht. (<color=yellow>[max_type_count] Schüsse</color>)
+Munitionslimit für <color=yellow>[type] Munition</color> ist <b>schon</b> erreicht! (<color=yellow>[max_type_count] rounds</color>)
+Itemlimit für <color=yellow>[type]</color> erreicht. (<color=yellow>[max_type_count] Items</color>)
+Itemlimit für <color=yellow>[type]</color> ist <b>schon</b> erreicht! (<color=yellow>[max_type_count] items</color>)
+Du kannst nur <color=yellow>[max_item_count] Items</color> tragen!

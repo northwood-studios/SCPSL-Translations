@@ -4,57 +4,81 @@ steam-achievements:
  - Steam-Translations/Achievements/*
 steam-richpresence:
  - Steam-Translations/Rich Presence/*
+ingame: 
+ - Translations/**/*
 credits: 
  - Translations/credits.txt
 en: 
  - Translations/English (default)/*
+ - Steam-Translations/**/*_english.vdf
 ca:
  - Translations/ca/*
 cs: 
  - Translations/cs/*
+ - Steam-Translations/**/*_czech.vdf
 da: 
  - Translations/da/*
+ - Steam-Translations/**/*_danish.vdf
 de: 
  - Translations/de/*
+ - Steam-Translations/**/*_german.vdf
 es: 
  - Translations/es/*
+ - Steam-Translations/**/*_spanish.vdf
 fi: 
  - Translations/fi/*
+ - Steam-Translations/**/*_finnish.vdf
 fr: 
  - Translations/fr/*
+ - Steam-Translations/**/*_french.vdf
 fr-CA:
  - Translations/fr-CA/*
 hu: 
  - Translations/hu/*
+ - Steam-Translations/**/*_hungarian.vdf
 it: 
  - Translations/it/*
+ - Steam-Translations/**/*_italian.vdf
 ja: 
  - Translations/ja/*
+ - Steam-Translations/**/*_japanese.vdf
 ko: 
  - Translations/ko/*
+ - Steam-Translations/Rich Presence/*_koreana.vdf
+ - Steam-Translations/Achievements/*_korean.vdf
 lv: 
  - Translations/lv/*
 nb: 
  - Translations/nb/*
+ - Steam-Translations/**/*_norwegian.vdf
 nl: 
  - Translations/nl/*
+ - Steam-Translations/**/*_dutch.vdf
 pl: 
  - Translations/pl/*
+ - Steam-Translations/**/*_polish.vdf
 pt-BR: 
  - Translations/pt-BR/*
 pt: 
  - Translations/pt/*
+ - Steam-Translations/**/*_portuguese.vdf
 ru: 
  - Translations/ru/*
+ - Steam-Translations/**/*_russian.vdf
 sk: 
  - Translations/sk/*
 th: 
  - Translations/th/*
+ - Steam-Translations/**/*_thai.vdf
 tr: 
  - Translations/tr/*
+ - Steam-Translations/**/*_turkish.vdf
 uk: 
  - Translations/uk/*
+ - Steam-Translations/**/*_ukrainian.vdf
 zh-Hans: 
  - Translations/zh-Hans/*
+ - Steam-Translations/**/*_schinese.vdf
 zh-Hant: 
  - Translations/zh-Hant/*
+ - Steam-Translations/**/*_tchinese.vdf

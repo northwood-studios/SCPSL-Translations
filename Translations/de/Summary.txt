@@ -5,7 +5,7 @@ KLASSE-D's SIEGEN
 UNENTSCHIEDEN
 Sie sind verantwortlich für [summary_scpfrags] menschliche Verluste.
 Bedrohung beseitigt. Die Sicherheit dieses Ortes ist wiederhergestellt.
-Die gesamte Foundationsicherheit wurde getötet.
+Das gesamte Sicherheitspersonal der Foundation wurde getötet.
 Beide Seiten haben erhebliche Verluste erlitten. Der Sieger kann nicht ermittelt werden.
 [summary_d_escaped] Klasse-D's entkamen
 [summary_s_escaped] Wissenschaftler überlebten

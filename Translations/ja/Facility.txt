@@ -32,4 +32,5 @@ ALPHA WARHEADは使用不可
 あなたは
 脱出所要時間: [escape_minutes] 分 [escape_seconds] 秒
 [item]が使用できるようになるまで[time]待つ必要があります。
-<color=yellow><b>F1</b></color>を押し続けて説明を表示します。
+ヘルプを表示するには、<color=yellow><b>F1</b></color>を押します。
+あなたは拘束されています\n<size=40>指示に従うか、チームメイトに助けを求めてください</size>
