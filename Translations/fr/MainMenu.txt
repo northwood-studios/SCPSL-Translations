@@ -87,3 +87,5 @@ ENTRÉE PUBLIQUE
 Si activé, vos amis Steam peuvent vous rejoindre sans permission.
 CACHER L'IP
 Si activé, l'adresse IP n'apparaîtra pas dans la console client.
+RECHERCHE
+Prendre l'item ne nécessitera pas de rester appuyé sur le bouton; Appuyez encore pour annuler.

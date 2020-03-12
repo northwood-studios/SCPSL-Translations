@@ -1,0 +1,63 @@
+Nachrichten
+Server
+Einstellungen
+Beenden
+Soziale Medien
+Internet
+Favoriten
+Offizielle
+Historie
+Freunde
+Suche Server
+Erstelle Server
+Erneut Verbinden
+Direkt Verbinden
+Aktualisieren
+Verstecke leere Server
+Verstecke volle Server
+keine Whitelist
+Video
+Audio
+Steuerung
+Gameplay
+Andere
+Fenster Modus
+Exklusives Vollbild
+Rahmenloses Fenster
+Maximiertes Fenster
+Fenster
+V-Sync
+FPS Limit
+Aus
+Texturen Qualität
+Max. sichtbares Blut
+Schatten
+Schatten Auflösung
+Schatten Distanz
+Bewegungsunschärfe
+Farbkorrektur
+Kantenglättung
+Einfacher Rendermodus
+Allg. Lautstärke
+Sound Effekte
+Sprachchat
+Hauptmenü Musik
+Interface Lautstärke
+Hauptmenü Thema
+Intro schnell ausblenden
+Kamera wackeln
+Sprint umschalten
+Zeige HP-Punkte an
+Rich Presence
+Öffentliche Lobby
+Aufheben umschalten
+SCP-079 - Ansicht umschalten
+SCP-079 - Nachbearbeitung
+Sprache
+Hauptmenü
+Verbinden
+Zurück
+Diese Änderung erfordert einen Neustart des Hauptmenüs.\nJetzt neustarten?
+Ja
+Nein
+Bist du dir sicher, dass du das Spiel beenden möchtest?
