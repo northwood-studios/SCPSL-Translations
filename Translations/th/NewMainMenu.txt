@@ -61,3 +61,5 @@ SCP-079 - Post-Processing
 ใช่
 ไม่
 แน่ใจน่ะว่าคุณอยากจะออก?
+Screen Resolution
+ซ่อน IP
