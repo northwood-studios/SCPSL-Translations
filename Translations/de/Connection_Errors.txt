@@ -1,4 +1,4 @@
-<size=80>Du wurdest gekickt</size>\nDer Server hat die Verbindung gestoppt.\n<size=26>\nDu wurdest möglicherweise temporär gebannt, oder du erfüllst die Serveranforderungen nicht (z.B. Verbindung zu Steam).\nFür mögliche temporäre Bans sind die Spieleentwickler <u>nicht</u> verantwortlich.\n</size>
+<size=80>Du wurdest gekickt</size>\nDer Server hat die Verbindung gestoppt.\n<size=26>\nDu wurdest möglicherweise temporär gebannt, oder du erfüllst die Serveranforderungen nicht (z.B. Verbindung zu Steam).\nFür möglichen temporären Bans sind die Spieleentwickler <u>nicht</u> verantwortlich.\n</size>
 <size=80>Verbindung unterbrochen</size>\nDer angegebene Host ist nicht erreichbar.
 <size=80>Verbindung unterbrochen</size>\nDie angegebene Verbindungs-ID existiert nicht.
 <size=80>Verbindung unterbrochen</size>\nDer angegebene Kanal existiert nicht.
@@ -26,11 +26,11 @@
 <size=80>Verbindung unterbrochen</size>\nDu wurdest auf diesem Server gebannt.\nBan läuft aus: [date] [time]
 <size=80>Verbindung unterbrochen</size>\nDein Authentifikationstoken ist abgelaufen.\nDer Server hat vielleicht eine falsche Uhrzeit oder Zeitzone eingestellt.\nBitte kontaktiere den Server Administrator.
 <size=80>Verbindung unterbrochen</size>\nDu wurdest Raten limitiert. Versuche es in ein paar Sekunden erneut.
-<size=80>Verbindung unterbrochen</size>\nDer Server aktzeptiert Verbindungen deiner geographischen Lage nicht.\nServername und/oder Info könnten mehr Informationen dazu beinhalten.
-<size=80>Verbindung unterbrochen</size>\nDu wurdest durch eine Servermodifikation gekickt.\n\nGrund: [reason]\nDies ist eine Servermodifikation, kein Bestandteil des Spiels im allgemeinen.\nKontaktiere den Server Administrator für mehr Informationen.
+<size=80>Verbindung unterbrochen</size>\nDer Server akzeptiert Verbindungen deiner geographischen Lage nicht.\nServername und/oder Info könnten mehr Informationen dazu beinhalten.
+<size=80>Verbindung unterbrochen</size>\nDu wurdest durch eine Servermodifikation gekickt.\n\nGrund: [reason]\nDies ist eine Servermodifikation, kein Bestandteil des Spiels im Allgemeinen.\nKontaktiere den Server Administrator für mehr Informationen.
 <size=80>Verbindung unterbrochen</size>\nDein Authentifikationstoken wurde vom Server abgelehnt.\nBitte starte dein Spiel neu oder kontaktiere den Tech Support des Entwicklerstudios sollte der Fehler weiter bestehen.
 <size=80>Verbindung unterbrochen</size>\nDu wurdest auf diesem Server gebannt.\nGrund: [reason]
 <size=80>Verbindung unterbrochen</size>\nDu wurdest auf diesem Server gebannt.\nBan läuft aus: [date] [time]\nGrund: [reason]
 <size=80>Bitte warten</size>\nVerarbeite Server Sicherheitsverifikation.
-<size=80>Verbindung unterbrochen</size>\nFehler beim verarbeiten der Server Sicherheitsverifikation.
+<size=80>Verbindung unterbrochen</size>\nFehler beim Verarbeiten der Server Sicherheitsverifikation.
 <size=80>Verbindung unterbrochen</size>\nVerarbeitung der Server Sicherheitsverifikation war zu langsam für den Server.\nBitte versuche es erneut oder kontaktiere den Server Administrator.
