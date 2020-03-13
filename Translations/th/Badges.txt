@@ -1,0 +1,38 @@
+Northwood Business Development Manager
+Northwood Chief Executive Officer
+Northwood Chief Information Officer
+Northwood Chief Operations Officer
+Northwood Community Director
+Northwood Discord Manager
+Northwood Executive Assistant
+Northwood Feedback Manager
+Northwood Human Resources
+Northwood Human Resources Director
+Northwood Joint Information Officer
+Northwood Lead Bot Engineer
+Northwood Marketing Director
+Northwood Marketing Platform Manager
+Northwood Staff
+Northwood Steam Manager
+Northwood System Administrator
+Northwood Wiki Manager
+SCP:SL Art Director
+SCP:SL Art Supervisor
+SCP:SL Artist
+SCP:SL Backend Programmer
+SCP:SL Backend Programming Manager
+SCP:SL Developer
+SCP:SL Event Winner
+SCP:SL Fullstack Programmer
+SCP:SL Game Designer
+SCP:SL Gameplay Programmer
+SCP:SL Global Moderation Manager
+SCP:SL Global Moderator
+SCP:SL Lead Game Designer
+SCP:SL Lead Gameplay Programmer
+SCP:SL Level Designer
+SCP:SL Partner
+ผู้สนับสนุน SCP:SL ทาง Patreon
+SCP:SL Programmer
+SCP:SL Quality Assurance Manager
+SCP:SL Sound Designer
