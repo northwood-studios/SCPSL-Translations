@@ -1,38 +1,38 @@
-Northwood Business Development Manager
-Northwood Chief Executive Officer
-Northwood Chief Information Officer
-Northwood Chief Operations Officer
-Northwood Community Director
-Northwood Discord Manager
-Northwood Executive Assistant
-Northwood Feedback Manager
-Northwood Human Resources
-Northwood Human Resources Director
-Northwood Joint Information Officer
-Northwood Lead Bot Engineer
-Northwood Marketing Director
-Northwood Marketing Platform Manager
-Northwood Staff
-Northwood Steam Manager
-Northwood System Administrator
-Northwood Wiki Manager
-SCP:SL Art Director
-SCP:SL Art Supervisor
-SCP:SL Artist
-SCP:SL Backend Programmer
-SCP:SL Backend Programming Manager
-SCP:SL Developer
-SCP:SL Event Winner
-SCP:SL Fullstack Programmer
-SCP:SL Game Designer
-SCP:SL Gameplay Programmer
-SCP:SL Global Moderation Manager
-SCP:SL Global Moderator
-SCP:SL Lead Game Designer
-SCP:SL Lead Gameplay Programmer
-SCP:SL Level Designer
-SCP:SL Partner
+ผู้จัดการฝ่ายพัฒนาธุรกิจ Northwood
+ประธานบริหาร Northwood
+ประธานฝ่ายสารสนเทศ Northwood
+ประธานฝ่ายปฏิบัติการ Northwood
+ผู้อำนวยการชุมชน Northwood
+ผู้จัดการดิสคอร์ด Northwood
+ผู้ช่วยฝ่ายบริหาร Northwood
+ผู้จัดการข้อเสนอแนะ Northwood
+ฝ่ายทรัพยากรบุคคล Northwood
+ผู้จัดการฝ่ายทรัพยากรบุคคล Northwood
+เจ้าหน้าที่สารสนเทศร่วม Northwood
+หัวหน้าวิศวกรบอต Northwood
+ผู้อำนวยการฝ่ายการตลาด Northwood
+ผู้จัดการแพลตฟอร์มการตลาด Northwood
+พนักงาน Northwood
+ผู้จัดการสตีม Northwood
+ผู้ดูแลระบบ Northwood
+ผู้จัดการวิกิ Northwood
+ผู้กำกับศิลป์ SCP:SL
+ผู้กำกับดูแลศิลป์ SCP:SL
+ศิลปิน SCP:SL
+โปรแกรมเมอร์แบ็กเอนด์ SCP:SL
+ผู้จัดการโปรแกรมแบ็กเอนด์ SCP:SL
+ผู้พัฒนา SCP:SL
+ผู้ชนะกิจกรรม SCP:SL
+โปรแกรมเมอร์ฟูลสแตก SCP:SL
+นักออกแบบเกม SCP:SL
+โปรแกรมเมอร์เกมเพลย์ SCP:SL
+ผู้จัดการการดูแลรวม SCP:SL
+ผู้ดูแลรวม SCP:SL
+หัวหน้านักออกแบบเกม SCP:SL
+หัวหน้าโปรแกรมเมอร์เกมเพลย์ SCP:SL
+นักออกแบบด่าน SCP:SL
+หุ้นส่วน SCP:SL
 ผู้สนับสนุน SCP:SL ทาง Patreon
-SCP:SL Programmer
-SCP:SL Quality Assurance Manager
-SCP:SL Sound Designer
+โปรแกรมเมอร์ SCP:SL
+ผู้จัดการฝ่ายประกันคุณภาพ SCP:SL
+นักออกแบบเสียง SCP:SL
