@@ -61,3 +61,5 @@ Cette modification nécessitera un rechargement. \nRecharger le menu maintenant?
 Oui
 Non
 Êtes-vous sûr de vouloir quitter?
+Résolution d'écran
+Masquer les IP
