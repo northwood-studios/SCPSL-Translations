@@ -1,5 +1,5 @@
-Nouvelles
-Les serveurs
+Informations
+Serveurs
 Réglages
 Quitter
 Réseaux sociaux
@@ -27,7 +27,7 @@ Fenêtre sans bordure
 Fenêtre Étirée
 Fenêtré
 Syncronisation Verticale
-Limite IPS
+Limite Images/s
 Off
 Qualité des textures
 Quantité maximale de sang
@@ -41,7 +41,7 @@ Mode de rendu des lumières
 Volume principal
 Effets sonores
 Chat vocal
-Menu Musique
+Musique du menu
 Volume de l'interface
 Thème du menu
 Fondu rapide de l'intro
@@ -55,7 +55,7 @@ SCP-079 - Basculer de mode d'affichage
 SCP-079 - Post-traitement
 Langue
 Menu principal
-Se Connecter
+Se connecter
 Retour
 Cette modification nécessitera un rechargement. \nRecharger le menu maintenant?
 Oui
