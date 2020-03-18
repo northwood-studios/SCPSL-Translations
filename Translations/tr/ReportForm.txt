@@ -1,0 +1,7 @@
+Oyuncuyu Raporla
+Hedef:\nOyuncu ID\nAçıklama:
+İptal
+Sunucu kurallarını çiğnemekten raporla
+Saldırıdan veya hileden dolayı raporla
+RAPORLANIYOR
+Lütfen bekleyiniz...
