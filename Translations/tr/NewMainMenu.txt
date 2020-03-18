@@ -1,0 +1,65 @@
+Haberler
+Sunucular
+Ayarlar
+Çıkış
+Sosyal Medya
+İnternet
+Favoriler
+Resmî
+Geçmiş
+Arkadaşlar
+Sunucuları Ara
+Sunucu Oluştur
+Tekrar Bağlan
+Doğrudan Bağlan
+Yenile
+Boş Sunucuları Gizle
+Dolu Sunucuları Gizle
+Beyazliste olmayan
+Görüntü
+Ses
+Kontroller
+Oynanış
+Diğer
+Pencere Modu
+Özel Tam-ekran
+Penceresiz Ekran
+Büyütülmüş pencere
+Pencere
+Dikey Senkronizasyon
+FPS Limit
+Kapalı
+Doku Kalitesi
+Maksimum Kan Miktarı
+Gölgeler
+Gölge Çözünürlüğü
+Gölge Mesafesi
+Hareket Bulanıklığı
+Renk Düzeltmesi
+Kenar Yumuşatma
+Işık İşleme Modu
+Ana Ses
+Ses Efektleri
+Sesli Sohbet
+Menü Müziği
+Arayüz Düzeyi
+Menü Teması
+Tanıtım Solgunlaştırması
+Kafa Sallanması
+Koşuya Geçiş
+Asıl Can Miktarını Göster
+Rich Presence
+Topluluk Lobisi
+Ara
+SCP-079 - Görüntüleme Modunu Aç
+SCP-079 - İşlem Sonrası
+Dil
+Ana Menü
+Bağlan
+Geri
+Bu değişiklik yeniden yükleme gerektirecek.\nMenüyü tekrar yüklesin mi?
+Evet
+Hayır
+Çıkmak istediğinizden emin misiniz?
+Ekran Çözünürlüğü
+IP'yi gizle
