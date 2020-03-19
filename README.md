@@ -12,6 +12,15 @@ __Please follow these rules, as well as the guidelines in the Pull Request templ
 ***
 # How to contribute
 *Before contributing, a GitHub account is required - you can sign up for one [here](https://github.com/join). If you wish to contribute from your desktop (i.e. using a local text editor), a Git client is required. We recommend [GitHub Desktop](https://desktop.github.com/), which provides a GUI and is easier for novice users to use. However, any Git client will work - it is ultimately a matter of personal preference. For help with GitHub Desktop, refer to [the Help section here](https://help.github.com/en/desktop). If you wish to contribute directly through GitHub, please see the relevant section below.*
+
+### Alternativly you can watch our tutorial on YouTube!
+[Click here to go to the video](https://youtu.be/4Om6-fzaOYY)
+
+***
+Translation folders are named by [Microsofts Language Codes. Click here to learn more](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-lcid/a9eac961-e77d-41a6-90a5-ce1a8b0cdb9c)
+
+Steam language files are named by [SteamWorks Documentation](https://partner.steamgames.com/doc/store/localization). See the *"API language code"* list.
+
 ***
 ## From local editor:   
 1. Create fork of this repository

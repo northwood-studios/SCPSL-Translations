@@ -32,3 +32,4 @@ Sinä pakenit D-luokkana ja liityit Kaaoskapinallisiin.
 SINÄ OLET
 Pakenemisaika: [escape_minutes] minuuttia ja [escape_seconds] sekuntia
 Odota [time] kunnes voit käyttää esinettä [item] uudelleen.
+PIDÄ <color=white><b>F1</b></color> POHJASSA SAADAKSESI LISÄTIETOJA

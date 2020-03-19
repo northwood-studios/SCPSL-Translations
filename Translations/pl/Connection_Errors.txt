@@ -18,7 +18,7 @@
 <size=80>POŁĄCZONO</size>\n<size=35>Ładowanie placówki...</size>
 <size=35>Ładowanie placówki...</size>
 <size=80>ROZŁĄCZONO</size>\nWystąpił nieoczekiwany błąd.
-<size=80>ROZŁĄCZONO</size>\nTen serwer wymaga weryfikacji.
+<size=80>ROZŁĄCZONO</size>\nTen serwer wymaga uwierzytelnienia.
 <size=80>ROZŁĄCZONO</size>\nNie znajdujesz się na whiteliście tego serwera.
 <size=80>ROZŁĄCZONO</size>\nZostałeś globalnie zbanowany.
 <size=80>ROZŁĄCZONO</size>\nZostałeś globalnie zbanowany: [reason].

@@ -28,6 +28,9 @@
 <size=80>DISCONNECTED</size>\nYou have been rate limited. Try again in a few seconds.
 <size=80>DISCONNECTED</size>\nServer is not accepting connections from your geographic location.\nServer name or info may contain more details.
 <size=80>DISCONNECTED</size>\nYou have been kicked by a server modification.\n\nReason: [reason]\nThis is a server modification, not a game feature.\nContact an server administrator for more information.
-<size=80>DISCONNECTED</size>\nYour authentication token has been rejected by the server.\nPlease restart the game and again or contact studio technical support.
+<size=80>DISCONNECTED</size>\nYour authentication token has been rejected by the server.\nPlease restart the game and try again or contact studio technical support.
 <size=80>DISCONNECTED</size>\nYou have been banned from this server.\nReason: [reason]
 <size=80>DISCONNECTED</size>\nYou have been banned from this server.\nBan expires: [date] [time]\nReason: [reason]
+<size=80>Please wait</size>\nProcessing server security verification...
+<size=80>DISCONNECTED</size>\nFailed to process server security verification.
+<size=80>DISCONNECTED</size>\nProcessing of server security verification was too slow for the server.\nPlease try again or contact server administrator.

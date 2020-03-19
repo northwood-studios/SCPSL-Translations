@@ -33,3 +33,4 @@ VOUS ÊTES
 Vous vous êtes échappé en [escape_minutes] minutes et [escape_seconds] secondes
 Attendez [time] pour pouvoir réutiliser [item].
 APPUYEZ SUR <color=white><b>F1</b></color> POUR PLUS D'INFORMATIONS
+Vous avez été menotté\n<size=40>suivez les ordres ou demandez de l'aide à vos coéquipiers</size>

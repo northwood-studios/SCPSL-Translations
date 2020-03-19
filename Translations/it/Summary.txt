@@ -5,7 +5,7 @@ Il personale di Classe-D ha vinto
 Pareggio
 Sono stati responsabili per l'uccisione di [summary_scpfrags] esseri umani.
 Minaccia terminata. Questo luogo è di nuovo sicuro!
-Tutta la sicurezza della Foundation è stata terminata.
+Tutta la sicurezza della fondazione è stata eliminata.
 Entrambe le parti hanno subito perdite e ne hanno tratto grandi benefici. Il vincitore non è stato determinato.
 [summary_d_escaped] Classe-D scappati
 [summary_s_escaped] Scienziati scappati.

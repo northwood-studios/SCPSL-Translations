@@ -1,0 +1,27 @@
+"lang"
+{
+	"Language"	"german"
+	"Tokens"
+	{
+		"#Status_WaitingForPlayers"	"Warte auf Spieler...(%lobbystatus%)"
+		"#Status_MainMenu"	"Im Hauptmenü"
+		"#PlayingAs"	"Spielt als {#Class_%class%} (%lobbystatus%)"
+		"#Class_Scp173"	"SCP-173"
+		"#Class_ClassD"	"Klasse-D"
+		"#Class_Spectator"	"Zuschauer"
+		"#Class_NtfScientist"	"NTF Wissenschaftler"
+		"#Class_Scp049"	"SCP-049"
+		"#Class_Scientist"	"Wissenschaftler"
+		"#Class_Scp079"	"SCP-079"
+		"#Class_ChaosInsurgency"	"Chaos Insurgent"
+		"#Class_Scp096"	"SCP-096"
+		"#Class_Scp0492"	"SCP-049-2"
+		"#Class_NtfLieutenant"	"NTF Leutnant"
+		"#Class_NtfCommander"	"NTF Kommandant"
+		"#Class_NtfCadet"	"NTF Kadett"
+		"#Class_Tutorial"	"Tutorial"
+		"#Class_FacilityGuard"	"Sicherheitspersonal"
+		"#Class_Scp93953"	"SCP-939-53"
+		"#Class_Scp93989"	"SCP-939-89"
+	}
+}

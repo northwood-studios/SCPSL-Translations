@@ -1,4 +1,0 @@
-Você sera avisado sobre sua classe quando a partida começar. Cada classe tem diferentes tarefas que precisão ser cumpridas. Se deseja saber mais, aperte o botão de ajuda.
-Algumas portas necessitam de um nivel de acesso específico. Encontre um cartão com as permissões apropriadas e tente novamente.
-"Ogiva Alfa" foi desligada. vá ao "Silo" na Zona de Contaminação Pesada para liga-la.
-SCP-294 requer uma moeda.

@@ -9,7 +9,7 @@ I N V E N T A R I O
 LUMINOSITA'
 OPZIONI
 DISCONNETTITI
-LA TESTATA ALPHA E' DISABILITATA
+LA TESTATA NUCLEARE E' DISABILITATA
 ACCESSO NEGATO
 CHAT VOCALE
 INVENTARIO PIENO
@@ -32,3 +32,4 @@ Sei fuggito come Classe-D e ti sei unito ai Chaos Insurgency.
 RUOLO:
 Tempo di fuga: [escape_minutes] minuti [escape_seconds] secondi
 Attendi [time] prima di usare [item] di nuovo.
+TIENI PREMUTO <color=white><b>F1</b></color> PER MAGGIORI INFO

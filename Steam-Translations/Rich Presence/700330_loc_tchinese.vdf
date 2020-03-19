@@ -1,0 +1,27 @@
+"lang"
+{
+	"Language"	"tchinese"
+	"Tokens"
+	{
+		"#Status_WaitingForPlayers"	"正在等待玩家中...(%lobbystatus%)"
+		"#Status_MainMenu"	"主選單"
+		"#PlayingAs"	"正在扮演：{#Class_%class%} (%lobbystatus%)"
+		"#Class_Scp173"	"SCP-173"
+		"#Class_ClassD"	"D級人員"
+		"#Class_Spectator"	"觀眾"
+		"#Class_NtfScientist"	"九尾狐小隊科學家"
+		"#Class_Scp049"	"SCP-049"
+		"#Class_Scientist"	"科學家"
+		"#Class_Scp079"	"SCP-079"
+		"#Class_ChaosInsurgency"	"混沌分裂者"
+		"#Class_Scp096"	"SCP-096"
+		"#Class_Scp0492"	"SCP-049-2"
+		"#Class_NtfLieutenant"	"九尾狐小隊隊長"
+		"#Class_NtfCommander"	"九尾狐小隊指揮官"
+		"#Class_NtfCadet"	"九尾狐小隊隊員"
+		"#Class_Tutorial"	"教學"
+		"#Class_FacilityGuard"	"設施守衛"
+		"#Class_Scp93953"	"SCP-939-53"
+		"#Class_Scp93989"	"SCP-939-89"
+	}
+}

@@ -1,17 +1,17 @@
-ENERGIA AUXILIAR
+ENERGÍA AUXILIAR
 EXPERIENCIA
-IMAGEN DE CAMARA ACTIVA
+ENTRADA DE VÍDEO ACTIVADA
 PULSA [KEY] PARA ACTIVAR/DESACTIVAR EL MAPA
 Experiencia obtenida:
-Trabajo en equipo
-Asitencia , Clase D eliminado
-Asitencia , Insurgente eliminado
-Asitencia , MTF eliminado
-Asitencia , Cientifico eliminado
-Asitencia , SCP eliminado
-PUERTAS BLOQUEADAS: [LOCKED_NUM] <size=25>CLIC DERECHO PARA DESBLOQUEAR TODAS</size>
-Interacciones en general
-Te estan atacando!
-Los generadores activos se han marcado en el mapa
+Cooperación
+Muerte asistida de Clase-D
+Muerte asistida de I. C.
+Muerte asistida de MTF
+Muerte asistida de Científico
+Muerte asistida de SCP
+PUERTAS BLOQUEADAS: [LOCKED_NUM]<size=25>CLIC DERECHO PARA DESBLOQUEAR TODAS</size>
+Interacciones generales
+¡Estas siendo atacado!
+Se han marcado los generadores activos en el mapa
 PELIGRO
-SCPs{0}MTF y GUARDIAS{1}CIENTIFICOS{2}CLASES D{3}INSURGENTES {4}
+SCPs{0}MTF & Guardias{1}Científicos{2}Clase-D{3}Insurgentes del Caos{4}
