@@ -33,3 +33,4 @@ Tu ets
 Temps de fugida: [escape_minutes] minuts i [escape_seconds] segons
 Espera [time] fins que pugueu tornar a utilitzar [item].
 PRESSIONEU <color=white><b>F1</b></color> PER MÉS INFORMACIÓ
+Has estat esposat\n<size=40>segueix les ordres o demana ajuda als teus companys</size>
