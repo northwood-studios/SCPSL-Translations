@@ -85,3 +85,7 @@ MOSTRA VIDA EXACTA
 Mostra el valor exacte de la teva vida en comptes del percentatge.
 LOBBY PUBLIC
 Si s'activa, els teus amics i amigues es podran unir sense permís.
+OCULTAR DIRECCIÓ IP
+Si s'activa, no es motra cap direcció IP a la consola.
+ACTIVA/DESACTIVA CERCA
+La recollida d'objectes no requerirà mantenir una tecla; premi de nou per cancelar.
