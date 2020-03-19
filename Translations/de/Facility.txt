@@ -17,10 +17,10 @@ INVENTAR VOLL
 HACKE
 HEBE AUF...
 Das erhöhen der Helligkeit <b>verschlechtert die Stimmung des Spiels signifikant</b>.\nVersuche diese Einstellung so niedrig wie möglich zu halten.\n<b>Die Standardeinstellung ist empfohlen.</b>
-[1] TÜREN ÖFFNEN/SCHLIESSEN\n[2] VERRIEGEL TÜREN*\n\n*Das verriegeln von Türen vebraucht deine Spezialfähigkeit.
+[1] TÜREN ÖFFNEN/SCHLIESSEN\n[2] VERRIEGEL TÜREN*\n\n*Das verriegeln von Türen verbraucht deine Spezialfähigkeit.
 TÜR WURDE VON SCP-079 VERRIEGELT
 Vollbildmodus
-Bist du dir sicher dass du den Server verlassen möchtest?
+Bist du dir sicher, dass du den Server verlassen möchtest?
 Grundeinstellungen. Volle Liste von Einstellungen befinden sich im Hauptmenü.
 WARTE AUF SPIELER
 ZUSAMMENFASSUNG

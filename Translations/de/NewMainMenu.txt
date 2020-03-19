@@ -24,7 +24,7 @@ Andere
 Fenster Modus
 Exklusives Vollbild
 Rahmenloses Fenster
-Maximieres Fenster
+Maximiertes Fenster
 Fenster
 V-Sync
 FPS Limit
@@ -47,7 +47,7 @@ Hauptmenü Thema
 Intro schnell ausblenden
 Kamera wackeln
 Sprint umschalten
-Zeige HP Punkte an
+Zeige HP-Punkte an
 Rich Presence
 Öffentliche Lobby
 Aufheben umschalten
@@ -60,4 +60,4 @@ Zurück
 Diese Änderung erfordert einen Neustart des Hauptmenüs.\nJetzt neustarten?
 Ja
 Nein
-Bist du dir sicher dass du das Spiel beenden möchtest?
+Bist du dir sicher, dass du das Spiel beenden möchtest?
