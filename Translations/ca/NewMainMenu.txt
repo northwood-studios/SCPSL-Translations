@@ -1,0 +1,65 @@
+Notícies
+Servidors
+Configuració
+Sortir
+Xarxes socials
+Internet
+Favorits
+Oficial
+Història
+Amics
+Cercar servidors
+Creac servidor
+Tornar-se a unir
+Connexió directa
+Actualitzar llista
+Amagar Servidors Buits
+Amagar Servidors Plens
+Sense Whitelist
+Vídeo
+Audio
+Controls
+Joc
+Altres
+Mode Finestra
+Pantalla Completa
+Finestra Sense Vores
+Finestra Maximitzada
+Finestra
+V-Sync
+Límit d'FPS
+Desactivat
+Qualitat de les Textures
+Quantitat Màxima de Sang
+Ombres
+Resolució de les Ombres
+Distància de les Ombres
+Motion Blur
+Correcció de color
+Anti Aliasing
+Mode de Renderització de la Llum
+Volum Principal
+Efectes de So
+Xat de Veu
+Menú de Música
+Intefície del Volum
+Tema del Menú
+Intro Ràpida
+Head Bob
+Toggle Sprint
+Mostra el Valor d'HP exacte
+Rich Presence
+Lobby Públic
+Canviar Cerca
+SCP-079 - Commuta Mode de Vista
+SCP-079 - Post-Processing
+Idioma
+Menú Principal
+Connectar
+Enrere
+Aquest canvi requerirà un reinici.\nVoleu reiniciar ara?
+Sí
+No
+Estàs segur de què vols sortir?
+Resolució de la Pantalla
+Amagar Direcció IP

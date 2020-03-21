@@ -1,0 +1,28 @@
+Ok, comencem...\nAprendre a disparar sense dubte fa el joc molt més... <i>fàcil</i>.\nAgafa la pistola que es troba en la taula.
+Tutorial2_Curtain
+Llavors, acabes de prendre la pitjor arma del joc. Acostumbra't a ella, perquè et podrà treure de més d'un conflicte. Oh, i és bo portar munició. És difícil de conseguir en el joc, així que tracta d'encertar sempre els teus trets.
+Tutorial2_GiveAmmo
+Recorda, els trets al cap fan més mal. Si et quedes sense munició durant la proba, et donaré més!
+<color=#00FF58>Usa <b>R</b> per recarregar,\n<b>clic dret del ratolí</b> per apuntar\ni <b>esquerra</b> per disparar.</color>
+Tutorial2_Result
+Impresionant, has acabat amb tots ells amb un sol carregador!
+Tutorial2_Jumpin
+Ei, ets molt bo disparant!
+Tutorial2_Jumpin
+Sincerament esperaba alguna cosa millior, quina pena!.
+Tutorial2_GiveNTFRifle
+Ok, Espero que arribis a odiar aquesta arma tant como jo, deixem a un costat les joguines, i pren una arma real. Aquesta té una mira de visió nocturna amb la que és més fàcil apuntar.\nCom ja saps, apuntar amb qualsevol arma proporciona millor punteria y reducció de retrocés.
+Tutorial2_Preset
+Tutorial2_Curtain
+Tutorial2_Curtain
+Puc veure que ja has dominat lo bàsic! T'he prepart un repte.\nTens 20 segons per derribar tants oponents como puguis.\nComencem!
+Preparat? 3, 2, 1... JA
+Tutorial2_Preset
+Tutorial2_Curtain
+
+Tutorial2_ResultText
+Tutorial2_Curtain
+S'ha acat el temps!
+Recorda que pots tornar a repetir el tutorial\nsi vols pulir les teves habilitats!\nFins aviat!
+
+Tutorial2_MoreAmmo
