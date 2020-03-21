@@ -1,0 +1,7 @@
+Use qualquer seta para começar...
+Navegar - Setas para CIMA/BAIXO\nSelecionar - Seta DIREITA\nVoltar - Seta ESQUERDA
+{0}\n\nTipo de munição: {1}\nMunição reserva: {2}\nTamanho do pente: {3}\n\nDano maximo: {4}\nDano efetivo: {5}\nTiros por segundo: {6}\n\nCustomizações disponiveis: {7}\n\nUSE A SETA PARA DIREITA PARA COSTUMIZAR A ARMA
+Você ira dropar {0}\nCIMA/BAIXO para alterar a quantidade.\nDIREITA para dropar.\nLEFT para voltar.
+Não há munição suficiente para dropar (type {0}). \nESQUERDA para voltar.
+CANO
+OUTROS

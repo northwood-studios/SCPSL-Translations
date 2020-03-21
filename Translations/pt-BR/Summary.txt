@@ -1,0 +1,17 @@
+A rodada terminou!
+SCPs GANHARAM
+MTF GANHARAM
+CLASS-D GANHARAM
+EMPATE
+Eles sao responsaveis por matar {0} seres humanos.
+Ameaça terminada. Este lugar esta seguro novamente.
+Toda a seguranca da Fundacao foi encerrada.
+Ambos os lados sofreram perdas e se beneficiaram mutualmente. O vencedor e indeterminado.
+{0} Classe-D(s) escaparam
+{0} Cientista(s) sobreviveram
+Detonação da Ogiva Nuclear terminada, {0} seres eliminados.
+A Ogiva Nuclear nao foi detonada durante esta missao.
+A missao levou {0} minutos e {1} segundos.
+{0} SCPs terminados.
+Proxima rodada em {0} segundos.
+Você deu {0} de dano, e matou {1} jogadores.
