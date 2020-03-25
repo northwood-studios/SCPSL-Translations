@@ -10,9 +10,9 @@ Historie
 Freunde
 Suche Server
 Erstelle Server
-Erneut Verbinden
-Direkt Verbinden
-Aktualisieren
+<size=12>Erneut Verbinden</size>
+<size=15>Direkt Verbinden</size>
+<size=13>Aktualisieren</size>
 Verstecke leere Server
 Verstecke volle Server
 keine Whitelist
@@ -21,27 +21,27 @@ Audio
 Steuerung
 Gameplay
 Andere
-Fenster Modus
+Fenstermodus
 Exklusives Vollbild
 Rahmenloses Fenster
 Maximiertes Fenster
-Fenster
+Einfaches Fenster
 V-Sync
 FPS Limit
 Aus
-Texturen Qualität
+Texturenauflösung
 Max. sichtbares Blut
 Schatten
-Schatten Auflösung
-Schatten Distanz
+Schattenauflösung
+Schattendistanz
 Bewegungsunschärfe
 Farbkorrektur
 Kantenglättung
 Einfacher Rendermodus
-Allg. Lautstärke
-Sound Effekte
+Allgemeine Lautstärke
+Soundeffekte
 Sprachchat
-Hauptmenü Musik
+Musik im Hauptmenü
 Interface Lautstärke
 Hauptmenü Thema
 Intro schnell ausblenden
