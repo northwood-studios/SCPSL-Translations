@@ -6,7 +6,7 @@
 Discord-Менеджер Northwood
 Исполнительный Помощник Northwood
 Менеджер По Обратной Связи Northwood
-Отдел Кадров Northwood
+Сотрудник Отдела Кадров Northwood
 Директор Отдела Кадров Northwood
 Сотрудник По Вопросам Информации Northwood
 Ведущий Инженер Ботов Northwood
