@@ -19,7 +19,7 @@ Discord Менеджер Northwood
 SCP:SL Художественный директор
 SCP:SL Художественный руководитель
 SCP:SL Художник
-SCP:SL Backend Программист
+SCP:SL Backend-Разработчик
 SCP:SL Backend Менеджер По Программированию
 SCP:SL Разработчик
 SCP:SL Победитель Мероприятия
