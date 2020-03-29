@@ -12,7 +12,7 @@ Herkesi öldür.\nKimsenin kaçmasina izin verme.\nDiğer<color=#f00>SCPler</col
 <color=#FFFF7CFF>Bilim Adamlarının</color> kaçmasına yardım et.\nDiğer denekleri etkisiz hale getir.\nAskerlerinize talimat verin.\nÜstlerinin emirlerine uy.
 <color=#FFFF7CFF>Bilim Adamlarının</color> kaçmasına yardım et.\nDiğer denekleri etkisiz hale getir.\nAskerlerinize talimat verin.
 <color=#FFFF7CFF>Bilim Adamlarının</color> kaçmasına yardım et.\nDiğer denekleri etkisiz hale getir.\nÜstlerinin emirlerine uy.
-Objektiini tamamlamak için görevleri takip et.
+Objektifini tamamlamak için görevleri takip et.
 <color=#FFFF7CFF>Bilim Adamlarının</color> kaçmasına yardım et\nDiğer <color=#0096FF>MGG'ler</color> ile birlikte çalış\nDiğer denekleri etkisiz hale getir.
 Herkesi öldür.\nKimsenin kaçmasına izin verme.\nDiğer <color=#f00>SCPler</color> ile birlikte çalış.
 Herkesi öldür.\nKimsenin kaçmasına izin verme.\nDiğer <color=#f00>SCPler</color> ile birlikte çalış.
