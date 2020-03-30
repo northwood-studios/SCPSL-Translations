@@ -2,28 +2,28 @@
 Директор Northwood
 ИТ-Директор Northwood
 Исполнительный Директор Northwood
-Директор Сообщества Northwood
+Комьюнити-Директор Northwood
 Discord-Менеджер Northwood
 Исполнительный Помощник Northwood
 Менеджер По Обратной Связи Northwood
 Сотрудник Отдела Кадров Northwood
 Директор Отдела Кадров Northwood
-Сотрудник По Вопросам Информации Northwood
+Директор По Информационным Технологиям Northwood
 Ведущий Инженер Ботов Northwood
 Директор Маркетинга Northwood
 Менеджер Платформы Маркетинга Northwood
 Сотрудник Northwood
-Менеджер Steam Northwood
+Steam-Менеджер Northwood
 Системный Администратор Northwood
 Менеджер Wiki Northwood
 SCP:SL Художественный директор
 SCP:SL Художественный руководитель
 SCP:SL Художник
 SCP:SL Backend-Разработчик
-SCP:SL Backend Менеджер По Программированию
+SCP:SL Менеджер Backend-Разработки
 SCP:SL Разработчик
 SCP:SL Победитель Мероприятия
-SCP:SL Fullstack Разработчик
+SCP:SL Fullstack-Разработчик
 SCP:SL Игровой Дизайнер
 SCP:SL Программист Игрового Процесса
 SCP:SL Менеджер Глобальной Модерации
