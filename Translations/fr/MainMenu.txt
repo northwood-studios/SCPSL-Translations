@@ -67,7 +67,7 @@ TCHAT VOCAL
 EFFETS SONORES
 OPTIONS DU JEU
 FONDU RAPIDE DE L'INTRO
-Le texte d'introduction des classes (en jeu) disparaîtront plus rapidement.
+Le texte d'introduction des classes (en jeu) disparaîtra plus rapidement.
 <size=40>SCP-079 - OPTION VISION AVANCÉE</size>
 Appuyez une fois pour passer d'un mode à l'autre.
 SCP-079 - POST-TRAITEMENT
