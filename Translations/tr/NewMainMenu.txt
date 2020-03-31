@@ -63,3 +63,4 @@ Hayır
 Çıkmak istediğinizden emin misiniz?
 Ekran Çözünürlüğü
 IP'yi gizle
+Hoşgelirsiniz inşallah, {username}!
