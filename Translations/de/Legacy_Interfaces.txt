@@ -3,8 +3,8 @@ FOLGE ANWEISUNGEN
 GLEICHER RANG
 Klasse-D Personal entkam
 Wissenschaftler überlebten
-getötet von SCP's
-zerstörte SCP's
+getötet von SCPs
+zerstörte SCPs
 Alpha Warhead
 gezündet
 ungenutzt
@@ -16,3 +16,4 @@ DU BIST GESTORBEN
 Du wurdest getötet von
 als
 passiv
+(versteckt)

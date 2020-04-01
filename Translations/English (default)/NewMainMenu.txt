@@ -61,3 +61,6 @@ This change will require a reload.\nReload the menu now?
 Yes
 No
 Are you sure you want to quit?
+Screen Resolution
+Hide IP
+Welcome back, {username}!
