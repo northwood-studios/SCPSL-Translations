@@ -1,0 +1,63 @@
+News
+Servers
+Settings
+Quit
+Social Media
+Internet
+Favourites
+Official
+History
+Friends
+Search Servers
+Create Server
+Re-Join
+Direct Connect
+Refresh
+Hide Empty Games
+Hide Full Games
+No Whitelist
+Video
+Audio
+Controls
+Gameplay
+Others
+Window Mode
+Exclusive Fullscreen
+Borderless Window
+Maximized Window
+Windowed
+V-Sync
+FPS Limit
+Off
+Texture Quality
+Max Blood Amount
+Shadows
+Shadow Resolution
+Shadow Distance
+Motion Blur
+Color Correction
+Anti Aliasing
+Light Rendering Mode
+Master Volume
+Sound Effects
+Voice Chat
+Menu Music
+Interface Volume
+Menu Theme
+Fast Intro Fade
+Head Bob
+Toggle Sprint
+Display Exact HP Value
+Rich Presence
+Public Lobby
+Toggle Search
+SCP-079 - Toggle View Mode
+SCP-079 - Post-Processing
+Language
+Main Menu
+Connect
+Back
+This change will require a reload.\nReload the menu now?
+Yes
+No
+Are you sure you want to quit?
