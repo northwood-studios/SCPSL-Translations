@@ -2,5 +2,5 @@
 达到可持有的 <color=yellow>[type] 弹药</color> 上限(<color=yellow> 最多 [max_type_count] 发</color>)
 <b>已经</b> 达到可持有的 <color=yellow>[type] 弹药</color> 上限(<color=yellow> 共[max_type_count] 发</color>)
 你最多可持有<color=yellow>[max_type_count] 件该物品( </color><color=yellow>[type]</color> )
-<b>已</b> 达到 <color=yellow>[type]</color> 的上限 ( 最多 <color=yellow>[max_type_count] 个</color>)
+<b>已</b> 达到 <color=yellow>[type]</color> 的可持有上限 ( 最多 <color=yellow>[max_type_count] 个</color>)
 你最多可持有 <color=yellow>[max_item_count] 件</color> 该物品

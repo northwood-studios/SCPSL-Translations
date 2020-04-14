@@ -16,3 +16,4 @@ VOUS ÊTES MORT
 Vous avez été tué par :
 en tant que :
 Passif
+(caché)
