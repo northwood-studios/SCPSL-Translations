@@ -1,7 +1,7 @@
 SES DÜZEYİ
 Evet
 BAŞLAMAYA ZORLA
-SCP-106 GERİ BARINDIRMA\nPROSEDÜRÜ GEÇERSİZ KIL
+SCP-106 GERİ BARINDIRMA\nPROSEDÜRÜ BAŞLAT
 Y-ekseni ters çevir
 ÖZET
 İptal
@@ -29,7 +29,8 @@ ANA SES
 bağlandı
 Bir Bilim adamı olarak kaçtın ve MGG birimlerine katıldın.
 Bir D-Sınıf olarak kaçtın ve Kaos İsyancılarına katıldın.
-SEN
+ROLÜN
 Kaçış süresi: [escape_minutes] dakika ve [escape_seconds] saniye
 [item] eşyasını tekrar kullanmak için [time] kadar bekleyin.
 DAHA FAZLA BİLGİ İÇİN <color=white><b>F1</b></color> TUŞUNA BAS
+Tutuklandın\n<size=40>emirlere uy veya takım arkadaşlarından yardım iste</size>
