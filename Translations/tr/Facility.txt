@@ -16,7 +16,7 @@ ENVANTER DOLU
 F. HASSASİYETİ
 HACKLENİYOR
 ALINIYOR...
-Oyun parlaklığını arttırmak <b> oyunun havasını önemli derecede kötüleştirir. </b>\nBu değeri olabildiğince düşüğe alın.\n<b>Varsayılan değerde bırakmak önerilir.</b>
+Oyun parlaklığını arttırmak <b> oyunun atmosferini önemli derecede kötüleştirir. </b>\nBu değeri olabildiğince düşüğe alın.\n<b>Varsayılan değerde bırakmak önerilir.</b>
 [1] KAPIYI AÇ/KAPA\n[2] KAPIYI KİLİTLE*\n\n*Kapıyı kilitlemek özel yeteneğini kullanır
 KAPI SCP-079 TARAFINDAN KİLİTLENDİ
 Tam-ekran modu
