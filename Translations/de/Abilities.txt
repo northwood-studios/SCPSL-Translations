@@ -12,9 +12,9 @@ Schlupfloch:Du kannst eine schwarze Pfütze aus Korrosion platzieren und dich je
 Korrosion:Du kannst durch Türen laufen.
 Schwanengesang:Du nimmst annähernd keinen Schaden verursacht durch Schusswaffen. Allerdings kannst du nahezu sofort wieder eingedämmt werden, indem sich ein Mensch in deiner Eindämmungskammer opfert.
 Pocket Dimension:Fange Menschen ein und teleportiere sie in deine Pocket Dimension in welcher sie schnell sterben. Menschen müssen den richtigen Ausgang auswählen ansonsten sterben sie.
-Schüchtern:Standardmäßig bewegst du dich langsam, kannst niemanden attackieren und gibst leises Weinen von dir. Wenn dich ein Mensch lange genug anschaut, bleibst du für 5 Sekunden stehen und verfällst danach in Raserei.
-Anti-Soziale Raserei:Während der Raserei bewegest du dich extrem schnell und schreist sehr laut. Die Raserei hält für knapp 20 Sekunden. Sobald die Raserei vorbei ist, kannst du für einen kurzen Zeitraum nicht wieder in Raserei verfallen. In dieser Zeit gibst du kein Weinen von dir.\nWenn du während der Raserei diese Taste klickst oder gedrückt hältst, tötest du Menschen in kurzer Reichweite.
-Nervenzusammenbruch:Während der Raserei kannst du Türen zerstören.
+Skopophobie:Du bist die meiste Zeit ziemlich besänftigt und leise - du magst es aber nicht verletzt zu werden oder dass jemand dein Gesicht sieht. Lass deiner Wut freien Lauf, sobald dich jemand verletzt oder es wagt dein Gesicht zu sehen. Folge Ihrem Licht bevor deine Wut sich legt. AHP (künstliche HP), welche dich vor Schaden schützt, wird dir hinzugefügt solange dich jemand anschaut. 
+Versuche nicht zu weinen (Besänftigt):Es ist einfach zu schwer, gegen eine Tür lehnen hilft aber; Du wirst leiser, lehnst an ihr und beruhigst dich... oder wartest auf dein nächstes Opfer.
+Nahkampf Attacke (Rage): Normalerweise bist du gefügig. Wenn dich aber jemand provoziert... zerstörts du alles in deinem Weg um jene zu töten die dich verletzt haben. Mit deiner Schwungattacke zerstörst du Türen, aber auch Körper welche sich direkt vor dir befinden.
 Ultrasensitiv:Du kannst Menschen nicht sehen, außer sie rennen, stoßen mit dir zusammen oder schießen in deiner Nähe.
 Jäger:Deine Schritte sind lautlos. Halte die vergebene Taste, um deine Bewegungsgeschwindigkeit zu erhöhen, allerdings macht dies deine Bewegungen hörbar.
 Imitator:Du kannst mit anderen Spielern in der Nähe kommunizieren, sogar mit Menschen.
@@ -27,3 +27,4 @@ Tesla Überladung:Du kannst ein Tesla Gate für 50 AP sofort aktivieren, dies t�
 Lockdown:Startet mit Access Level 2, du kannst mit Räumen interagieren um sie in den Lockdown Modus zu setzen. Alle Lampen werden ausgeschaltet und Türen werden verschlossen. Während des Lockdowns können Menschen SCP-173 nicht sehen.
 Praktisch unzerstörbar: Fünf Generatoren spawnen in der Heavy Containment Zone. Wenn alle entriegelt und aktiviert sind wirst du eingedämmt.\nGeneratoren haben eine Hochfahrsequenz, welche von jedem Spieler abgebrochen werden kann, indem der "CANCEL" Knopf des Generators gedrückt wird.
 Genickbruch:Halte oder klicke auf einen Menschen um sein Genick zu brechen. Dies tötet Ihn sofort, solange er dich entweder nicht sehen kann oder blinzelt.
+Attacke!:Schneide Ihnen den Weg zum entkommen ab - Sie verdienen es! Du schnellst vorraus und zestörst alles in deinem Weg. Wenn du auf ein Heavy Gate triffst, zwängst du dich durch es hindurch.
