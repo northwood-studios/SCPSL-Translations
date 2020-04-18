@@ -64,3 +64,4 @@ SCP-079 - Post-Processing
 Screen Resolution
 ซ่อน IP
 ยินดีต้อนรับกลับมานะ คุณ {username}!
+เครดิต
