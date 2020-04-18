@@ -24,6 +24,6 @@ Die Heilung:Reanimiere einen Menschen welcher vor kurzem verstorben ist. Geheilt
 Schlag:Attackiere einen Menschen und verursache Schaden.
 Öffnen/Schließen von Türen:Du kannst mit Türen interagieren um sie zu öffnen oder zu schließen, dies kostet dich 5 AP. Du kannst sie auch verschließen, dies verbraucht aber deine AP über Zeit. Die Tür bleibt dann verschlossen bis du sie wieder freigibst oder deine AP verbraucht ist.
 Tesla Überladung:Du kannst ein Tesla Gate für 50 AP sofort aktivieren, dies tötet Spieler in und um das Tesla Gate.
-Lockdown:Startet mit Access Level 3, du kannst mit Räumen interagieren um sie in den Lockdown Modus zu setzen. Alle Lampen werden ausgeschaltet und Türen werden verschlossen. Während des Lockdowns können Menschen SCP-173 nicht sehen.
+Lockdown:Startet mit Access Level 2, du kannst mit Räumen interagieren um sie in den Lockdown Modus zu setzen. Alle Lampen werden ausgeschaltet und Türen werden verschlossen. Während des Lockdowns können Menschen SCP-173 nicht sehen.
 Praktisch unzerstörbar: Fünf Generatoren spawnen in der Heavy Containment Zone. Wenn alle entriegelt und aktiviert sind wirst du eingedämmt.\nGeneratoren haben eine Hochfahrsequenz, welche von jedem Spieler abgebrochen werden kann, indem der "CANCEL" Knopf des Generators gedrückt wird.
 Genickbruch:Halte oder klicke auf einen Menschen um sein Genick zu brechen. Dies tötet Ihn sofort, solange er dich entweder nicht sehen kann oder blinzelt.
