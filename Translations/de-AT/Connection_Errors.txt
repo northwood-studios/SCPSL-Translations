@@ -1,0 +1,33 @@
+<size=80>Du bist g'kickt wordn</size>\nDea Server hot de Vabindung g'stoppt.\n<size=26>\nDu bist möglicherweise temporär bannt wordn, oda du erfühst de Serveronforderungen ned (z.B. Vabindung zu Steam).\nFia mögliche temporäre Bans san de Spüentwickla <u>ned</u> veantwortlich.\n</size>
+<size=80>Vabindung untabrochn</size>\nDea ongegebene Host is ned erreichboa.
+<size=80>Vabindung untabrochn</size>\nDe ongebene Vabindungs-ID existiert ned.
+<size=80>Vabindung untabrochn</size>\nDea ongebene Konoi existiert ned.
+<size=80>Vabindung untabrochn</size>\nServer is voi.
+<size=80>Vabindung untabrochn</size>\nUngütiges Pakerl erhoidn.
+<size=80>Vabindung untabrochn</size>\nZeitübaschreitung (time out).
+<size=80>Vabindung untabrochn</size>\nZeitübaschreitung (time out).
+<size=80>Vabindung untabrochn</size>\nOperation is ned untastützt.
+<size=80>Vabindung untabrochn</size>\nDei Spüversion untascheidet si von dea Serverversion
+<size=80>Vabindung untabrochn</size>\nUngütige Serverkonfiguration
+<size=80>Vabindung untabrochn</size>\nDe Adressn is ungütig oda konn ned zruckverfoigt wean.
+<size=80>Vabindung untabrochn</size>\nA unerworteter Fehla is auftreten!
+<size=80>BITTE WORTEN</size>\n<size=35>Vabindung wiad aufbaut...</size>
+<size=80>RUNDN NEISTART</size>\n<size=35>De Rundn wiad neichgstart...</size>
+<size=80>BITTE WORTEN</size>\n<size=35>Lod des Tutorial...</size>
+<size=80>VERSION INKOMPATIBILITÄT</size>\nDu nutzt a ondere Spüversion ois da Server.\n(Client - {0}; Server - {1})
+<size=80>VERBUNDN</size>\n<size=35>Loden des Levels...</size>
+<size=35>Loden dea Eirichtung...</size>
+<size=80>Vabindung untabrochn</size>\nNed definierter Fehla is aufm Server eitretn.
+<size=80>Vabindung untabrochn</size>\nDea Server eafordat Authentifikation vom Central Server.
+<size=80>Vabindung untabrochn</size>\nDu bist ned auf der Server Whitelist eintrogen.
+<size=80>Vabindung untabrochn</size>\nDu bist global g'bannt wordn.
+<size=80>Vabindung untabrochn</size>\nDu bist global g'bannt wordn: {0}.
+<size=80>Vabindung untabrochn</size>\nDu bist vo dem Server gebannt wordn.
+<size=80>Vabindung untabrochn</size>\nDu bist vo dem Server gebannt wordn.\nBonn läuft aus: {0} {1}
+<size=80>Vabindung untabrochn</size>\nDei Authentifikationstoken is obglaufen.\nDea Server hod vielleicht a foische Uahzeit oda Zeitzone eigstöt.\nBitte kontaktier den Server Admin.
+<size=80>Vabindung untabrochn</size>\nDu wurdest Raten limitiert. Versuach es in a boar Sekundn neich.
+<size=80>Vabindung untabrochn</size>\nDea Server aktzeptiert de Vabindungn vo deina geogrophischn Log ned.\nServernom und/oda Info kennan mehr Informationen dazu beinhoiten.
+<size=80>Vabindung untabrochn</size>\nDu bist durch a Servermodifikation kickt wordn.\n\nGrund: {0}\nDes is a Servermodifikation, ka Bestondteil des Spüs im Ollgemeinen.\nKontaktier den Server Admin fia mehr Informationen.
+<size=80>Vabindung untabrochn</size>\nDei Authentifikationstoken wurde vom Server obglehnt.\nBitte start dei Spü neich oda kontaktiere den Tech Support des Entwicklerstudios sollte der Fehler weiter bestehen.
+<size=80>Vabindung untabrochn</size>\nDu bist auf dem Server g'bannt wordn.\nGrund: {0}
+<size=80>DISCONNECTED</size>\nDu bist auf dem Server g'bannt wordn.\nBan läuft aus: {0} {1}\nGrund: {2}

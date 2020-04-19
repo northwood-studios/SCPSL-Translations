@@ -1,0 +1,87 @@
+SPÜN
+SCHLIAßEN
+Schottenauflösung
+EISTELLUNGEN
+Basiert auf <i>SCP: CONTAINMENT BREACH</i>
+ZRUCK
+SPROCH
+KONTENGLÄTTUNG
+Ändere Details:\n-PIXEL LICHT QUÖN- maximale Anzoih und Lichtquön wöche in seperate Pixel grendert werdn.\n-V-Sync - synchronisiert mit da Büdwiederhoirate von deim Monitor.
+SPÜ BEIRETN
+Noch-\nbeorbeitung
+CREDITS
+SPÜ BEENDN
+VOIBÜDMODUS
+BÜDSCHIRMEISTELLUNGEN
+FOABKORREKTUR
+IP-Adresse eigem...
+BÜDSCHIRMAUFLÖSUNG
+SPÜN
+PIXEL LICHT QUÖN
+Schotten
+Schotten
+ERSTÖ A SPÜ
+Des ändan der Eistellung wirkt si ned auf de Spüperformance aus. Stondard Eistellungen san empfoin.
+Afocha Rendamodus:\nWenn aus - lossts des Spü schlechta ausschaun. Es is empfoin de Eistellung nua zu nutzen wenn du a schlechteres PC setup (low-end) host.
+V-SYNC
+VABINDE
+QUALITÄTSEISTELLUNGEN
+Des verschiam vom Regler auf an niedrigeren Wert ko de oigemeine Performance erhöhn.
+HAUPTMENÜ
+Afocha Rendamodus
+BEWEGUNGSSCHÄRFN
+Schottenobstond
+Details
+3. SCP-914
+TUTORIALS
+WOANUNG
+Suach noch vafügborn Servern.
+Ned nuiamoi ozang
+Wie warast du gern beitretn?
+SERVER BROWSER
+BAST
+SPÜ FINDN
+2. Woffen nutza
+Wia nutzn Discord ois Forum. Ka Installation nötig.\n(klick auf des Logo um beizumtreten)
+Normal wiad dea Server im lokalem Netzwerk aufg'setzt.\nSpiela brauchn dei <color=#ffff00>offane IP-Adress und den Port (7777 bis 7782, Port forwarding nötig)</color> um beitreten zum kenna.\nWenn du an öffentlichn Server aufsetzen wüst, führ LocalAdmin.exe aus und foig den Onweisungen.\nWenn du Frogn host, frog unsan Tech-Support. (link im Hauptmenü)
+1. Die Grundlogen
+Des Spiel befindet si immernu in da öffentlichn Beta.\nEs kennan Fehla auftretn.\nDer jetzige Zustond reflektiert nu ned des finale Spü.
+4. (mehr Tutorials foigen)
+DIREKT VABINDN
+TECH-SUPPORT / FORUM
+Oigemeine Spülautstärkn
+Gib de IP-Adress oder de Domain vom Server ei.
+DOTEN WEAN HERUNTERGLODEN
+KANE SERVER VERFÜGBAO
+DRUCK ESC ZUM SCHLIAßEN / OBBRECHN
+TOSTENBELEGUNG
+MAX. SICHTBORES BLUAD
+FPS Limit
+FPS Limit funktioniard ned wenn V-Sync o is!
+Zrucksetzen
+Wia nutzn de Steam Diskussionen ois Forum. (Klick auf des Logo um des Forum aufz'rufen)
+AUDIO EISTELLUNGEN
+ALLG.-LAUTSTÄRKN
+HAUPTMENÜ MUSIK
+SPROCHCHAT
+SOUND EFFEKTE
+GAMEPLAY OPTIONEN
+INTRO SCHNÖ AUSBLENDN
+Des Klossen Intro wiad bei Rundnstart schnölla ausblendet.
+SCP-079 ONSICHT UMSCHOITEN
+Dea Kameramodus wiad durch eimoliges betätigen umgeschoitet.
+SCP-079 NOCHBEARBEITUNG
+Wenn ausgeschaltet, werden Kamera Effekte stark reduziert.
+KAMERA WOCKELN
+Schoit des wockeln dea first-person Kamera o während si dea Spiela bewegt.
+SPRINTEN UMSCHOITN
+Sprintn wiad ei/aus g'schoit, anstott de Tosten gdruckt zu hoiden.
+SEPARATER HP BOIKEN
+Künstliche HP hod an eigenen HP Boiken, stott an Overlay.
+Unsare Übasetzungn san open-source auf Github!\nMechtast du uns höfa? Donn klicke hier.
+RICH PRESENCE
+Wenn eigeschoit, wiad dei Status auf Discord/Steam ozagt.
+ZAG HP PUNKTE O
+Zagt de exakte Anzoih vo HP Punkten o, anstöh vo Prozent.
+ÖFFENTLICHE LOBBY
+Wenn eigeschoit, kennan deine Steam Freind dia ohne Erlaubnis beitreta.

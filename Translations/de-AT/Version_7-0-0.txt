@@ -1,0 +1,5 @@
+DU BIST G'STORBEN
+Druck {0} um des <color=yellow>Woffenbeorbeitungstablet</color> eizlegen.
+Druck {0} um das <color=yellow>Waffenbeorbeitungstablet</color> aufzunehmen.
+In dieser <color=yellow>Werkbonk</color> befindet sie des <color=yellow>Woffenbeorbeitungstablet</color> vo jemand onderem.
+Du brauchst a <color=yellow>Woffenbeorbeitungstablet</color> um de <color=yellow>Werkbank</color> zu nutzen.

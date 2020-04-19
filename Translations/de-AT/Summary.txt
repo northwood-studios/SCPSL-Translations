@@ -1,0 +1,17 @@
+de Rundn ist vorbei!
+SCPs SIEGEN
+MTF SIEGEN
+KLOSS-D's SIEGEN
+UNENTSCHIEDEN
+Se san vantwortlich fia {0} menschliche Valuste.
+Bedrohung beseitigt. De Sichaheit von den Ort is wiedahergstöt.
+Die gesamte Foundationsicherheit wurde getötet.
+Beide Seiten homn erhebliche Verluste erlittn. Dea Sieger konn ned ermittelt wean.
+{0} Kloss-D's entkuma
+{0} Wissenschoftler überlebtn
+Dea Alpha Warhead hod {0} Lebewesen umbracht.
+Der Alpha Warhead ist ned g'nutzt woan.
+De Mission dauerte {0} Minuten und {1} Sekunden.
+{0} getötete SCP's
+Nächste Rundn startet in {0} Sekunden.
+Du host {0} Schaden vaursocht und {1} Spieler umbrocht.

@@ -1,0 +1,7 @@
+Druck a Pfeiltasten deina Woih...
+Navigier mid den - HOCH/RUNTER Pfeiltosten \nAuswöhn - RECHTE Pfeiltosten \nZruck - LINKE Pfeiltosten
+{0}\n\nMunitionstyp: {1}\nReservemunition: {2}\nMagazingröße: {3}\n\nMax. Schoden: {4}\nEffektiver Schoden: {5}\nSchüsse pro Sekundn: {6}\n\nVerfügbore Opassungen: {7}\n\nRECHTE PFEILTOSTEN UM WAFFEN STATISTIKEN ANZUSCHAUEN
+Du wiast {0} foin lossen.\nHOCH/RUNTER Pfeiltosten um de Menge zu vaändan.\nrechte Pfeiltosten um Munition fallen zu lassen.\nlinke Pfeiltosten um ins vorherige Menü zruck zu kehrn
+Ned gnuag Munition um (type {0}) foin zu lossen. \nLINKE Pfeiltosten um ins vorherige Menü zruck zu kehrn
+LAUF
+ONDERE
