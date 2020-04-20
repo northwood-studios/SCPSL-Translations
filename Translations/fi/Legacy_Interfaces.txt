@@ -16,3 +16,4 @@ SINÄ KUOLIT
 Sinut tappoi
 ollessaan
 Passiivi
+(Piilotettu)
