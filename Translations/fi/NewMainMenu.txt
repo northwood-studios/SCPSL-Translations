@@ -1,0 +1,67 @@
+Uutiset
+Palvelimet
+Asetukset
+Poistu
+Sosiaalinen Media
+Internet
+Suosikit
+Viralliset
+Historia
+Kaverit
+Etsi Palvelin
+Tee Palvelin
+Liity Uudelleen
+Suora yhteys
+lataa Uudestaan
+Piilota Tyhjät Pelit
+Piilota Täydet Pelit
+Ei Sallituslistaa
+Video
+Ääni
+Kontrollit
+Gameplay
+Muut
+Ikkuna Tila
+Täysikkuna
+Rajaton Ikkuna
+Maksimoitu Ikkuna
+Ikkuna
+V-Sync
+FPS Limiitti
+Pois
+Tekstuurien Yksityiskohtaisuus
+Maksimi Veren Määrä
+Varjot
+Varjojen Laatu
+Varjojen Etäisyys
+Motion Blur
+Värikorjaus
+Aliasingin estäminen
+Valon Renderäinti Tila
+Pää-äänenvoimakkuus
+Ääni Effectit
+Voice Chat
+Menun Musiikki
+Interface Ääni
+Menun Musiikki Teema
+Alkunäytön Nopea Häivytys
+Pään Heiluminen
+Vaihda Sprinttiä
+Näytä Tarkka HP-arvon Määrän
+Rich Presence
+Julkinen Lobby
+Käynnistä Haku
+Vaihda SCP-079 Katselutilaa
+SCP-079 - Jälkikäsittely
+Kieli
+Pää Menu
+Yhdisty
+Takaisin
+Tämä muutos vaatii uudelleenlatauksen.\nLadataanko valikko nyt?
+Kyllä
+Ei
+Oletko Varma että Haluat Lähteä?
+Näytön resoluutio
+Piilota IP
+Tervetuloa Takaisin, {username}!
+Tekiät
