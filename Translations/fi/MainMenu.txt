@@ -74,7 +74,7 @@ SCP-079 - JÄLKIKÄSITTELY
 Jos poissa käytöstä, näytön tehosteet vähenevät huomattavasti.
 PÄÄN KEIKKUMINEN
 Aktivoi ensimmäisen persoonan kameran keikkumisen liikkeessä.
-AKTIVOI JUOKSEMINEN
+AKTIVOI JUOKSEMINEN+
 Juokseminen vaihtelee päälle ja pois, napin pohjassapitämisen sijaan.
 Erillinen keinotekoinen HP-palkki
 Antaa keinotekoiselle HP:lle oman terveyspalkin peittokuvan sijasta.
@@ -82,6 +82,10 @@ Käännöksemme ovat avointa lähdekoodia GitHubissa!\nHaluatko auttaa? Napsauta
 RICH PRESENCE
 Jos aktivoituna, statuksesi näkyy Discordissa/Steamissa.
 NÄYTÄ OIKEA HP-ARVO
-Näyttää oikean HP:n, pelkästään prosentin sijasta.
+Näyttää tarkan HP: n prosenttimäärän sijasta.
 JULKINEN AULA
 Jos aktivoituna, kaverisi voivat liittyä sinuun ilman lupaa.
+PIILOTA IP
+Jos tämä on käytössä, mitään IP: tä ei näytetä konsoliin.
+KÄYNNISTÄ HAKU
+Tavaran nouto ei vaadi painaa painiketta pohjaan; paina uudelleen peruuttaaksesi.
