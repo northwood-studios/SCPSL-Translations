@@ -11,7 +11,7 @@ les deux camps ont eu beaucoup de pertes. Impossible de déterminer le gagnant.
 [summary_s_escaped] Scientifique(s) se sont échappés
 la détonation de l'ogive alpha a fait [summary_warhead_kills] victimes.
 l'ogive alpha n'a pas explosée durant cette partie.
-la partie a duré [summary_round_minutes] minutes et [summary_round_secondes] secondes.
+la partie a duré [summary_round_minutes] minutes et [summary_round_seconds] secondes.
 [summary_scp_terminated] SCPs éliminé(s)
 partie suivante dans [summary_next_round_countdown] secondes.
 Vous avez fait [summary_damages] de dégâts et tué [summary_kills] joueurs !

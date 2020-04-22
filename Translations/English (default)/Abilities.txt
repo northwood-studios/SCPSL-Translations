@@ -12,9 +12,9 @@ Sinkhole:You can place a black pool of corrosion and teleport back to it at any 
 Corrosion:You can move through doors by walking into them.
 Swan Song: You take almost no damage from bullets, but you can be instantly recontained via a human sacrifice within your containment chamber.
 Pocket Dimension:Captures a human and teleports them to a pocket dimension that quickly kills them. Humans must choose the correct exit, or die.
-Shy:By default, you move slowly and can't attack, and emit quiet crying. If humans look at you for long enough, you freeze in place for five seconds, and then enter Rage.
-Anti-Social Rage:In rage, you move extremely quickly and scream loudly. Rage lasts for about twenty seconds; after it expires, you can't enter Rage for a short duration, during which you won't cry.\nWhile in Rage, clicking or holding this button will instantly kill humans in short range.
-Breakdown:While in rage, interacting with doors will destroy them.
+Scopophobia:You stay docile and quiet most of the time - but you don't like being hurt, or having your face seen. Once you've been seen or hurt, quell your rage by killing transgressors. Follow their light before your fury subsides. The indignity of each offender adds to your AHP, preventing harm to you as long as it stands.
+Try Not To Cry (Docile):It's too hard. Leaning on a door helps; you become quieter and stand in place against it, calming yourself down... or waiting for someone to come through.
+Melee Attack (Rage):Usually, you keep to yourself. But when you're provoked... you'll tear through anything in your way to get to those who've hurt you. You destroy both doors and bodies in an area in front of you with your swings.
 Ultrasensitive:You can't see humans unless they run, bump you, or fire a weapon in close proximity to you.
 Predator:Your footsteps are silent. Holding the assigned key increases your speed, but makes your movement audible.
 Mimic:You can speak out loud to any nearby players, including humans.
@@ -24,6 +24,7 @@ The Cure:Reanimates a recently killed human. Cured humans play as zombies with f
 Strike:Attacks a human and deals a moderate amount of damage to them.
 Open/Close Doors:You can interact with doors to open and close them for 5 AP. You can also lock them down, draining your AP but preventing anyone from opening or closing it until you lift the lockdown or run out of AP.
 Tesla Overcharge:You can activate a Tesla Gate for 50 AP to instantly trigger it, killing any players in or near it.
-Lockdown:Starting at Access Level 3, you can interact with some rooms to lock them down, shutting off all lights and closing all doors. While in locked down rooms, humans can't see SCP-173.
+Lockdown:Starting at Access Level 2, you can interact with some rooms to lock them down, shutting off all lights and closing all doors. While in locked down rooms, humans can't see SCP-173.
 Virtually Indestructible: Five generators spawn across the Heavy Containment Zone. If all of them are unlocked and activated, you become recontained.\nGenerators have a countdown sequence that any player can interrupt by pressing the "CANCEL" button on the generator.
 Neck Snap:Hold or click to snap a human's neck, instantly killing them as long as they can't see you or are blinking.
+Charge (Rage):Cut their escapes short - they deserve it. You bolt straight ahead, demolishing anything in front of you for a range. If you hit a heavy gate, you force yourself through it.
