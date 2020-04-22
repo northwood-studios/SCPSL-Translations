@@ -64,3 +64,4 @@ Bist du dir sicher, dass du das Spiel beenden möchtest?
 Bildschirm Auflösung
 Verstecke IP
 Willkommen zurück, {username}!
+Credits
