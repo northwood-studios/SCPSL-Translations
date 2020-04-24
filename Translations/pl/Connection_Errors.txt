@@ -31,3 +31,6 @@
 <size=80>ROZŁĄCZONO</size>\nTwój token został odrzucony przez serwer.\nProszę uruchomić grę ponownie lub skontaktować się z naszą pomocą techniczną.
 <size=80>ROZŁĄCZONO</size>\nZostałeś zbanowany z tego serwera.\nPowód: [reason]
 <size=80>ROZŁĄCZONO</size>\nZostałeś zbanowany z tego serwera.\nBan wygasa: [date] [time]\nPowód: [reason]
+<size=80>PROSZĘ CZEKAĆ</size>\nTrwa proces uwierzytelniania serwera...
+<size=80>ROZŁĄCZONO</size>\nUwierzytelnienie serwera nie powiodło się.
+<size=80>ROZŁĄCZONO</size>\Proces uwierzytelniania serwera był zbyt wolny.\nProszę spróbować ponownie lub skontaktować się z administracją serwera.
