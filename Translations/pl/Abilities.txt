@@ -12,9 +12,9 @@ Przejście:Możesz utworzyć pole czarnej mazi do którego możesz sie w każdej
 Korozja:Możesz przechodzić przez drzwi, wchodząc w nie.
 Nietykalny: Pociski nie zadają ci prawie żadnych obrażeń, lecz poświęcenie ludzkiej ofiary w twojej komorze przechowawczej powoduje twoje natychmiastowe zabezpieczenie.
 Wymiar Łuzowy:Chwytasz i teleportujesz ofiarę do wymiaru łuzowego, który pozbawia ją życia coraz szybciej. Jeśli nie wybierze poprawnego wyjścia, zginie w męczarniach.
-Nieśmiały:Domyślnie poruszasz się powoli, nie możesz atakować oraz wydajesz cichy płacz. Jeśli ludzie będą spoglądać się na ciebie wystarczająco długo, staniesz w miejscu i wpadniesz w szał.
-Aspołeczna wściekłość:W stanie wściekłości poruszasz się ekstremalnie szybko oraz głośno krzyczysz. Wściekłość trwa do dwudziestu sekund; po jej zakończeniu nie możesz wejść we wściekłość przez krótki czas, oraz przestajesz płakać.\nPodczas bycia wściekłym, klikanie lub trzymanie tego przycisku, natychmiast zabije człowieka znajdującego się blisko ciebie.
-Zniszczenie:Podczas bycia wściekłym, interakcja z drzwiami spowoduje ich wyważenie.
+Skopofobia:Jesteś cichy oraz spokojny przez większość czasu - lecz nienawidzisz bólu oraz gdy ktoś widzi twoją twarz. Kiedy się to stanie, zaspokój swój gniew zabijając winowajców. Podążaj za ich światłem zanim szał minie. Każdy cel doda Ci punkty AHP, zapobiegając obrażeniom od innych osób tak długo, póki je masz.
+Spróbuj Nie Płakać (Gdy Spokojny):Jest to ciężkie. Oparcie się o drzwi może pomóc; staniesz się cichszy, opierając się o nie, uspokajając się... czekając na kogoś kto je otworzy.
+Atak (W Szale):Zazwyczaj tego nie robisz, lecz kiedy inni Cię sprowokują... przedrzesz się przez wszystko na swojej drodze aby tylko dostać się do osoby, która wyrządziła Ci krzywdę. Atakując, przedzierasz się przez drzwi i ciała.
 Niezwykle Wrażliwy:Nie dostrzegasz ludzi, chyba że biegną, dotkną cię, lub strzelą z broni blisko ciebie.
 Drapieżnik:Twoje kroki są prawie niesłyszalne. Trzymanie przypisanego klawisza ruchu zwiększa twoją prędkość, kosztem głośniejszych kroków.
 Imitacja:Możesz głośno mówić do graczy w pobliżu, wliczając w to ludzi.
@@ -24,6 +24,7 @@ Lekarstwo:Wskrzesasz niedawno zabitą osobę. Uleczone osoby grają jako zombie 
 Uderzenie:Atakujesz człowieka zadając mu niewielką ilość obrażeń.
 Otwórz/Zamknij Drzwi:Możesz wchodzić w interakcję z drzwiami za 5 punktów energii. Możesz również je zablokować, wyczerpując powoli swą energię, lecz zapobiegając ich otworzeniu lub zamknięciu, dopóki ich nie odblokujesz lub nie stracisz całej energii.
 Przeciążenie Tesli:Możesz aktywować bramę tesli za 50 punktów energii, aby natychmiast ją uruchomić, zabijając każdego gracza znajdującego się w niej lub w jej otoczeniu.
-Blokada:Począwszy od trzeciego poziomu dostępu, możesz wejść w interakcję z pomieszczeniem, aby je zablokować, wyłączyć światła oraz zamknąć drzwi. W zablokowanych pomieszczeniach ludzie nie mogą widzieć SCP-173.
+Blokada:Począwszy od drugiego poziomu dostępu, możesz wejść w interakcję z pomieszczeniem, aby je zablokować, wyłączyć światła oraz zamknąć drzwi. W zablokowanych pomieszczeniach ludzie nie mogą widzieć SCP-173.
 Praktycznie Niezniszczalny: Pięć generatorów pojawia się w Strefie Ciężkiego Nadzoru. Jeśli wszystkie zostaną odblokowane i aktywowane, zostaniesz zabezpieczony.\nKażdy generator ma sekwencję odliczania, którą każdy gracz może przerwać, klikając przycisk "ANULUJ" na generatorze.
 Łamanie Karku: Przytrzymaj lub kliknij, aby złamać człowiekowi kark, natychmiastowo go zabijając, gdy cię nie widzi lub mrugnie.
+Szarża (W Szale):Skróć ich ucieczkę - zasługują na to. Szarżujesz przed siebie, demolując wszystko oraz raniąc każdego w twoim zasięgu. Jeśli natrafisz na bramę, przedrzesz się przez nią.
