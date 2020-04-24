@@ -1,0 +1,67 @@
+Aktualności
+Serwery
+Ustawienia
+Wyjdź
+Media Społecznościowe
+Sieć
+Ulubione
+Oficialne
+Historia
+Znajomi
+Wyszukaj Serwer
+Stwórz Serwer
+Połącz Ponownie
+Połącz Bezpośrednio
+Odśwież
+Schowaj Puste Serwery
+Schowaj Pełne Serwery
+Bez Białej Listy
+Wideo
+Dźwięk
+Sterowanie
+Rozgrywka
+Inne
+Tryb Okna Gry
+Pełny Ekran
+Bez Krawędzi
+Zmaksymalizowane Okno
+W Oknie
+V-Sync
+Ograniczone FPS
+Wyłączone
+Jakość Tekstur
+Maksymalna Ilość Krwi
+Cienie
+Rozdzielczość Cieni
+Odległość Cieni
+Rozmycie w Ruchu
+Korekcja Kolorów
+Anty Aliasing
+Tryb Renderowania Świateł
+Głośność Ogólna
+Efekty Dźwiękowe
+Czat Głosowy
+Muzyka w Menu
+Głośność Interfejsu
+Utwór w Menu
+Szybsze Opisy
+Animacja Chodzenia
+Przełączany Bieg
+Wyświetl Dokładną Ilość Zdrowia
+Rich Presence
+Publiczne Lobby
+Przełączane Podniesienie
+SCP-079 - Sposób Zmiany Widoku
+SCP-079 - Post-Processing
+Język
+Menu Główne
+Połącz
+Powrót
+Ta zmiana wymaga zresetowania menu.\nZrestartować menu główne?
+Tak
+Nie
+Czy aby na pewno chcesz wyjść?
+Rozdzielczość Ekranu
+Ukryte IP
+Witaj, {username}!
+Autorzy
