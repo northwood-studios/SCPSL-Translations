@@ -1,6 +1,6 @@
 Fähigkeit ned gfundn:Dea Fähigkeit zuag'ordneten Fähigkeits-ID existiert ned.
 Sprintn:Du rennst schnölla, dafir mochst mehr Geräusche.
-Schleichn:Du gehst longsomer, mochst dafir ka Geräusch.
+Schleichn:Du gehst longsoma, mochst dafir oba kane Gräusche.
 Inventar:Öffne dei Inventar und wöh a Item mit Links-Click aus, oda loss es mit Rechts-Click foin.
 Unbewoffnet:Du host gor nix. Find wos, irgendwos.
 Zugongskortn:Du host a Zugongskorten, ned die beste aber irgendwos. Valiers ned.
@@ -11,19 +11,19 @@ Panik:Du bewegst di schnölla, wenn du weniga lebn host.
 Dregloch:Du konnst a schworze Pfützn aus Korrosion platzirn und di jedazeit wieder zu ihr teleportirn. Teleportirn dauert a bissl. \nDu konnst dei Dregloch bewegn, indemst das nuamoi platzirst.
 Korrosion:Du konnst durch Diarn durch geh.
 Schwanengsong: Du nimmst durch Schusswoffn fost kan Schoden. Oba du konnst fost sofort wieda eidämmt werdn, wenn sie ana opfat.
-Pocket Dimension:Wennst wen erwischt, wiad er in dei Dimension teleportirt. De Leid miasn den richtigen Ausgong findn, sonst sans hinich.
+Pocket Dimension:Wennst wen erwischt, wiad er in dei Dimension teleportirt. De Leid miasn den richtigen Ausgong findn, sonst sans hi.
 Schüchtan:Normalerweise bist du voi longsom, konnst kan ongreifen und wanst die gonze Zeit. Wenn di oba wea oschaut, regst di fia 5 sekunden auf und bist don aggresiv.
-Wuadanfoi:Während du aggresiv bist, bist voi schnö und schreist herum. Des hoid aba nua fir 20 Sekundn. Soboid dei Wuadanfoi voabei is, konnst du kurzzeitig ned nuamoi aggresiv wean.\nWenn da leid in deim Wuadanfoi z'noh keman, konnst dus sofort umbringa.
-Nervenzombruch:Während deim Wuadanfoi konnst du Diarn niedarenna.
-Ultrasensitiv:Du konnst kane Leidln seng, ausa se rennan, stoßen mid dir zom, oda schiaßen in deina Nähe.
-Jäger:Deina Schriat san lautlos. Du konnst oba sprintn, wos don wida Geräusche mocht.
-Imitator:Du konnst mid onderen Leidln in deina Nähe redn, sogar mid Menscha. 
-Biss:Du beißt Menscha im Nohkompf und mochst dabei vü Schoden.
+Wuadanfoi:Während du aggresiv bist, bist voi schnö und schreist herum. Des hoid oba nua fia 20 Sekundn. Wenn dei Wuadanfoi voabei is, konnst kurzzeitig ned noamoi aggresiv wean. \nWenn da leid in deim Wuadanfoi z'noh keman, konnst dus sofort umbringan.
+Nervenzombruch:Während deim Wuadanfoi konnst du Diarn niedarennan.
+Ultrasensitiv:Du konnst kane Leid seng, ausa se rennan, stoßen mid dir zom, oda schiaßen in deina Nähe.
+Jäger:Deine Schritte san lautlos. Du konnst oba sprintn, wos don wida Gräusche mocht.
+Imitator:Du konnst ned nua mitn Kollegn redn, sondan a mit ondern Leidn de in da Nähe san. 
+Biss:Du beißt de Leid im Nohkompf und mochst dabei vü Schoden.
 Gegnmittl:Wennst an Typen ogreifst, is a hi.
-De Heilung:Reanimiert an Typen, wöcha kuaz davor hi wor. Gheilte Menscha wean zu Zombies, wöche weng Lebn hom, dafir schnö san.
-Schlog:Attackiert an Menscha und mocht Schoden.
+De Heilung:Reanimiert an Typen, wöcha kuaz davor hi wor. Gheilte Leid wean zu Zombies, wöche ned vü Lebn hom, dafir oba schnö san.
+Schlog:Attackierst an Menschn und mochst Schoden.
 Öffnen und Schliaßen von Diarn:Du konnst mid Diarn intaagiern um se zu öffnen oda schliaßen, des kostet 5 AP. Du konnst se a verschliaßen, des kost oba AP üba Zeit. De Diar bleibt don zua bist das frei gibst oda deine AP aus san.
-Tesla Überlodung:Du konnst a Tesla Gate fia 50 AP sofoat aktiviern, des bringt Leidln um de z'noh bei Tesla Gate san.
-Lockdown:Bei Acces Level 3, konnst du monche Räume komplett zua schließen und des Liacht ausmochn. So kennan Leid SCP-173 ned seng.
+Tesla Überlodung:Du konnst a Tesla Gate fia 50 AP sofuat aktiviern, des bringt de Leid um, de z'noh beim Tesla Gate san.
+Lockdown:Bei Acces Level 3, konnst du monche Räume komplett zua schließen und des Liacht ausmochn. So siacht kana SCP-173.
 Praktisch Unzerstöaboa:Fünf Generatoan spawnen in da Heavy Containment Zone. Wenn olle aktiviert san, stiabst du.\n Generatoan homn a Hochfoahsequenz, wöche von ollen abbrochen wean ko, indems den "CANCEL" Knopf druckn. 
-Gnackbruch:Druck oda Hoid auf an Menschen um eam sei Gnack zu brecha. Des bringt eam sofoat um, solong er di entweder ned siacht oda blinzelt.
+Gnackbruch:Druck oda Hoid auf an Menschn um eam sei Gnack zum brechn. Des bringt eam sofoat um, solong a di entweder ned siacht oda blinzlt.
