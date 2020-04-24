@@ -1,16 +1,16 @@
-Hausmeista Zugongskortn:No description
-Wissenschoftler Zugongskortn:No description
-Hauptwissenschoftler Zugongskortn:No description
-Zonenmanager Zugongskortn:No description
-Sichaheitspersonal Zugongskortn:No description
-MTF Kadett Zugongskortn:No description
-Eindämmungsingenieur Zugongskortn:No description
-MTF Leutnant Zugongskortn:No description
-MTF Kommandant Zugongskortn:No description
-Eirichtungsmanager Zugongskortn:No description
-Chaos Insurgency Zugongsgerät
-O5-level Zugongskortn
-Radio:SR = kurze Reichweitn \nMR = Medium Reichweitn \nLR = Longe/Große Reichweitn \nUR = Ultra Reichweitn \nVabraucht Batterielodung wenn eigschoiten. Höherer Reichweitn resultiert in an höherem Batterievabrauch
+Hausmeista Zuagongskoatn:No description
+Wissenschoftler Zuagongskoatn:No description
+Hauptwissenschoftler Zuagongskoatn:No description
+Zonenmanager Zuagongskoatn:No description
+Sichaheitspersonal Zuagongskoatn:No description
+MTF Kadett Zuagongskoatn:No description
+Eindämmungsingenieur Zuagongskoatn:No description
+MTF Leutnant Zuagongskoatn:No description
+MTF Kommandant Zuagongskoatn:No description
+Eirichtungsmanager Zuagongskoatn:No description
+Chaos Insurgency Zuagongsgerät
+O5-level Zuagongskoatn
+Radio:SR = kuaze Reichweitn \nMR = Medium Reichweitn \nLR = Longe/Große Reichweitn \nUR = Ultra Reichweitn \nVabraucht Batterielodung wenn eigschoiten. Höherer Reichweitn resultiert in an höherem Batterievabrauch
 COM-15 Pistoin:afoche Selbstvateidigungspistoin
 Erste Hüfe Pakerl:Höit deine Wundn!
 Toschenlompen:Es werde Licht!
