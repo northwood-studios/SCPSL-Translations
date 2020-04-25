@@ -10,7 +10,7 @@ Beide Seiten homn erhebliche Verluste erlittn. Dea Sieger konn ned ermittelt wea
 [summary_d_escaped] Kloss-D's entkuma
 [summary_s_escaped] Wissenschoftla überlebtn
 Dea Alpha Warhead hod [summary_warhead_kills] Lebewesen umbrocht.
-Der Alpha Warhead ist ned g'nutzt woan.
+Der Alpha Warhead is ned g'nutzt woan.
 De Mission dauerte [summary_round_minutes] Minuten und [summary_round_seconds] Sekundn.
 [summary_scp_terminated] getötete SCP's
 Nächste Rundn startet in [summary_next_round_countdown] Sekundn.
