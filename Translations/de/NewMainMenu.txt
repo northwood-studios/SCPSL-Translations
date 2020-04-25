@@ -69,3 +69,5 @@ AUTHENTIFIZIERE
 Verbinde mit den Central Servern...
 <color=green>Verbindung hergestellt</color>
 <color=red>Verbindung fehlgeschlagen (Prüfe deine Konsole für Details)</color>
+<color=red>Steam-Authentifizierung fehlgeschlagen (Prüfe deine Konsole für Details)</color></color>
+<color=red>Discord-Authentifizierung fehlgeschlagen (Prüfe deine Konsole für Details)</color></color>
