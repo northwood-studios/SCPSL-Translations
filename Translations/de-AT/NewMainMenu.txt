@@ -45,7 +45,7 @@ Musik im Hauptmenü
 Interface Lautstärkn
 Hauptmenü Thema
 Intro schnö ausblendn
-Komera wocken
+Komera wockeln
 Sprintn umschoitn
 Zag HP Punkte o
 Rich Presence
@@ -65,3 +65,7 @@ Büdschirmauflösung
 Vasteck IP
 Wükommn zruck, {username}!
 Credits
+AUTHENTIFIZIER
+Vabind mid de Central Servern...
+<color=green>Vabindung heagstöt</color>
+<color=red>Vabindung föhgschlogn (Prüf dei Konsoin fia Details)</color>
