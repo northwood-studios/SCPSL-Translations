@@ -69,11 +69,11 @@ GAMEPLAY OPTIONEN
 INTRO SCHNÖ AUSBLENDN
 Des Klossen Intro wiad bei Rundnstart schnölla ausblendet.
 SCP-079 ONSICHT UMSCHOITEN
-Dea Kameramodus wiad durch eimoliges betätigen umgeschoitet.
+Dea Komeramodus wiad durch eimoliges betätigen umgeschoitet.
 SCP-079 NOCHBEARBEITUNG
-Wenn ausgeschaltet, werden Kamera Effekte stark reduziert.
-KAMERA WOCKELN
-Schoit des wockeln dea first-person Kamera o während si dea Spiela bewegt.
+Wenn ausgschoit, wean Komera Effekte stoak reduziert.
+KOMERA WOCKELN
+Schoit des wockeln dea first-person Komera o während si dea Spiela bewegt.
 SPRINTEN UMSCHOITN
 Sprintn wiad ei/aus g'schoit, anstott de Tosten gdruckt zu hoiden.
 SEPARATER HP BOIKEN
