@@ -1,5 +1,0 @@
-Limit vo <color=yellow>{0} Munition</color> erreicht (<color=yellow>{1} Schuss</color>)
-Du konnst nua <color=yellow>{0}</color> Item(s) vo dem Typ trogn (<color=yellow>{1}</color>)
-Du konnst nua <color=yellow>8</color> Items trogn
-Du host des Item limit vo dem Typen erreicht: <color=yellow>{0}</color> ({1}/{1})
-Du bist gefesslt wordn\n<size=40>Foig den Onweisungen oda frog deine Teammates um Hüfe</size>
