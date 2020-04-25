@@ -69,3 +69,5 @@ AUTHENTIFIZIER
 Vabind mid de Central Servern...
 <color=green>Vabindung heagstöt</color>
 <color=red>Vabindung föhgschlogn (Prüf dei Konsoin fia Details)</color>
+<color=red>Steam Authentikation föhgschlogn (Prüf dei Konsoin fia Details)</color>
+<color=red>Discord Authentikation föhgschlogn (Prüf dei Konsoin fia Details)</color>
