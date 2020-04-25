@@ -1,0 +1,27 @@
+"lang"
+{
+	"Language"	"koreana"
+	"Tokens"
+	{
+		"#Status_WaitingForPlayers"	"시작 준비 중...(%lobbystatus%)"
+		"#Status_MainMenu"	"메인 메뉴"
+		"#PlayingAs"	"{#Class_%class%} 로 플레이 하는 중 (%lobbystatus%)"
+		"#Class_Scp173"	"SCP-173"
+		"#Class_ClassD"	"D계급"
+		"#Class_Spectator"	"관전자"
+		"#Class_NtfScientist"	"구미호 과학자"
+		"#Class_Scp049"	"SCP-049"
+		"#Class_Scientist"	"과학자"
+		"#Class_Scp079"	"SCP-079"
+		"#Class_ChaosInsurgency"	"혼돈의 반란"
+		"#Class_Scp096"	"SCP-096"
+		"#Class_Scp0492"	"SCP-049-2"
+		"#Class_NtfLieutenant"	"구미호 부사령관"
+		"#Class_NtfCommander"	"구미호 사령관"
+		"#Class_NtfCadet"	"구미호 사관생도"
+		"#Class_Tutorial"	"튜토리얼"
+		"#Class_FacilityGuard"	"시설 경비"
+		"#Class_Scp93953"	"SCP-939-53"
+		"#Class_Scp93989"	"SCP-939-89"
+	}
+}
