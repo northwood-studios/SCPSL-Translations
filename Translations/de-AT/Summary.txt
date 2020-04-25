@@ -1,17 +1,17 @@
-de Rundn ist vorbei!
-SCPs SIEGEN
-MTF SIEGEN
-KLOSS-D's SIEGEN
-UNENTSCHIEDEN
-Se san vantwortlich fia {0} menschliche Valuste.
-Bedrohung beseitigt. De Sichaheit von den Ort is wiedahergstöt.
-Die gesamte Foundationsicherheit wurde getötet.
+de Rundn is voabei!
+SCPs GWINNAN
+MTF GWINNAN
+KLOSS-D's GWINNAN
+UNENTSCHIEDN
+Se san vantwortlich fia [summary_scpfrags] menschliche Valuste.
+Bedrohung beseitigt. De Sichaheit vo dem Ort is wiedaheagstöt.
+Des gesomte Foundationsichaheitspersonal wurde getötet.
 Beide Seiten homn erhebliche Verluste erlittn. Dea Sieger konn ned ermittelt wean.
-{0} Kloss-D's entkuma
-{0} Wissenschoftler überlebtn
-Dea Alpha Warhead hod {0} Lebewesen umbracht.
+[summary_d_escaped] Kloss-D's entkuma
+[summary_s_escaped] Wissenschoftla überlebtn
+Dea Alpha Warhead hod [summary_warhead_kills] Lebewesen umbrocht.
 Der Alpha Warhead ist ned g'nutzt woan.
-De Mission dauerte {0} Minuten und {1} Sekunden.
-{0} getötete SCP's
-Nächste Rundn startet in {0} Sekunden.
-Du host {0} Schaden vaursocht und {1} Spieler umbrocht.
+De Mission dauerte [summary_round_minutes] Minuten und [summary_round_seconds] Sekundn.
+[summary_scp_terminated] getötete SCP's
+Nächste Rundn startet in [summary_next_round_countdown] Sekundn.
+Du host [summary_damages] Schaden vaursocht und [summary_kills] Spieler umbrocht.
