@@ -65,3 +65,7 @@ Rozdzielczość Ekranu
 Ukryte IP
 Witaj, {username}!
 Autorzy
+UWIERZYTELNIANIE
+Łączenie z serwerami centralnymi...
+<color=green>Nawiązano połączenie</color>
+<color=red>Błąd połączenia (Szczegóły w konsoli)</color>
