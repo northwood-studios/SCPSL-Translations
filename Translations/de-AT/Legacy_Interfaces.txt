@@ -1,14 +1,14 @@
 GIB ONWEISUNGEN
 FOIG ONWEISUNGEN
 GLEICHA RONG
-Kloss-D Personal entkuma
+Kloss-D Personal entkuman
 Wissenschoftla übalebt
 umbrocht vo SCP's
 zeastörte SCP's
 Alpha Warhead
 zündet
 ung'nutzt
-De nächste Rundn fongt in {0} Sekunden o.
+De nächste Rundn fongt in [time] Sekundn o.
 SPEZIALFÄHIGKEIT
 ERSTÖH DREGLOCH
 NUTZ DREGLOCH
