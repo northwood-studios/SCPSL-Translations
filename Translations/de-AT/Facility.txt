@@ -17,7 +17,7 @@ INVENTAR VOI
 HACKE
 HEBT AUF...
 Des erhöhn dea Höigkeit <b>verschlechtert de Stimmung vom Spü seah</b>.\nVersuach de Eistellung so niadrig wie möglich zum hoiden.\n<b>De Stondardeistellung is empfoihn.</b>
-{0} DIARN ÖFFNEN/SCHLIASSEN\n{1} VERRIAGEL DIARN*\n\n*Des verriageln vo Diaren verbraucht dei Spezialfähigkeit.
+[1] DIARN ÖFFNEN/SCHLIASSEN\n[2] VERRIAGEL DIARN*\n\n*Des verriageln vo Diaren verbraucht dei Spezialfähigkeit.
 DIAR IS VON SCP-079 VERRIEGELT WORN
 Voibüdmodus
 Bist du da sicha dass du den Server verlossen wüst?
@@ -30,6 +30,7 @@ VABUNDN
 Du bist als Wissenschoftler entkuma und trittst dem MTF bei.
 Du bist als Klosse-D entkuma und trittst dea Chaos Insurgency bei.
 DU BIST
-Fluchtzeit: {0} Minuten und {1} Sekunden.
-Woat {0} bist du wieder {1} benutzen konnst.
+Fluchtzeit: [escape_minutes] Minuten und [escape_seconds] Sekunden.
+Woat [time] bist du wieder [item] benutzen konnst.
 HOID <color=white><b>F1</b></color> FIA MEHR INFORMATIONEN
+Du bist gefesslt woan\n<size=40>Foig den Onweisungen oda frog deine Teammates um Hüfe</size>
