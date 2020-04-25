@@ -5,15 +5,18 @@ verwest in da Pocket Dimension.
 Übareste vo SCP-106.
 stoake elektrische Vabrennungn.
 tödliches stumpfes Trauma; Dea Körper is schwa verstümmelt und zdruckt.
-{0} Schusswundn.
+[ammotype] Schusswundn.
 storke Frakturn auf da Schädlbasis.
 massive Mengn vo Gewebeverfoi san am Körper vorhonden.
 plötzliches Aufheren dea Lebenszeichn. Ka klores Trauma erkennboa.
 unbekonnte Todesuasoch.
-Es is <b>{0}</b>'s Leichn! - Ea/Sie woa {1}!\n\nTodesgrund: {2}
+Es is <b>[user]</b>'s Leichn! - Ea/Sie woa [class]!\n\nTodesgrund: [cause]
 massive Schniatwundn und übamäßiga Bluadvalust.
 große, tiefe Bisswundn verteilt um den Schäel san sichtboa.
 is vo ana stork ätzendn Substanz zerschmoizen woan.
 Splittawundn- und Vabrennungn drittn Grades durch a Explosion.
 duach bleiche Haut und ausm Mund austretends Bluad schlogt ma innere Bluadungn vor, veruasocht durch Einohm ana unbekonntn Substonz.
 Eidämmt duach Menschn.
+Dea Körper weist Spurn vo stumpfa Gewoiteiwirkung und leichtn Krotzan voa. 
+Storka Bluadvalust veaursocht duach schware Wundn.
+Kronkhoft göbe Haut und a ranziga Gruch deiten auf an Tod duach Gift hi.
