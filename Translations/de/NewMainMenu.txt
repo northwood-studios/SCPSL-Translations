@@ -65,3 +65,7 @@ Bildschirm Auflösung
 Verstecke IP
 Willkommen zurück, {username}!
 Credits
+AUTHENTIFIZIERE
+Verbinde mit den Central Servern...
+<color=green>Verbindung hergestellt</color>
+<color=red>Verbindung fehlgeschlagen (Prüfe deine Konsole für Details)</color>
