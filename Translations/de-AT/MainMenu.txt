@@ -85,3 +85,7 @@ ZAG HP PUNKTE O
 Zagt de exakte Anzoih vo HP Punkten o, anstöh vo Prozent.
 ÖFFENTLICHE LOBBY
 Wenn eigeschoit, kennan deine Steam Freind dia ohne Erlaubnis beitreta.
+IP VABERGN
+Wenn eingeschoit, wean kane IPs in da Client Konsoin ozagt.
+AUFHEMN UMSCHOITN
+Des Aufhemn vo Items erfoadat ka Hoitn dea Tosten; Druck erneit, um obzubrechn.
