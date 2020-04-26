@@ -71,3 +71,6 @@ Connecting to central servers...
 <color=red>Connection failure (Check console for details)</color>
 <color=red>Steam authentication failure (Check console for details)</color>
 <color=red>Discord authentication failure (Check console for details)</color>
+Disabled
+{0} Seconds
+Ragdoll Cleanup Time
