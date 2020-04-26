@@ -1,0 +1,73 @@
+Noticias
+Servidores
+Ajustes
+Salir
+Redes sociales
+Internet
+Favoritos
+Oficial
+Historial
+Amigos
+Buscar servidores
+Crear servidor
+Volver a unirse
+Conexión directa
+Refrescar
+Ocultar partidas vacías
+Ocultar partidas llenas
+Sin lista blanca
+Vídeo
+Audio
+Controles
+Juego
+Otros
+Modo ventana
+Pantalla completa exclusiva
+Ventana sin bordes
+Ventana maximizada
+Ventana
+Sincronización vertical
+Límite de FPS
+Off
+Calidad de texturas
+Máxima cantidad de sangre
+Sombras
+Resolución de sombras
+Distancia de sombras
+Motion Blur
+Corrección de color
+Anti Aliasing
+Modo de renderizado de luz
+Sonido global
+Efectos de sonido
+Chat de voz
+Música del menú
+Volumen de la interfaz
+Tema del menú
+Atenuación rápida de la introducción
+Cabeza de Bob
+Pulsar para alternar sprint
+Mostrar valores exactos de vida
+Rich Presence
+Sala pública
+Alternar búsqueda
+SCP-079 - Alternar modo de vista
+SCP-079 - Post-procesado
+Idioma
+Menú principal
+Conectar
+Atrás
+Este cambio necesitará recargar el menú.\n¿Recargar el menú ahora?
+Sí
+No
+¿Seguro que quieres salir?
+Resolución de pantalla
+Ocultar IP
+¡Hola de nuevo, {username}!
+Créditos
+AUTENTICANDO
+Conectando a los servidores centrales...
+<color=green>Conexión establecida</color>
+<color=red>Fallo en la conexión (Comprueba la consola para más detalles)</color>
+<color=red>Fallo en la autenticación con Steam (Comprueba la consola para más detalles)</color>
+<color=red>Fallo en la autenticación con Discord (Comprueba la consola para más detalles)</color>
