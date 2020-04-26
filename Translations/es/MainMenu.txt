@@ -85,3 +85,7 @@ MOSTRAR VALOR EXACTO DE SALUD
 Muestra la cantidad de salud exacta, en vez de un porcentaje.
 SALA PÚBLICA
 Si se activa, tus amigos de Steam podrán entrar sin permiso.
+OCULTAR IP
+Si se activa, no se mostrarán las IP en la consola del cliente.
+ALTERNAR BÚSQUEDA
+Recoger objetos no necesiará que mantengas una tecla pulsada; pulsa de nuevo para cancelar.
