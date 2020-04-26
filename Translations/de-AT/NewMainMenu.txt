@@ -1,0 +1,73 @@
+Nochrichtn
+Server
+Eistellungn
+Vealossen
+Social Media
+Internet
+Favoritn
+Offizell
+Historie
+Freind
+Suach an Server
+Erstö an Server
+Neich Vabindn
+Direkt Vabindn
+Aktualisirn
+Versteck lare Server
+Versteck voihe Server
+Ka Whitelist
+Video
+Audio
+Steiarung
+Gameplay
+Ondere
+Fenstamodus
+Exklusives Voibüd
+Rohmenloses Fensta
+Maximirtes Fensta
+Fenstamodus
+V-Sync
+FPS Limit
+Aus
+Texturnauflösung
+Max. sichtbores Bluad
+Schotten
+Schottenauflösung
+Schottendistanz
+Bewegungsunschärfn
+Foabkorrektur
+Kontenglättung
+Afocher Rendermodus
+Oigemeine Lautstärkn
+Soundeffekte
+Sprochchat
+Musik im Hauptmenü
+Interface Lautstärkn
+Hauptmenü Thema
+Intro schnö ausblendn
+Komera wockeln
+Sprintn umschoitn
+Zag HP Punkte o
+Rich Presence
+Öffentliche Lobby
+Aufhem umschoiten
+SCP-079 - Onsicht umschoiten
+SCP-079 - Nochbeorbeitung
+Sproch
+Hauptmenü
+Vabindn
+Zruck
+De Änderung braucht an Neichstart vom Hauptmenü.\nJetzt neichstarten?
+Jo
+Na
+Bist da sicha, dassd des Spü beendn wüst?
+Büdschirmauflösung
+Vasteck IP
+Wükommn zruck, {username}!
+Credits
+AUTHENTIFIZIER
+Vabind mid de Central Servern...
+<color=green>Vabindung heagstöt</color>
+<color=red>Vabindung föhgschlogn (Prüf dei Konsoin fia Details)</color>
+<color=red>Steam Authentikation föhgschlogn (Prüf dei Konsoin fia Details)</color>
+<color=red>Discord Authentikation föhgschlogn (Prüf dei Konsoin fia Details)</color>

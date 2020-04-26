@@ -1,0 +1,5 @@
+DU BIST G'STORBEN
+Druck {KEYBINDING_INTERACTION} um des <color=yellow>Woffnbeorbeitungstablet</color> eizlegn.
+Druck {KEYBINDING_INTERACTION} um des <color=yellow>Woffnbeorbeitungstablet</color> aufzumnehman.
+In dea <color=yellow>Werkbonk</color> befindet si des <color=yellow>Woffnbeorbeitungstablet</color> vo wen onderem.
+Du brauchst a <color=yellow>Woffnbeorbeitungstablet</color> um de <color=yellow>Werkbonk</color> z'nutzn.

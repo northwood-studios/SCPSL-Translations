@@ -64,3 +64,4 @@ Non
 Résolution d'écran
 Masquer les IP
 Salut {username} !
+Crédits
