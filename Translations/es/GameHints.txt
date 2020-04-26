@@ -1,4 +1,4 @@
-﻿<color=red>Acceso denegado</color>
+<color=red>Acceso denegado</color>
 Has llegado al límite de <color=yellow>munición de [type]</color> (<color=yellow>[max_type_count] rondas</color>)
 <b>Ya habías</b> llegado al límite de <color=yellow>munición de [type]</color> (<color=yellow>[max_type_count] rondas</color>)
 Has llegado al límite de <color=yellow>[type]</color> (<color=yellow>[max_type_count] objetos</color>)
