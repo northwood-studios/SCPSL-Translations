@@ -69,3 +69,8 @@ UWIERZYTELNIANIE
 Łączenie z serwerami centralnymi...
 <color=green>Nawiązano połączenie</color>
 <color=red>Błąd połączenia (Szczegóły w konsoli)</color>
+<color=red>Uwierzytelnianie Steam nie powiodło się (Szczegóły w konsoli)</color>
+<color=red>Uwierzytelnianie Discord nie powiodło się (Szczegóły w konsoli)</color>
+Wyłączono
+{0} Sekund
+Czas Na Wyczyszczenie Ciał
