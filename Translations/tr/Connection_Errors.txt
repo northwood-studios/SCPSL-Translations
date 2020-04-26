@@ -29,3 +29,8 @@
 <size=80>BAĞLANTI KESİLDİ</size>\nSunucu, coğrafi konumunuzdan bağlantıları kabul etmiyor.\nSunucu adı veya açıklaması daha fazla detay içerebilir.
 <size=80>BAĞLANTI KESİLDİ</size>\nBir sunucu değişikliği tarafından atıldın.\n\nSebep: [reason]\nBu bir sunucu değişikliği, bir oyun özelliği değildir.\nDaha fazla bilgi için sunucu yetkilisine ulaşın.
 <size=80>BAĞLANTI KESİLDİ</size>\nKimlik doğrulama belirteciniz sunucu tarafından reddedildi.\nLütfen oyunu tekrar başlatıp tekrar teknik desteğe başvurun.
+<size=80>BAĞLANTI KESİLDİ</size>\nBu sunucudan yasaklandınız.\nSebep: [reason]
+<size=80>BAĞLANTI KESİLDİ</size>\nBu sunucudan yasaklandınız.\nAçılacağı zaman: [date] [time]\nSebep: [reason]
+<size=80>Lütfen bekleyin</size>\nSunucunun güvenlik doğrulaması işleniyor...
+<size=80>BAĞLANTI KESİLDİ</size>\nSunucunun güvenlik doğrulaması işlenmesi başarısız oldu.
+<size=80>BAĞLANTI KESİLDİ</size>\nSunucunun güvenlik doğrulaması işlenmesi sunucu için çok yavaş.\nLütfen tekrar deneyin veya sunucu yetkililerine ulaşın.

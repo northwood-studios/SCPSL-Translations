@@ -1,0 +1,67 @@
+Informations
+Serveurs
+Réglages
+Quitter
+Réseaux sociaux
+Internet
+Favoris
+Officiel
+Historique
+Amis
+Recherche des Serveurs
+Créer un serveur
+Rejoindre
+Connection directe
+Rafraîchir
+Masquer les parties vides
+Masquer les parties complètes
+Pas de liste blanche
+Vidéo
+Audio
+Contrôles
+Gameplay
+Autres
+Mode fenêtré
+Plein écran exclusif
+Fenêtre sans bordure
+Fenêtre Étirée
+Fenêtré
+Syncronisation Verticale
+Limite Images/s
+Off
+Qualité des textures
+Quantité maximale de sang
+Ombres
+Qualité des ombres
+Distance des ombres
+Flou de mouvement
+Correction de couleur
+Anti-crénelage
+Mode de rendu des lumières
+Volume principal
+Effets sonores
+Chat vocal
+Musique du menu
+Volume de l'interface
+Thème du menu
+Fondu rapide de l'intro
+Mouvements de tête
+Option de Sprint
+Afficher la valeur des points de vie
+Rich-Presence
+Lobby public
+Option de Recherche
+SCP-079 - Basculer de mode d'affichage
+SCP-079 - Post-traitement
+Langue
+Menu principal
+Se connecter
+Retour
+Cette modification nécessitera un rechargement. \nRecharger le menu maintenant?
+Oui
+Non
+Êtes-vous sûr de vouloir quitter?
+Résolution d'écran
+Masquer les IP
+Salut {username} !
+Crédits

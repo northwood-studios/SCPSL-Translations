@@ -16,3 +16,4 @@ DOLİNİ KULLAN
 Şu kişi tarafından öldürüldün
 rolü
 Pasif
+(gizli)

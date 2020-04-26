@@ -12,8 +12,11 @@ Perte soudaine des signes vitaux. Aucun traumatisme évident.
 La cause de sa mort est inconnue.
 C'est le corps de <b>[user]</b> qui était [class]!\n\nCause de sa mort : [cause]
 Lacérations massives et perte excessive de sang.
-Des marques de grosses morsures profondes autour du crâne sont observées.
+Des marques de grosses morsures profondes sur le corps sont observées.
 S'est fait fondre par une substance fortement corrosive.
 Shrapnel et brûlures au troisième degré causés par une explosion.
 Une peau pâle et du sang s'écoulant de la bouche indiquent une hémorragie interne causée par ingestion de substance.
-Reconfiné par un humain.
+Reconfiné.
+Traumatisme contondant et égratignures mineures sont présents sur le corps.
+Perte de sang sévère causée par des blessures profondes.
+Une peau jaune et malade ainsi qu'une odeur rance indiquent une mort par empoisonnement.
