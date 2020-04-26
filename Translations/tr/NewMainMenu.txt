@@ -64,3 +64,4 @@ Hayır
 Ekran Çözünürlüğü
 IP'yi gizle
 Hoşgelirsiniz inşallah, {username}!
+Jenerik
