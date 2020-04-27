@@ -1,0 +1,38 @@
+Northwood Gerente de Desenvolvimento de Negócios
+Northwood Diretor Executivo
+Northwood Diretor de Informações
+Northwood Diretor de Operações
+Northwood Diretor da Comunidade
+Northwood Administrador do Server de Discord
+Northwood Assistente Executivo
+Northwood Gerenciador de Feedback
+Northwood Recursos Humanos
+Northwood Diretor do Recursos Humanos
+Northwood Executivo de Informação
+Northwood Engenheiro Chefe de Bot
+Northwood Diretor de marketing
+Northwood Gerente de Plataforma de Marketing
+Northwood Funcionarios
+Northwood Administrador do Grupo Steam
+Northwood Administrador do sistema
+Northwood Gerenciador da Wiki
+SCP:SL Diretor de Arte
+SCP:SL Supervisor de Arte
+SCP:SL Designer de Arte
+SCP:SL Programador de Back-end
+SCP:SL Programador Chefe de Back-end
+SCP:SL Desenvolvedor
+SCP:SL Vencedor do evento
+SCP:SL Programador Fullstack
+SCP:SL Designer do Jogo
+SCP:SL Programador de Gameplay
+SCP:SL Moderador Global Chefe
+SCP:SL Moderador Global
+SCP:SL Designer Chefe do Jogo
+SCP:SL Programador Chefe de Gameplay
+SCP:SL Designer de Nível
+SCP:SL Parceiros
+SCP:SL Colaboradores do Patreon
+SCP:SL Programador
+SCP:SL Gerente de Qualidade
+SCP:SL Designer de Som
