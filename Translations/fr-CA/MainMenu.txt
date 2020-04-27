@@ -85,3 +85,7 @@ Si l'option est activée, votre statut s'affichera sur Discord/Steam.
 Affiche les PV exacts au-lieu du pourcentage.
 LOBBY PUBLIC
 Si l'option est activée, vos amis Steam pourront vous rejoindre sans permission.
+CACHEZ LES ADRESSES IP
+Si l'option est activée, toute adresse IP dans la console du client ne sera pas affichée.
+ALTERNER LA FOUILLE
+Le ramassage d'item ne nécessitera pas de maintenir une touche; rappuyez pour annuler.

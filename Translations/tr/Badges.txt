@@ -1,0 +1,38 @@
+Northwood İş Geliştirme Müdürü
+Northwood İcra Kurulu Başkanı
+Northwood Bilgi Yönetim Şefi
+Northwood Operasyon Şefi
+Northwood Topluluk Müdürü
+Northwood Discord Yöneticisi
+Northwood Yönetici Asistanı
+Northwood Geribildirim Yöneticisi
+Northwood İnsan Kaynakları
+Northwood İnsan Kaynakları Müdürü
+Northwood Ortak Bilgi Görevlisi
+Northwood Lead Bot Mühendisi
+Northwood Pazarlama Müdürü
+Northwood Pazarlama Platformu Yöneticisi
+Northwood Personel
+Northwood Steam Yöneticisi
+Northwood Sistem Yöneticisi
+Northwood Wiki Yöneticisi
+SCP:SL Sanat Müdürü
+SCP:SL Sanat Gözetmeni
+SCP:SL Sanatçı
+SCP:SL Backend Programcı
+SCP:SL Backend Programcı Müdürü
+SCP:SL Geliştirici
+SCP:SL Etkinlik Kazananı
+SCP:SL Fullstack Programcı
+SCP:SL Oyun Tasarımcısı
+SCP:SL Oynanış Programcısı
+SCP:SL Küresel Moderasyon Müdürü
+SCP:SL Küresel Moderatör
+SCP:SL Baş Oyun Tasarımcısı
+SCP:SL Baş Oynanış Programcısı
+SCP:SL Harita Tasarımcısı
+SCP:SL Partner
+SCP:SL Patreon Destekçisi
+SCP:SL Programcı
+SCP:SL Kalite Güvence Müdürü
+SCP:SL Ses Tasarımcısı

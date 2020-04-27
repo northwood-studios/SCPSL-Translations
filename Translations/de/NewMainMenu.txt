@@ -10,9 +10,9 @@ Historie
 Freunde
 Suche Server
 Erstelle Server
-Erneut Verbinden
-Direkt Verbinden
-Aktualisieren
+<size=12>Erneut Verbinden</size>
+<size=15>Direkt Verbinden</size>
+<size=13>Aktualisieren</size>
 Verstecke leere Server
 Verstecke volle Server
 keine Whitelist
@@ -21,27 +21,27 @@ Audio
 Steuerung
 Gameplay
 Andere
-Fenster Modus
+Fenstermodus
 Exklusives Vollbild
 Rahmenloses Fenster
 Maximiertes Fenster
-Fenster
+Einfaches Fenster
 V-Sync
 FPS Limit
 Aus
-Texturen Qualität
+Texturenauflösung
 Max. sichtbares Blut
 Schatten
-Schatten Auflösung
-Schatten Distanz
+Schattenauflösung
+Schattendistanz
 Bewegungsunschärfe
 Farbkorrektur
 Kantenglättung
 Einfacher Rendermodus
-Allg. Lautstärke
-Sound Effekte
+Allgemeine Lautstärke
+Soundeffekte
 Sprachchat
-Hauptmenü Musik
+Musik im Hauptmenü
 Interface Lautstärke
 Hauptmenü Thema
 Intro schnell ausblenden
@@ -61,3 +61,16 @@ Diese Änderung erfordert einen Neustart des Hauptmenüs.\nJetzt neustarten?
 Ja
 Nein
 Bist du dir sicher, dass du das Spiel beenden möchtest?
+Bildschirm Auflösung
+Verstecke IP
+Willkommen zurück, {username}!
+Credits
+AUTHENTIFIZIERE
+Verbinde mit den Central Servern...
+<color=green>Verbindung hergestellt</color>
+<color=red>Verbindung fehlgeschlagen (Prüfe deine Konsole für Details)</color>
+<color=red>Steam-Authentifizierung fehlgeschlagen (Prüfe deine Konsole für Details)</color></color>
+<color=red>Discord-Authentifizierung fehlgeschlagen (Prüfe deine Konsole für Details)</color></color>
+Ausgeschaltet
+{0} Sekunden
+Ragdoll Beseitigungszeit

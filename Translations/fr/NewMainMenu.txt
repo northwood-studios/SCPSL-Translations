@@ -63,3 +63,5 @@ Non
 Êtes-vous sûr de vouloir quitter?
 Résolution d'écran
 Masquer les IP
+Salut {username} !
+Crédits
