@@ -65,3 +65,12 @@ SCP-079 - 後期處理
 隱藏IP
 歡迎回來, {username}!
 製作人員名單
+認證中
+連接至中央伺服器...
+<color=green>連接已建立</color>
+<color=red>連接失敗 (檢查控制台以獲取詳細訊息)</color>
+<color=red>Steam authentication failure (檢查控制台以獲取詳細訊息)</color>
+<color=red>Discord authentication failure (檢查控制台以獲取詳細訊息)</color>
+禁用
+{0} 秒
+布娃娃清理時間
