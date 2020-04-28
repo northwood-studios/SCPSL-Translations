@@ -1,0 +1,6 @@
+﻿<color=red>접근 거부 됨</color>
+<color=yellow>[type] 탄</color>을 더 이상 획득할 수 없습니다. (<color=yellow>최대치 : [max_type_count] 발</color>)
+<color=yellow>[type] 탄</color>을 더 이상 획득할 수 없습니다. (<color=yellow>최대치 : [max_type_count] 발</color>)
+<color=yellow>[type]</color> 종류의 아이템을 더 이상 획득 할 수 없습니다. (<color=yellow>[max_type_count]개</color>)
+<color=yellow>[type]</color> 종류의 아이템을 더 이상 획득 할 수 없습니다. (<color=yellow>[max_type_count]개</color>)
+오직 <color=yellow>[max_item_count]개의 아이템만</color> 가지고 다닐 수 있습니다.
