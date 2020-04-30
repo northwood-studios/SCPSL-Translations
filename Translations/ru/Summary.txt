@@ -12,6 +12,6 @@
 [summary_warhead_kills] Убито из-за детонации Боеголовки "Альфа"
 Боеголовка "Альфа" не была детонирована в течение раунда.
 Выполнение миссии заняло: [summary_round_minutes] минут и [summary_round_seconds] секунд.
-[summary_scp_terminated] Уничтожено Объектов SCP
+Уничтожено Объектов SCP: [summary_scp_terminated]
 Следующий раунд начнётся через: [summary_next_round_countdown] секунд.
 Вы нанесли [summary_damages] урона. Убитых вами игроков: [summary_kills]
