@@ -10,8 +10,8 @@ Northwood工作室 人力资源部
 Northwood工作室 人力资源部总监
 Northwood工作室 联合信息官
 Northwood工作室 首席机器人工程师
-Northwood工作室 营销部总监
-Northwood工作室 营销部平台经理
+Northwood工作室 营销总监
+Northwood工作室 营销平台经理
 Northwood工作室 员工
 Northwood工作室 Steam经理
 Northwood工作室 系统工程师
@@ -28,11 +28,11 @@ SCP:SL 游戏策划
 SCP:SL 游戏逻辑程序员
 SCP:SL 全球管理员经理
 SCP:SL 全球管理员
-SCP:SL 首席游戏测试
+SCP:SL 首席游戏设计师
 SCP:SL 首席游戏逻辑程序员
 SCP:SL 游戏关卡设计师
 SCP:SL 合作伙伴
 SCP:SL 游戏赞助者
 SCP:SL 程序员
-SCP:SL 质量保证经理
+SCP:SL 质量验证经理
 SCP:SL 音效师
