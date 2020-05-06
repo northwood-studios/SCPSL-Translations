@@ -8,7 +8,6 @@ ca by ThiEstoRil
 cs by ahyper & Krumpac
 da by Bemsen
 de by DasDavid, Mr.Panda & Joseph
-de-AT by Darüssel & Real Jeff
 es by Anreol, Erick & ConnorTheCone
 fi by Blad3z, Doge & Zathor
 fr by FranceSCP, lucasboss45 & Ganxly
@@ -16,7 +15,7 @@ fr-CA by DragonsLover aka SilverMike
 hu by asderman
 it by Lycan & terminator-97
 ja by PalZaxson
-ko by Dr-Devan & Arizen
+ko by Dr-Devan & Arizen, OneKoin
 lv by Rainers
 nb by Tam
 nl by Lazyneer
