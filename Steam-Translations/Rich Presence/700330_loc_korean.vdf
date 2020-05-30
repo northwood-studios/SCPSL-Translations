@@ -1,6 +1,6 @@
 "lang"
 {
-	"Language"	"koreana"
+	"Language"	"korean"
 	"Tokens"
 	{
 		"#Status_WaitingForPlayers"	"시작 준비 중... (%lobbystatus%)"
