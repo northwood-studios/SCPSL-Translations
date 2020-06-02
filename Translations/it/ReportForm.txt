@@ -1,0 +1,7 @@
+Segnala Giocatore
+Target:\nPlayer ID:\nDescrizione:
+Annulla
+Segnala per aver infranto le regole del server
+Segnala per raid o utilizzo di cheat
+SEGNALAZIONE
+Attendere prego...
