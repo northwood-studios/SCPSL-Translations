@@ -85,3 +85,7 @@ MOSTRA VALORE HP ESATTO
 Mostra il valore degli HP esatto al posto della percentuale.
 LOBBY PUBBLICA
 Se attiva, i tuoi amici possono unirsi alla tua lobby senza chiedere il permesso.
+NASCONDI IP
+Se abilitato, qualsiasi IP visualizzato nella console del client non verrà visualizzato.
+TOGGLE RICERCA
+Raccogliere un item non richiederà premere un tasto; premi di nuovo per annullare.
