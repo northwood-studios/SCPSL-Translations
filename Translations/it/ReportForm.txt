@@ -1,7 +1,7 @@
 Segnala Giocatore
-Target:\nPlayer ID:\nDescrizione:
+Target:\nID Giocatore:\nDescrizione:
 Annulla
-Segnala per aver infranto le regole del server
+Segnala per violazione del regolamento
 Segnala per raid o utilizzo di cheat
 SEGNALAZIONE
 Attendere prego...
