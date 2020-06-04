@@ -11,7 +11,7 @@
 Утекло науковців: [summary_s_escaped]
 Боєголовка «Альфа» вибухнула. Убито [summary_warhead_kills].
 Під час цього завдання боєголовка «Альфа» не вибухнула.
-Завдання тривало [summary_round_minutes] хв [summary_round_seconds] с.
+Завдання тривало [summary_round_minutes] хв [summary_round_seconds] с
 Знищено суб’єктів SCP: [summary_scp_terminated]
-Наступний ранд за [summary_next_round_countdown] с.
+Наступний ранд за [summary_next_round_countdown] с
 Ви завдали [summary_damages] шкоди. Гравців, убитих вами: [summary_kills].
