@@ -2,7 +2,7 @@
 닫기
 그림자 해상도
 설정
-<i>SCP: CONTAINMENT BREACH</i> 를 기반으로 합니다.
+이 게임은 <i>SCP: CONTAINMENT BREACH</i> 를 기반으로 합니다.
 뒤로가기
 언어
 안티 엘리어싱
