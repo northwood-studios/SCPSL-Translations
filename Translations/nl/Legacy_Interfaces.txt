@@ -12,7 +12,7 @@ De volgende ronde zal starten in [time] seconden.
 SPECIALE VAARDIGHEID
 CREËER ZINKGAT
 GEBRUIK ZINKGAT
-JE BENT DOODGEGAAN
+JE BENT DOOD
 Je bent gedood door
 als
 Passief

@@ -1,17 +1,17 @@
-de ronde is afgelopen!
-SCPs HEBBEN GEWONNEN
-MTF HEBBEN GEWONNEN
-KLASSE-D HEBBEN GEWONNEN
+De ronde is afgelopen!
+SCPs WINNEN
+MTF WINNEN
+KLASSE-D WINNEN
 GELIJKSPEL
-Ze zijn verantwoordelijk voor het doden van [summary_scpfrags] mensen.
-Dreiging vernietigd. Dit gebied is nu weer veilig.
-Alle Foundation bewakers zijn vermoordt.
-Beide kanten hebben veel verlies en winst gemaakt. Hierbij blijft de winnaar onbepaald.
-Er zijn [summary_d_escaped] Klasse-D personeel ontsnapt.
-[summary_s_escaped] wetenschapper(s) hebben het overleeft/heeft het overleeft.
-De Alpha Warhead explosie heeft [summary_warhead_kills] wezens vermoordt.
-De Alpha Warhead was niet ontploft tijdens deze missie.
-De missie duurde [summary_round_minutes] minuten en [summary_round_seconds] seconden.
-Er zijn [summary_scp_terminated] SCPs vermoordt tijdens deze missie.
-De volgende ronde begint in [summary_next_round_countdown] seconden.
-Je hebt [summary_damages] schade aangericht, en [summary_kills] spelers vermoordt.
+Zij zijn verantwoordelijk voor het doden van [summary_scpfrags] mensenlijke wezens.
+Gevaren vernietigd. Het gebied is weer veilig.
+Alle Foundation bewakers zijn vermoord.
+Beide kanten hebben enorm verlies en winst gemaakt. De winnaar is onduidelijk.
+[summary_d_escaped] Klasse-D ontsnapt
+[summary_s_escaped] Wetenschappers(s) overleven
+Alpha Warhead explosie vermoordde [summary_warhead_kills] wezens.
+Alpha Warhead is niet ontploft deze ronde.
+De ronde duurde [summary_round_minutes] minuten en [summary_round_seconds] seconden.
+[summary_scp_terminated] vernietigde SCPs
+Volgende ronde in [summary_next_round_countdown] seconden.
+U heeft [summary_damages] schade aangericht, en [summary_kills] spelers vermoord.
