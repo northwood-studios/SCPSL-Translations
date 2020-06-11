@@ -31,3 +31,6 @@ Je bent ontsnapt als de Wetenschapper.
 Je bent ontsnapt as de Klasse-D Personeel.
 JE BENT EEN
 Ontsnappings tijd: [escape_minutes] minuten en [escape_seconds] seconden
+Wacht [time] voordat je [item] weer kan gebruiken.
+Druk op <color=yellow><b>F1</b></color> voor hulp.
+Je bent geboeid\n<size=40>volg bevelen of vraag teamgenoten om hulp</size>

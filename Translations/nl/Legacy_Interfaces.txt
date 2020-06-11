@@ -1,17 +1,19 @@
-JE KAN BEVELEN GEVEN
+GEEF BEVELEN
 VOLG BEVELEN
 ZELFDE MACHTIGINGS NIVEAU
 Klasse-D Personeel ontsnapt
 Wetenschapers overleefd
-Vermoordt door SCP
-Beëindigde SCPs
+Vermoordt door SCPs
+Vermoordde SCPs
 Alpha Warhead
 Ontploft
 Ongebruikt
 De volgende ronde zal starten in [time] seconden.
 SPECIALE VAARDIGHEID
-CREËER VERDWIJNGAT
-GEBRUIK VERDWIJNGAT
-YOU DIED
-You were killed by
-as
+CREËER ZINKGAT
+GEBRUIK ZINKGAT
+JE BENT DOODGEGAAN
+Je bent gedood door
+als
+Passief
+(vestopt)

@@ -4,8 +4,8 @@ Tekens van erge trauma bij de dijbenen stelt voor een dood door bloedsomloop sho
 Verdwaald in de Pocket Dimensie.
 Het is een overblijfsel van SCP-106.
 Geëlektrocuteerd door een hoog voltage apparaat.
-Fatale stomp trauma; het lichaam is slecht verminkt en verpulverd.
-Er zijn veel schotwonden op het lichaam. Waarschijnlijk een [ammotype] munitie type was gebruikt.
+Enorme breuken en stomp schade; het lichaam is slecht verminkt en verpulverd.
+Er zijn veel schotwonden op het lichaam. Er is waarschijnlijk een [ammotype] munitie wapen gebruikt.
 Cervicale fractuur aan de grond van de schedel.
 Enorm veel weefselbederf is aanwezing op het lichaam.
 Plotseling werking van organen gestopt. Geen zichtbare trauma.
@@ -14,4 +14,9 @@ Het is <b>[user]</b>'s lichaam, hij was een [class]!\n\nDoodsoorzaak: [cause]
 Enorme snijwonden en overmatig veel bloodverlies.
 Grote, diepe bijt wonden rond de schedel zijn aanwezig.
 Versmolten door een enorm bijtend stof.
-Shrapnel en derdegraads brandwonden door een explosie.
+Stukken metaal en derdegraads brandwonden veroorzaakt door een explosie.
+Droge huid en een bloedende mond duiden op een dood veroorzaakt door een ingeslikte stof
+Gevangen.
+Stomp schade en kleine krassen zijn zichtbaar op het lichaam.
+Enorme bloedverlies veroorzaakt door diepe wonden.
+Plakkerige, gele huid en een enorme stank duiden aan op een dood door vergiftiging
