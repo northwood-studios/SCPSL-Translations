@@ -9,14 +9,14 @@ I N V E N T A R I S
 HELDERHEID
 OPTIES
 VERLATEN
-ALPHA KERNKOP IS UITGESCHAKELD
+ALPHA WARHEAD IS UITGESCHAKELD
 TOEGANG GEWEIGERD
 SPRAAK CHAT
 INVENTARIS OVERBELAST
 M. GEVOELIGHEID
 HACKEN
 OPPAKKEN...
-De helderheid verhoogen <b>aanzienlijk verergert de stemming</b> van het spel.\nProbeer de waarde zo laag mogelijk te zetten.\n<b> Het is aangeraden om het op de standaard waarde te laten staan.</b>
+De helderheid verhoogen <b>verergert de stemming</b> van het spel.\nProbeer de waarde zo laag mogelijk te zetten.\n<b> Het is aangeraden om het op de standaard waarde te laten staan.</b>
 [1] OPEN/SLUIT DEUR\n[2] DEUR VERGRENDELEN*\n\n*Het vergrendelen van de deur maakt gebruik van speciale vaardigheid
 DEUR IS VERGRENDELD DOOR SCP-079
 Volledig scherm
@@ -25,9 +25,9 @@ Basis instelling. Volledige lijst van instellingen zijn in het hoofd menu.
 WACHTEN OP SPELERS
 SAMENVATTING
 DOORGAAN
-HOOFD VOLIME
+HOOFD VOLUME
 verbonden
 Je bent ontsnapt als de Wetenschapper.
 Je bent ontsnapt as de Klasse-D Personeel.
 JE BENT EEN
-Escape time: [escape_minutes] minutes and [escape_seconds] seconds
+Ontsnappings tijd: [escape_minutes] minuten en [escape_seconds] seconden

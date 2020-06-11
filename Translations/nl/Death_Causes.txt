@@ -1,14 +1,14 @@
 In een explosie omgekomen.
-Gebroken voeten en benen stelt voor een fatale trauma door een val.
+Gebroken voeten en benen veroorzaakt door een lange val.
 Tekens van erge trauma bij de dijbenen stelt voor een dood door bloedsomloop shock.
 Verdwaald in de Pocket Dimensie.
 Het is een overblijfsel van SCP-106.
-Hoge voltage elektrische schok.
+Geëlektrocuteerd door een hoog voltage apparaat.
 Fatale stomp trauma; het lichaam is slecht verminkt en verpulverd.
 Er zijn veel schotwonden op het lichaam. Waarschijnlijk een [ammotype] munitie type was gebruikt.
 Cervicale fractuur aan de grond van de schedel.
-Enorm veel weefselbederf zijn aanwezing op het lichaam.
-Plotseling werking van organen gestopt. Er is geen trauma.
+Enorm veel weefselbederf is aanwezing op het lichaam.
+Plotseling werking van organen gestopt. Geen zichtbare trauma.
 Onbekende doodsoorzaak.
 Het is <b>[user]</b>'s lichaam, hij was een [class]!\n\nDoodsoorzaak: [cause]
 Enorme snijwonden en overmatig veel bloodverlies.

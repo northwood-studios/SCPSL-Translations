@@ -1,4 +1,4 @@
-<size=80>JE BENT GEKICKD</size>\nDe server was heef de verbinden te verbroken.\n<size=26>\nJe bent waarschijnlijk tijdelijk verbannen door de administrator\nof je verdoet niet aan de vereisten (bv. een verbinding met Steam).\nVoor mogelijke tijdelijk ban - de auteurs van het spel zijn <u>niet</u> verantwoordelijk.\n</size>
+<size=80>JE BENT GEKICKD</size>\nDe server heeft de verbinding verbroken.\n<size=26>\nJe bent waarschijnlijk tijdelijk verbannen door de administrator\nof je verdoet niet aan de vereisten (bv. een verbinding met Steam).\nVoor mogelijke tijdelijk ban - de auteurs van het spel zijn <u>niet</u> verantwoordelijk.\n</size>
 <size=80>VERBINDING VERBROKEN</size>\nDe opgegeven host is niet beschikbaar.
 <size=80>VERBINDING VERBROKEN</size>\nDe opgegeven verbindinId bestaat niet.
 <size=80>VERBINDING VERBROKEN</size>\nDe opgegeven kanaal bestaat niet.
@@ -15,5 +15,5 @@
 <size=80>RONDE HERSTARTEN</size>\n<size=35>De server is het level aan het herstarten...</size>
 <size=80>EEN OGENBLIK GEDULD</size>\n<size=35>Tutorial laden...</size>
 <size=80>VERSIE INCOMPATIBILITEIT</size>\nJouw spel versie is anders dan die van de server\n(Jouw - [your]; Server - [server])
-<size=80>CONNECTED</size>
+<size=80>VERBONDEN</size>
 <size=35>Faciliteit aan het laden...</size>

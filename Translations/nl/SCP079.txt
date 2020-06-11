@@ -1,17 +1,17 @@
-AUXILIARY POWER
-EXPERIENCE
-CAMERA FEED ONLINE
-PRESS [KEY] TO TOGGLE THE SURVEILLANCE MAP
-Experience gained:
-Cooperative work
-Class-D termination assist
-C. I. termination assist
-MTF termination assist
-Scientist termination assist
-SCP termination assist
-LOCKED DOORS: [LOCKED_NUM]<size=25>RIGHT MOUSE BUTTON TO UNLOCK ALL</size>
-General interactions
-You are being attacked!
-Generators have been highlighted on the map
-DANGER
-SCPs{0}MTF & Guards{1}Scientists{2}Class-D{3}Chaos Insurgents{4}
+FACILITY ENERGIE
+ERVARING
+CAMERA SYSTEEM ONLINE
+DRUK OP [KEY] OM DE FACILITY KAART TE OPENEN
+Ervaring ontvangen:
+Coöperatief werk
+Klasse-D helpen vermoorden
+C. I. helpen vermoorden
+MTF helpen vermoorden
+Wetenschapper helpen vermoorden
+SCP helpen vermoorden
+VERGRENDELDE DEUREN: [LOCKED_NUM]<size=25>RECHTER MUIS KNOP OM ALLES TE ONTGRENDELEN</size>
+Algemene interacties
+Je wordt aangevallen!
+Generators zijn zichtbaar op de kaart
+GEVAAR
+SCPs{0}MTF & Bewakers{1}Wetenschappers{2}Klasse-D{3}Chaos Insurgents{4}
