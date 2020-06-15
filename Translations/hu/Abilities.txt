@@ -1,6 +1,6 @@
 Nem Talált Képesség:A képesség ID-je, illetve az ezzel összekapcsolt képesség nem létezik.
-Sprint:Gyorsabban futsz, de növeli a zajt amit képzel.
-Settenkedés:Nem keltesz zajt mozgás közben, de sokkal lassabban fogsz mozogni.
+Sprint:Gyorsabban futsz, viszont nagyobb zajt keltesz.
+Settenkedés:A lépteid halkak, viszont sokkal lassabban mozogsz.
 Eszköztár:Nyisd meg az eszköztárad és válaszd ki LMB-vel azt, amit használni szeretnél, és RMB-vel amit el szeretnél dobni.
 Fegyvertelen:Nincs semmid. Találj valamit. Bármit.
 Hozzáférési kártya:Van egy ilyen kártyád, nem a legjobb, de ne veszítsd el.
@@ -8,22 +8,23 @@ Alapértelmezett helyzet:Fel vagy szerelve egy fegyverrel, Gránátokkal, egy R�
 Felfegyverzett & Veszélyes:Fel vagy szerelve egy Golyószóróval, egy Feltörő Eszközzel (hozzáférési kártya), és egy Elsősegély-dobozzal.
 Ijesztő sebesség:Amikor egy ember sem néz rád, nagyon gyorsan mozogsz. Ha egy ember közvetlen rádnéz, nem tudsz se mozogni, se támadni. Az összes ember aki rád néz egyszerre fog pislogni, ezáltal tudsz mozogni, illetve támadni.
 Pánik:Gyorsabban mozogsz ahogy a HP-d csökken.
-Gödör:Le tudsz helyezni egy fekete gödröt korrózióból és vissza tudsz teleportálni bármikor. A teleportálás néhány mp-et igénybe vesz.\nEl tudod mozgatni a gödröt egy újabb letétellel.
+Víznyelő:Egy víznyelőt helyezhetsz a földre, ahová bármikor visszateleportálhatsz. A teleportálás néhány másodpercet vesz igénybe.\nÚjbóli gombnyomásra a régi eltűnik és egy új víznyelő keletkezik.
 Korrózió:Át tudsz sétálni az ajtókon ha nekik mész.
-Hattyúdal:A lövedékek szinte meg sem tudnak sebezni, de azonnal elzárhatnak a kamrádban egy emberi önfeláldozás árán.
+Hattyúdal:A lövedékek szinte meg sem tudnak sebezni, de azonnal elzárhatnak a kamrádban, ha egy ember feláldozza magát.
 "Pocket" Dimenzió:Ha elkapsz egy embert, elteleportálod őket a dimenziódba ami gyorsan megöli őket. Az embereknek a helyes kijáratot kell választaniuk, különben meghalnak.
-Féltékeny:Alapértelmezetten, lassan mozogsz, nem tudsz támadni és halkan sírsz. Ha az emberek elég sokáig néznek rád, öt másodpercre immobilis leszel, utána elkezdesz Tombolni.
-Anti-Szociális Tombolás:Tombolás közben nagyon gyorsan futsz és sikítasz. Ez a Tombolás kb. 20 mp-ig tart; miután lejár, egy rövid ideig nem tudsz Tombolni, miközben nem sírsz.\nMiközben Tombolsz, ha kattintasz, vagy lenyomva tartod az LMB-t azonnal megölöd az embereket a közeledben.
-Összeomlás:Miközben Tombolsz, az ajtókat nem kinyitod hanem megsemmisíted őket.
+Scopophobia:Általában nyugodt vagy, viszont nem szereted ha bántanak, vagy az arcodra néznek. Ha bántanak, vagy az arcodra néznek, engedd ki minden haragod a vétkesek meggyilkolásával. Kövesd a fényüket mielőtt a haragod elmúlik. Minden egyes vétkes megnöveli az AHP-det, amely meggátolja a HP veszteséget.
+Próbálj ne sírni (Nyugodt):Túl nehéz. Ha rádőlsz az ajtóra az segíthet; halkabb leszel és egy helyben állsz, ezzel megnyugtatva magad... vagy vársz valakire hogy épp erre jöjjön.
+Közelharc (Tombolás):Általában magadnak való vagy. De ha elkezdenek provokálni... Áttörsz bármin ami az utadba kerül, hogy elkapd azokat, akik bánottak. Az ajtókat széttöröd, az embereket pedig darabokra téped az ütéseiddel.
 Ultraérzékeny:Nem látod az embereket addig amíg nem futnak, nem ütköznek neked, vagy nem tüzelnek egy fegyverrel a közvetlen közeledben.
 Ragadozó:A lépéseid halkak. Ha lenyomva tartod az adott billentyűt gyorsabb leszel, de a mozgással zajt keltesz.
 Mimika:Beszélni tudsz a közeli játékosokkal, az embereket beleértve.
 Harapás:Megtámadhatsz egy embert a közvetlen közeledben, ezzel egy erős sebzést okozva.
 Ellenméreg:Megérinthet egy embert a közelében, azonnal megölve őt.
 A Gyógymód:Újraéleszt egy, a közelben megölt embert. A "meggyógyított" emberek zombiként játszanak gyors mozgással és kevés HP-val.\nBármennyi embert újraéleszthetsz.
-Ütés:Megtámadsz egy embert, ezáltal egy közepes sebzést okozva.
+Ütés:Megütsz egy embert, ami közepes sebzést okoz.
 Ajtók nyitása/csukása:Kinyithatod és becsukhatod az ajtókat 5 AP-ért. Be is zárhatod őket, ami fogyasztja az AP-det, de megakadályzza hogy bárki kinyissa vagy becsukja azt, ameddig fel nem engeded a zárlatot vagy kifogysz az AP-ből.
 Tesla Túltöltés:Aktiválhatod a Tesla Kaput 50 AP-ért, ezáltal likvidálva az összes játékost a közelében.
-Lezárás:A 3-as Hozzáférési Szinttől egyszerre operálhatod bizonyos szobák ajtajait és világításait. Miközben ez aktiválva van, a szobában lévő emberek nem látják SCP-173-at.
+Lezárás:A 2-es Hozzáférési Szinttől egyszerre operálhatod bizonyos szobák ajtajait és világításait. Miközben ez aktiválva van, a szobában lévő emberek nem látják SCP-173-at.
 Virtuálisan elpusztíthatatlan:Öt generátor van a Heavy Containment zónában. Ha az összeset kinyitják és beaktiválják, újra elzárnak téged. A generátoroknak van egy visszaszámlálási folyamata amit minden játékos felfüggeszthet, ha megnyomják rajta a "CANCEL" gombot.
 Nyaktörés:Tartsd lenyomva/nyomd meg az LMB-t, egyből megölve az embereket, akik nem látnak téged vagy pislognak.
+Előre! (Tombolás):Vágd le a menekülési útvonalukat - mert megérdemlik. Akár egy nyíl előretörsz, elpusztítva mindent, ami az utadba áll. Ha egy kapuba ütközöl, az sem akadály.
