@@ -74,3 +74,7 @@ Connecting to central servers...
 Disabled
 {0} Seconds
 Ragdoll Cleanup Time
+Display Steam Profile
+Allows players to view your Steam profile by clicking an icon on the player list.
+Do Not Track (DNT)
+Forbids the server to use your data (IP address, user ID, etc.) in purposes not related to the server security.

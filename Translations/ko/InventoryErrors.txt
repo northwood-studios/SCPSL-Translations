@@ -1,0 +1,5 @@
+<color=yellow>{0}탄약</color>수가 최대 보유 개수에 도달하였습니다. (<color=yellow>{1} 발</color>)
+해당 타입(<color=yellow>{1}</color>)의 아이템은 <color=yellow>{0}</color>개만 소지할 수 있습니다.
+<color=yellow>8</color>개의 아이템만 소지할 수 있습니다.
+해당 타입의 아이템수가 최대 보유 개수에 도달하였습니다: <color=yellow>{0}</color> ({1}/{1})
+당신은 체포 당하였습니다\n<size=40>명령을 따르거나 같은 팀원에게 도움을 요청하세요!</size>

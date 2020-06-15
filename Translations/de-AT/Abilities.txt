@@ -1,5 +1,5 @@
 Fähigkeit ned gfundn:Dea Fähigkeit zuag'ordneten Fähigkeits-ID existiert ned.
-Sprintn:Du rennst schnölla, dafir mochst mehr Geräusche.
+Sprintn:Du rennst schnölla, dafir mochst mehr Gräusche.
 Schleichn:Du gehst longsoma, mochst dafir oba kane Gräusche.
 Inventar:Öffne dei Inventar und wöh a Item mit Links-Click aus, oda loss mid Rechts-Click foin.
 Unbewoffnet:Du host gor nix. Find wos, irgendwos.

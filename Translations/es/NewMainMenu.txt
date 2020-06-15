@@ -71,3 +71,10 @@ Conectando a los servidores centrales...
 <color=red>Fallo en la conexión (Comprueba la consola para más detalles)</color>
 <color=red>Fallo en la autenticación con Steam (Comprueba la consola para más detalles)</color>
 <color=red>Fallo en la autenticación con Discord (Comprueba la consola para más detalles)</color>
+Deshabilitado
+{0} Segundos
+Tiempo de limpieza de muñecos de trapo
+Mostrar perfil de Steam
+Permite a los jugadores ver tu perfil de Steam en el icono de la lista de jugadores.
+No rastrear (NR)
+Prohíbe al servidor usar tus datos (Dirección IP, ID de usuario, etc.) con propósitos no relacionados con la seguridad del servidor

@@ -8,7 +8,7 @@ Dクラス職員の勝利
 財団のセキュリティはすべて無効化されました。
 双方が損失を被りつつ、大きな恩恵を受けました。勝者は未定です。
 [summary_d_escaped] Dクラス職員 脱出
-[summary_s_escaped] 科学者 生存
+[summary_s_escaped] 研究員 生存
 Alpha Warheadにより、[summary_warhead_kills]の存在が無効化されました。
 この作戦中ではAlpha Warheadは起爆されませんでした。
 この作戦は[summary_round_minutes]分[summary_round_seconds]秒かかりました。
