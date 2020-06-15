@@ -14,7 +14,7 @@ Hattyúdal:A lövedékek szinte meg sem tudnak sebezni, de azonnal elzárhatnak 
 "Pocket" Dimenzió:Ha elkapsz egy embert, elteleportálod őket a dimenziódba ami gyorsan megöli őket. Az embereknek a helyes kijáratot kell választaniuk, különben meghalnak.
 Scopophobia:Általában nyugodt vagy, viszont nem szereted ha bántanak, vagy az arcodra néznek. Ha bántanak, vagy az arcodra néznek, engedd ki minden haragod a vétkesek meggyilkolásával. Kövesd a fényüket mielőtt a haragod elmúlik. Minden egyes vétkes megnöveli az AHP-det, amely meggátolja a HP veszteséget.
 Próbálj ne sírni (Nyugodt):Túl nehéz. Ha rádőlsz az ajtóra az segíthet; halkabb leszel és egy helyben állsz, ezzel megnyugtatva magad... vagy vársz valakire hogy épp erre jöjjön.
-Közelharc (Tombolás):Általában magadnak való vagy. De ha elkezdenek provokálni... Áttörsz bármin ami az utadba kerül, hogy elkapd azokat, akik bánottak. Az ajtókat széttöröd, az embereket pedig darabokra téped az ütéseiddel.
+Melee (Tombolás):Általában magadnak való vagy. De ha elkezdenek provokálni... Áttörsz bármin ami az utadba kerül, hogy elkapd azokat, akik bánottak. Az ajtókat széttöröd, az embereket pedig darabokra téped az ütéseiddel.
 Ultraérzékeny:Nem látod az embereket addig amíg nem futnak, nem ütköznek neked, vagy nem tüzelnek egy fegyverrel a közvetlen közeledben.
 Ragadozó:A lépéseid halkak. Ha lenyomva tartod az adott billentyűt gyorsabb leszel, de a mozgással zajt keltesz.
 Mimika:Beszélni tudsz a közeli játékosokkal, az embereket beleértve.
