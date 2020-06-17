@@ -11,7 +11,7 @@ Amis
 Recherche des Serveurs
 Créer un serveur
 Rejoindre
-Connection directe
+Connexion directe
 Rafraîchir
 Masquer les parties vides
 Masquer les parties complètes
@@ -65,3 +65,12 @@ Résolution d'écran
 Masquer les IP
 Salut {username} !
 Crédits
+AUTHENTIFICATION
+Connexion aux serveurs centraux ...
+<color=green>Connexion établie</color>
+<color=red>Échec de la connexion (Vérifiez dans la console)</color>
+<color=red>Échec de l'authentification Steam (Vérifiez dans la console)</color>
+<color=red>Échec de l'authentification Discord (Vérifiez dans la console)</color>
+Désactivé
+{0} Secondes
+Temps de suppression des corps
