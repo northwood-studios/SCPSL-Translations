@@ -74,3 +74,6 @@ Vabind mid de Central Servern...
 Ausgschoit
 {0} Sekundn
 Ragdoll Beseitigungszeit
+Ealaubt onderen Spielan dei Steamprofü aufz'ruafn wenns in dea Spielalistn auf dei Icon klickn.
+Do Not Track (DNT)
+Veabietet dem Server deine Daten (IP Adresse, User ID, etc.) zu nutzn, außa fia Zwecke wöche dea Serversichaheit dienen.
