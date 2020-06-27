@@ -14,7 +14,8 @@ Połącz Ponownie
 Połącz Bezpośrednio
 Odśwież
 Schowaj Puste Serwery
-Schowaj Pełne Serwery
+Ukryj Pełne Serwery
+
 Bez Białej Listy
 Wideo
 Dźwięk
