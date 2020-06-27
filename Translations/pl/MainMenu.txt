@@ -87,5 +87,5 @@ PUBLICZNE LOBBY
 Gdy włączone, twoi znajomi na Steam będą mogli dołączyć do gry bez wymagania twojej zgody.
 UKRYTE IP
 Gdy włączone, adresy IP nie są wyświetlane w konsoli.
-Przełączane Podniesienie
+PRZEŁĄCZANE PODNOSZENIE
 Podnoszenie przedmiotu nie będzie wymagać trzymania przycisku; naciśnij ponownie by anulować.
