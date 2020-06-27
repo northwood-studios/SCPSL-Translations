@@ -51,7 +51,8 @@ Wyświetl Dokładną Ilość Zdrowia
 Rich Presence
 Publiczne Lobby
 Przełączane Podniesienie
-SCP-079 - Sposób Zmiany Widoku
+SCP-079 - Przełącz Tryb Widoku
+
 SCP-079 - Post-Processing
 Język
 Menu Główne
