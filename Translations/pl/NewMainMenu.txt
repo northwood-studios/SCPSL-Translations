@@ -62,7 +62,8 @@ Tak
 Nie
 Czy aby na pewno chcesz wyjść?
 Rozdzielczość Ekranu
-Ukryte IP
+Ukryj IP
+
 Witaj, {username}!
 Autorzy
 UWIERZYTELNIANIE
