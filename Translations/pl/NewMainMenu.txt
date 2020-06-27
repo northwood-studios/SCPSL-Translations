@@ -14,9 +14,7 @@ Połącz Ponownie
 Połącz Bezpośrednio
 Odśwież
 Ukryj Puste Serwery
-
 Ukryj Pełne Serwery
-
 Bez Białej Listy
 Wideo
 Dźwięk
@@ -30,7 +28,6 @@ Zmaksymalizowane Okno
 W Oknie
 V-Sync
 Ograniczenie FPS
-
 Wyłączone
 Jakość Tekstur
 Maksymalna Ilość Krwi
@@ -55,7 +52,6 @@ Rich Presence
 Publiczne Lobby
 Przełączane Podniesienie
 SCP-079 - Przełącz Tryb Widoku
-
 SCP-079 - Post-Processing
 Język
 Menu Główne
@@ -67,7 +63,6 @@ Nie
 Czy aby na pewno chcesz wyjść?
 Rozdzielczość Ekranu
 Ukryj IP
-
 Witaj, {username}!
 Autorzy
 UWIERZYTELNIANIE
