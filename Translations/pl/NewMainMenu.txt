@@ -27,7 +27,8 @@ Bez Krawędzi
 Zmaksymalizowane Okno
 W Oknie
 V-Sync
-Ograniczone FPS
+Ograniczenie FPS
+
 Wyłączone
 Jakość Tekstur
 Maksymalna Ilość Krwi
