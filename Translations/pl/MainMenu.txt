@@ -88,4 +88,4 @@ Gdy włączone, twoi znajomi na Steam będą mogli dołączyć do gry bez wymaga
 UKRYTE IP
 Gdy włączone, adresy IP nie są wyświetlane w konsoli.
 Przełączane Podniesienie
-Podniesienie przedmiotu nie będzie wymagać trzymania przycisku; naciśnij ponownie by anulować.
+Podnoszenie przedmiotu nie będzie wymagać trzymania przycisku; naciśnij ponownie by anulować.
