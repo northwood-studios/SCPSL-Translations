@@ -13,7 +13,8 @@ Stwórz Serwer
 Połącz Ponownie
 Połącz Bezpośrednio
 Odśwież
-Schowaj Puste Serwery
+Ukryj Puste Serwery
+
 Ukryj Pełne Serwery
 
 Bez Białej Listy
