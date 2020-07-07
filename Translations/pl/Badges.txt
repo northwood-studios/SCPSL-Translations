@@ -1,38 +1,38 @@
-Menedżer ds. Rozwoju Rynkowego Northwood
-Dyrektor Generalny Northwood
-Dyrektor ds. Cyberbezpieczeństwa Northwood
-Dyrektor Operacyjny Northwood
+Kierownik Rozwoju Rynkowego Northwood
+Dyrektor Generalny SCP:SL
+Dyrektor Bezpieczeństwa Northwood
+Dyrektor ds. Operacyjnych Northwood
 Dyrektor Społeczności Northwood
-Menedżer Discorda Northwood
-Asystent Wykonawczy w Northwood
-Menedżer Opinii w Northwood
+Kierownik Discorda Northwood
+Asystent Wykonawczy Northwood
+Kierownik Opinii Publicznej Northwood
 Pracownik Działu Kadr Northwood
 Dyrektor Działu Kadr Northwood
-Asystent Dyrektora ds. Cyberbezpieczeństwa Northwood
-Główny Inżynier Botów Northwood
+Asystent dyr. Bezpieczeństwa Northwood
+Główny Technik Botów Northwood
 Dyrektor Marketingu Northwood
-Menedżer Platformy Marketingowej Northwood
-Pracownik Northwood
-Menedżer Steam Northwood
+Kierownik Marketingu Northwood
+Personel Northwood
+Kierwonik Platformy Steam Northwood
 Administrator Systemów Northwood
-Menedżer Wiki Northwood
+Kierownik rozwoju Wiki Northwood
 Dyrektor Artystyczny SCP:SL
 Nadzorca Artystyczny SCP:SL
-Artysta SCP:SL
-Programista Backend SCP:SL
-Menedżer Programistów Backend SCP:SL
-Deweloper SCP:SL
+Projektant Graficzny SCP:SL
+Programista Techniczny SCP:SL
+Kier. Programistów Technicznych SCP:SL
+Personel ds. Rozwoju SCP:SL
 Zwycięzca Konkursu SCP:SL
 Programista Wielopoziomowy SCP:SL
-Projektant SCP:SL
+Projektant Mechaniki SCP:SL
 Programista Mechaniki SCP:SL
-Menedżer Globalnej Moderacji SCP:SL
+Kierownik Globalnej Moderacji SCP:SL
 Globalny Moderator SCP:SL
-Główny Projektant SCP:SL
+Główny Projektant Mechaniki SCP:SL
 Główny Programista Mechaniki SCP:SL
 Projektant Poziomów SCP:SL
 Partner SCP:SL
 Wspierający SCP:SL na Patreon
 Programista SCP:SL
-Kierownik ds. Zapewnienia Jakości SCP:SL
+Kierownik Kontroli Jakości SCP:SL
 Projektant Dźwięku SCP:SL
