@@ -37,7 +37,7 @@ Programista SCP:SL
 Kierownik Kontroli Jakości SCP:SL
 Projektant Dźwięku SCP:SL
 Główny Dyrektor Rozwoju SCP:SL
-Kierownik Serwerów Oficjalnych
+Kierownik Serwerów Oficjalnych SCP:SL
 Weryfikator Serwerów SCP:SL
 Specjalista Kodu Natywnego Northwood
 Kontroler Jakości SCP:SL
