@@ -31,3 +31,6 @@
 <size=80>DÉCONNECTÉ</size>\nVotre jeton d'authentification a été rejeté par le serveur.\nVeuillez redémarrer le jeu de nouveau ou contactez notre support technique.
 <size=80>DÉCONNECTÉ</size>\nVous êtes banni de ce serveur.\nRaison : [reason]
 <size=80>DÉCONNECTÉ</size>\nVous êtes banni de ce serveur.\nExpiration : le [date] à [time]\nRaison : [reason]
+<size=80>Veuillez patienter</size>\nVérification de la sécurité du serveur en cours...
+<size=80>DÉCONNECTÉ</size>\nÉchec de la vérification de la sécurité du serveur.
+<size=80>DÉCONNECTÉ</size>\nLa vérification de la sécurité du serveur était trop lente pour ce serveur.\nVeuillez réessayer ou contactez l'administrateur du serveur.

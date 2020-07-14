@@ -15,4 +15,5 @@ UŻYJ PRZEJŚCIA
 NIE ŻYJESZ
 Zostałeś zabity przez
 jako
-Pasywny
+Pasywne
+(ukryto)

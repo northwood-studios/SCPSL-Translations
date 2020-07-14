@@ -30,7 +30,7 @@ Das Verschieben des Reglers auf einen niedrigeren Wert kann die allgemeine Perfo
 HAUPTMENÜ
 Einfacher Rendermodus
 BEWEGUNGSUNSCHÄRFE
-Schattenabstand
+Schattendistanz
 Details
 3. SCP-914
 TUTORIALS
@@ -64,7 +64,7 @@ AUDIO EINSTELLUNGEN
 ALLG.-LAUTSTÄRKE
 HAUPTMENÜ MUSIK
 SPRACHCHAT
-SOUND EFFEKTE
+SOUNDEFFEKTE
 GAMEPLAY OPTIONEN
 INTRO SCHNELL AUSBLENDEN
 Das Klassen Intro wird bei Rundenstart schneller ausgeblendet.

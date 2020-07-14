@@ -63,3 +63,19 @@ No
 Are you sure you want to quit?
 Screen Resolution
 Hide IP
+Welcome back, {username}!
+Credits
+AUTHENTICATING
+Connecting to central servers...
+<color=green>Connection established</color>
+<color=red>Connection failure (Check console for details)</color>
+<color=red>Steam authentication failure (Check console for details)</color>
+<color=red>Discord authentication failure (Check console for details)</color>
+Disabled
+{0} Seconds
+Ragdoll Cleanup Time
+Display Steam Profile
+Allows players to view your Steam profile by clicking an icon on the player list.
+Do Not Track (DNT)
+Forbids the server to use your data (IP address, user ID, etc.) in purposes not related to the server security.
+Graphics API

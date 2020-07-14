@@ -32,4 +32,5 @@ Vous vous êtes échappé en tant que classe D et avez rejoint la Chaos Insurgen
 VOUS ÊTES
 Durée de l'évasion : [escape_minutes] minutes et [escape_seconds] secondes
 Attendez [time] avant de pouvoir utiliser [item] de nouveau.
-MAINTENEZ <color=white><b>F1</b></color> POUR PLUS D'INFOS
+Appuyez sur <color=yellow><b>F1</b></color> pour de l'aide.
+Vous avez été menotté\n<size=40>Suivez les ordres ou demandez de l'aide</size>

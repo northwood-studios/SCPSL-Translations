@@ -6,7 +6,7 @@ Gardiyan Kartı:Açıklama yok
 MGG Eri Kartı:Açıklama yok
 Barındıma Mühendisi Kartı:Açıklama yok
 MGG Teğmeni Kartı:Açıklama yok
-MGG Komutanı Kartı:Açıklama yok
+MGG Kumandanı Kartı:Açıklama yok
 Tesis Müdürü Kartı:Açıklama yok
 Kaos İsyancılarının Erişim Cihazı
 O5-Seviye Kart
