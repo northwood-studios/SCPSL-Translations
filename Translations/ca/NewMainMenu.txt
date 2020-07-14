@@ -9,7 +9,7 @@ Oficial
 Història
 Amics
 Cercar servidors
-Creac servidor
+Crear servidor
 Tornar-se a unir
 Connexió directa
 Actualitzar llista
@@ -17,7 +17,7 @@ Amagar Servidors Buits
 Amagar Servidors Plens
 Sense Whitelist
 Vídeo
-Audio
+Àudio
 Controls
 Joc
 Altres
@@ -42,11 +42,11 @@ Volum Principal
 Efectes de So
 Xat de Veu
 Menú de Música
-Intefície del Volum
+Interfície del Volum
 Tema del Menú
-Intro Ràpida
+Introducció Ràpida
 Head Bob
-Toggle Sprint
+Activa/Desactiva Córrer
 Mostra el Valor d'HP exacte
 Rich Presence
 Lobby Públic
@@ -62,4 +62,20 @@ Sí
 No
 Estàs segur de què vols sortir?
 Resolució de la Pantalla
-Amagar Direcció IP
+Amagar Adreça IP
+Benvolgut, {username}!
+Crèdit
+AUTENTIFICANT
+Connectant als servidors centrals...
+<color=green>Connexió establerta</color>
+<color=red>Connexió fallida (Comprova la consola per més detalls)</color>
+<color=red>Autentificació de Steam fallida (Check console for details)</color>
+<color=red>Autentificació de Discord fallida (Comprova la consola per més detalls)</color>
+Desactivat
+{0} Segons
+Ragdoll Cleanup Time
+Mostrar Perfil de Steam
+Permet als jugadors veure el teu perfil de Steam clicant una icona a la llista de jugadors.
+Do Not Track (DNT)
+Prohibeix que el servidor utilitzi les vostres dades (adreça IP, identificador d’usuari, etc.) amb finalitats no relacionades amb la seguretat del servidor.
+Graphics API
