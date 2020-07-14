@@ -15,4 +15,5 @@ UTILITZAR POU
 HAS MORT
 Has sigut assassinat per
 com a
-passiu
+Passiu
+(amagat)
