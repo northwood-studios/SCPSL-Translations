@@ -1,18 +1,18 @@
-Vermoord iedereen\nLaat niemand ontsnappen\nWerk samen met andere <color=#f00>SCPs</color>
-Ontsnap de faciliteit\nWerk samen met <color=#008f1e>Chaos Insurgency</color>\nVermijd de andere teams
+Vermoord iedereen.\nLaat niemand ontsnappen.\nWerk samen met andere <color=#f00>SCPs</color><color=#ffff00>.\nHoud de linkermuisknop + W en richt op je vijanden om ze te vermoorden.\nJe bent sneller met elke HP die je verliest.</color>
+Ontsnap de facility.\nWerk samen met <color=#008f1e>Chaos Insurgency</color>.\nVermijd de andere teams.
 Je zal spoedig respawnen.
-Vermoord iedereen\nLaat niemand ontsnappen\nWerk samen met andere <color=#f00>SCPs</color>
-Help <color=#FFFF7CFF>wetenschappers</color> te ontsnappen\nNeutralizeer de andere teams
-Vermoord iedereen\nLaat niemand ontsnappen\nWerk samen met andere <color=#f00>SCPs</color>
-Ontsnap de faciliteit\nWerk samen met <color=#0096FF>MTF</color>\nVermijd de andere teams
-Vermoord iedereen\nLaat niemand ontsnappen\nWerk samen met andere <color=#f00>SCPs</color>
-Help <color=#FF8E00>Klasse-D Personeel</color> te ontsnappen\nNeutralizeer de andere teams
-Vermoord iedereen\nLaat niemand ontsnappen\nWerk samen met andere <color=#f00>SCPs</color>
-Vermoord iedereen\nLaat niemand ontsnappen\nWerk samen met andere <color=#f00>SCPs</color>
-Help <color=#FFFF7CFF>wetenschappers</color> te ontsnappen\nNeutralizeer de andere teams
-Help <color=#FFFF7CFF>wetenschappers</color> te ontsnappen\nNeutralizeer de andere teams
-Help <color=#FFFF7CFF>wetenschappers</color> te ontsnappen\nNeutralizeer de andere teams
-Voltooi je doel om te winnen.
-Help <color=#FFFF7CFF>wetenschappers</color> te ontsnappen\nWerk samen met<color=#0096FF>MTF</color>\nNeutralizeer de andere teams
-Vermoord iedereen\nLaat niemand ontsnappen\nWerk samen met andere <color=#f00>SCPs.</color>
-Vermoord iedereen\nLaat niemand ontsnappen\nWerk samen met andere <color=#f00>SCPs.</color>
+Vermoord iedereen\nLaat niemand ontsnappen\nWerk samen met andere <color=#f00>SCPs</color><color=#ffff00>\nJe kan door deuren lopen.\nLinkermuisknop verwond en teleporteert je vijanden naar je dimensie.\nHoud TAB ingedrukt om je krachten te zien en te gebruiken.</color>
+Help <color=#FFFF7CFF>wetenschappers</color> te ontsnappen.\nNeutraliseer de andere teams.\nGeef bevelen aan je soldaten. \nVolg bevelen van je superieuren op.
+Vermoord iedereen\nLaat niemand ontsnappen\nWerk samen met andere <color=#f00>SCPs</color><color=#ffff00>\nKlik de linkermuisknop om mensen in een keer te doden. Dit heeft een korte cooldown\nInteractie met een recent dood lichaam brengt het weer tot leven als een teamgenoot.</color>
+Ontsnap de facility.\nWerk samen met <color=#0096FF>MTF</color>.\nVermijd de andere teams.
+Vermoord iedereen.\nLaat niemand ontsnappen.\nWerk samen met andere <color=#f00>SCPs</color>.
+Help <color=#FF8E00>D-Klasse Personeel</color> te ontsnappen.\nNeutralizeer de andere teams.
+Vermoord iedereen\nLaat niemand ontsnappen.\nWerk samen met andere <color=#f00>SCPs</color>.
+Vermoord iedereen\nLaat niemand ontsnappen.\nWerk samen met andere <color=#f00>SCPs</color>.<color=#ffff00>\nLinkermuisknop om aan te vallen.</color>
+Help <color=#FFFF7CFF>wetenschappers</color> te ontsnappen.\nNeutralizeer de andere teams.\nGeef bevelen aan je soldaten. \nVolg bevelen van je commandanten op.
+Help <color=#FFFF7CFF>wetenschappers</color> te ontsnappen.\nNeutralizeer de andere teams.\nGeef bevelen aan je soldaten.
+Help <color=#FFFF7CFF>wetenschappers</color> te ontsnappen.\nNeutralizeer de andere teams.\nVolg bevelen van je superieuren op.
+Voltooi je taken om doel te behalen.
+Help <color=#FFFF7CFF>wetenschappers</color> te ontsnappen.\nWerk samen met<color=#0096FF>MTF</color>\nNeutralizeer de andere teams.
+Vermoord iedereen\nLaat niemand ontsnappen.\nWerk samen met andere <color=#f00>SCPs.</color>
+Vermoord iedereen\nLaat niemand ontsnappen.\nWerk samen met andere <color=#f00>SCPs.</color>
