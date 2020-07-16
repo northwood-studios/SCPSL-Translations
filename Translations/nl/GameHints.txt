@@ -1,6 +1,6 @@
-<color=red>Access denied</color>
-Limiet bereikt van <color=yellow>[type] munitie</color> (<color=yellow>[max_type_count] rounds</color>)
-<b>Already</b> Limiet bereikt van <color=yellow>[type] ammo</color> (<color=yellow>[max_type_count] rounds</color>)
-Limiet bereikt van <color=yellow>[type]</color> (<color=yellow>[max_type_count] items</color>)
-<b>Already</b> Limiet bereikt van <color=yellow>[type]</color> (<color=yellow>[max_type_count] items</color>)
-Alleen <color=yellow>[max_item_count] items</color> kunnen gedragen worden.
+<color=red>Toegang geweigerd</color>
+Limiet bereikt van <color=yellow>[type] munitie</color> (<color=yellow>[max_type_count] patronen</color>)
+Limiet <b>is al</b> bereikt van <color=yellow>[type] munitie</color> (<color=yellow>[max_type_count] patronen</color>)
+Limiet bereikt van <color=yellow>[type]</color> (<color=yellow>[max_type_count] voorwerpen</color>)
+Limiet <b>is al</b> bereikt van <color=yellow>[type]</color> (<color=yellow>[max_type_count] voorwerpen</color>)
+Alleen <color=yellow>[max_item_count] voorwerpen</color> kunnen gedragen worden.
