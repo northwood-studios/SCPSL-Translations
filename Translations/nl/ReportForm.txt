@@ -1,7 +1,7 @@
 Rapporteer Speler
-Doelwit:\nSpeler ID:\nOmschrijving:
+Speler:\nSpeler ID:\nOmschrijving:
 Annuleer
 Rapporteer voor het overtreden van de serverregels
-Rapporteer voor cheaten of raiden
+Rapporteer voor valsspelen of raiden
 RAPPORTEREN
 Een ogenblik geduld AUB...
