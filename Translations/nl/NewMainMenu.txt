@@ -8,11 +8,11 @@ Favorieten
 Officiële
 Geschiedenis
 Vrienden
-Zoek voor servers
+Zoek naar servers
 Maak een server
 Re-Join
 Direct Connect
-Herlaad
+Ververs
 Verberg lege servers
 Verberg volle servers
 Geen Whitelist
@@ -78,3 +78,4 @@ Toon Steam Profiel
 Staat spelers toe om uw Steam profiel te zien door op een icoon te drukken op de spelerslijst.
 Do Not Track (DNT)
 Verbiedt de server om uw IP te gebruiken (IP address, user ID, etc.) voor doeleinden die niet te maken hebben met de serverbeveiliging.
+Graphics API
