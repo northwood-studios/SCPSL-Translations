@@ -14,4 +14,4 @@ Algemene interacties
 Je wordt aangevallen!
 Generators zijn zichtbaar op de kaart
 GEVAAR
-SCPs{0}MTF & Bewakers{1}Wetenschappers{2}Klasse-D{3}Chaos Insurgents{4}
+SCPs{0}MTF & Bewakers{1}Wetenschappers{2}D-Klasse{3}Chaos Insurgents{4}
