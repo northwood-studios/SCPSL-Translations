@@ -1,5 +1,5 @@
 SCP-173
-Klasse-D Personeel
+D-Klasse Personeel
 Toeschouwer
 SCP-106
 Nine-Tailed Fox Wetenschapper
@@ -13,5 +13,5 @@ Nine-Tailed Fox Luitenant
 Nine-Tailed Fox Commandant
 Nine-Tailed Fox Cadet
 TUTORIAL
-Faciliteit Bewaker
+Facility Bewaker
 SCP-939
