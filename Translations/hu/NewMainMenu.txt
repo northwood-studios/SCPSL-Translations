@@ -1,0 +1,80 @@
+Hírek
+Szerverek
+Beállítások
+Kilépés
+Közösségi Média
+Internet
+Kedvencek
+Hivatalos
+Korábbi szerverek
+Barátok
+Szerverek keresése
+Szerver létrehozása
+Újracsatlakozás
+Közvetlen csatlakozás
+Frissítés
+Üres szerverek elrejtése
+Teli szerverek elrejtése
+Whitelist nélkül
+Videó
+Hang
+Irányítás
+Játékmenet
+Egyebek
+Ablakos Mód
+Teljes képernyő
+Keret nélküli ablak
+Teljes képernyős ablak
+Ablakos mód
+V-Sync
+FPS Limit
+Kikapcsolva
+Textúra minősége
+Max Vérmennyiség
+Árnyékok
+Árnyékok felbontása
+Árnyékok távolsága
+Elmosódás
+Színkorrekció
+Antianalízis
+Fényvisszaverési mód
+Főhangerő
+Hangeffektek
+Hangos csevegés
+Menü zenéje
+Felület hangereje
+Menü Témája
+Gyors intro elhalványulás
+Kamera billegése
+Sprint kapcsolása
+Pontos HP érték mutatása
+Részletes megjelenítés
+Nyilvános lobbi
+Keresés állítása
+SCP-079 - Nézeti mód kapcsolása
+SCP-079 - Utófeldolgozás
+Nyelv
+Főmenü
+Csatlakozás
+Vissza
+Ez a változtatás újraindítást igényel./nÚjraindítod most?
+Igen
+Nem
+Biztosan ki szeretnél lépni?
+Képernyő felbontása
+IP elrejtése
+Üdv újra, {username}!
+Stáb
+HITELESÍTÉS
+Csatlakozás a szerverekhez...
+<color=green>A kapcsolat létrejött</color>
+<color=red>Nem sikerült kapcsolódni (A részletekért nyisd meg a konzolt)</color>
+<color=red>Steam hitelesítési hiba (A részletekért nyisd meg a konzolt)</color>
+<color=red>Discord hitelesítési hiba (A részletekért nyisd meg a konzolt)</color>
+Kikapcsolva
+{0} másodperc
+Holttestek törlési ideje
+Steam Profil megjelenítése
+Lehetővé teszi más játékosok számára a Steam profilod megtekintését, ha a játékoslistán lévő ikonra kattintanak.
+Do Not Track (DNT)
+Megtiltja a szerver számára az adataid felhasználását (IP cím, felhasználó ID, stb.) amelyek nem szükségesek a számára.

@@ -1,9 +1,9 @@
 Ölj meg mindenkit.\nNe engedj elszökni senkit.\nMűködj együtt a többi <color=#f00>SCP-vel.</color><color=#ffff00>\nTartsd lenyomva a bal egérgombot+W-t és célozz az ellenségre hogy megöld.\nMinél kevesebb HP-d van, annál gyorsabb vagy..</color>
 Menekülj el a létesítményből.\nMűködj együtt a <color=#008f1e>Chaos Insurgency-vel.</color>\nKerüld a többi csapatot.
 Hamarosan újraéledsz.
-Ölj meg mindenkit.\nNe engedj elszökni senkit.\nMűködj együtt a többi <color=#f00>SCP-vel.</color><color=#ffff00>\nÁt tudsz sétálni az ajtókon.\nBal egérgomb sebzi, és el TP-zi az ellenségeket a dimenziódba.\nTartsd lenyomva a TAB-ot hogy előhozd a TP menüt.</color>
+Ölj meg mindenkit.\nNe engedj elszökni senkit.\nMűködj együtt a többi <color=#f00>SCP-vel.</color><color=#ffff00>\nÁt tudsz sétálni az ajtókon.\nBal egérgomb sebzi, és elteleportálja a célpontokat a dimenziódba.\nTartsd lenyomva a TAB-ot hogy előhozd a TP menüt.</color>
 Segíts a <color=#FFFF7CFF>tudósoknak</color> elmenekülni.\nSemlegesítsd a többi ellenfelet.\nUtasítsd a katonáidat. \nKövesd a feletteseid utasításait.
-Ölj meg mindenkit.\nNe engedj elszökni senkit.\nMűködj együtt a többi <color=#f00>SCP-vel.</color><color=#ffff00>\nBal egérgombbal azonnal ölsz várakozás nélkül.\nTarts lenyomva az E-t arra akit </color><color=#f00>te</color><color=#ffff00> öltél meg, hogy zombivá változtasd.\nGyorsabban változtatsz zombivá kevesebb HP-n.</color>
+Ölj meg mindenkit.\nNe engedj elszökni senkit.\nMűködj együtt a többi <color=#f00>SCP-vel.</color>\nBal egérgombbal azonnal ölhetsz, rövid várakozási idővel. Újraéleszthetsz egy nemrég elhunyt embert szövetségesként.
 Menekülj el a létesítményből.\nMűködj együtt az <color=#0096FF>MTF-fel</color>.\nKerüld a többi csapatot.
 Ölj meg mindenkit.\nNe engedj elszökni senkit.\nMűködj együtt a többi <color=#f00>SCP-vel.</color>
 Segíts a <color=#FF8E00>D-osztályú személyzetnek</color> elmenekülni.\nLikvidáld a többi ellenfelet.
