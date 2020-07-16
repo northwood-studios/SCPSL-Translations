@@ -33,4 +33,4 @@
 <size=80>VERBINDING VERBROKEN</size>\nJe bent verbannen van deze server..\nBan vervalt: [date] [time]\nReden: [reason]
 <size=80>Ogenblik geduld</size>\nBezig met het calculeren van server security verification...
 <size=80>VERBINDING VERBROKEN</size>\nHet calculeren van de server security verification is gefaald.
-<size=80>VERBINDING VERBROKEN</size>\nProcessing of server security verification was too slow for the server.\nPlease try again or contact server administrator.
+<size=80>VERBINDING VERBROKEN</size>\nHet calculeren van de server security verification was te sloom volgens de server.\nProbeer het opnieuw of contacteer de server administrateur.
