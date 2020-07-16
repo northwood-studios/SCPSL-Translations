@@ -1,13 +1,13 @@
 De ronde is afgelopen!
 SCPs WINNEN
 MTF WINNEN
-KLASSE-D WINNEN
+D-Klasse WINNEN
 GELIJKSPEL
-Zij zijn verantwoordelijk voor het doden van [summary_scpfrags] mensenlijke wezens.
+Zij zijn verantwoordelijk voor het doden van [summary_scpfrags] mensen.
 Gevaren vernietigd. Het gebied is weer veilig.
 Alle Foundation bewakers zijn vermoord.
 Beide kanten hebben enorm verlies en winst gemaakt. De winnaar is onduidelijk.
-[summary_d_escaped] Klasse-D ontsnapt
+[summary_d_escaped] D-Klasse ontsnapt
 [summary_s_escaped] Wetenschappers(s) overleven
 Alpha Warhead explosie vermoordde [summary_warhead_kills] wezens.
 Alpha Warhead is niet ontploft deze ronde.
