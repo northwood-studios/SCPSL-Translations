@@ -1,0 +1,30 @@
+Förmåga ej hittad:Förmågans ID som är associerad med denna förmåga finns inte.
+Sprinta:Ökar din hastighet, men ökar också ljudet som skapas medans du rör på dig.
+Smyg:Dina rörelser blir tysta, men din hastighet förminskas mycket.
+Inventarielista:Öppnar din inventarielista och väljer en sak du har plockat up med LMB, eller slänga den med RMB.
+Obeväpnad:Du har ingenting. Hitta något. Vad som helst.
+Passerkort:Du har ett passerkort, det är inte den bästa men förlora inte den.
+Standard Utgåva:Du är utrustad med en Gevär, Granat, en Radio, en disarmer och ett passerkort.
+Utrustad & Farlig:Du har blivit avsändat med en Lätt Maskingevär, en Hacking tool (passerkort), och en Första Hjälpen Låda.
+Otrolig Hastighet:När inga människor kan se dig, du rör på dig väldigt fort. Om du blir direkt kollat på av en människa, du kan inte röra på dig eller attackera, men alla människor som kollar kommer blinka samtidigt varje få sekunder, som tillåter dig att agera.
+Panik:Du rör på dig snabbare när din häsla minskas.
+Slukhål:Du kan placera en svart pool of korrosion och teleportera tillbaks dit närsomhelst. Att teleportera tar få sekunder.\nDu kan flytta på din slukhåla av att placera den igen.
+Korrosion:Du kan röra dig genom dörrar genom att gå igenom dem.
+Svansång:Du tar nästan ingen skada från kulor, men du kan omedelbart bli recontained via ett mänskligt offer inom din inneslutningskammare.
+Fickdimension:Fångar en människa och teleporterar de till en fickdimension som dödar dem omedelbart. Människorna måste välja den korrekta vägen, eller dö.
+Scopophobia:Du stannar foglig och tyst för det mesta av tiden - men om du inte gillar att bli skadad, eller ha din ansikte sett. Om du har blivit sett eller skadats, kväsa din rasa av att döda lagbrytarnas. Följ deras ljus innan din raseri avtar. Förödmjukelsen av varje lagbrytare läggs till på din AHP, som förhindrar skada så länge din raseri räcker.
+Försök att inte gråta (Foglig):Det är för svårt. Att vara lutad på en dörr hjälper; du blir tystare och står i plats mot den, vilket lugnar dig själv... eller väntar på att någon ska komma igenom.
+Närstridsattack (Raseri):Vanligtvis, du håller för dig själv. Men när du är provocerade... du kommer riva genom allting i din väg för att få de som skadade dig. Du förgör både dörrar och kroppar i ett område framför dig med dina händer.
+Ultrakänslig:Du kan inte se människor tills de springer, stöter på dig, eller skjuter ett vapen i närheten av dig.
+Rovdjur:Dina fotspår är tysta. Om du håller den tilldelade tangenten ökar du hastigtheten, men gör din rörelser hörbar.
+Härma:Du kan prata högljutt till andra närliggande spelare, inklusive människor.
+Bita:Attackerar en människa i närstrids räckvidd, omedelbart utger allvarliga skador.
+Motgift:Rör en manniska i närheten av dig, dödar dem omedelbart.
+Botemedlet:Återuppliver en nyligen dödad människa. Härdad människor spelar som en zombies med snabb rörelse och låg hälsa.\nDet finns ingen gräns av hur många människor som kan bli återupplivade.
+Slag:Attackerar en människa och skadar en moderat mängd av hälsa.
+Öppna/Stäng Dörrar:Du kan interagera med dörrar för att öppna och stänga dem för 5 AP. Du kan också låsa dem, vilket tömmer din AP men förhindrar någon att öppna eller stänga dem tills du upphäver nedstängningen eller får slut på AP.
+Tesla Överbelastning:Du kan aktivera en Tesla Port för 50 AP för att omedelbart utlösa den, vilket dödar spelare som är i eller nära den.
+Nedstängning:Börjar på åtkomstnivå 2, du kan interagera med några rum för att låsa ner dem, vilket stänger av alla lampor och stänger alla dörrar. Samtidigt som man är i en låst rum, människor kan inte see SCP-173.
+Virtuellt Oförstörbar: Fem generatorer spawnar tvärs över Heavy Contaiment Zone. Om alla generatorer är olåsta och aktiverade, du blir recointained.\nGeneratorerna har en nedräknings sekvens där vilken spelare som helst kan avbryta genom att trycka på "CANCEL" -knappen på generatoren.
+Halsfäst:Håll eller klicka för att bryta en människas hals, omedelbart dödar dem så länge de inte kan se dig eller blinkar.
+Ladda (Raseri):Klipp bort deras rymningar - de förtjänar det. Du bultar rakt fram, river allt framför dig imon räckvidd. Om du träffar en port, du tvingar dig igenom den.

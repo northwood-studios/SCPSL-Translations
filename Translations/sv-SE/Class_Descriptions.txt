@@ -1,0 +1,18 @@
+Döda alla.\nFörhindra flykt.\nSamarbeta med andra <color=#f00>SCPs.</color><color=#ffff00>\nHåll vänsterklick + W och sikta mot din fiende att döda.\nDu är snabbare med lägre HP.</color>
+Fly från anläggningen.\nSamarbeta med andra <color=#008f1e>Chaos Insurgency.</color>\nUndvik andra lag.
+Du kommer respawna snart.
+Döda alla.\nFörhindra flykt.\nSamarbeta med andra <color=#f00>SCPs.</color><color=#ffff00>\nDu kan gå igenom dörrar.\nVänsterklick gör damage och teleporterar fiender till din dimension.\nHåll TAB för att få tillgång till dina TP-förmågor.</color>
+Hjälp <color=#FFFF7CFF>forskare</color> fly.\nNeutralisera andra personal.\nInstruera dina soldater. \nFölj dina överordnade order.
+Döda alla.\nFörhindra flykt.\nSamarbeta med andra <color=#f00>SCPs.</color><color=#ffff00>\nVänsterklicka för att insta-döda fiender med en kort cooldown.\nInteragera med en nyligen död människa för att återuppliva dem som en allierad.</color>
+Fly från anläggningen.\nSamarbeta med andra <color=#0096FF>MTF.</color>\nUndvik andra lag.
+Döda alla.\nFörhindra flykt.\nSamarbeta med andra <color=#f00>SCPs.</color>
+Hjälp <color=#FF8E00>Klass-D Personal</color> fly.\nNeutralisera andra personal.
+Döda alla.\nFörhindra flykt.\nSamarbeta med andra <color=#f00>SCPs.</color>
+Döda alla.\nFörhindra flykt.\nSamarbeta med andra <color=#f00>SCPs.</color><color=#ffff00>\nVänsterklicka för att attackera med en kort cooldown.</color>
+Hjälp <color=#FFFF7CFF>forskare</color> fly.\nNeutralisera andra personal.\nInstruera dina soldater. \nFölj dina befälhavares order.
+Hjälp <color=#FFFF7CFF>forskare</color> fly.\nNeutralisera andra personal.\nInstruera dina soldater.
+Hjälp <color=#FFFF7CFF>forskare</color> fly.\nNeutralisera andra personal.\nFölj dina överordnade order.
+Följ uppgifterna för att slutföra ditt mål.
+Hjälp <color=#FFFF7CFF>forskare</color> att fly\nSamarbeta med <color=#0096FF>MTF</color>\nNeutralisera andra personal
+Döda alla.\nFörhindra flykt.\nSamarbeta med andra <color=#f00>SCPs.</color>
+Döda alla.\nFörhindra flykt.\nSamarbeta med andra <color=#f00>SCPs.</color>

@@ -1,0 +1,6 @@
+<color=red>Access denied</color>
+Nådde gränsen för <color=yellow>[type]</color> (<color=yellow>[max_type_count] kulor</color>)
+<b>Har redan</b> nått gränsen för <color=yellow>[type]</color> (<color=yellow>[max_type_count] kulor</color>)
+Nådde gränsen för <color=yellow>[type]</color> (<color=yellow>[max_type_count] saker</color>)
+<b>Har redan</b> nått gränsen för <color=yellow>[type]</color> (<color=yellow>[max_type_count] saker</color>)
+Bara <color=yellow>[max_item_count] saker</color> kan bäras.

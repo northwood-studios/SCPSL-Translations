@@ -1,0 +1,36 @@
+RÖST VOLYM
+Ja
+TVINGA START
+SCP-106 RE-CONTAINMENT\nPROCEDUR ÅSIDOSÄTTANDE
+Invertera Y-axis
+SUMMA
+Upphäva
+I N V E N T A R I E
+LJUSSTYRKA
+INSTÄLLNINGAR
+KOPPLA IFRÅN
+ALPHA WARHEAD ÄR UR FUNKTION
+TILLTRÄDE BEVILJAS EJ
+RÖSTCHATT
+INVENTARIE OVERLOAD
+M. KÄNSLIGHET
+DATAINTRÅNG
+PLOCKAR UPP...
+Att höja ljusstyrkan <b>förvärrar stämningen mycket </b>av spelet\nFörsök att ha denna värde så lågt som du bara kan.\n<b>Standardvärdet rekommenderas.</b>
+[1] ÖPPNA/STÄNG DÖRR\n[2] LÅS DÖRR*\n\n*Att låsa dörren använder speciell förmåga
+DÖREN HAR LÅST NED AV SCP-079
+Fullskärmsläge
+Är du säker på att du vill lämna servern?
+Grundläggande alternativ. Fullständig lista över inställningar i menyn.
+VÄNTAR PÅ SPELARE
+SUMMA
+FORTSÄTT
+MAIN VOLYM
+anslutna
+Du rymde som forskare och gick med i MTF-enheterna.
+Du rymde som D-Klass och gick med i Chaos Insurgency.
+DU ÄR
+Flykt tid: [escape_minutes] minuter och [escape_seconds] sekunder
+Vänta [time] tills du kan använda [item] igen.
+Tryck <color=yellow><b>F1</b></color> för hjälp.
+Du är gripen\n<size=40>följ orderna eller fråga teammates för hjälp</size>
