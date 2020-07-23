@@ -1,5 +1,0 @@
-A limit <color=yellow>{0} ammo</color> típusú lőszerből elérve. A limit: (<color=yellow>{1} rounds</color>)
-Maximum <color=yellow>{0}</color> ilyen típusú tételt cipelhetsz magaddal. (<color=yellow>{1}</color>)
-Maximum <color=yellow>8</color> tételt cipelhetsz magaddal.
-Elérted az alábbi tétel limitjét: <color=yellow>{0}</color> ({1}/{1})
-Meg lettél bilincselve.\n<size=40>Kövesd az utasításokat, vagy kérd a csapattársaid segítségét.</size>

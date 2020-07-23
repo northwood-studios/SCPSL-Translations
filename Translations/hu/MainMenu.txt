@@ -67,21 +67,25 @@ HANGOS CSEVEGÉS
 HANGEFFEKTEK
 JÁTÉKMENET BEÁLLÍTÁSAI
 GYORS INTRO ELHALVÁNYULÁS
-A klasszok leírásai gyorsabban tűnnek el.
+A szerepek leírásai gyorsabban tűnnek el.
 SCP-079 - NÉZET MÓD KAPCSOLÁSA
-Nyomd meg egyszer, hogy a nézet módok között változtass.
+Nyomd meg egyszer, ha a nézetek módja között szeretnél lépegetni.
 SCP-079 UTÓFELDOLGOZÁS
-Ha ki van kapcsolva, sokkal kevesebb lesz az effektek mennyisége
+Ha nincs engedélyezve, sokkal kevesebb effekt lesz látható.
 KAMERA BILLEGÉSE
-Engedélyezi a kamera billegését mozgás közben
+Engedélyezi a kamera billegését mozgás közben.
 SPRINT MÓD KAPCSOLÁSA
-Sprint ki-és be kapcsolása, lenyomva tartás helyett
+Sprint ki- és bekapcsolása, lenyomva tartás helyett.
 ELKÜLÖNÍTETT MESTERSÉGES HP CSÍK
 Saját HP csík lesz egy átfedés helyett
 A fordításaink nyílt forráskódúak GitHub-on! Szeretnél segíteni? Kattints ide!
-RÉSZLETES MEGJELENÉS
-Ha engedélyezve van, a státuszod Steamen és Discordon meg lesz jelenítve
+RÉSZLETES MEGJELENÍTÉS
+Ha engedélyezve van, a státuszod Steamen és Discordon is fel lesz tüntetve.
 PONTOS HP ÉRTÉK MUTATÁSA
-A pontos HP-t mutatja, a százalék helyett
+A pontos HP értékeket mutatja a százalék helyett.
 NYÍLVÁNOS LOBBY
 Ha engedélyezve van, a Steames barátaid engedély nélkül szabadon csatlakozhatnak.
+IP elrejtése
+Ha engedélyezve van, semmilyen IP cím sem lesz feltüntetve a konzolban.
+Interakció módja
+A tárgyak felvételéhez nyomd meg az interakció gombját; nyomd meg mégegyszer, ha meg akarod szakítani.

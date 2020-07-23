@@ -17,7 +17,7 @@ Wuadanfoi:Während du aggresiv bist, bist voi schnö und schreist herum. Des hoi
 Nervenzombruch:Während deim Wuadanfoi konnst du Diarn niedarennan.
 Ultrasensitiv:Du konnst kane Leid seng, ausa se rennan, stoßen mid dir zom, oda schiaßen in deina Nähe.
 Jäger:Deine Schritte san lautlos. Du konnst oba sprintn, wos don wida Gräusche mocht.
-Imitator:Du konnst ned nua mitn Kollegn redn, sondan a mit ondern Leidn de in da Nähe san. 
+Imitator:Du konnst ned nua mitn Kollegn redn, sondan a mit ondern Leidn de in da Nähe san.
 Biss:Du beißt de Leid im Nohkompf und mochst dabei vü Schoden.
 Gegnmittl:Wennst an Typen ogreifst, is a hi.
 De Heilung:Reanimiert an Typen, wöcha kuaz davor hi wor. Gheilte Leid wean zu Zombies, wöche ned vü Lebn hom, dafir oba schnö san.
@@ -25,6 +25,6 @@ Schlog:Attackierst an Menschn und mochst Schoden.
 Öffnen und Schliaßen von Diarn:Du konnst mid Diarn intaagiern um se zu öffnen oda schliaßen, des kostet 5 AP. Du konnst se a verschliaßen, des kost oba AP üba Zeit. De Diar bleibt don zua bist das frei gibst oda deine AP aus san.
 Tesla Überlodung:Du konnst a Tesla Gate fia 50 AP sofuat aktiviern, des bringt de Leid um, de z'noh beim Tesla Gate san.
 Lockdown:Bei Access Level 3, konnst du monche Räume komplett zua schließen und des Liacht ausmochn. So siacht kana SCP-173.
-Praktisch Unzerstöaboa:Fünf Generatoan spawnen in da Heavy Containment Zone. Wenn olle aktiviert san, stiabst du.\n Generatoan homn a Hochfoahsequenz, wöche von ollen abbrochen wean ko, indems den "CANCEL" Knopf druckn. 
+Praktisch Unzerstöaboa:Fünf Generatoan spawnen in da Heavy Containment Zone. Wenn olle aktiviert san, stiabst du.\n Generatoan homn a Hochfoahsequenz, wöche von ollen abbrochen wean ko, indems den "CANCEL" Knopf druckn.
 Gnackbruch:Druck oda Hoid auf an Menschn um eam sei Gnack zum brechn. Des bringt eam sofoat um, solong a di entweder ned siacht oda blinzlt.
 Attacke! (Rage):Schneid eana den Weg zum entkuman ob - Si veadienan es! Du rast vorraus und zeastörst olles in deim Weg. Wenn du auf a Heavy Gate triffst, zwängst du di duach.
