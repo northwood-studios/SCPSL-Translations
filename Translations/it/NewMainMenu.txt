@@ -74,3 +74,8 @@ Connessione ai server centrali...
 Disabilitato
 {0} Secondi
 Tempo di pulizia dei cadaveri
+Visualizza profilo Steam
+Permetti ai giocatori di vedere il tuo profilo di steam dalla lista giocatori
+Non tenere traccia (DNT)
+Proibisci ai server di utilizzare i tuoi dati (Indirizzo IP, ID Utente, etc.) per qualsiasi ragione che non riguardi sicurezza del server stesso.
+API Grafica
