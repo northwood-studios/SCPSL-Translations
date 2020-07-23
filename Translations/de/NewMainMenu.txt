@@ -78,3 +78,4 @@ Zeige Steamprofil an
 Erlaubt anderen Spielern dein Steamprofil aufzurufen wenn sie in der Spielerliste auf ein Icon klicken.
 Do Not Track (DNT)
 Verbietet dem Server deine Daten (IP Adresse, User ID, etc.) zu nutzen, außer für Zwecke welche der Serversicherheit dienen.
+Grafik API

@@ -19,17 +19,17 @@ Kierownik rozwoju Wiki Northwood
 Dyrektor Artystyczny SCP:SL
 Nadzorca Artystyczny SCP:SL
 Projektant Graficzny SCP:SL
-Programista Techniczny SCP:SL
-Kier. Programistów Technicznych SCP:SL
+Programista Zaplecza Technicznego SCP:SL
+Kier. Programistów Zaplecza Technicznego SCP:SL
 Personel ds. Rozwoju SCP:SL
 Zwycięzca Konkursu SCP:SL
-Programista Wielopoziomowy SCP:SL
-Projektant Mechaniki SCP:SL
-Programista Mechaniki SCP:SL
+Programista Wielozadaniowy SCP:SL
+Projektant Rozgrywki SCP:SL
+Programista Rozgrywki SCP:SL
 Kierownik Globalnej Moderacji SCP:SL
 Globalny Moderator SCP:SL
-Główny Projektant Mechaniki SCP:SL
-Główny Programista Mechaniki SCP:SL
+Główny Projektant Rozgrywki SCP:SL
+Główny Programista Rozgrywki SCP:SL
 Projektant Poziomów SCP:SL
 Partner SCP:SL
 Wspierający SCP:SL na Patreon
@@ -39,6 +39,6 @@ Projektant Dźwięku SCP:SL
 Główny Dyrektor Rozwoju SCP:SL
 Kierownik Serwerów Oficjalnych SCP:SL
 Weryfikator Serwerów SCP:SL
-Specjalista Kodu Natywnego Northwood
+Specjalista ds. Kodu Natywnego Northwood
 Kontroler Jakości SCP:SL
 Nadzorca Kontroli Jakości SCP:SL

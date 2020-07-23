@@ -74,3 +74,8 @@ Connexion aux serveurs centraux ...
 Désactivé
 {0} Secondes
 Temps de suppression des corps
+Afficher le profil Steam
+Permet aux joueurs de voir votre profil Steam en cliquant l'icône dans la liste des joueurs.
+Do Not Track (DNT)
+Interdit au serveur d'utiliser vos données (adresse IP, ID utilisateur, etc.) à des fins non liées à la sécurité du serveur.
+API graphique

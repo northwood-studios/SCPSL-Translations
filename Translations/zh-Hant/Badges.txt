@@ -36,3 +36,9 @@ SCP:SL Patreon 支持者
 SCP:SL 程式設計師
 SCP:SL 品質管理經理
 SCP:SL 音效設計師
+SCP:SL 遊戲總監
+SCP:SL 官方伺服器主管
+Northwood工作室 審核專員
+Northwood工作室 原生碼專家
+SCP:SL 質量保證測試員
+SCP:SL 質量保證主管

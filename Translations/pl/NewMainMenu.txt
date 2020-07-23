@@ -78,3 +78,4 @@ Wyświetlaj Profil Steam
 Pozwala innym graczom wyświetlić Twój profil Steam, klikając na ikonę w liście graczy.
 Nie Śledź (DNT)
 Zakazuje serwerowi używania twoich danych (adresu IP, ID użytkownika itd.) w celach niezwiązanych z bezpieczeństwiem serwera.
+Interfejs graficzny
