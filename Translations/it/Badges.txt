@@ -26,7 +26,7 @@ SCP:SL Vincitore Evento
 SCP:SL Programmatore Fullstack
 SCP:SL Game Designer
 SCP:SL Gameplay Programmer
-SCP:SL Responsabile Moderatore Globale
+SCP:SL Responsabile Moderazione Globale
 SCP:SL Moderatore Globale
 SCP:SL Lead Game Designer
 SCP:SL Lead Gameplay Programmer
@@ -36,3 +36,9 @@ SCP:SL Patreon Supporter
 SCP:SL Programmatore
 SCP:SL Responsabile Controllo Qualità
 SCP:SL Designer del suono
+SCP:SL Direttore dello sviluppo di gioco
+SCP:SL Manager server ufficiale
+Northwood Specialista di codice nativo
+Northwood Specialista in verificazione server
+SCP:SL Controllo Qualità
+SCP:SL Supervisore Controllo Qualità
