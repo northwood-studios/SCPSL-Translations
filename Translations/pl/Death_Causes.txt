@@ -12,8 +12,11 @@ Nagły zanik funkcji życiowych. Brak wyraźnych urazów.
 Nieznany powód śmierci.
 To był <b>[user]</b>, jako [class]!\n\nPrzyczyna zgonu: [cause]
 Ogromne rany i nadmierna utrata krwi.
-Zaobserwowano duże, głębokie ślady po ugryzieniach wokół czaszki.
+Zaobserwowano duże, głębokie ślady po ugryzieniach na ciele.
 Stopiony przez silnie żrącą substancję.
-Głębokie rany oraz oparzenia trzeciego stopnia spowodowane wybuchem.
+Głębokie rany oraz poważne oparzenia spowodowane wybuchem.
 Blada skóra oraz krew wyciekająca z ust sugerują krwotok wewnętrzny spowodowany poprzez spożycie jakiejś substancji.
 Zabezpieczony.
+Na ciele widoczne są zadrapania oraz tępy uraz.
+Duża utrata krwi spowodowana przez głębokie rany.
+Chora żółta skóra oraz zjełczały zapach sugerują śmierć przez otrucie.

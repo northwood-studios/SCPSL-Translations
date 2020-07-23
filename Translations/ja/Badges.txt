@@ -36,3 +36,9 @@ SCP:SL Patreonサポーター
 SCP:SL プログラマー
 SCP:SL 品質保証マネージャー
 SCP:SL サウンドデザイナー
+SCP:SL ゲームディレクター
+SCP:SL 公式サーバーマネージャー
+Northwood 認証スペシャリスト
+Northwood ネイティブコードスペシャリスト
+SCP:SL 品質保証テスター
+SCP:SL 品質保証スーパーバイザー
