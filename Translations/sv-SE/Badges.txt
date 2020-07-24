@@ -1,7 +1,7 @@
 Northwood Affärsutvecklingschef
 Northwood Verkställande Direktör
-Northwood Chef Informations Funktionär
-Northwood Chef Operations Funktionär
+Northwood Informationschef Funktionär
+Northwood Verksamhetschef Funktionär
 Northwood Gemenskaps Direktör
 Northwood Discord Chef
 Northwood Verkställande Assistent
@@ -16,12 +16,12 @@ Northwood Personal
 Northwood Steam Manager
 Northwood Systemadministratör
 Northwood Wiki Chef
-SCP:SL Konst Direktör
-SCP:SL Konst Supervisor
+SCP:SL Grafik Direktör
+SCP:SL Grafik Supervisor
 SCP:SL Konstnär
 SCP:SL Backend Programmerare
 SCP:SL Backend Programmerings Chef
-SCP:SL Utvecklaren
+SCP:SL Utvecklare
 SCP:SL Eventvinnare
 SCP:SL Fullstack Programmerare
 SCP:SL Spel Designer
@@ -32,7 +32,7 @@ SCP:SL Lead Spel Designer
 SCP:SL Lead Gameplay Programmerare
 SCP:SL Nivå Designer
 SCP:SL Partner
-SCP:SL Patreon-Stödjare
+SCP:SL Patreon-Supporter
 SCP:SL Programmerare
 SCP:SL Kvalitetssäkringschef
 SCP:SL Ljud Designer
@@ -40,5 +40,5 @@ SCP:SL Spel Direktör
 SCP:SL Officiell Server Chef
 Northwood Verifieringsspecialist
 Northwood Native Code-specialist
-SCP:SL Kvalitetssäkringstesterare
+SCP:SL Kvalitetssäkringstestare
 SCP:SL Handledare för kvalitetssäkring
