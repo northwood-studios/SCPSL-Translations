@@ -1,0 +1,36 @@
+Vaktmästare Passerkort:Ingen beskrivning
+Forskare Passerkort:Ingen beskrivning
+Forskning Handledare Passerkort:Ingen beskrivning
+Zon Chef Passerkort:Ingen beskrivning
+Vakt Passerkort:Ingen beskrivning
+MTF Kadett Passerkort:Ingen beskrivning
+Containment Ingenjör Passerkort:Ingen beskrivning
+MTF Löjtnant Passerkort:Ingen beskrivning
+MTF Befälhavare Passerkort:Ingen beskrivning
+Anläggningschef Passerkort:Ingen beskrivning
+Chaos Insurgency Åtkomstenhet
+O5-Nivå Passerkort
+Radio:KÅ = Kort avstånd \nMÅ = Medium Avstånd \nLA = Lång Avstånd \nUA = Ultra Avstånd \nAnvänder batteri medans den är på. Längre avstånd betyder högre batteribruk.
+COM-15 Pistol:Ingen beskrivning
+Första hjälpen låda:Läker dina skador.
+Ficklampa:Låt det finnas ljus!
+Micro H.I.D.:Mobil högintensiv elektrisk urladdningskast.
+SCP-500:Panacea.
+SCP-207:Ökar skadligt motorik.
+Weapon Manager-surfplatta:Används för att släppa ammunition och uppgradera dina vapen.
+MTF-E11-SR:Ingen beskrivning
+Projekt 90:Ingen beskrivning
+Droppade 5.56:Ingen beskrivning
+MP7:Ingen beskrivning
+Logicer:Ingen beskrivning
+Frag Granat:Boom!
+Flashbang Granat:Förblindar dina fiender.
+Disarmer:Vänsterklickar aktiverar, högerklickar släpper loss \nHåll E på någon som är avväpnad i ditt team för att befria dem.
+Droppade 7.62:Ingen beskrivning.
+Droppade 9mm:Ingen beskrivning.
+USP:Ingen beskrivning.
+SCP-018:Superball kan studsa med extrem effektivitet.
+SCP-268:När har den på dig, gör du dig tillfälligt osynlig om den inte avbryts av någon användarinteraktion.
+Adrenalin:Ökar tillfälligt uthållighet.
+Smärtstillande:Lindra mindre skador.
+Mynt:Du är inte säker på varför du vill bära det här...

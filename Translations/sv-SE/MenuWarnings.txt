@@ -1,0 +1,4 @@
+VARNING
+OKEJ
+<b>Intel graphics</b> har upptäckts vilket är <b>stöds inte</b>./nDet är <b>rekommenderat</B> att använda en <b>ointegrerade</b> grafikkort./nSpelet kan <b>krascha ofta</b> med den aktuella inställningen.
+En viktig systemuppdatering som krävs av röstchatten kan inte hittas. Se till att ditt Windows är helt uppdaterat, annars kanske inte spelet fungerar korrekt. Om problemet kvarstår, vänligen kontakta vårt tekniska supportteam för ytterligare hjälp

@@ -1,0 +1,17 @@
+AUXILIARY POWER
+ERFARENHET
+CAMERA FEED ONLINE
+TRYCK [KEY] FÖR ATT VÄXLA ÖVERVAKNINGSKARTET
+Erfarenhet nått:
+Kooperativt arbete
+Klass-D dödningsassist
+C. I. < assist
+MTF dödssassist
+Scientist dödningsassist
+SCP dödssassist
+LÅST DÖRRAR: [LOCKED_NUM]<size=25>HÖGER MUS KNAPPEN FÖR ATT LÅSA UPP ALLT</size>
+Allmänna interaktioner
+Du blir attackerad!
+Generatorer har markerats på kartan
+FARA
+SCPs{0}MTF & Vakter{1}Forskare{2}Klass-D{3}Chaos Insurgents{4}

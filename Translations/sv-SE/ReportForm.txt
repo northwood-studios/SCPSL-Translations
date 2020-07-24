@@ -1,0 +1,7 @@
+Rapportera Spelare
+Person:\nPlayer ID:\nBeskrivning:
+Inställa
+Rapportera för att bryta serverregler
+Rapportera för fusk eller raiding
+RAPPORTERING
+Vänta...

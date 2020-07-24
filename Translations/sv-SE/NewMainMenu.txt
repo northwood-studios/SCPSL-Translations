@@ -1,0 +1,81 @@
+Nyheter
+Servers
+Inställningar
+Avsluta
+Sociala Medier
+Internet
+Favoriter
+Officiella
+Historik
+Vänner
+Sök Servers
+Skapa Server
+Re-Joina
+Direktkoppling
+Uppdatera
+Dölj tomma spel
+Dölj fulla spel
+Ingen Whitelist
+Video
+Ljud
+Kontroller
+Gameplay
+Andra
+Fönsterläge
+Exklusiv fullskärm
+Gränslöst fönster
+Maximerad fönster
+Fönster
+V-Sync
+FPS-gräns
+Av
+Texturkvalitet
+Max Blod Mängd
+Skuggor
+Skugga Resolution
+Skugg Distans
+Rörelseoskärpa
+Color Correction
+Anti Aliasing
+Lättåtergivningsläge
+Master Volym
+Ljudeffekter
+Röstchatt
+Meny Musik
+Gränssnittets volym
+Menytema
+Snabb Intro Fade
+Head Bob
+Växla Sprint
+Visa exakt HP-värde
+Rich Presence
+Publikt Lobby
+Växla Sök
+SCP-079 - Växla Visa-läge
+SCP-079 - Post-Processing
+Språk
+Huvudmeny
+Anslut
+Tillbaks
+Denna ändring kommer att kräva en omladdning.\nLadda om menyn nu?
+Ja
+Nej
+Är du säker på att du vill avsluta?
+Skärmupplösning
+Göm IP
+Välkommen tillbaks, {username}!
+Credits
+AUTENTISERING
+Ansluter till centrala servrar...
+<color=green>Kontakt etablerad</color>
+<color=red>Anslutningsfel (Kolla konsolen för mer information)</color>
+<color=red>STEAM Misslyckad Autentisering (Kolla konsolen för mer information)</color>
+<color=red>Discord misslyckad autentisering (Kolla konsolen för mer information)</color>
+Inaktiverad
+{0} Sekunder
+Ragdoll-rensningstid
+Visa Steam-profil
+Tillåter spelare att se din Steam-profil genom att klicka på en ikon i spelarlistan.
+Spåra inte (DNT)
+Förbjuder servern att använda dina data (IP-adress, användar-ID etc.) i syften som inte är relaterade till serversäkerheten.
+Grafik API

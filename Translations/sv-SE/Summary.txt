@@ -1,0 +1,17 @@
+omgången är klar!
+SCPs VANN
+MTF VANN
+CLASS-D VANN
+PATT
+Dem är ansvariga för att döda [summary_scpfrags] människor.
+Hoten dödad. Den här platsen är nu säker igen.
+All Foundation-säkerhet har dödats.
+Båda sidorna har både lidit förluster och gynnats mycket. Vinnaren är inte fastställd.
+[summary_d_escaped] klass-d flydde
+[summary_s_escaped] forskare överlevde
+Alpha Warhead detonering dödade [summary_warhead_kills] skapelser.
+Alpha Warhead var inte detonerad under detta uppdrag.
+Uppdraget tog [summary_round_minutes] minuter och [summary_round_seconds] sekunder.
+[summary_scp_terminated] dödade SCPs
+nästa runda om [summary_next_round_countdown] sekunder.
+Du har handlat [summary_damages] skada och dödat [summary_kills] spelare.

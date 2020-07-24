@@ -1,0 +1,91 @@
+JOINA
+STÄNG
+SKUGGA RESOLUTION
+INSTÄLLNINGAR
+BASERAD PÅ <i>SCP: CONTAINMENT BREACH</i>
+TILLBAKS
+SPRÅK
+ANTIALIASING
+Byta detalier:\n-PIXEL LIGHT COUNT - Maximalt antal ljuskällor som har ljuset återges på enskilda pixlar.\n-V-Sync - Aktivera synkronisering med skärmens uppdateringsfrekvens.
+JOINA SPELET
+POST\nPROCESSING
+CREDITS
+AVSLUTA SPELET
+Fullskärms läge
+SKÄRMINSTÄLLNINGAR
+COLOR CORRECTION
+Ange IP-adress...
+SKÄRMUPPLÖSNING
+SPELA
+PIXEL LIGHT COUNT
+SKUGGA TYP
+SKUGGOR
+SKAPA SPEL
+Ändra Post Processing-inställningarna. Dessa inställningar påverkar vanligtvis inte prestanda, och standardvärden rekommenderas.
+Ljusåtergivningsläge:\nNär det är av är grafikkvaliteten reducerad mycket. Att inaktivera den här inställningen rekommenderas endast för dåliga datorer.
+V-SYNC
+ANSLUT
+KVALITETSINSTÄLLNINGAR
+Ändra skuggpreferenser. Om du ställer in dessa skjutreglage på lägre värden kan det öka spelets jämnhet.
+HUVUDMENY
+LJUSÅTERGIVNINGSLÄGE
+RÖRELSEOSKÄRPA
+SKUGG DISTANS
+DETALIER
+3. SCP-914
+HANDLEDNINGAR
+VARNING
+Bläddra bland tillgängliga servrar
+Visa den inte igen
+Hur skulle du vilja ansluta?
+SERVER BROWSER
+OKEJ
+HITTA MATCH
+2. Använda vapen
+Vi använder Discord som ett forum. Ingen installation behövs.\n(Klicka på logon för att gå med)
+Som standard kommer servern att konfigureras i det lokala nätverket.\nDina vänner behöver den direkta IP-adressen för att ansluta.\nOm du vill ställa in en offentlig server väljer du LocalAdmin.exe och följer instruktionerna.\nOm du har några frågor, fråga vår tekniska support (länk i huvudmenyn)
+1. Det grundläggande
+Det presenterade spelet finns fortfarande i en offentlig beta.\nDu kan få problem med anslutningen och många andra buggar.\nDet aktuella tillståndet återspeglar inte den slutliga versionen.
+4. (mer handledning senare)
+DIREKTKOPPLING
+TECH SUPPORT / FORUM
+LJUDVOLYM
+Ange IP-adressen för den specifika servern.
+NEDLADNING AV DATA
+INGEN SERVERS TILLGÄNGLIGA
+PRESS ESC FÖR ATT STÄNGA / AVBRYT
+NYCKELBINDNING
+MAX BLOD MÄNGD
+FPS-gräns
+FPS-gräns fungerar inte när vSync är aktiverat!
+Sätta som normalt
+Vi använder Steam-diskussioner som ett forum. (Klicka på logotypen nedan för att öppna forumet)
+LJUDINSTÄLLNINGAR
+MASTER VOLUME
+MENYMUSIK
+RÖSTCHATT
+LJUDEFFEKTER
+SPELALTERNATIV
+SNABB INTRO FADE
+Klass intro text kommer att blekna mycket snabbare.
+SCP-079 - TOGGLE VIEW-LÄGE
+Tryck en gång för att byta mellan kameralägen.
+SCP-079 - POST-PROCESSING
+Om de är inaktiverade, kommer kameraeffekter att minskas kraftigt.
+HEAD BOB
+Gör det möjligt för första person att bobba under rörelse.
+TOGGLE SPRINT
+Sprinting växlar till och från, istället för att hållas nere.
+SEPARAT ARTIFICIELL HP BAR
+Ger konstgjord HP sin egen hälsobar, istället för en överläggning.
+Våra översättningar är öppen källkod på GitHub!\nVill hjälpa till? Klicka här för att komma åt repon.
+RICH PRESENCE
+Om den är aktiverad visas din status på Discord / Steam.
+VISA EXAKT HP-VÄRDE
+Visar exakt HP istället för bara procenten.
+PUBLIKT LOBBY
+Om det är aktiverat kan dina STEAM vänner gå med dig utan tillstånd.
+GÖM IP
+Om den är aktiverad visas inte någon IP i klientkonsolen.
+TOGGLE SÖK
+Objektupphämtning kräver inte en spärratangent tryck igen för att avbryta.
