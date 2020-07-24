@@ -4,7 +4,7 @@ SAMMA RANK
 Klass-D Personal har flytt.
 Forskarna överlevde.
 Dödad av en SCP.
-Dödade SCP subjekt
+Dödade SCP objekt
 Alpha Warhead
 Detonerade
 Oanvänd
@@ -13,7 +13,7 @@ SPECIELL FÖRMÅGA
 SKAPA SLUKHÅL
 ANVÄND SLUKHÅL
 DU DOG
-Du var dödad av
+Du blev dödad av
 som
 Passiv
 (gömd)
