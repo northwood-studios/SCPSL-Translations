@@ -5,7 +5,7 @@ SCP-106 RE-CONTAINMENT\nPROCEDUR ÅSIDOSÄTTANDE
 Invertera Y-axis
 SUMMA
 Upphäva
-I N V E N T A R I E
+I N V E N T O R Y
 LJUSSTYRKA
 INSTÄLLNINGAR
 KOPPLA IFRÅN
@@ -16,7 +16,7 @@ INVENTARIE OVERLOAD
 M. KÄNSLIGHET
 DATAINTRÅNG
 PLOCKAR UPP...
-Att höja ljusstyrkan <b>förvärrar stämningen mycket </b>av spelet\nFörsök att ha denna värde så lågt som du bara kan.\n<b>Standardvärdet rekommenderas.</b>
+Att höja ljusstyrkan <b>förvärrar stämningen mycket </b>i spelet\nFörsök att ha värdet så lågt som du bara kan.\n<b>Standardvärdet rekommenderas.</b>
 [1] ÖPPNA/STÄNG DÖRR\n[2] LÅS DÖRR*\n\n*Att låsa dörren använder speciell förmåga
 DÖREN HAR LÅST NED AV SCP-079
 Fullskärmsläge
@@ -25,9 +25,9 @@ Grundläggande alternativ. Fullständig lista över inställningar i menyn.
 VÄNTAR PÅ SPELARE
 SUMMA
 FORTSÄTT
-MAIN VOLYM
+HUVUDVOLYM
 anslutna
-Du rymde som forskare och gick med i MTF-enheterna.
+Du rymde som forskare och gick med i MTF-styrkorna.
 Du rymde som D-Klass och gick med i Chaos Insurgency.
 DU ÄR
 Flykt tid: [escape_minutes] minuter och [escape_seconds] sekunder
