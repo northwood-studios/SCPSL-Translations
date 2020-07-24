@@ -1,6 +1,6 @@
-<size=80>DU HAR BLIVIT KICKAD</size>\nServern tvingades stoppa anslutningen.\n<size=26>\nDu har antagligen blivit tillfälligt bannad av administratören \ inte heller uppfyller du inte serverns krav (t.ex. anslutning till Steam).\nFör möjliga tidsförbud - spelskaparna är <b>inte</b> ansvariga.\n</size>
-<size=80>DISCONNECTED</size>\nDen angivna värden är inte tillgänglig.
-<size=80>DISCONNECTED</size>\nDet angivna anslutnings-ID existerar inte.
+<size=80>DU HAR BLIVIT KICKAD</size>\nServern tvingades stoppa anslutningen.\n<size=26>\nDu har antagligen blivit tillfälligt bannad av administratören \  eller inte uppfyller serverns krav (t.ex. anslutning till Steam).\nFör möjliga tidsförbud - spelskaparna är <b>inte</b> ansvariga.\n</size>
+<size=80>DISCONNECTED</size>\nDen angivna servern är inte tillgänglig.
+<size=80>DISCONNECTED</size>\nDet angivna anslutnings-ID:t existerar inte.
 <size=80>DISCONNECTED</size>\nDen angivna kanalen finns inte.
 <size=80>DISCONNECTED</size>\nServern är full.
 <size=80>DISCONNECTED</size>\nFått fel paket.
@@ -18,14 +18,14 @@
 <size=80>CONNECTED</size>\n<size=35>Laddar nivån...</size>
 <size=35>Laddar anläggningen...</size>
 <size=80>DISCONNECTED</size>\nOspecificerat fel inträffade på servern.
-<size=80>DISCONNECTED</size>\nDenna server kräver autentisering av centrala servrar.
-<size=80>DISCONNECTED</size>\nDu är inte whitelisted på den här servern.
-<size=80>DISCONNECTED</size>\nDu har förbjudits globalt.
-<size=80>DISCONNECTED</size>\nDu har förbjudits globalt: [reason].
+<size=80>DISCONNECTED</size>\nDenna server kräver autentisering med centrala servrarna.
+<size=80>DISCONNECTED</size>\nDu är inte whitelistad på den här servern.
+<size=80>DISCONNECTED</size>\nDu är globalt bannad.
+<size=80>DISCONNECTED</size>\nDu är globalt bannad.: [reason].
 <size=80>DISCONNECTED</size>\nDu har blivit bannlyst från denna server.
 <size=80>DISCONNECTED</size>\nDu har blivit bannlyst från denna server.\nBan expires: [date] [time]
 <size=80>DISCONNECTED</size>\nDin autentiseringstoken har gått ut.\nServern kan ha ogiltig tid eller tidszon inställd.\nVänligen kontakta en serveradministratör.
-<size=80>DISCONNECTED</size>\nDu har blivit begränsad. Försök igen om några sekunder.
+<size=80>DISCONNECTED</size>\nDu har blivit rate limited. Försök igen om några sekunder.
 <size=80>DISCONNECTED</size>\nServern accepterar inte anslutningar från din geografiska plats.\nServernamn eller info kan innehålla mer information.
 <size=80>DISCONNECTED</size>\nDU HAR BLIVIT KICKAD av en server modifiering\n\nAnledning: [reason]\nDetta är en servermodifiering, inte en spelfunktion.\nKontakta en serveradministratör för mer information.
 <size=80>DISCONNECTED</size>\nDin autentiseringstoken har avvisats av servern.\nStarta om spelet och försök igen eller kontakta studioteknisk support.
