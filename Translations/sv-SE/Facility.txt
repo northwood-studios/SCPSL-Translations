@@ -26,7 +26,7 @@ VÄNTAR PÅ SPELARE
 SUMMA
 FORTSÄTT
 HUVUDVOLYM
-anslutna
+ansluten
 Du rymde som forskare och gick med i MTF-styrkorna.
 Du rymde som D-Klass och gick med i Chaos Insurgency.
 DU ÄR
