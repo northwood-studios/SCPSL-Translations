@@ -1,7 +1,7 @@
 Döda alla.\nFörhindra flykt.\nSamarbeta med andra <color=#f00>SCPs.</color><color=#ffff00>\nHåll vänsterklick + W och sikta mot din fiende att döda.\nDu är snabbare med lägre HP.</color>
 Fly från anläggningen.\nSamarbeta med andra <color=#008f1e>Chaos Insurgency.</color>\nUndvik andra lag.
 Du kommer respawna snart.
-Döda alla.\nFörhindra flykt.\nSamarbeta med andra <color=#f00>SCPs.</color><color=#ffff00>\nDu kan gå igenom dörrar.\nVänsterklick gör damage och teleporterar fiender till din dimension.\nHåll TAB för att få tillgång till dina TP-förmågor.</color>
+Döda alla.\nFörhindra flykt.\nSamarbeta med andra <color=#f00>SCPs.</color><color=#ffff00>\nDu kan gå igenom dörrar.\nVänsterklick gör skada och teleporterar fiender till din dimension.\nHåll TAB för att få tillgång till dina TP-förmågor.</color>
 Hjälp <color=#FFFF7CFF>forskare</color> fly.\nNeutralisera andra personal.\nInstruera dina soldater. \nFölj dina överordnade order.
 Döda alla.\nFörhindra flykt.\nSamarbeta med andra <color=#f00>SCPs.</color><color=#ffff00>\nVänsterklicka för att insta-döda fiender med en kort cooldown.\nInteragera med en nyligen död människa för att återuppliva dem som en allierad.</color>
 Fly från anläggningen.\nSamarbeta med andra <color=#0096FF>MTF.</color>\nUndvik andra lag.
