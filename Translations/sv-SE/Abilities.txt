@@ -4,15 +4,15 @@ Smyg:Dina rörelser blir tysta, men din hastighet förminskas mycket.
 Inventarielista:Öppnar din inventarielista och väljer en sak du har plockat up med LMB, eller slänga den med RMB.
 Obeväpnad:Du har ingenting. Hitta något. Vad som helst.
 Passerkort:Du har ett passerkort, det är inte den bästa men förlora inte den.
-Standard Utgåva:Du är utrustad med en Gevär, Granat, en Radio, en disarmer och ett passerkort.
-Utrustad & Farlig:Du har blivit avsändat med en Lätt Maskingevär, en Hacking tool (passerkort), och en Första Hjälpen Låda.
+Standard Utgåva:Du är utrustad med ett gevär, Granat, en Radio, en disarmer och ett passerkort.
+Beväpnad & Farlig:Du har blivit utrustad med ett lätt maskingevär, en hackingverktyg (passerkort), och en första hjälpen-låda.
 Otrolig Hastighet:När inga människor kan se dig, du rör på dig väldigt fort. Om du blir direkt kollat på av en människa, du kan inte röra på dig eller attackera, men alla människor som kollar kommer blinka samtidigt varje få sekunder, som tillåter dig att agera.
 Panik:Du rör på dig snabbare när din häsla minskas.
-Slukhål:Du kan placera en svart pool of korrosion och teleportera tillbaks dit närsomhelst. Att teleportera tar få sekunder.\nDu kan flytta på din slukhåla av att placera den igen.
+Slukhål:Du kan placera en svart pool of korrosion och teleportera tillbaks dit närsomhelst. Att teleportera tar få sekunder.\nDu kan flytta på ditt slukhål av att placera den igen.
 Korrosion:Du kan röra dig genom dörrar genom att gå igenom dem.
-Svansång:Du tar nästan ingen skada från kulor, men du kan omedelbart bli recontained via ett mänskligt offer inom din inneslutningskammare.
+Svansång:Du tar nästan ingen skada från kulor, men du kan omedelbart bli återinfångad via ett mänskligt offer inom din inneslutningskammare.
 Fickdimension:Fångar en människa och teleporterar de till en fickdimension som dödar dem omedelbart. Människorna måste välja den korrekta vägen, eller dö.
-Scopophobia:Du stannar foglig och tyst för det mesta av tiden - men om du inte gillar att bli skadad, eller ha din ansikte sett. Om du har blivit sett eller skadats, kväsa din rasa av att döda lagbrytarnas. Följ deras ljus innan din raseri avtar. Förödmjukelsen av varje lagbrytare läggs till på din AHP, som förhindrar skada så länge din raseri räcker.
+Scopophobia:Du stannar foglig och tyst för det mesta av tiden - men om du inte gillar att bli skadad, eller ha din ansikte sedd. Om du har blivit sett eller skadats, visa din rasa av att döda lagbrytarna. Följ deras ljus innan din raseri avtar. Förödmjukelsen av varje lagbrytare läggs till på din AHP, som förhindrar skada så länge din raseri räcker.
 Försök att inte gråta (Foglig):Det är för svårt. Att vara lutad på en dörr hjälper; du blir tystare och står i plats mot den, vilket lugnar dig själv... eller väntar på att någon ska komma igenom.
 Närstridsattack (Raseri):Vanligtvis, du håller för dig själv. Men när du är provocerade... du kommer riva genom allting i din väg för att få de som skadade dig. Du förgör både dörrar och kroppar i ett område framför dig med dina händer.
 Ultrakänslig:Du kan inte se människor tills de springer, stöter på dig, eller skjuter ett vapen i närheten av dig.
