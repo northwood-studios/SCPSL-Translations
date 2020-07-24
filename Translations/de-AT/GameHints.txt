@@ -1,4 +1,4 @@
-﻿<color=red>Zuagriff veaweigat</color>
+<color=red>Zuagriff veaweigat</color>
 Limit vo <color=yellow>[type] Munition</color> erreicht. (<color=yellow>[max_type_count] Schuss</color>)
 Des Limit vo <color=yellow>[type] Munition</color> is <b>scho</b> erreicht! (<color=yellow>[max_type_count] Schuss</color>)
 Limit vo <color=yellow>[type]</color> erreicht. (<color=yellow>[max_type_count] Gegnständ</color>)
