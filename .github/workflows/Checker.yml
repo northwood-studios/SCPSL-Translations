@@ -13,4 +13,4 @@ jobs:
         format: 'csv'
 
     - name: Check Translation
-      run: TranslationChecker.exe "${{ steps.files.outputs.all }}"
+      run: .\TranslationChecker.exe "${{ steps.files.outputs.all }}"
