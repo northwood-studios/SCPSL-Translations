@@ -78,4 +78,4 @@ Steam Profil megjelenítése
 Lehetővé teszi más játékosok számára a Steam profilod megtekintését, ha a játékoslistán lévő ikonra kattintanak.
 Do Not Track (DNT)
 Megtiltja a szerver számára az adataid felhasználását (IP cím, felhasználó ID, stb.) amelyek nem szükségesek a számára.
-Grafikai API
+Grafikus API
