@@ -2,9 +2,9 @@ la ronda ha acabat!
 SCPs GUANYEN
 MTF GUANYEN
 CLASSE-D GUANYEN
-ESTALEMAT
+ESTANCAMENT
 Elles són les responsables de matar [summary_scpfrags] éssers humans.
-La amenaça es va acabar. Aquesta zona és segura una altra vegada.
+L'amenaça es va acabar. Aquesta zona és segura una altra vegada.
 S'ha acabat tota la seguretat de la Fundació.
 Ambdós equips han patit pèrdues. Empat.
 [summary_d_escaped] classe-d ha escapat

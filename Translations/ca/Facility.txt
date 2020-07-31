@@ -1,24 +1,24 @@
 VOLUM DE VEU
-SI
+SÍ
 REINICI FORÇAT
 ANULAR EL PROCEDIMENT DE RE-CONTENCIÓ\nDE L'SCP-106
 INVERTIR Eix-y
 RESUM
-Cancelar
+Cancel·lar
 I N V E N T A R I
 BRILLANTOR
 OPCIONS
-DESCONECTAR
+DESCONNECTAR
 SITJA ALFA DESHABILITAT
-ACCÈS DENEGAT
-CHAT DE VEU
+ACCÉS DENEGAT
+XAT DE VEU
 INVENTARI SOBRECARREGAT
 M. SENSIBILITAT
 HACKEJANT
 RECOLLINT...
 Incrementar la brillantor <b>empitjora la jugabilitat </b>del joc.\nTracti d'ajustar-ho el mínim possible.\n<b>És recomanable deixar el nivell per defecte.</b>
-[1] OBRIR/TANCAR PUERTA\n[2] BLOQUEJAR PORTA*\n\n*Bloquejar puertes gasta la habilitat especial
-LA PORTA HA SIGUT SELLADA PER L'SCP-079
+[1] OBRIR/TANCAR PORTA\n[2] BLOQUEJAR PORTA*\n\n*Bloquejar portes gasta l'habilitat especial
+LA PORTA HA ESTAT SEGELLADA PER L'SCP-079
 Pantalla Completa
 Segur que vols abandonar el servidor?
 Opcions bàsiques. Llista d'opcions completes en el menú.
