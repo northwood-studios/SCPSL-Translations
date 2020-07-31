@@ -1,4 +1,4 @@
 BRĪDINĀJUMS
 OKAY
-<b>Intel grafikas</b> ir detektētas kuras <b>nav atbalstītas</b>./nir <b>ieteicams</B> izmantot <b>ne-iebūvētu</b> grafikas karti./nSpēle var <b>bieži uzkarties</b> ar esošo datoru.
+<b>Intel grafikas</b> ir detektētas kuras <b>nav atbalstītas</b>.\nir <b>ieteicams</B> izmantot <b>ne-iebūvētu</b> grafikas karti.\nSpēle var <b>bieži uzkarties</b> ar esošo datoru.
 Nevar atrast svarīgu sistēmas atjauninājumu, kas nepieciešams balss tērzēšanai. Lūdzu, pārliecinieties, vai jūsu Windows ir pilnībā atjaunināta, pretējā gadījumā spēle var nedarboties pareizi. Ja šī problēma joprojām pastāv, lūdzu, sazinieties ar mūsu tehniskā atbalsta komandu, lai saņemtu turpmāku palīdzību

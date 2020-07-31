@@ -1,4 +1,4 @@
 AVÍS IMPORTANT
 OKAY
-Ha sigut detectat <b>Intel graphics</b> el qual <b>no funcionarà bé</b>./nEs <b>recomana</B> utilitzar una tarjeta de vídeo <b>no integrada</b> ./nEl joc pot <b>crashear</b> en qualsevol moment.
+Ha sigut detectat <b>Intel graphics</b> el qual <b>no funcionarà bé</b>.\nEs <b>recomana</B> utilitzar una tarjeta de vídeo <b>no integrada</b> .\nEl joc pot <b>crashear</b> en qualsevol moment.
 Es requereix una actualització important per poder utilitzar el xat de veu. Si us plau, assegura't de què la teva versió de Windows és la més recent, sinó el joc no funcionarà bé. Si aquest error continua, contacta amb l'equip d'ajuda per demanar assistència

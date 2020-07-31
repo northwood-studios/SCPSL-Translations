@@ -57,7 +57,7 @@ Nyelv
 Főmenü
 Csatlakozás
 Vissza
-Ez a változtatás újraindítást igényel./nÚjraindítod most?
+Ez a változtatás újraindítást igényel.\nÚjraindítod most?
 Igen
 Nem
 Biztosan ki szeretnél lépni?
