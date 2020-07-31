@@ -78,3 +78,4 @@ Steam Profilini Göster
 Oyuncuların oyuncu listesindeki ikona tıklayıp profilini görüntülemesini izin ver.
 Do Not Track (DNT)
 Sunucunun verilerinizi (IP adresi, kullanıcı kimliği, vb.) sunucu güvenliği ile ilgili olmayan amaçlarla kullanmasını yasaklar.
+Grafik API
