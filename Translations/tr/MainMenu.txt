@@ -85,3 +85,7 @@ ASIL HP DEĞERİNİ GÖSTER
 HP değerini yüzde olarak göstermek yerine asıl değerini gösterir.
 TOPLULUK LOBİSİ
 Etkinleştirildiğinde, Steam arkadaşlarınız izin almadan size katılabilirler.
+IP GİZLE
+Etkinleştirildiğinde, herhangibir IP işlemci konsolunda gösterilmez.
+ARAT
+Eşya almak basılı bir tuş gerektirmez; iptal etmek için tekrar basın.
