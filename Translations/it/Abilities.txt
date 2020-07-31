@@ -27,3 +27,4 @@ Sovraccarico della tesla:Puoi attivare istantaneamente una tesla per 50 EA uccid
 Blocco:A partire dal livello 3 puoi interagire con alcune stanze bloccandole, spegnendo le luci e chiudendo tutte le porte. Durante il processo di blocco, gli esseri umani non possono vedere l'SCP-173.
 Virtualmente Indistruttibile: Cinque generatori si generano nella Zona di Contenimeto Pesante. Se tutti i generatori vengono sbloccati e attivati, verrai ricontenuto.\nI generatori hanno una sequenza di conto alla rovescia che qualsiasi giocatore può interrompere premendo il pulsante "CANCEL" sul generatore.
 Rottura del Collo:Tieni premuto o fai clic per spezzare il collo di un essere umano, uccidendolo all'istante, fintanto che non possono vederti o battono le ciglia.
+Carica (Rabbia):Rendi le loro fughe brevi - se lo meritano. Ti precipiti dritto, demolendo qualsiasi cosa difronte a te. Se colpisci un cancello pesante, ti aprirai la strada attraverso esso.

@@ -16,23 +16,29 @@ Trabajador de Northwood
 Gerente de Steam de Northwood
 Administrador de Sistemas de Northwood
 Gerente de Wiki de Northwood
-Director Artístico de SCP:SL 
-Supervisor Artístico de SCP:SL 
-Artista de SCP:SL 
-Programador Back-end de SCP:SL 
-Gerente de programación Back-end de SCP:SL 
-Desarrollador de SCP:SL 
-Ganador de evento de SCP:SL 
-Programador Full-stack de SCP:SL 
-Diseñador/a de SCP:SL 
-Programador de jugabilidad de SCP:SL 
-Gerente de moderacion global de SCP:SL 
-Moderador/a global de SCP:SL 
-Diseñador/a principal de SCP:SL 
-Programador/a principal de jugabilidad de SCP:SL 
-Diseñador/a de niveles de SCP:SL 
-Socio/a de SCP:SL 
-Patreon de SCP:SL 
-Programador/a de SCP:SL 
-Gerente de control de calidad de SCP:SL 
-Diseñador/a de sonido de SCP:SL 
+Director Artístico de SCP:SL
+Supervisor Artístico de SCP:SL
+Artista de SCP:SL
+Programador Back-end de SCP:SL
+Gerente de programación Back-end de SCP:SL
+Desarrollador de SCP:SL
+Ganador de evento de SCP:SL
+Programador Full-stack de SCP:SL
+Diseñador/a de SCP:SL
+Programador de jugabilidad de SCP:SL
+Gerente de moderacion global de SCP:SL
+Moderador/a global de SCP:SL
+Diseñador/a principal de SCP:SL
+Programador/a principal de jugabilidad de SCP:SL
+Diseñador/a de niveles de SCP:SL
+Socio/a de SCP:SL
+Patreon de SCP:SL
+Programador/a de SCP:SL
+Gerente de control de calidad de SCP:SL
+Diseñador/a de sonido de SCP:SL
+Director de juego de SCP:SL
+Gerente oficial de servidores de SCP:SL
+Especialista de verificación de Northwood
+Especialista de código nativo de Northwood
+Teste de control de calidad de SCP:SL
+Superior de control de calidad de SCP:SL

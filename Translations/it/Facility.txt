@@ -33,3 +33,4 @@ RUOLO:
 Tempo di fuga: [escape_minutes] minuti [escape_seconds] secondi
 Attendi [time] prima di usare [item] di nuovo.
 TIENI PREMUTO <color=white><b>F1</b></color> PER MAGGIORI INFO
+Sei stato ammanettato\n<size=40>segui gli ordini o chiedi aiuto ai tuoi compagni di squadra</size>
