@@ -4,8 +4,8 @@ AYNI RÜTBE
 D-Sınıf personel kaçtı
 Bilim Adamı hayatta kaldı
 SCP tarafından öldürülen
-İmha edilmiş SCP denekleri
-Alfa Savas Basligi
+İmha edilmiş SCP varlıkları
+Alfa Savaş Başlığı
 Patlatılmış
 Kullanılmamış
 [time] saniye içerisinde yeni oyun başlayacak.
@@ -13,7 +13,7 @@ Kullanılmamış
 DOLİN OLUŞTUR
 DOLİNİ KULLAN
 ÖLDÜN
-Şu kişi tarafından öldürüldün
+Seni öldüren kişi
 rolü
 Pasif
 (gizli)

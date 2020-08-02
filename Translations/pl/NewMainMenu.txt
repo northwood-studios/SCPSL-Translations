@@ -1,0 +1,81 @@
+Aktualności
+Serwery
+Ustawienia
+Wyjdź
+Media Społecznościowe
+Sieć
+Ulubione
+Oficjalne
+Historia
+Znajomi
+Wyszukaj Serwer
+Stwórz Serwer
+Połącz Ponownie
+Połącz Bezpośrednio
+Odśwież
+Ukryj Puste Serwery
+Ukryj Pełne Serwery
+Bez Białej Listy
+Wideo
+Dźwięk
+Sterowanie
+Rozgrywka
+Inne
+Tryb Okna Gry
+Pełny Ekran
+Bez Krawędzi
+Zmaksymalizowane Okno
+W Oknie
+V-Sync
+Ograniczenie FPS
+Wyłączone
+Jakość Tekstur
+Maksymalna Ilość Krwi
+Cienie
+Rozdzielczość Cieni
+Odległość Cieni
+Rozmycie w Ruchu
+Korekcja Kolorów
+Anty Aliasing
+Tryb Renderowania Świateł
+Głośność Ogólna
+Efekty Dźwiękowe
+Czat Głosowy
+Muzyka w Menu
+Głośność Interfejsu
+Utwór w Menu
+Szybsze Opisy
+Animacja Chodzenia
+Przełączany Bieg
+Wyświetl Dokładną Ilość Zdrowia
+Rich Presence
+Publiczne Lobby
+Przełączane Podniesienie
+SCP-079 - Przełącz Tryb Widoku
+SCP-079 - Post-Processing
+Język
+Menu Główne
+Połącz
+Powrót
+Ta zmiana wymaga zresetowania menu.\nZrestartować menu główne?
+Tak
+Nie
+Czy aby na pewno chcesz wyjść?
+Rozdzielczość Ekranu
+Ukryj IP
+Witaj, {username}!
+Autorzy
+UWIERZYTELNIANIE
+Łączenie z serwerami centralnymi...
+<color=green>Nawiązano połączenie</color>
+<color=red>Błąd połączenia (Szczegóły w konsoli)</color>
+<color=red>Uwierzytelnianie Steam nie powiodło się (Szczegóły w konsoli)</color>
+<color=red>Uwierzytelnianie Discord nie powiodło się (Szczegóły w konsoli)</color>
+Wyłączono
+{0} Sekund
+Czas Na Wyczyszczenie Ciał
+Wyświetlaj Profil Steam
+Pozwala innym graczom wyświetlić Twój profil Steam, klikając na ikonę w liście graczy.
+Nie Śledź (DNT)
+Zakazuje serwerowi używania twoich danych (adresu IP, ID użytkownika itd.) w celach niezwiązanych z bezpieczeństwiem serwera.
+Interfejs graficzny

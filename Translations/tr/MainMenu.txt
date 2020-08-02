@@ -76,12 +76,16 @@ KAFA SALLANMASI
 Birinci şahıs kamerasının hareket halinde sallanmasını etkinleştirir.
 KOŞUYA GEÇİŞ
 Koşmak için basılı tutmak yerine, aç-kapa yapabilirsin.
-SP ÇUBUĞUNU YAPAY AYIRMA
-SP'na sahte bir kaplama yerine kendi sağlık çubuğunu verir.
+HP ÇUBUĞUNU YAPAY AYIRMA
+HP'na sahte bir kaplama yerine kendi sağlık çubuğunu verir.
 Çevirilerimiz GitHub'da açık kaynak kodludur!\nYardım etmek ister misin? Depoya erişmek için buraya tıklayın.
 VARLIK ZENGİNLEŞTİRME
 Aktifleştirildiğinde bilgilerin Steam ve Discord üzerinden gösterilir.
-ASIL SP DEĞERİNİ GÖSTER
-SP değerini yüzde olarak göstermek yerine asıl değerini gösterir.
+ASIL HP DEĞERİNİ GÖSTER
+HP değerini yüzde olarak göstermek yerine asıl değerini gösterir.
 TOPLULUK LOBİSİ
 Etkinleştirildiğinde, Steam arkadaşlarınız izin almadan size katılabilirler.
+IP GİZLE
+Etkinleştirildiğinde, herhangibir IP işlemci konsolunda gösterilmez.
+ARAT
+Eşya almak basılı bir tuş gerektirmez; iptal etmek için tekrar basın.

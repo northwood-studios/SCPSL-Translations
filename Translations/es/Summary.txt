@@ -1,7 +1,7 @@
 ¡La ronda ha acabado!
-SCPs GANARON
-MTF GANARON
-CLASE-D GANARON
+LOS SCPs GANAN
+LOS MTF GANAN
+LOS CLASE-D GANAN
 TABLAS
 Son responsables de la perdida de [summary_scpfrags] vidas humanas.
 Amenaza eliminada. Las instalaciones son seguras de nuevo.

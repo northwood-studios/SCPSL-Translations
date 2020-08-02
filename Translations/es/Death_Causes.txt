@@ -17,3 +17,6 @@ Corroído por una sustancia altamente corrosiva.
 Metralla y quemaduras de tercer grado causadas por una explosión.
 Piel pálida y boca ensangrentada sugieren una hemorragia interna causada por ingerir una sustancia.
 Recontenido por un humano.
+Se pueden apreciar contusiones y rasguños en el cuerpo.
+Pérdida grave de sangre causada por heridas profundas.
+La piel amarillenta y un olor rancio sugieren muerte por envenenamiento.

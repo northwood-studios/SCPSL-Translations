@@ -2,37 +2,43 @@ Northwood Business Development Manager
 Northwood Chief Executive Officer
 Northwood Chief Information Officer
 Northwood Chief Operations Officer
-Northwood Community Director
+Northwood Community Direktor
 Northwood Discord Manager
-Northwood Executive Assistant
+Northwood Vorstandsassistent
 Northwood Feedback Manager
-Northwood Human Resources
-Northwood Human Resources Director
+Northwood Personalabteilung
+Northwood Personalabteilung Direktor
 Northwood Joint Information Officer
-Northwood Lead Bot Engineer
-Northwood Marketing Director
-Northwood Marketing Platform Manager
-Northwood Staff
+Northwood Leitender Bot-Ingenieur
+Northwood Marketing Direktor
+Northwood Marketing Plattform Manager
+Northwood Mitarbeiter
 Northwood Steam Manager
 Northwood System Administrator
 Northwood Wiki Manager
-SCP:SL Art Director
-SCP:SL Art Supervisor
-SCP:SL Artist
-SCP:SL Backend Programmer
-SCP:SL Backend Programming Manager
-SCP:SL Developer
-SCP:SL Event Winner
-SCP:SL Fullstack Programmer
-SCP:SL Game Designer
-SCP:SL Gameplay Programmer
-SCP:SL Global Moderation Manager
-SCP:SL Global Moderator
-SCP:SL Lead Game Designer
-SCP:SL Lead Gameplay Programmer
+SCP:SL Artdirector
+SCP:SL Artdirector Vorgesetzer
+SCP:SL Künstler
+SCP:SL Backend Programmierer
+SCP:SL Backend Programmierung Manager
+SCP:SL Entwickler
+SCP:SL Event Gewinner
+SCP:SL Full-Stack Programmierer
+SCP:SL Spiel Designer
+SCP:SL Gameplay Programmierer
+SCP:SL Manager der globalen Moderation 
+SCP:SL Globaler Moderator
+SCP:SL Leitender Spiel Designer
+SCP:SL Leitender Gameplay Programmierer
 SCP:SL Level Designer
 SCP:SL Partner
 SCP:SL Patreon Supporter
-SCP:SL Programmer
-SCP:SL Quality Assurance Manager
+SCP:SL Programmierer
+SCP:SL Qualitätssicherung Manager
 SCP:SL Sound Designer
+SCP:SL Spiel Direktor
+SCP:SL Offizieller Server Manager
+Northwood Verifikations Spezialist
+Northwood Native Code Spezialist
+SCP:SL Qualitätssicherung Tester
+SCP:SL Qualitätssicherung Vorgesetzter

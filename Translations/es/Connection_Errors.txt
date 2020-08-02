@@ -19,7 +19,7 @@
 <size=35>Cargando las instalaciones...</size>
 <size=80>DESCONECTADO</size>\nError no especificado en el servidor.
 <size=80>DESCONECTADO</size>\nEste servidor requiere autentificación por el servidor central.
-<size=80>DESCONECTADO</size>\nTu formas parte de la lista blanca de este servidor.
+<size=80>DESCONECTADO</size>\nTu no formas parte de la lista blanca de este servidor.
 <size=80>DESCONECTADO</size>\nHas sido globalmente vetado.
 <size=80>DESCONECTADO</size>\nHas sido globalmente vetado: [reason].
 <size=80>DESCONECTADO</size>\nHas sido vetado de este servidor.
@@ -31,3 +31,6 @@
 <size=80>DESCONECTADO</size>\nTu token de autentificación ha sido rechazado por el servidor.\nPor favor, reinicie el juego o contacte con soporte técnico.
 <size=80>DESCONECTADO</size>\nHas sido vetado de este servidor.\nRazón: [reason]
 <size=80>DESCONECTADO</size>\nHas sido vetado de este servidor.\nExpira en: [date] [time]\nRazón: [reason]
+<size=80>Espera</size>\nProcesando la verificación de seguridad del servidor...
+<size=80>DESCONECTADO</size>\nHa fallado la comprobación de seguridad del servidor.
+<size=80>DESCONECTADO</size>\nEl procesamiento de la seguridad ha sido demasiado lento para el servidor.\nPrueba de nuevo o contacta al administrador del servidor.

@@ -1,0 +1,36 @@
+SPROCHCHAT LAUTSTÄRKN
+Jo
+START ERZWINGA
+SCP-106 EIDÄMMUNGS-\nPROZEDUR EILEITEN
+Invertier de Y-Ochsen
+ZUSOMMENFOSSUNG
+Obbrechen
+I N V E N T A R
+HÖIGKEIT
+EISTELLUNGEN
+SERVER VERLOSSEN
+ALPHA WARHEAD IS DEAKTIVIERT
+ZUGONG VEAWEIGAT
+SPROCHCHAT
+INVENTAR VOI
+<size=20>MAUSEMPFINDLICHKEIT</size>
+HACKE
+HEBT AUF...
+Des erhöhn dea Höigkeit <b>verschlechtert de Stimmung vom Spü seah</b>.\nVersuach de Eistellung so niadrig wie möglich zum hoiden.\n<b>De Stondardeistellung is empfoihn.</b>
+[1] DIARN ÖFFNEN/SCHLIASSEN\n[2] VERRIAGEL DIARN*\n\n*Des verriageln vo Diaren verbraucht dei Spezialfähigkeit.
+DIAR IS VON SCP-079 VERRIEGELT WORN
+Voibüdmodus
+Bist du da sicha dass du den Server verlossen wüst?
+Grundeistellungen. Volle Listn vo Eistellungen befindn si im Hauptmenü.
+WOATN AUF SPIELA
+ZUSOMMENFOSSUNG
+WEIDA
+SPÜLAUTSTÄRKEN
+VABUNDN
+Du bist als Wissenschoftler entkuma und trittst dem MTF bei.
+Du bist als Klosse-D entkuma und trittst dea Chaos Insurgency bei.
+DU BIST
+Fluchtzeit: [escape_minutes] Minuten und [escape_seconds] Sekunden.
+Woat [time] bist du wieder [item] benutzen konnst.
+HOID <color=white><b>F1</b></color> FIA MEHR INFORMATIONEN
+Du bist gefesslt woan\n<size=40>Foig den Onweisungen oda frog deine Teammates um Hüfe</size>

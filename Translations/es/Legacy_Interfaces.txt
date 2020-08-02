@@ -16,3 +16,4 @@ HAS MUERTO
 Has sido eliminado por
 como
 Pasivo
+(oculto)
