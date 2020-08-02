@@ -1,17 +1,22 @@
 In een explosie omgekomen.
-Gebroken voeten en benen stelt voor een fatale trauma door een val.
-Tekens van erge trauma bij de dijbenen stelt voor een dood door bloedsomloop shock.
+Gebroken voeten en benen veroorzaakt door een lange val.
+Tekens van ernstige trauma bij beide dijbenen suggereert de doodoorzaak door bloedverlies.
 Verdwaald in de Pocket Dimensie.
 Het is een overblijfsel van SCP-106.
-Hoge voltage elektrische schok.
-Fatale stomp trauma; het lichaam is slecht verminkt en verpulverd.
-Er zijn veel schotwonden op het lichaam. Waarschijnlijk een [ammotype] munitie type was gebruikt.
+Geëlektrocuteerd door een hoog voltage apparaat.
+Enorme breuken; het lichaam is verminkt en verpulverd.
+Er zijn veel schotwonden op het lichaam. Er is waarschijnlijk een [ammotype] munitie wapen gebruikt.
 Cervicale fractuur aan de grond van de schedel.
-Enorm veel weefselbederf zijn aanwezing op het lichaam.
-Plotseling werking van organen gestopt. Er is geen trauma.
+Enorm veel weefselbederf is aanwezing op het lichaam.
+Plotseling werking van organen gestopt. Geen zichtbare trauma.
 Onbekende doodsoorzaak.
 Het is <b>[user]</b>'s lichaam, hij was een [class]!\n\nDoodsoorzaak: [cause]
 Enorme snijwonden en overmatig veel bloodverlies.
 Grote, diepe bijt wonden rond de schedel zijn aanwezig.
 Versmolten door een enorm bijtend stof.
-Shrapnel en derdegraads brandwonden door een explosie.
+Stukken metaal en derdegraads brandwonden veroorzaakt door een explosie.
+Droge huid en een bloedende mond duiden op een dood veroorzaakt door een ingeslikte stof.
+Gevangen.
+Deuken en kleine krassen zijn zichtbaar op het lichaam.
+Enorme bloedverlies veroorzaakt door diepe wonden.
+Ziek uitziende gele huid en een enorme stank duiden aan op een dood door vergiftiging.

@@ -85,3 +85,7 @@ WYŚWIETL DOKŁADNĄ ILOŚĆ ZDROWIA
 Wyświetlaj dokładną liczbę punktów życia, zamiast wartości procentowej.
 PUBLICZNE LOBBY
 Gdy włączone, twoi znajomi na Steam będą mogli dołączyć do gry bez wymagania twojej zgody.
+UKRYJ IP
+Gdy włączone, adresy IP nie są wyświetlane w konsoli.
+PRZEŁĄCZANE PODNOSZENIE
+Podnoszenie przedmiotu nie będzie wymagać trzymania przycisku; naciśnij ponownie by anulować.

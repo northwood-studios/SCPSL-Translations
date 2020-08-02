@@ -1,4 +1,4 @@
 WARNUNG
 OKAY
-<b>Intel Grafikeinheit</b> wurde erkannt welche <b>nicht unterstützt</b> wird./nEs ist <b>empfohlen</B> eine <b>nicht-integrierte</b> Grafikkarte zu nutzen./nDas Spiel wird höchstwahrscheinlich <b>oft abstürzen</b> mit diesem Setup.
+<b>Intel Grafikeinheit</b> wurde erkannt welche <b>nicht unterstützt</b> wird.\nEs ist <b>empfohlen</B> eine <b>nicht-integrierte</b> Grafikkarte zu nutzen.\nDas Spiel wird höchstwahrscheinlich <b>oft abstürzen</b> mit diesem Setup.
 Ein wichtiges System Update welches für den Voice Chat erforderlich ist kann nicht gefunden werden. Bitte stelle sicher dass du die neuste Windows Version installiert hast. Das Spiel kann ansonsten nicht richtig funktionieren. Wenn dieses Problem bestehen bleibt, kontaktiere bitte unseren Tech-Support für weitere Hilfe.

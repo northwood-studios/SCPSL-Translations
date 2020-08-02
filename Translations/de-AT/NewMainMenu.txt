@@ -71,3 +71,10 @@ Vabind mid de Central Servern...
 <color=red>Vabindung föhgschlogn (Prüf dei Konsoin fia Details)</color>
 <color=red>Steam Authentikation föhgschlogn (Prüf dei Konsoin fia Details)</color>
 <color=red>Discord Authentikation föhgschlogn (Prüf dei Konsoin fia Details)</color>
+Ausgschoit
+{0} Sekundn
+Ragdoll Beseitigungszeit
+Zag Steamprofü on
+Ealaubt onderen Spielan dei Steamprofü aufz'ruafn wenns in dea Spielalistn auf dei Icon klickn.
+Do Not Track (DNT)
+Veabietet am Server deine Doten (IP Adresse, User ID, etc.) zu nutzn, außa fia Zwecke, wöche dea Serversichahat dianen.

@@ -19,7 +19,7 @@
 <size=35>Cargando las instalaciones...</size>
 <size=80>DESCONECTADO</size>\nError no especificado en el servidor.
 <size=80>DESCONECTADO</size>\nEste servidor requiere autentificación por el servidor central.
-<size=80>DESCONECTADO</size>\nTu formas parte de la lista blanca de este servidor.
+<size=80>DESCONECTADO</size>\nTu no formas parte de la lista blanca de este servidor.
 <size=80>DESCONECTADO</size>\nHas sido globalmente vetado.
 <size=80>DESCONECTADO</size>\nHas sido globalmente vetado: [reason].
 <size=80>DESCONECTADO</size>\nHas sido vetado de este servidor.
