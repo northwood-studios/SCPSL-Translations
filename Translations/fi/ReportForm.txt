@@ -1,6 +1,6 @@
 Raportoi Pelaajasta
 Kohde:\nPelaajan-ID:\nKuvaus:
-Peruuta
+Peruuta 
 Pelaaja Rikkoo Palvelimen Sääntöjä
 Pelaaja Käyttää Huijaus-Ohjelmia
 RAPORTOIDAAN
