@@ -11,7 +11,7 @@ D级人员获胜
 [summary_s_escaped] 名科学家逃离设施
 Alpha核弹共了结了 [summary_warhead_kills] 条人命。
 Alpha核弹并未在本局中使用。
-此次任务共花费 [summary_round_minutes] 分 [summary_round_seconds] 秒。
+此次行动共花费 [summary_round_minutes] 分 [summary_round_seconds] 秒。
 共消灭了 [summary_scp_terminated] 个SCP
-下一局游戏将在 [summary_next_round_countdown] 秒后开始。
+下回合游戏将在 [summary_next_round_countdown] 秒后开始。
 你共造成了 [summary_damages] 伤害，杀死了 [summary_kills] 名玩家。

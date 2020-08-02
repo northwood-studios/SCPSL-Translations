@@ -1,7 +1,7 @@
 按任意箭头方向键启用...
-选择 - 上/下 方向键 \n确定 - 右 方向键 \n返回 - 左 方向键
-[var_name]\n\n使用弹药: [var_atype]\n剩余弹药: [var_ares]\n弹匣容量: [var_mag]\n\n最大伤害: [var_maxdmg]\n实际伤害: [var_effdmg]\n每秒射速: [var_sps]\n\n可用武器配件: [var_custs]\n\n按下 右 方向键 丢弃弹药
-你将丢下 [var_nom] 弹药。\n使用 上/下 方向键 改变数量\n右 方向键 确认数量\n左 方向键 取消操作
-剩余[var_nom]弹药不足，无法丢弃。\n左 方向键 返回
+选择 - ↑/↓ 键 \n确定 - → 键 \n返回 - ← 键
+[var_name]\n\n使用弹药: [var_atype]\n剩余弹药: [var_ares]\n弹匣容量: [var_mag]\n\n最大伤害: [var_maxdmg]\n实际伤害: [var_effdmg]\n每秒射速: [var_sps]\n\n可用武器配件: [var_custs]\n\n按下 → 键丢弃弹药
+你将丢下 [var_nom] 弹药。\n使用 ↑/↓ 键 改变数量\n→ 键 确认数量\n← 键 取消操作
+剩余[var_nom]弹药不足，无法丢弃。\n← 键 返回
 枪管
 其他
