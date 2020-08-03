@@ -32,5 +32,5 @@ Sinä pakenit D-Luokkana ja liityit Chaos Insurgency:yn.
 SINÄ OLET
 Pakenemisaika: [escape_minutes] minuuttia ja [escape_seconds] sekuntia
 Odota [time] kunnes voit käyttää esinettä [item] uudelleen.
-Paina <color=white><b>F1</b></color> saakaksesi lisätietoa.
+Paina <color=white><b>F1</b></color> saadaksesi lisätietoja.
 Sinut on pidätetty\n<size=40>seuraa ohjeita tai kysy tiimikavereilta apua</size>
