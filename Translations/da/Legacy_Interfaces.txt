@@ -1,17 +1,19 @@
 GIV ORDRE
-FØLG ORDRE
-SAMME RANG
-Klasse-D personale slap væk
-Videnskabsmændene overlevede
-Drabt af SCP
-Drabte SCP'er
-Alpha Sprænghoved
-Sprunget
+ADLYD ORDRE
+SAMME GRAD
+Klasse-D Personale flygtede
+Videnskabsmænd overlevede
+Dræbt af SCP
+Eliminerede SCP subjekter
+Alfa Sprænghoved
+Detoneret
 Ubrugt
-Den næste runde starter om [time] sekunder.
-SPECIAL EVNE
-SKAB ET JORDFALDSHUL
-BRUG JORDFALDSHULET
-DU DØDE
-Du blev drabt af
+Den næste runde vil begynde om [time] sekunder.
+SPECIEL EVNE
+SKAB PASSAGE
+BRUG PASSAGE
+DU ER DØD
+Du blev dræbt af
 som
+Passiv
+(skjult)
