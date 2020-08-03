@@ -1,0 +1,29 @@
+Targeta de Conserge\n<size=14><color=#ffc>Contenció SCP : Nivel 1</color></size>\n<size=16>\nAccés a sala de contenció : <color=#ff6600>LOW</color>\nAccés a l'l'armeria : <color=#ff0000>NULO</color>\nAccés a l'intercomunicador : <color=#ff0000>NULO</color>\n\nautorització a zonas de contenció : <color=#ff0000>NULO</color>\nautorització a la porta d'entrada : <color=#ff0000>NULO</color>\n</size>
+Targeta de Científic\n<size=14><color=#ffc>Contenció SCP : Nivel 2</color></size>\n<size=16>\nAccés a sala de contenció : <color=#ffff00>MEDIO</color>\nAccés a l'armeria : <color=#ff0000>NULO</color>\nAcesso a l'intercomunicador : <color=#ff0000>NULO</color>\n\nautorització a zonas de contenció : <color=#ff0000>NULO</color>\nautorització a la la porta d'entrada : <color=#ff0000>NULO</color>\n</size>
+Targeta de Científic Jefe\n<size=14><color=#ffc>Contenció SCP : Nivel 4</color></size>\n<size=16>\nAccés a sala de contenció : <color=#ffff00>Medio</color>\nAcesso a l'armeria : <color=#ff0000>NULO</color>\nAccés a l'intercomunicador : <color=#ff0000>NULO</color>\n\nautorització a zonas de contenció : <color=#ff0000>NULO</color>\nautorització a la porta d'entrada : <color=#ff0000>NULO</color>\n</size>
+Targeta d'encarregat de zona\n<size=14><color=#f77>Administració : Nivel 1</color></size>\n<size=16>\nAccés a sala de contenció : <color=#ff6600>LOW</color>\nAccés a l'armeria : <color=#ff0000>NULO</color>\nAccés a l'intercomunicador : <color=#ff0000>NULO</color>\n\nautorització a zonas de contenció : <color=#00ff00>SI</color>\nautorització a la porta d'entrada : <color=#ff0000>NULO</color>\n</size>
+Targeta de guardia\n<size=14><color=#cef>Seguretat : Nivel 1</color></size>\n<size=16>\nAccés a sala de contenció : <color=#ff6600>LOW</color>\nAccés a l'armeria : <color=#ff6600>LOW</color>\nAccés a l'intercomunicador : <color=#ff0000>NULO</color>\n\nautorització a zonas de contenció : <color=#00ff00>SI</color>\nautorització a la porta d'entrada : <color=#ff0000>NULO</color>\n</size>
+Targeta de guardia líder\n<size=14><color=#cef>Seguretat : Nivel 2</color></size>\n<size=16>\nAccés a sala de contenció : <color=#ffff00>MEDIO</color>\nAccés a l'armeria : <color=#ffff00>MEDIO</color>\nAccés a l'intercomunicador : <color=#ff0000>NULO</color>\n\nautorització a zonas de contenció : <color=#00ff00>SI</color>\nautorització a la porta d'entrada : <color=#ff0000>NULO</color>\n</size>
+Targeta d'Enginyer de contenció\n<size=14><color=#ffc>contenció SCP : Nivel 4</color></size>\n<size=16>\nAccés a sala de contenció : <color=#00ff00>COMPLETO</color>\nAccés a l'armeria : <color=#ff0000>NULO</color>\nAccés a l'intercomunicador : <color=#00ff00>SI</color>\n\nautorització a zonas de contenció : <color=#00ff00>SI</color>\nautorització a la porta d'entrada : <color=#ff0000>NULO</color>\n</size>
+Targeta de Tinent MTF\n<size=14><color=#cef>Seguretat : Nivel 3</color></size>\n<size=16>\nAccés a sala de contenció : <color=#ffff00>MEDIO</color>\nAccés a l'armeria : <color=#ffff00>MEDIO</color>\nAccés a l'intercomunicador : <color=#ff0000>NULO</color>\n\nautorització a zonas de contenció : <color=#00ff00>SI</color>\nautorització a la porta d'entrada : <color=#00ff00>SI</color>\n</size>
+Targeta de Comandant MTF\n<size=14><color=#cef>Seguretat : Nivel 4</color></size>\n<size=16>\nAccés a sala de contenció : <color=#ffff00>MEDIO</color>\nAccés a l'armeria : <color=#00ff00>COMPLETO</color>\nAccés a l'intercomunicador : <color=#00ff00>SI</color>\n\nautorització a zonas de contenció : <color=#00ff00>SI</color>\nautorització a la porta d'entrada : <color=#00ff00>SI</color>\n</size>
+Targeta d'administrador\n<size=14><color=#f77>Administració : Nivel 2</color></size>\n<size=16>\nAccés a sala de contenció : <color=#00ff00>COMPLETO</color>\nAccés a l'armeria : <color=#ff0000>NULO</color>\nAccés a l'intercomunicador : <color=#00ff00>SI</color>\n\nautorització a zonas de contenció : <color=#00ff00>SI</color>\nautorització a la porta d'entrada : <color=#00ff00>SI</color>\n</size>
+Dispositiu d'Insurgents del Caos\n<size=14><color=#f77>Administració : Nivel 3</color></size>\n<size=16>\nAccés a sala de contenció : <color=#ffff00>MEDIO</color>\nAccés a l'armeria : <color=#00ff00>COMPLETO</color>\nAccés a l'intercomunicador : <color=#00ff00>SI</color>\n\nautorització a zonas de contenció : <color=#00ff00>SI</color>\nautorització a la porta d'entrada : <color=#00ff00>SI</color>\n</size>
+Targeta nivell 05\n<size=14><color=#f77>Administració : Nivel 4</color></size>\n<size=16>\nAccés a sala de contenció : <color=#00ff00>COMPLETO</color>\nAccés a l'armeria : <color=#00ff00>COMPLETO</color>\nAccés a l'intercomunicador : <color=#00ff00>SI</color>\n\nautorització a zonas de contenció : <color=#00ff00>SI</color>\nautorització a la porta d'entrada : <color=#00ff00>SI</color>\n</size>
+Ràdio\n\n<size=14>Dispositiu de bateria per a comunicació a distància.</size>
+COM15 Pistol\n\n<size=14>Pistola d'autodefensa bàsica.</size>
+Botiquí\n\n<size=14>Per tractar les ferides...</size>
+Llanterna\n\n<size=14>"Faci la llum!"</size>
+MicroDMAI\n\n<size=14>Desintregador Mòbil d'Alta Intensitat.</size>
+Moneda\n\n<size=14>Semblen ser 50 centaus!</size>
+Tassa\n\n<size=14>Una tassa amb substància desconeguda.</size>
+Gestor d'armes\n\n<size=14>Personalitza les teves armes.</size>
+Rifle estàndard Epsilon-11\n\n<size=14>Arma reglamentaria de la NTF.</size>
+Project 90\n\n<size=14>Una versió arreglada de la MP90.</size>
+Desarmador
+MP7\n\n<size=14>Equipament estàndard del guarda.</size>
+Logicer\n\n<size=14>Light machine gun.\nStandard C. I. equipment.</size>
+Granada de fragmentació\n\n<size=14>Boom!</size>
+Flashbang\n\n<size=14>Cega a l'oponent.</size>
+Munició
+Munició
