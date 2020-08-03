@@ -28,7 +28,7 @@ CONNECT
 QUALITY SETTINGS
 Change shadow preferences. Setting these sliders at lower values may increase gameplay smoothness.
 MAIN MENU
-LIGHT RENDERING MODE
+RENDER LIGHTS
 MOTION BLUR
 SHADOW DISTANCE
 DETAILS
