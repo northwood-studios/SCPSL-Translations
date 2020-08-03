@@ -1,9 +1,9 @@
 ANNA KÄSKYJÄ
 SEURAA KÄSKYJÄ
 SAMA ARVO
-D-luokan henkilöstö pakeni
+D-Luokan henkilöstö pakeni
 Tutkijat selviytyivät
-SCP tappoi
+SCP:t tappoi
 Terminoidut SCP-kohteet
 Alpha Warhead
 Räjäytetty
@@ -16,3 +16,4 @@ SINÄ KUOLIT
 Sinut tappoi
 ollessaan
 Passiivi
+(piiloitettu)
