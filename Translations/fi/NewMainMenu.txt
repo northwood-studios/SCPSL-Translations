@@ -60,7 +60,7 @@ Takaisin
 Tämä muutos tarvitsee uudelleenlatauksen.\nLataa menu uudelleen nyt?
 Kyllä
 Ei
-Oletko varma haluat sulkea pelin?
+Oletko varma että haluat sulkea pelin?
 Ruuturesoluutio
 Piilota IP
 Tervetuloa takaisin, {username}!
