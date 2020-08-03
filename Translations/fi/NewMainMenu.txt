@@ -13,8 +13,8 @@ Luo Palvelin
 Liity uudelleen
 Suora Yhdistys
 Virkistä
-Piiloita Tyhjät Pelit
-Piiloita Täydet Pelit
+Piilota Tyhjät Pelit
+Piilota Täydet Pelit
 Ei Pääsylistaa
 Video
 Ääni
@@ -62,7 +62,7 @@ Kyllä
 Ei
 Oletko varma haluat sulkea pelin?
 Ruuturesoluutio
-Piiloita IP
+Piilota IP
 Tervetuloa takaisin, {username}!
 Tekijät
 TODENNETAAN
