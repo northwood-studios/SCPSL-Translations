@@ -18,7 +18,7 @@
 ไม่มีระบบไวท์ลิสต์
 วีดิโอ
 เสียง
-คอนโทล
+คอนโทลล์
 การเล่นเกม
 อื่น ๆ
 Window Mode
@@ -37,7 +37,7 @@ Texture Quality
 Motion Blur
 Color Correction
 Anti Aliasing
-Light Rendering Mode
+Render Lights
 ระดับเสียงหลัก
 เสียงเอฟเฟกต์
 การคุยผ่านเสียง
