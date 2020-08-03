@@ -8,21 +8,21 @@ Suosikit
 Viralliset
 Historia
 Kaverit
-Hae Palvelimia
-Luo Palvelin
-Liity uudelleen
-Suora Yhdistys
+Hae palvelimia
+Luo palvelin
+Liity takaisin
+Suora yhdistys
 Virkistä
-Piilota Tyhjät Pelit
-Piilota Täydet Pelit
-Ei Pääsylistaa
+Piilota tyhjät pelit
+Piilota täydet pelit
+Ei pääsylistaa
 Video
 Ääni
-Ohjaukset
+Näppäimet
 Pelattavuus
 Muut
-Ikkuna
-Eksklusiivinen Kokoruutu
+Ruututila
+Kokoruutu
 Rajaton Ikkuna
 Maksimoitu Ikkuna
 Ikkunoitu
@@ -37,8 +37,8 @@ Varjojen Etäisyys
 Liikesumennus
 Värikorjaus
 Reunojenpehmennys
-Valorenderöinnin Tila
-Pää-Äänenvoimakkuus
+Valorenderöinti
+Pää-äänenvoimakkuus
 Ääniefektit
 Äänichat
 Päävalikon Musiikki

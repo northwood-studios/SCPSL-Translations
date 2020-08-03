@@ -28,7 +28,7 @@ YHDISTÄ
 LAADUN ASETUKSET
 Vaihda varjojen asetuksia. Laittamalla nämä asetukset alhaisemmaksi voi parantaa pelin sulavuutta.
 PÄÄVALIKKO
-VALORENDERÖINNIN TILA
+VALORENDERÖINTI
 LIIKESUMENNUS
 VARJOJEN ETÄISYYS
 YKSITYISKOHDAT
