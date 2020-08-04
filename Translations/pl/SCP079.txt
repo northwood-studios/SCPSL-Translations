@@ -1,11 +1,11 @@
 ENERGIA
 DOŚWIADCZENIE
 DOSTĘPNA KAMERA ONLINE
-WCIŚNIJ [KEY] BY PRZEŁĄCZYĆ NA MAPĘ NADZORU
+WCIŚNIJ [KEY], ABY PRZEŁĄCZYĆ NA MAPĘ NADZORU
 Zdobyto doświadczenie:
 Praca zespołowa
 Pomoc w zabiciu klasy D
-Pomoc w zabiciu C.I.
+Pomoc w zabiciu CI
 Pomoc w zabiciu MTF
 Pomoc w zabiciu Naukowca
 Pomoc w unieszkodliwieniu SCP
