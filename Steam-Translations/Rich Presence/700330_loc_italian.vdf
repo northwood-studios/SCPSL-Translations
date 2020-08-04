@@ -5,7 +5,7 @@
 	{
         "#Status_WaitingForPlayers"	"In attesa di giocatori...(%lobbystatus%)"
 		"#Status_MainMenu"	"Nel Menu Principale"
-		"#PlayingAs"	"Giocando come {#Class_%class%} (%lobbystatus%)"
+		"#PlayingAs"	"Sta giocando come {#Class_%class%} (%lobbystatus%)"
 		"#Class_Scp173"	"SCP-173"
 		"#Class_ClassD"	"Classe D"
 		"#Class_Spectator"	"Spettatore"
@@ -16,7 +16,7 @@
 		"#Class_ChaosInsurgency"	"Chaos Insurgency"
 		"#Class_Scp096"	"SCP-096"
 		"#Class_Scp0492"	"SCP-049-2"
-		"#Class_NtfLieutenant"	"Luogotenente NTF"
+		"#Class_NtfLieutenant"	"Tenente NTF"
 		"#Class_NtfCommander"	"Comandante NTF"
 		"#Class_NtfCadet"	"Cadetto NTF"
 		"#Class_Tutorial"	"Tutorial"

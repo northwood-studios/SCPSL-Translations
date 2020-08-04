@@ -1,7 +1,7 @@
 Reportar Jugador
 Objectiu:\nPlayer ID:\nDescripció:
-Cancela
+Cancel·la
 Reportar per no respectar les normes
-Rerportar per dur hacks o per raidear
+Reportar per dur hacks o per raidear
 REPORTANT
 Si us plau, esperi...

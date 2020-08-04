@@ -3,7 +3,7 @@ Córrer:Augmenta la teva velocitat, però augmenta el soroll que fas.
 Ajupir-se:No fas soroll, però es redueix molt la teva velocitat.
 Inventari:Obre el teu inventari i selecciona un objecte amb el clic esquerre, o ho pots deixar anar amb clic dret.
 Desarmat:No tens res. Cerca qualsevol objecte.
-Targeta d'Accés:Tens una tarjeta d'accés, no és la millor però no la perdis.
+Targeta d'Accés:Tens una targeta d'accés, no és la millor però no la perdis.
 Problema Estàndard: esteu equipats amb un rifle, granades, una ràdio, un desarmador i una targeta d’accés.
 Armat i perillós:Tens una arma de raigs, un aparell de hackeig (targeta d'accés) i un kit d'emergència.
 Velocitat sorprenent:Quan els humans no et veuen, et mous extremadament de pressa. En canvi si un humà t'està mirant, no et pots moure o atacar, però tots aquells que et miren parpellejaran cada certs segons, així podràs atacar-los.

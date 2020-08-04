@@ -10,20 +10,21 @@ Yllättävä Nopeus:Kun kukaan ei näe sinua, liikut hyvin nopeasti. Jos ihminen
 Paniikki:Liikut nopeammin kun terveytesi huononee.
 Vajoama:Sinä asetat tai teleportoit vajoamaasi, jota edustaa musta läiskä maassa.\nSinulla voi olla vain yksi vajoama kerrallaan, mutta sitä voi siirtää koska vain. Teleportointi kestää muutaman sekunnin.
 Korroosio:Voit liikkua ovien läpi kävelemällä niihin.
-Joutsen laulu:Et ota melkein mitään vahinkoa mistään lähteestä, paitsi kranaateista ja sähköstä, mutta suojakammiossasi on pieni huone, johon kukin pelaaja voi päästä tappamaan itsensä. Siitä lähtien kuka tahansa voi painaa kyseisessä kammiossa olevaa painiketta joka viipymättä eristää/"tappaa" sinut viidentoista sekunnin viiveen jälkeen.
-Tasku-Ulottuvuus:Kaappaa ihmisen ja teleportoi ne tasku-ulottuvuuteen, jossa on kahdeksan ovea; yksi näistä ovista vapauttaa heidät satunnaiseen huoneeseen, ja muut seitsemän tappavat heidät.\nIhmiset kuolevat hitaasti pysyessään ulottuvuudessa.
-Ujo:Oletukselta, liikut hitaasti ja et voi hyökätä ja päästät hiljaista itkua. Jos ihmiset katsovat sinua riittävän pitkään, jäädyt paikallesi viiden sekunnin ajan ja sitten siirryt Raivoon.
-Epä-sosiaalinen Raivo:Raivossa liikut erittäin nopeasti ja huudat äänekkäästi. Raivo kestää noin kaksikymmentä sekuntia; sen jälkeen, kun aika on umpeutunut, et voi päästä uudelleen Raivoon lyhyenä aikana, jonka aikana et itke.\nRaivossa, napsauttamalla tai pitämällä painiketta pohjassa ihmiset kuolee välittömästi lyhyellä etäisyydellä.
-Hajoaminen:Kun olet raivossa, tuhoat ovia niiden avaamisen sijasta.
+Joutsenlaulu:Et ota melkein mitään vahinkoa mistään lähteestä, paitsi kranaateista ja sähköstä, mutta suojakammiossasi on pieni huone, johon kukin pelaaja voi päästä tappamaan itsensä. Siitä lähtien kuka tahansa voi painaa kyseisessä kammiossa olevaa painiketta joka viipymättä eristää/"tappaa" sinut viidentoista sekunnin viiveen jälkeen.
+Tasku-Ulottuvuus:Kaappaa ihmisen ja teleportoi ne tasku-ulottuvuuteen, joka nopeasti tappaa heidät. Heidän pitää valita oikea käytävä, tai kuolla.
+Scopofobia:Aloitat tyynesti, ja raivostut kun sinua katsotaan tai satutetaan. Tukahduta raivosi tappamalla vihollisesi - seuraa heidän valoansa ennen kuin laannut. Jokainen vihollinen lisää sinun AHP:tä, joka estää sinun vahingoittamisen niin kauan kuin se on voimassa.
+Yritä Olla Itkemättä (Laantunut):Se on liian vaikeaa. Oveen nojaaminen auttaa; sinusta tulee hiljaisempi ja pysyt paikallasi sitä vasten, rauhoittuaksesi... tai odottaaksesi että joku tulee.
+Hyökkäys (Raivo):Revi kaiken läpi joka tulee eteesi saavuttaaksesi heidät, jotka ovat sinua vahingoittaneet. Hyökkäyksesi tuhoo ovia ja tappaa useimmat ihmiset heti.
 Ultrasensitiivinen:Et voi nähdä ihmisiä, elleivät he juokse, törmää sinuun tai ammu aseella lähelläsi.
-Ryntäys:Lisää liikkumisnopeuttasi.
-Matkia:Voit puhua ääneen läheisille pelaajille, myös ihmisille.
+Saalistaja:Kävelysi on äänetön. Mainitun napin painaminen lisää nopeuttasi, mutta juoksemisesi on äänekästä.
+Matkinta:Voit puhua ääneen läheisille pelaajille, myös ihmisille.
 Puraisu:Hyökkää ihmisen kimppuun, ja teet karua jälkeä.
-Antibiootti:Hyökkää ihmisen kimppuun, tappamalla heidät välittömästi ja antamalla heille mahdollisuuden henkiin herättämiselle vähäksi ajaksi. Tällä ei ole latautumisaikaa.
-Herätä henkiin: Kun pidät tätä painiketta painettuna muutaman sekunnin ajan ruumiin päällä, jonka olet äskettäin tappanut, sinä herätät sen henkiin uudelleen kääntämällä ihmisen zombiksi. Heillä on alhainen terveystaso ja heikko hyökkäys, mutta ne liikkuvat suhteellisen nopeasti ja voivat kommunikoida kanssasi ja muiden SCP:eiden kanssa.\nEi ole rajoitusta siitä, kuinka monta ihmistä voidaan herättää eloon.
-Lyönti:Hyökkää ihmisen kimppuun ​​ja tee heille pieni määrä vahinkoa.
-Avaa/Sulje Ovet:Voit avata ja sulkea ovet 5 AP:n kanssa. Voit myös lukita ne, tyhjentämällä AP:n, mutta se estää oven avaamisen tai sulkemisen, kunnes nostat lukituksen tai AP loppuu.
+Antibiootti:Hyökkää ihmisen kimppuun, ja tapa heidät välittömästi.
+Parannus: Herättää henkiin juuri tapetun ihmisen. Parannetut ihmiset pelaavat nopeina mutta hatarina zombeina.\nEi ole rajaa kuinka monta ihmistä voi "parantaa".
+Lyönti:Hyökkää ihmisen kimppuun ​​ja tee heille kohtuullinen määrä vahinkoa.
+Avaa/Sulje Ovet:Voit avata ja sulkea ovia 5 AP:n kanssa. Voit myös lukita ne, joka tyhjentää AP:n, mutta se estää oven avaamisen tai sulkemisen, kunnes nostat lukituksen tai AP loppuu.
 Tesla-Ylilataus:Voit aktivoida Tesla-portin 50 AP:lla välittömästi, tappamalla kaikki pelaajat, jotka ovat sen sisällä tai lähellä.
-Lukitus:Alkaen avaintaso 3:sta voit toimia joidenkin huoneiden kanssa, lukiten kaikki ovet ja sammuttamalla kaikki valot. Lukittujen huoneiden sisällä ihmiset eivät näe SCP-173:a.
-Käytännöllisesti Tuhoutumaton:Viisi generaattoria syntyy ympäri vakavaa suoja-aluetta, jotka tarvitsevat korkean tason asevarasto-luvan ja tabletin että ne aktivoituvat. Ainoa tapa tappaa sinut on jos ihmiset käynnistävät nämä generaattorit; ihmiset tai muut SCP:t voivat pysäyttää ne milloin tahansa painamalla nappia niissä.\nJokaisella generaattorilla on kahden minuutin ajastin, ja jokainen aktiivinen generaattori lisää sinun AP:n kerääntymisnopeutta. Kun kaikki viisi generaattoria ovat päällä, sinulla on loputtomasti AP:ta 1 minuutin ajan, ja sitten kuolet.
-Kaulan napsautus:Pidä tai klikkaa hiirtä napsauttamalla ihmisen kaulan. Hyökkäämällä ihmistä joka on lähellä ja räpäyttämässä silmiä, tappaa heidät välittömästi.
+Lukitus:Alkaen avaintaso 2:sta voit toimia joidenkin huoneiden kanssa, lukiten kaikki ovet ja sammuttamalla kaikki valot. Lukittujen huoneiden sisällä ihmiset eivät näe SCP-173:a.
+Käytännöllisesti Tuhoutumaton:Viisi generaattoria syntyy ympäri vakavaa suoja-aluetta. Jos kaikki niistä avataan ja aktivoidaan, sinut tuhotaan.\nGeneraattoreilla on ajastin, jonka voi mikä tahansa pelaaja keskeyttää painamalla "CANCEL" nappia.
+Kaulan Naksautus:Pidä tai klikkaa hiirtä rikkooksesi ihmisen kaulan, joka tappaa heidät välittömästi jos he eivät näe sinua.
+Ryntäys (Raivo):Pysäytä heidän pakomatka lyhyeen - he ansaitsevat sen. Sinä ryntäät suoraan eteenpäin, tuhoassesi kaiken edessäsi pienen matkan ajan. Jos osut raskaaseen oveen, pakotat itsesi sen läpi.

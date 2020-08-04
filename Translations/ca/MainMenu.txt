@@ -5,7 +5,7 @@ OPCIONS
 BASAT EN <i>SCP: CONTAINMENT BREACH</i>
 ENRERE
 IDIOMA
-ANTIALIASING
+ANTIALIÀSING
 Canviar detalls:\n-RECOMPTE DE LLUMS - quantitat màxima de fonts de llum.\n-V-Sync - habilitar per sincronitzar amb la tasa de refresc del monitor.
 UNIR-SE AL JOC
 POST\nPROCESSING
@@ -13,7 +13,7 @@ CRÈDIT
 SORTIR DEL JOC
 Pantalla Completa
 OPCIONS DE PANTALLA
-CORRECIÓ DE COLOR
+CORRECCIÓ DE COLOR
 Introdueix la IP...
 RESOLUCIÓ DE PANTALLA
 JUGAR
@@ -24,36 +24,36 @@ CREAR JOC
 Canviar les opcions de post-processing. Aquests canvis no afecten el rendiment. Es recomana deixar les opcions per defecte.
 Forma de renderitzat de llums:\noff - fa que el joc es vegi pitjor. Es recomana desactivar-ho quan el PC no compleix els requisits mínims
 V-SYNC
-CONECTAR
+CONNECTAR
 OPCIONS DE QUALITAT
-Canviar preferencies d'ombres. Disminuir aquests valors pot incrementar el rendimiento del joc.
+Canviar preferències d'ombres. Disminuir aquests valors pot incrementar el rendiment del joc.
 MENÚ PRINCIPAL
 LIGHT RENDERING MODE
 MOTION BLUR
-DISTANCIA D'OMBRAS
+DISTANCIA D'OMBRES
 DETALLS
 3. SCP-914
 TUTORIALS
 ADVERTÈNCIA
 Buscar servidors disponibles
 No mostrar de nou
-Com li agradaria conectar-se?
+Com li agradaria connectar-se?
 BUSCADOR DE SERVIDORS
 OKAY
-TROBARR PARTIDA
+TROBAR PARTIDA
 2. Utilitzant armes
-Utilitzem Discord com a fòrum. No és necessari instalar-ho.\n(click en el logo per unir-se)
-Per defecte, el servidor es configurarà en la seva red local.\nEls seus amics necesitaran la IP per poder conectar-se.\nSi vol iniciar un servidor públic, obri LocalAdmin.exe i segueixi les instruccions.\nSi tens alguna pregunta, contacti amb el nostre suport tècnic (link en el menú principal)
-1. Fundaments
-Aquest joc segueix en Beta pública.\nPot experimentar problemes de connexió o alguns errors.\nL'estat actual del joc no reflexa l'esperat.
-4. (properament més tutorials)
+Utilitzem Discord com a fòrum. No és necessari instal·lar-ho.\n(click en el logo per unir-se)
+Per defecte, el servidor es configurarà en la seva red local.\nEls seus amics necessitaran la IP per poder connectar-se.\nSi vol iniciar un servidor públic, obri LocalAdmin.exe i segueixi les instruccions.\nSi tens alguna pregunta, contacti amb el nostre suport tècnic (link en el menú principal)
+1. Fonaments
+Aquest joc segueix en Beta pública.\nPot experimentar problemes de connexió o alguns errors.\nL'estat actual del joc no reflecteix l'esperat.
+4. (pròximament més tutorials)
 CONNEXIÓ DIRECTA
 SUPORT TÈCNIC / FÒRUM
 VOLUM DE SO
 Introdueixi la IP del servidor.
 DESCARREGANT LES DADES
 CAP SERVIDOR DISPONIBLE
-PRESIONI ESC PER TANCAR/CANCELAR
+PRESSIONI ESC PER TANCAR/CANCEL·LAR
 KEY BINDING
 MÀXIMA QUANTITAT DE SANG
 Límit d'FPS
@@ -71,7 +71,7 @@ Class intro text will fade out much more quickly.
 SCP-079 - CANVIAR MODE DE VISUALITZACIÓ
 Premeu una vegada per canviar el mode de càmera.
 SCP-079 - POST-PROCESSING
-Si es troba desactivat, els efectes de càmara es reuiran molt.
+Si es troba desactivat, els efectes de càmera es reduiran molt.
 MOVIMENT DE CAP
 Activa l'agitació de la càmera quan et mous per fer-ho més realista.
 ACTIVAR SPRINT
@@ -85,7 +85,7 @@ MOSTRA VIDA EXACTA
 Mostra el valor exacte de la teva vida en comptes del percentatge.
 LOBBY PUBLIC
 Si s'activa, els teus amics i amigues es podran unir sense permís.
-OCULTAR DIRECCIÓ IP
-Si s'activa, no es motra cap direcció IP a la consola.
+OCULTAR ADREÇA IP
+Si s'activa, no es mostra cap adreça IP a la consola.
 ACTIVA/DESACTIVA CERCA
-La recollida d'objectes no requerirà mantenir una tecla; premi de nou per cancelar.
+La recollida d'objectes no requerirà mantenir una tecla; premi de nou per cancel·lar.
