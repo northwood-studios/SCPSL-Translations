@@ -3,7 +3,7 @@ Northwood Toimitusjohtaja
 Northwood Tietohallintojohtaja
 Northwood Operatiivijohtaja
 Northwood Yhteisöjohtaja
-Northwood Discord-päällikkö
+Northwood Discordjohtaja
 Northwood Johdon Assistentti
 Northwood Palautepäällikkö
 Northwood Henkilöstöhallinto
@@ -13,9 +13,9 @@ Northwood Johtava Bottikehittäjä
 Northwood Markkinointijohtaja
 Northwood Markkinointialustanjohtaja
 Northwood Henkilökunta
-Northwood Steam-päällikkö
+Northwood Steamjohtaja
 Northwood Järjestelmänvalvoja
-Northwood Wikipäällikkö
+Northwood Wikijohtaja
 SCP:SL Taidejohtaja
 SCP:SL Taidevalvoja
 SCP:SL Artisti
