@@ -42,3 +42,4 @@ Especialista de verificación de Northwood
 Especialista de código nativo de Northwood
 Teste de control de calidad de SCP:SL
 Superior de control de calidad de SCP:SL
+Suscriptor de Twitch de SCP:SL
