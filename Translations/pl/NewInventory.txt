@@ -10,7 +10,7 @@ Karta dowódcy MTF:No description
 Karta administratora placówki:No description
 Urządzenie włamujące Rebelii Chaosu
 Karta Rady O5
-Radio:SR = Krótki Zasięg \nMR = Średni Zasięg \nLR = Długi Zasięg \nUR = Ultra Zasięg \nZużywa baterię kiedy włączone.\nWiększy zasięg oznacza większy pobór prądu.
+Radio:SR = Krótki Zasięg \nMR = Średni Zasięg \nLR = Długi Zasięg \nUR = Ultra Zasięg \nGdy włączone, szybkość zużycia baterii rośnie wraz z zasięgiem.
 Pistolet COM15:No description
 Apteczka:Pozwala opatrzyć rany.
 Latarka:"Niech się stanie światłość!".
