@@ -1,62 +1,91 @@
 TILSLUT
 LUK
-SKYGGE KVALITET
+SKYGGEOPLØSNING
 INDSTILLINGER
 BASERET PÅ <i>SCP: CONTAINMENT BREACH</i>
 TILBAGE
 SPROG
 ANTIALIASING
-Skift detaljer:\n-ANTAL AF PIXEL LYS - Det maksimale antal af lyskilder, som kan have deres lys indlæst på individuelle pixler.\n-V-Sync - Slå synkronisering af genopfrisknings hastigheden og displayet til.
+Forklaring:\n-PIXELBELYSNING - Det maksimale antal af lyskilder som har deres lys renderet på individuelle pixels.\n-V-Sync - Synkronisering med skærmenhedens billedfrekvens.
 TILSLUT SPIL
-POST\nPROCESSING
+EFTER\nBEHANDLING
 CREDITS
-AFSLUT SPIL
-Fullscreen mode
-VIDEOINDSTILLINGER
-FARVE RETTELSE
-Indtast IP adresse...
+AFSLUT SPILLET
+Fuldskærms-tilstand
+SKÆRMINDSTILLINGER
+FARVEKORREKTION
+Indtast IP-Adresse...
 SKÆRMOPLØSNING
 SPIL
-ANTAL AF PIXEL LYS
-SKYGGE TYPE
+PIXELBELYSNING
+SKYGGETYPE
 SKYGGER
 OPRET SPIL
-Skift post-processing indstillinger. Disse ændringer påvirker ikke spillets ydeevne. Standard indstillinger er anbefalet.
-Lys indlæsnings mode:\nNår slukket - får spillet til at se værre ud. Det er anbefalet at man kun slukker dette hvis man har en katoffel PC.
+Ændre indstillinger for efterbehandling. Disse indstillinger påvirker generelt ikke ydeevnen. Standardindstillingen anbefales.
+Lysgengivelse:\nHvis slået fra reduceres grafikkvaliteten markant. At slå denne indstilling fra anbefales kun til systemer med lav ydeevne.
 V-SYNC
-TILSLUT
-KVALITETS INDSTILLINGER
-Skift skygge indstillinger. Ved at sætte denne værdi ned, øger måske spillets ydeevne.
+CONNECT
+KVALITETSINDSTILLINGER
+Skyggeindstillinger. At sætte disse værdier lavt kan forbedre ydeevnen.
 HOVEDMENU
-LYS INDLÆSNINGS MODE
+GENGIV LYS
 BEVÆGELSESSLØRING
-SKYGGE AFSTAND
+SKYGGEAFSTAND
 DETALJER
 3. SCP-914
-TUTORIALS
+VEJLEDNING
 ADVARSEL
 Gennemse ledige servere
-Vis den ikke igen
-Hvordan vil du tilslutte?
-SERVER BROWSER
+Vis ikke dette igen
+Hvordan ønsker du at tilslutte?
+SERVERBROWSER
 OKAY
-FIND SPIL
-2. At bruge våben
-Vi bruger discord som forum. Ingen installering nødvendig.\n(klik logoet for at tilslutte)
-Som standard, vil serveren blive sat op på dit lokale netværk.\nDine venner har brug for din direct IP adresse for at tilslutte.\nHvis du vil sætte en offentlig server op, åben LocalAdmin.exe and følg instruktionerne.\nHvis du har spørgsmål, så kontakt vores tekniske support (Linket ligger i hovedmenuen)
-1. Det basale
-Dette spil er stadig i en offentlig beta.\nDu vil måske opleve forbindelsesproblemer og mange andre fejl.\nSpillet som den er nu, reflekter ikke hvordan spillet ved se ud til sidst.
-4. (flere tutorials senere)
-DIREKTE TILSLUTNING
+FIND MATCH
+2. Brug af våben
+Vi bruger Discord som et forum. Installation er ikke nødvendig.\n(klik på logoet for at tilslutte)
+Som standard vil serveren være oprettet efter dit lokale netværk.\nDine venner vil få brug for en direkte IP-adresse for at kunne tilslutte.\nHvis du ønsker at oprette en offentlig server skal du anvende LocalAdmin.exe og følge vejledningen.\nHvis du har spørgsmål kan du kontakte teknisk support (link findes i hovedmenuen)
+1. Det Grundlæggende
+Det præsenterede spil er stadig i åben beta.\nDu oplever måske forbindelsesproblemer og mange andre fejl.\nSpillet som det er nu afspejler ikke den endelige spilversion.
+4. (flere vejledninger kommer snart)
+TILSLUT DIREKTE
 TEKNISK SUPPORT / FORUM
 LYDSTYRKE
-Indtast IP adressen for den valgte server.
-HENTER DATA
-INGEN SERVERE LEDIGE
+Indtast serverens specifikke AP-adresse.
+DOWNLOADER DATA
+INGEN SERVERE TILGÆNGELIGE
 TRYK ESC FOR AT LUKKE / ANNULLERE
-TASTER
-MAKSIMAL BLOD MÆNGDE
-FPS GRÆNSE
-FPS grænse virker ikke, når vSync er slået til!
-Sæt standard
-Vi bruger Steam Discussions som forum. (Klik på logoet under, for at åbne forumen)
+TASTTILKNYTNINGER
+MAKSIMAL BLODMÆNGDE
+FPS Begrænsning
+FPS Begrænsning virker ikke når vSync er slået til!
+Standardindstilling
+Vi bruger Steam Diskussioner som et forum. (Klik på logoet for at åbne forummet)
+LYDINDSTILLINGER
+PRIMÆRE LYDSTYRKE
+MUSIK I MENUEN
+STEMMECHAT
+LYDEFFEKTER
+SPILINDSTILLINGER
+HURTIG INTRO
+Teksten til introduktion af klasse vil forsvinde hurtigere.
+SCP-079 - SKIFT SYNSTILSTAND
+Tryk en gang for at skifte kameratilstand.
+SCP-079 - EFTERBEHANDLING
+Hvis slået fra vil kameraeffekter blive reduceret markant.
+HOVEDBEVÆGELSE
+Slå naturlig rysten for førstepersonskameraet til og fra under bevægelse.
+HOLD NEDE FOR SPRINT
+Indstil om tasten for sprint skal holdes nede eller trykkes.
+ADSKIL KUNSTIGT HELBRED
+Giver kunstigt helbred sin egen oversigt i stedet for en overlejring.
+Vores oversættelser er open-source på GitHub!\nHar du lyst til at hjælpe? Klik her for mere information.
+DETALJERET STATUS
+Hvis slået til vises din status på Discord/Steam.
+VIS PRÆCIS HELBREDVÆRDI
+Viser den præcise helbredsværdi i stedet for et procenttal.
+Offentlig spillobby
+Hvis slået til kan dine Steam-venner tilslutte dig uden forespørgsel.
+SKJUL IP-ADRESSE
+Hvis slået til vil enhver IP-adresse i konsollen blive skjult.
+TRYK-FOR-OPSAMLING
+Opsamling af genstande kræver ikke at holde tasten nede. Tryk igen for at annullere.
