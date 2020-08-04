@@ -5,7 +5,7 @@ PRESS [KEY] TO TOGGLE THE SURVEILLANCE MAP
 Experience gained:
 Cooperative work
 Class-D termination assist
-C. I. termination assist
+CI termination assist
 MTF termination assist
 Scientist termination assist
 SCP termination assist
