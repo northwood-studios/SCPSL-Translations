@@ -58,7 +58,7 @@ STEROWANIE
 MAKSYMALNA ILOŚĆ KRWI
 Limitowanie FPS
 Limitowanie FPS nie działa, gdy V-SYNC ON!
-Przywróć Domyślne
+Przywróć domyślne
 Używamy sekcji "Dyskusje" na Steam jako forum. (Kliknij na logo poniżej, by otworzyć)
 USTAWIENIA DŹWIĘKU
 GŁOŚNOŚĆ OGÓLNA
