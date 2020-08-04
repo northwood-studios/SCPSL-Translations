@@ -1,18 +1,18 @@
 SCP-173
-D-luokka
+D-Luokka
 Katsoja
 SCP-106
-Nine-Tailed Fox - Tiedemies
+Nine-Tailed Fox Tutkija
 SCP-049
-Tiedemies
+Tutkija
 SCP-079
-Kaaoskapinallinen
+Chaos Insurgency
 SCP-096
 SCP-049-2
-Nine-Tailed Fox - Luutnantti
-Nine-Tailed Fox - Komentaja
-Nine-Tailed Fox - Kadetti
-TUTORIAL
-Laitoksen vartija
+Nine-Tailed Fox Luutnantti
+Nine-Tailed Fox Komentaja
+Nine-Tailed Fox Kadetti
+TUTORIAALI
+Laitosvartija
 SCP-939-53
 SCP-939-89

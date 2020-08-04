@@ -16,10 +16,10 @@ fr-CA by DragonsLover aka SilverMike
 hu by asderman
 it by Lycan & terminator-97
 ja by PalZaxson
-ko by Dr-Devan & Arizen
+ko by Dr-Devan & Arizen, OneKoin
 lv by Rainers
 nb by Tam
-nl by Lazyneer
+nl by Lazyneer, DatBoiFaCeBjEr, Hoptimtom & Rin
 pl by Multiverse Uncle
 pt by Esquilo_Voador
 pt-BR by Amanda
@@ -27,6 +27,6 @@ ru by Welcome To Hell Project
 sk by Gejb & Mordi Slovakian
 th by AGKK Histoire, Aleph-Naught & DatPanda
 tr by Jhrino, MHS, vexdy, Gonsez
-uk by TRI99ER
+uk by TRI99ER, Andrii "Rayfulrand" Raboshchuk
 zh-Hans by Schrodinger_Sig, ShingekiNoRex, TitanSix & Tychus_Xiaoyi
 zh-Hant by X-EROS & Arkira-Kouyo

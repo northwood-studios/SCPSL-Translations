@@ -2,66 +2,66 @@ Aktualności
 Serwery
 Ustawienia
 Wyjdź
-Media Społecznościowe
+Media społecznościowe
 Sieć
 Ulubione
 Oficjalne
 Historia
 Znajomi
-Wyszukaj Serwer
-Stwórz Serwer
-Połącz Ponownie
-Połącz Bezpośrednio
+Wyszukaj serwer
+Stwórz serwer
+Połącz ponownie
+Połącz bezpośrednio
 Odśwież
-Ukryj Puste Serwery
-Ukryj Pełne Serwery
-Bez Białej Listy
+Ukryj puste serwery
+Ukryj pełne serwery
+Bez białej listy
 Wideo
 Dźwięk
 Sterowanie
 Rozgrywka
 Inne
-Tryb Okna Gry
-Pełny Ekran
-Bez Krawędzi
-Zmaksymalizowane Okno
-W Oknie
+Tryb okna gry
+Pełny ekran
+Bez krawędzi
+Zmaksymalizowane okno
+W oknie
 V-Sync
 Ograniczenie FPS
 Wyłączone
-Jakość Tekstur
-Maksymalna Ilość Krwi
+Jakość tekstur
+Maksymalna ilość krwi
 Cienie
-Rozdzielczość Cieni
-Odległość Cieni
-Rozmycie w Ruchu
-Korekcja Kolorów
-Anty Aliasing
-Tryb Renderowania Świateł
-Głośność Ogólna
-Efekty Dźwiękowe
-Czat Głosowy
-Muzyka w Menu
-Głośność Interfejsu
-Utwór w Menu
-Szybsze Opisy
-Animacja Chodzenia
-Przełączany Bieg
-Wyświetl Dokładną Ilość Zdrowia
+Rozdzielczość cieni
+Odległość cieni
+Rozmycie w ruchu
+Korekcja kolorów
+Antyaliasing
+Wyświetlaj światła
+Głośność ogólna
+Efekty dźwiękowe
+Czat głosowy
+Muzyka w menu
+Głośność interfejsu
+Utwór w menu
+Szybsze opisy
+Animacja chodzenia
+Przełączany bieg
+Wyświetl dokładną ilość zdrowia
 Rich Presence
-Publiczne Lobby
-Przełączane Podniesienie
-SCP-079 - Przełącz Tryb Widoku
+Publiczne lobby
+Przełączane podniesienie
+SCP-079 - przełącz tryb widoku
 SCP-079 - Post-Processing
 Język
-Menu Główne
+Menu główne
 Połącz
 Powrót
 Ta zmiana wymaga zresetowania menu.\nZrestartować menu główne?
 Tak
 Nie
 Czy aby na pewno chcesz wyjść?
-Rozdzielczość Ekranu
+Rozdzielczość ekranu
 Ukryj IP
 Witaj, {username}!
 Autorzy
@@ -73,8 +73,9 @@ UWIERZYTELNIANIE
 <color=red>Uwierzytelnianie Discord nie powiodło się (Szczegóły w konsoli)</color>
 Wyłączono
 {0} Sekund
-Czas Na Wyczyszczenie Ciał
-Wyświetlaj Profil Steam
+Czas na wyczyszczenie ciał
+Wyświetlaj profil Steam
 Pozwala innym graczom wyświetlić Twój profil Steam, klikając na ikonę w liście graczy.
-Nie Śledź (DNT)
+Nie śledź (DNT)
 Zakazuje serwerowi używania twoich danych (adresu IP, ID użytkownika itd.) w celach niezwiązanych z bezpieczeństwiem serwera.
+Interfejs graficzny

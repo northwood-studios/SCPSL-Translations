@@ -17,3 +17,6 @@ Sciolto da una sostanza altamente corrosiva.
 Shrapnel e ustioni di terzo grado causate da un'esplosione.
 La pelle pallida e le perdite di sangue dalla bocca suggeriscono un'emorragia interna causata dall'ingestione di sostanze.
 Ricontenuto da un umano.
+Trauma contusivo e piccoli graffi sono presenti sul corpo.
+Grave perdita di sangue causata da ferite profonde.
+La pelle giallo malata e un odore rancido suggeriscono la morte per avvelenamento.

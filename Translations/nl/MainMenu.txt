@@ -59,4 +59,33 @@ MAXIMAAL AANTAL BLOED
 FPS Limiet
 FPS Limiet als V-Sync aanstaat.
 Standaardwaarde
-We use Steam Discussions as a forum. (Click the logo below to open the forum)
+Wij gebruiken Steam Discussions als een forum. (Click op het Steam Logo hieronder om de forum te openen)
+AUDIO INSTELLINGEN
+HOOFD VOLUME
+MENU MUZIEK
+VOICE CHAT
+GELUIDSEFFECTEN
+GAMEPLAY OPTIES
+SNELLE INTRO VERVAGING
+Klasse intro text vervaagt veel sneller.
+SCP-079 - Wissel Kijk Modus
+Klik een keer om van cameras te wisselen.
+SCP-079 - POST-PROCESSING
+Als dit uit staat zijn de camera effecten gereduceerd. 
+HOOFD SCHUDDEN
+Activeert camera beweging als je loopt.
+SPRINT MODUS
+Als dit aan staat wisselt je sprint modus van aan naar uit, in plaats van dat je shift ingedrukt moet houden om te sprinten.
+APARTE ARTIFICIAL HP BALK
+Geeft de artificial HP zijn eigen balk in plaats van een overlay over de HP balk.
+Onze vertalingen staan open-source op GitHub!\nWil je helpen? Click hier om naar de repo te gaan.
+RICH PRESENCE
+Als dit aan staat wordt je status op Discord/Steam weergegeven.
+GEEF EXACTE HP WAARDE WEER
+Geeft je een numerieke weergave van je HP in plaats van procenten.
+PUBLIEKE LOBBY
+Als dit aan staat kunnen jou vrienden meespelen zonder toestemming te vragen.
+VERBERG IP
+Als dit aan staat worden IP Addressen verborgen in de client console.
+PICKUP MODUS
+Om een voorwerp op te pakken hoef je niet meer een knop ingedrukt te houden als dit aan staat. Klik opnieuw op de knop om voorwerp oppakken te annuleren.
