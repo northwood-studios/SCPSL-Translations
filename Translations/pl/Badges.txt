@@ -42,4 +42,4 @@ Weryfikator Serwerów SCP:SL
 Specjalista ds. Kodu Natywnego Northwood
 Kontroler Jakości SCP:SL
 Nadzorca Kontroli Jakości SCP:SL
-Subskrybujący SCP:SL na Twitch
+Subskrybent SCP:SL na Twitch

@@ -13,7 +13,7 @@ Korozja:Możesz przechodzić przez drzwi, wchodząc w nie.
 Nietykalny: Pociski nie zadają ci prawie żadnych obrażeń, lecz poświęcenie ludzkiej ofiary w twojej komorze przechowawczej powoduje twoje natychmiastowe zabezpieczenie.
 Wymiar Łuzowy:Chwytasz i teleportujesz ofiarę do wymiaru łuzowego, który pozbawia ją życia coraz szybciej. Jeśli nie wybierze poprawnego wyjścia, zginie w męczarniach.
 Skopofobia:Zaczynasz spokojnym, wpadasz w szał gdy ktoś cię ujrzy lub zrani. Zaspokój swój gniew zabijając winnych - podążaj za ich światłem zanim szał minie. Każdy cel zwiększy twoje AHP, zapobiegające obrażeniom od innych osób do jego wyczerpania.
-Spróbuj ne płakać (gdy spokojny):Jest to ciężkie. Oparcie się o drzwi może pomóc; staniesz się cichszy, opierając się o nie, uspokajając się... czekając na kogoś kto je otworzy.
+Spróbuj nie płakać (gdy spokojny):Jest to ciężkie. Oparcie się o drzwi może pomóc; staniesz się cichszy, opierając się o nie, uspokajając się... czekając na kogoś kto je otworzy.
 Atak (podczas szału):Przedrzyj się przez wszystko na swojej drodze aby dostać się do osoby, która wyrządziła Ci krzywdę. Atakując, niszczysz drzwi i zabijasz ludzi.
 Niezwykle wrażliwy:Nie dostrzegasz ludzi, chyba że biegną, dotkną cię, lub strzelą z broni blisko ciebie.
 Drapieżnik:Twoje kroki są prawie niesłyszalne. Trzymanie przypisanego klawisza ruchu zwiększa twoją prędkość, kosztem głośniejszych kroków.

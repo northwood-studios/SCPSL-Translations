@@ -14,4 +14,4 @@ Ogólne interakcje
 Jesteś atakowany!
 Generatory zostały podświetlone na mapie
 ZAGROŻENIE
-Ilość SCP{0}Ilość żołnierzy MTF i ochroniarzy{1}Ilość naukowców{2}Ilość klas D{3}Ilość agentów Rebelii Chaosu{4}
+Ilość SCP{0}Ilość żołnierzy MTF i ochroniarzy{1}Ilość naukowców{2}Ilość personelu klasy D{3}Ilość agentów Rebelii Chaosu{4}
