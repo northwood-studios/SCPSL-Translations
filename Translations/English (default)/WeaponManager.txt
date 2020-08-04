@@ -1,6 +1,6 @@
 Use any arrow key to begin...
 Navigate - UP/DOWN arrow keys\nSelect - RIGHT arrow key\nBack - LEFT arrow key
-[var_name]\n\nAmmo type: [var_atype]\nReserve ammo: [var_ares]\nMagazine capacity: [var_mag]\n\nMax damage: [var_maxdmg]\nEffective damage: [var_effdmg]\nShots per second: [var_sps]\n\nAvailable customizations: [var_custs]\n\nRIGHT ARROW KEY TO DROP AMMO
+[var_name]\n\nAmmo type: [var_atype]\nReserve ammo: [var_ares]\nMagazine capacity: [var_mag]\n\nMax damage: [var_maxdmg]\nEffective damage: [var_effdmg]\nShots per second: [var_sps]\n\nAvailable customizations: [var_custs]\n\nRIGHT ARROW KEY TO DROP AMMO.
 You are going to drop [var_nom]\nUP/DOWN arrow keys to change quantity.\nRIGHT arrow to drop.\nLEFT arrow to back.
 Not enough ammo to drop (type [var_nom]). \nLEFT arrow to back.
 BARREL
