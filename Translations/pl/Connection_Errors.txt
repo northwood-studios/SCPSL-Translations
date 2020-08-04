@@ -14,7 +14,7 @@
 <size=80>DOŁĄCZANIE</size>\n<size=35>Nawiązywanie połączenia...</size>
 <size=80>RESTART RUNDY</size>\n<size=35>Serwer restartuje poziom...</size>
 <size=80>PROSZĘ CZEKAĆ</size>\n<size=35>Ładowanie poradnika...</size>
-<size=80>NIEZGODNOŚĆ WERSJI</size>\nTwoja wersja gry różni się od wersji serwera\n(Twoja - [your]; Serwer - [server])
+<size=80>NIEZGODNOŚĆ WERSJI</size>\nTwoja wersja gry różni się od wersji serwera\n(Twoja: [your], Serwera: [server])
 <size=80>POŁĄCZONO</size>\n<size=35>Ładowanie placówki...</size>
 <size=35>Ładowanie placówki...</size>
 <size=80>ROZŁĄCZONO</size>\nWystąpił nieoczekiwany błąd.
@@ -26,7 +26,7 @@
 <size=80>ROZŁĄCZONO</size>\nZostałeś zbanowany z tego serwera.\nBan wygasa: [date] [time]
 <size=80>ROZŁĄCZONO</size>\nTwój token wygasł.\nSerwer może mieć źle ustawiony czas lub strefę czasową.\nProszę skontaktować się z administracją serwera.
 <size=80>ROZŁĄCZONO</size>\nPrzekroczono limit prób połączenia. Zaczekaj i spróbuj ponownie za kilka sekund.
-<size=80>ROZŁĄCZONO</size>\nSerwer nie przyjmuje połączeń z twojej lokacji geograficznej.\nNazwa lub opis serwera może zawierać więcej szczegółów.
+<size=80>ROZŁĄCZONO</size>\nSerwer nie przyjmuje połączeń z twojej lokacji geograficznej.\nNazwa lub opis serwera powinna zawierać więcej szczegółów.
 <size=80>ROZŁĄCZONO</size>\nZostałeś wyrzucony przez modyfikację na serwerze.\n\nPowód: [reason]\nTo jest modyfikacja serwerowa, nie jest ona częścią gry.\nSkontaktuj się z administracją serwera po więcej informacji.
 <size=80>ROZŁĄCZONO</size>\nTwój token został odrzucony przez serwer.\nProszę uruchomić grę ponownie lub skontaktować się z naszą pomocą techniczną.
 <size=80>ROZŁĄCZONO</size>\nZostałeś zbanowany z tego serwera.\nPowód: [reason]
