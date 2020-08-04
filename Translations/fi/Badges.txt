@@ -42,3 +42,4 @@ Northwood Varmennusvastaava
 Northwood Koodiasiantuntija
 SCP:SL Laadunvarmistus
 SCP:SL Laadunvarmistuksenvalvoja
+SCP:SL Twitch Tilaaja

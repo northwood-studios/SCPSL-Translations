@@ -5,7 +5,7 @@ PAINA [KEY] AVATAKSESI KARTTA
 Kokemusta saatu:
 Yhteistyö
 D-Luokan tapon avustus
-C. I.:n tapon avustus
+CI:n tapon avustus
 MTF:n tapon avustus
 Tutkijan tapon avustus
 SCP:n tapon avustus

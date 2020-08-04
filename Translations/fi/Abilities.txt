@@ -23,7 +23,7 @@ Antibiootti:Hyökkää ihmisen kimppuun, ja tapa heidät välittömästi.
 Parannus: Herättää henkiin juuri tapetun ihmisen. Parannetut ihmiset pelaavat nopeina mutta hatarina zombeina.\nEi ole rajaa kuinka monta ihmistä voi "parantaa".
 Lyönti:Hyökkää ihmisen kimppuun ​​ja tee heille kohtuullinen määrä vahinkoa.
 Avaa/Sulje Ovet:Voit avata ja sulkea ovia 5 AP:n kanssa. Voit myös lukita ne, joka tyhjentää AP:n, mutta se estää oven avaamisen tai sulkemisen, kunnes nostat lukituksen tai AP loppuu.
-Tesla-Ylilataus:Voit aktivoida Tesla-portin 50 AP:lla välittömästi, tappamalla kaikki pelaajat, jotka ovat sen sisällä tai lähellä.
+Tesla-ylikuormitus:Voit aktivoida Tesla-portin 50 AP:lla välittömästi, tappamalla kaikki pelaajat, jotka ovat sen sisällä tai lähellä.
 Lukitus:Alkaen avaintaso 2:sta voit toimia joidenkin huoneiden kanssa, lukiten kaikki ovet ja sammuttamalla kaikki valot. Lukittujen huoneiden sisällä ihmiset eivät näe SCP-173:a.
 Käytännöllisesti Tuhoutumaton:Viisi generaattoria syntyy ympäri vakavaa suoja-aluetta. Jos kaikki niistä avataan ja aktivoidaan, sinut tuhotaan.\nGeneraattoreilla on ajastin, jonka voi mikä tahansa pelaaja keskeyttää painamalla "CANCEL" nappia.
 Kaulan Naksautus:Pidä tai klikkaa hiirtä rikkooksesi ihmisen kaulan, joka tappaa heidät välittömästi jos he eivät näe sinua.
