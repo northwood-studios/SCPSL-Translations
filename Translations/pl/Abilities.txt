@@ -1,30 +1,30 @@
-Nie Znaleziono Umiejętności:Umiejętność o podanym ID nie istnieje.
+Nie znaleziono imiejętności:Umiejętność o podanym ID nie istnieje.
 Sprint:Zwiększa twoją prędkość ruchu, lecz poruszasz się wówczas głośniej.
 Skradanie:Twoje ruchy są cichsze, lecz wolniejsze.
 Ekwipunek:Otwórz ekwipunek i wybierz przedmiot który podniosłeś, używając LPM, lub upuść go, używając PPM.
 Bezbronny:Niczego nie masz. Znajdź coś. Cokolwiek.
-Karta Dostępu:Masz kartę dostępu, nie jest najlepsza, ale postaraj się jej nie zgubić.
-Standardowe Wyposażenie:Jesteś wyposażony w Karabin, Granaty, Radio, Rozbrajacz i Kartę Dostępu.
-Uzbrojony i Niebezpieczny:Wysłano cię z Lekkim Karabinem Maszynowym, Urządzeniem Hakującym (specjalną kartą dostępu) oraz Apteczką.
-Zaskakująca Prędkość:Gdy żaden człowiek cię nie widzi, poruszasz się bardzo szybko. Jeżeli ktoś cię obserwuje, nie możesz się poruszać ani atakować, ale wszyscy obserwujący będą równocześnie mrugać co kilka sekund, umożliwiając ci działanie.
+Karta dostępu:Masz kartę dostępu, nie jest najlepsza, ale postaraj się jej nie zgubić.
+Standardowe wyposażenie:Jesteś wyposażony w karabin, granaty, radio, rozbrajacz i kartę dostępu.
+Uzbrojony i niebezpieczny:Wysłano cię z lekkim karabinem maszynowym, urządzeniem hakującym (specjalną kartą dostępu) oraz apteczką.
+Zaskakująca prędkość:Gdy żaden człowiek cię nie widzi, poruszasz się bardzo szybko. Jeżeli ktoś cię obserwuje, nie możesz się poruszać ani atakować, ale wszyscy obserwujący będą równocześnie mrugać co kilka sekund, umożliwiając ci działanie.
 Popłoch:Im mniej masz zdrowia, tym szybciej się poruszasz.
 Przejście:Możesz utworzyć pole czarnej mazi do którego możesz sie w każdej chwili teleportować. Teleportacja trwa kilka sekund.\nPonowne utworzenie pola spowoduje zmianę miejsca teleportacji.
 Korozja:Możesz przechodzić przez drzwi, wchodząc w nie.
 Nietykalny: Pociski nie zadają ci prawie żadnych obrażeń, lecz poświęcenie ludzkiej ofiary w twojej komorze przechowawczej powoduje twoje natychmiastowe zabezpieczenie.
 Wymiar Łuzowy:Chwytasz i teleportujesz ofiarę do wymiaru łuzowego, który pozbawia ją życia coraz szybciej. Jeśli nie wybierze poprawnego wyjścia, zginie w męczarniach.
 Skopofobia:Zaczynasz spokojnym, wpadasz w szał gdy ktoś cię ujrzy lub zrani. Zaspokój swój gniew zabijając winnych - podążaj za ich światłem zanim szał minie. Każdy cel zwiększy twoje AHP, zapobiegające obrażeniom od innych osób do jego wyczerpania.
-Spróbuj Nie Płakać (gdy Spokojny):Jest to ciężkie. Oparcie się o drzwi może pomóc; staniesz się cichszy, opierając się o nie, uspokajając się... czekając na kogoś kto je otworzy.
-Atak (podczas Szału):Przedrzyj się przez wszystko na swojej drodze aby dostać się do osoby, która wyrządziła Ci krzywdę. Atakując, niszczysz drzwi i zabijasz ludzi.
-Niezwykle Wrażliwy:Nie dostrzegasz ludzi, chyba że biegną, dotkną cię, lub strzelą z broni blisko ciebie.
+Spróbuj ne płakać (gdy spokojny):Jest to ciężkie. Oparcie się o drzwi może pomóc; staniesz się cichszy, opierając się o nie, uspokajając się... czekając na kogoś kto je otworzy.
+Atak (podczas szału):Przedrzyj się przez wszystko na swojej drodze aby dostać się do osoby, która wyrządziła Ci krzywdę. Atakując, niszczysz drzwi i zabijasz ludzi.
+Niezwykle wrażliwy:Nie dostrzegasz ludzi, chyba że biegną, dotkną cię, lub strzelą z broni blisko ciebie.
 Drapieżnik:Twoje kroki są prawie niesłyszalne. Trzymanie przypisanego klawisza ruchu zwiększa twoją prędkość, kosztem głośniejszych kroków.
 Imitacja:Możesz głośno mówić do graczy w pobliżu, wliczając w to ludzi.
 Gryzienie:Atakujesz człowieka z bliska, zadając poważne obrażenia.
 Antidotum:Dotykając człowieka, natychmiastowo go zabijasz.
 Lekarstwo:Wskrzesasz niedawno zabitą osobę. Uleczone osoby grają jako zombie z dużą prędkością ruchu oraz małą ilością życia.\nNie ma maksymalnej liczby ludzi których możesz wskrzesić.
 Uderzenie:Atakujesz człowieka zadając mu niewielką ilość obrażeń.
-Otwórz/Zamknij Drzwi:Możesz wchodzić w interakcję z drzwiami za 5 punktów energii. Możesz również je zablokować, wyczerpując powoli swą energię, lecz zapobiegając ich otworzeniu lub zamknięciu, dopóki ich nie odblokujesz lub nie stracisz całej energii.
-Przeciążenie Tesli:Możesz aktywować bramę tesli za 50 punktów energii, aby natychmiast ją uruchomić, zabijając każdego gracza znajdującego się w niej lub w jej otoczeniu.
+Otwórz/Zamknij drzwi:Możesz wchodzić w interakcję z drzwiami za 5 punktów energii. Możesz również je zablokować, wyczerpując powoli swą energię, lecz zapobiegając ich otworzeniu lub zamknięciu, dopóki ich nie odblokujesz lub nie stracisz całej energii.
+Przeciążenie tesli:Możesz aktywować bramę tesli za 50 punktów energii, aby natychmiast ją uruchomić, zabijając każdego gracza znajdującego się w niej lub w jej otoczeniu.
 Blokada:Począwszy od drugiego poziomu dostępu, możesz wejść w interakcję z pomieszczeniem, aby je zablokować, wyłączyć światła oraz zamknąć drzwi. W zablokowanych pomieszczeniach ludzie nie mogą widzieć SCP-173.
-Praktycznie Niezniszczalny: Pięć generatorów pojawia się w Strefie Ciężkiego Nadzoru. Jeśli wszystkie zostaną odblokowane i aktywowane, zostaniesz zabezpieczony.\nKażdy generator ma sekwencję odliczania, którą każdy gracz może przerwać, klikając przycisk "ANULUJ" na generatorze.
-Łamanie Karku: Przytrzymaj lub kliknij, aby złamać człowiekowi kark, natychmiastowo go zabijając, gdy cię nie widzi lub mrugnie.
-Szarża (podczas Szału):Skróć ich ucieczkę - zasługują na to. Szarżujesz przed siebie, niszcząc wszystko oraz raniąc każdego w twoim zasięgu. Jeśli natrafisz na bramę, przeciśniesz się przez nią.
+Praktycznie niezniszczalny: Pięć generatorów pojawia się w Strefie Ciężkiego Nadzoru. Jeśli wszystkie zostaną odblokowane i aktywowane, zostaniesz zabezpieczony.\nKażdy generator ma sekwencję odliczania, którą każdy gracz może przerwać, klikając przycisk "ANULUJ" na generatorze.
+Łamanie karku: Przytrzymaj lub kliknij, aby złamać człowiekowi kark, natychmiastowo go zabijając, gdy cię nie widzi lub mrugnie.
+Szarża (podczas szału):Skróć ich ucieczkę - zasługują na to. Szarżujesz przed siebie, niszcząc wszystko oraz raniąc każdego w twoim zasięgu. Jeśli natrafisz na bramę, przeciśniesz się przez nią.
