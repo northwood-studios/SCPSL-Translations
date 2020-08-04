@@ -10,7 +10,7 @@ Pomóż <color=#FF8E00>personelowi klasy D</color> w ucieczce.\nWyeliminuj każd
 Zabij wszystkich\nNie pozwól nikomu uciec.\nWspółpracuj z innymi <color=#f00>SCP</color>.
 Zabij wszystkich\nNie pozwól nikomu uciec.\nWspółpracuj z innymi <color=#f00>SCP</color>.\n<color=#ffff00>Naciśnij lewy przycisk myszy aby zaatakować.</color>
 Pomóż <color=#FFFF7CFF>naukowcom</color> w ucieczce.\nWyeliminuj zagrożenie.\nWykonuj rozkazy od Dowódcy.\nWydawaj polecenia kadetom oraz ochroniarzom.
-Pomóż <color=#FFFF7CFF>naukowcom</color> w ucieczce.\nWyeliminuj zagrożenie.\nRozkazuj żołnierzom oraz ochroniarzom.
+Pomóż <color=#FFFF7CFF>naukowcom</color> w ucieczce.\nWyeliminuj zagrożenie.\nWydawaj polecenia żołnierzom oraz ochroniarzom.
 Pomóż <color=#FFFF7CFF>naukowcom</color> w ucieczce.\nWyeliminuj zagrożenie.\nWykonuj rozkazy Poruczników i Dowódcy.\nWydawaj polecenia ochroniarzom.
 Podążaj za wskazówkami, aby ukończyć poradnik.
 Pomóż <color=#FFFF7CFF>naukowcom</color> w ucieczce.\nWspółpracuj z <color=#0096FF>Nine-Tailed Fox</color>\nWyeliminuj zagrożenie.
