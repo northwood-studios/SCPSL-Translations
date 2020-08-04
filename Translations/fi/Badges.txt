@@ -1,0 +1,44 @@
+Northwood Liiketoiminnan Kehitysjohtaja
+Northwood Toimitusjohtaja
+Northwood Tietohallintojohtaja
+Northwood Operatiivijohtaja
+Northwood Yhteisöjohtaja
+Northwood Discord-päällikkö
+Northwood Johdon Assistentti
+Northwood Palautepäällikkö
+Northwood Henkilöstöhallinto
+Northwood Henkilöstöhallinnonjohtaja
+Northwood Yhdystietohallintojohtaja
+Northwood Johtava Bottikehittäjä
+Northwood Markkinointijohtaja
+Northwood Markkinointialustanjohtaja
+Northwood Henkilökunta
+Northwood Steam-päällikkö
+Northwood Järjestelmänvalvoja
+Northwood Wikipäällikkö
+SCP:SL Taidejohtaja
+SCP:SL Taidevalvoja
+SCP:SL Artisti
+SCP:SL Backend Kehittäjä
+SCP:SL Backend Kehitysjohto
+SCP:SL Kehittäjä
+SCP:SL Tapahtumavoittaja
+SCP:SL Fullstack Ohjelmoija
+SCP:SL Pelisuunnittelija
+SCP:SL Peliohjelmoija
+SCP:SL Globaali Moderaattoripäällikkö
+SCP:SL Globaali Moderaattori
+SCP:SL Johtava Pelisuunnittelija
+SCP:SL Johtava Peliohjelmoija
+SCP:SL Tasosuunnittelija
+SCP:SL Partneri
+SCP:SL Patreon Tukija
+SCP:SL Ohjelmoija
+SCP:SL Laadunvarmistusjohtaja
+SCP:SL Äänisuunnittelija
+SCP:SL Peliohjaaja
+SCP:SL Virallisen Palvelimen Päällikkö
+Northwood Varmennusvastaava
+Northwood Koodiasiantuntija
+SCP:SL Laadunvarmistus
+SCP:SL Laadunvarmistuksenvalvoja

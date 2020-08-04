@@ -1,4 +1,4 @@
-ÄÄNICHATTI
+ÄÄNENVOIMAKKUUS
 Kyllä
 PAKOTA ALOITUS
 SCP-106 UUDELLEENERISTYS\nPROSESSIN OHITUS
@@ -15,8 +15,8 @@ PÄÄSY KIELLETTY
 TAVARALUETTELON YLIKUORMITUS
 HIIREN HERKKYYS
 HACKING
-NOSTETAAN...
-Kirkkauden nostaminen <b>huonontaa pelin tunnelmaa merkittävästi.</b>\nYritä laittaa tämä niin alhaiseksi kuin voit.\n<b>Oletusarvo on suositeltu.</b>
+OTETAAN...
+Iso kirkkaus <b>huonontaa pelin tunnelmaa merkittävästi.</b>\nYritä laittaa tämä niin alhaiseksi kuin voit.\n<b>Oletusarvo on suositeltu.</b>
 [1] AVAA/SULJE OVI\n[2] LUKITSE OVI*\n\n*Oven lukitseminen käyttää erikoiskykyä
 SCP-079 ON LUKINNUT OVEN
 Kokoruututila
@@ -28,8 +28,9 @@ JATKA
 PÄÄVOIMAKKUUS
 yhdistetty
 Sinä pakenit tutkijana ja liityit MTF:ään.
-Sinä pakenit D-luokkana ja liityit Kaaoskapinallisiin.
+Sinä pakenit D-Luokkana ja liityit Chaos Insurgency:yn.
 SINÄ OLET
 Pakenemisaika: [escape_minutes] minuuttia ja [escape_seconds] sekuntia
 Odota [time] kunnes voit käyttää esinettä [item] uudelleen.
-PIDÄ <color=white><b>F1</b></color> POHJASSA SAADAKSESI LISÄTIETOJA
+Paina <color=white><b>F1</b></color> saadaksesi lisätietoja.
+Sinut on pidätetty\n<size=40>seuraa ohjeita tai kysy tiimikavereilta apua</size>

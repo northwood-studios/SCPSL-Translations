@@ -87,6 +87,5 @@ PUBLIEKE LOBBY
 Als dit aan staat kunnen jou vrienden meespelen zonder toestemming te vragen.
 VERBERG IP
 Als dit aan staat worden IP Addressen verborgen in de client console.
-TOGGLE SEARCH
 PICKUP MODUS
 Om een voorwerp op te pakken hoef je niet meer een knop ingedrukt te houden als dit aan staat. Klik opnieuw op de knop om voorwerp oppakken te annuleren.
