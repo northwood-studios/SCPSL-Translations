@@ -50,7 +50,7 @@ Det præsenterede spil er stadig i åben beta.\nDu oplever måske forbindelsespr
 TILSLUT DIREKTE
 TEKNISK SUPPORT / FORUM
 LYDSTYRKE
-Indtast serverens specifikke AP-adresse.
+Indtast serverens specifikke IP-adresse.
 DOWNLOADER DATA
 INGEN SERVERE TILGÆNGELIGE
 TRYK ESC FOR AT LUKKE / ANNULLERE
