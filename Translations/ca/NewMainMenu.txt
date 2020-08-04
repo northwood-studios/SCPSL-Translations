@@ -1,0 +1,81 @@
+Notícies
+Servidors
+Configuració
+Sortir
+Xarxes socials
+Internet
+Favorits
+Oficial
+Història
+Amics
+Cercar servidors
+Crear servidor
+Tornar-se a unir
+Connexió directa
+Actualitzar llista
+Amagar Servidors Buits
+Amagar Servidors Plens
+Sense Whitelist
+Vídeo
+Àudio
+Controls
+Joc
+Altres
+Mode Finestra
+Pantalla Completa
+Finestra Sense Vores
+Finestra Maximitzada
+Finestra
+V-Sync
+Límit d'FPS
+Desactivat
+Qualitat de les Textures
+Quantitat Màxima de Sang
+Ombres
+Resolució de les Ombres
+Distància de les Ombres
+Motion Blur
+Correcció de color
+Anti Aliasing
+Mode de Renderització de la Llum
+Volum Principal
+Efectes de So
+Xat de Veu
+Menú de Música
+Interfície del Volum
+Tema del Menú
+Introducció Ràpida
+Head Bob
+Activa/Desactiva Córrer
+Mostra el Valor d'HP exacte
+Rich Presence
+Lobby Públic
+Canviar Cerca
+SCP-079 - Commuta Mode de Vista
+SCP-079 - Post-Processing
+Idioma
+Menú Principal
+Connectar
+Enrere
+Aquest canvi requerirà un reinici.\nVoleu reiniciar ara?
+Sí
+No
+Estàs segur de què vols sortir?
+Resolució de la Pantalla
+Amagar Adreça IP
+Benvolgut, {username}!
+Crèdit
+AUTENTIFICANT
+Connectant als servidors centrals...
+<color=green>Connexió establerta</color>
+<color=red>Connexió fallida (Comprova la consola per més detalls)</color>
+<color=red>Autentificació de Steam fallida (Check console for details)</color>
+<color=red>Autentificació de Discord fallida (Comprova la consola per més detalls)</color>
+Desactivat
+{0} Segons
+Ragdoll Cleanup Time
+Mostrar Perfil de Steam
+Permet als jugadors veure el teu perfil de Steam clicant una icona a la llista de jugadors.
+Do Not Track (DNT)
+Prohibeix que el servidor utilitzi les vostres dades (adreça IP, identificador d’usuari, etc.) amb finalitats no relacionades amb la seguretat del servidor.
+Graphics API
