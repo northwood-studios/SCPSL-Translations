@@ -1,6 +1,7 @@
-<color=red>ไม่อนุญาติ</color>
+<color=#FF5050>ไม่อนุญาติ</color>
 ถึงจำกัดการถือกระสุน <color=yellow>[type]</color> (<color=yellow>[max_type_count] นัด</color>)
 ถึงจำกัดการถือกระสุน <color=yellow>[type]</color> <b>อยู่แล้ว</b> (<color=yellow>[max_type_count] นัด</color>)
 ถึงจำกัดการถือ <color=yellow>[type]</color> (<color=yellow>[max_type_count] ชิ้น</color>)
 ถึงจำกัดการถือ <color=yellow>[type]</color> <b>อยู่แล้ว</b> (<color=yellow>[max_type_count] ชิ้น</color>)
 สามารถถือของได้แค่ <color=yellow>[max_item_count] ชิ้น</color>เท่านั้น
+<color=#A9BA9D><size=60>ร่างที่น่าสงสารนี้ได้เน่าเกินการรักษาไปเสียแล้ว</size></color>
