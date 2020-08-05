@@ -36,3 +36,10 @@ SCP:SL Colaboradores do Patreon
 SCP:SL Programador
 SCP:SL Gerente de Qualidade
 SCP:SL Designer de Som
+SCP:SL Diretor do Jogo
+SCP:SL Gerenciador Oficial de Servidores
+Northwood Especialista em Verificação
+Norhtwood Especialista em Código Nativo
+SCP:SL Tester de Qualidade
+SCP:SL Supervisor de Qualidade
+SCP:SL Inscrito na Twich
