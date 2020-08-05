@@ -22,7 +22,7 @@ VARJON TYYPPI
 VARJOT
 LUO PELI
 Vaihda jälkikäsittelyn asetuksia. Nämä asetukset eivät yleisesti vaihda suorityskykyä, joten oletusarvojen jättäminen on suositeltu.
-Valorenderöinnin tila:\nKun poissa päältä, grafiikkojen laatu on huomattavasti alhaisempi. Tämän asetuksen poistaminen päältä on suositeltu vain huonoille koneille.
+Valorenderöinti:\nKun poissa päältä, grafiikkojen laatu on huomattavasti alhaisempi. Tämän asetuksen poistaminen päältä on suositeltu vain huonoille koneille.
 V-SYNC
 YHDISTÄ
 LAADUN ASETUKSET
