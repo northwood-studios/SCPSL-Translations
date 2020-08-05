@@ -89,4 +89,3 @@ ESCONDER IP
 Se ativado, qualquer ip no console não ira ser mostrado.
 ATIVAR "SEARCH"
 Se ativado, para pegar itens não é necessario segurar a tecla; Aperte a tecla denovo para cancelar.
-
