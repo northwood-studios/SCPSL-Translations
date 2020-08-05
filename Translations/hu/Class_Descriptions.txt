@@ -15,3 +15,4 @@ Segíts a <color=#FFFF7CFF>tudósoknak</color> elmenekülni.\nSemlegesítsd a t�
 Kövesd a feladatokat, hogy teljesítsd a célokat.
 Segíts a <color=#FFFF7CFF>tudósoknak</color> elmenekülni.\nMűködj együtt az <color=#0096FF>MTF-fel</color>.\nSemlegesítsd a többi ellenfelet.
 Ölj meg mindenkit.\nNe engedj elszökni senkit.\nMűködj együtt a többi <color=#f00>SCP-vel.</color>
+Ölj meg mindenkit.\nNe engedj elszökni senkit.\nMűködj együtt a többi <color=#f00>SCP-vel.</color>

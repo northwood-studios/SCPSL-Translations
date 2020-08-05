@@ -57,7 +57,7 @@ Nyelv
 Főmenü
 Csatlakozás
 Vissza
-Ez a változtatás újraindítást igényel./nÚjraindítod most?
+Ez a változtatás újraindítást igényel.\nÚjraindítod most?
 Igen
 Nem
 Biztosan ki szeretnél lépni?
@@ -78,3 +78,4 @@ Steam Profil megjelenítése
 Lehetővé teszi más játékosok számára a Steam profilod megtekintését, ha a játékoslistán lévő ikonra kattintanak.
 Do Not Track (DNT)
 Megtiltja a szerver számára az adataid felhasználását (IP cím, felhasználó ID, stb.) amelyek nem szükségesek a számára.
+Grafikus API

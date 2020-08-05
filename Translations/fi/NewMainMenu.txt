@@ -1,0 +1,81 @@
+Uutiset
+Palvelimet
+Asetukset
+Lopeta
+Sosiaalinen Media
+Internet
+Suosikit
+Viralliset
+Historia
+Kaverit
+Hae palvelimia
+Luo palvelin
+Liity takaisin
+Suora yhdistys
+Päivitä
+Piilota tyhjät pelit
+Piilota täydet pelit
+Ei pääsylistaa
+Video
+Ääni
+Näppäimet
+Pelattavuus
+Muut
+Ruututila
+Kokoruutu
+Rajaton Ikkuna
+Maksimoitu Ikkuna
+Ikkunoitu
+V-Sync
+FPS Raja
+Poissa Päältä
+Tekstuurien Laatu
+Maksimi Verimäärä
+Varjot
+Varjojen Resoluutio
+Varjojen Etäisyys
+Liikesumennus
+Värikorjaus
+Reunojenpehmennys
+Valorenderöinti
+Pää-äänenvoimakkuus
+Ääniefektit
+Äänichat
+Päävalikon Musiikki
+Valikon Voluumi
+Menu Teema
+Nopea Infon Haihtuminen
+Pääkeikkuminen
+Aktivoi Juoksu
+Näytä Tarkka HP-Arvo
+Rich Presence
+Avoin Aula
+Aktivoi Nosto
+SCP-079 - Vaihda Näkyvyystilaa
+SCP-079 - Jälkikäsittely
+Kieli
+Päävalikko
+Yhdistä
+Takaisin
+Tämä muutos tarvitsee uudelleenlatauksen.\nLataa menu uudelleen nyt?
+Kyllä
+Ei
+Oletko varma että haluat sulkea pelin?
+Ruuturesoluutio
+Piilota IP
+Tervetuloa takaisin, {username}!
+Tekijät
+TODENNETAAN
+Yhdistetään keskuspalvelimille...
+<color=green>Yhteys muodostettu</color>
+<color=red>Yhdistysvirhe (Katso konsolista lisätietoja)</color>
+<color=red>Steam todennusvirhe (Katso konsolista lisätietoja)</color>
+<color=red>Discord todennusvirhe (Katso konsolista lisätietoja)</color>
+Deaktivoitu
+{0} Sekuntia
+Ragdoll Puhdistusaika
+Näytä Steam Profiili
+Antaa pelaajien nähdä Steam-profiilisi painamalla nappia pelaajalistassa.
+Do Not Track (DNT)
+Kieltää palvelimen käyttämästä tietojasi (IP osoite, pelaaja ID, jne.) muuhun kuin palvelimen turvallisuuteen.
+Grafiikka API

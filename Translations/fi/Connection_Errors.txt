@@ -7,13 +7,13 @@
 <size=80>YHTEYS KATKAISTU</size>\nYhteys katkesi (aikakatkaistu).
 <size=80>YHTEYS KATKAISTU</size>\nYhteys katkesi (aikakatkaistu).
 <size=80>YHTEYS KATKAISTU</size>\nToimintoa ei tueta.
-<size=80>YHTEYS KATKAISTU</size>\nVäärä palvelinmääritys (versio ei ole yhteensopiva).
-<size=80>YHTEYS KATKAISTU</size>\nVäärä palvelinmääritys
+<size=80>YHTEYS KATKAISTU</size>\nPeliversiosi on poikkeaa palvelimen versiosta.
+<size=80>YHTEYS KATKAISTU</size>\nVäärä palvelinmääritys.
 <size=80>YHTEYS KATKAISTU</size>\nOsoite on virheellinen tai sitä ei voida selvittää.
 <size=80>YHTEYS KATKAISTU</size>\nOn tapahtunut odottamaton ongelma!
 <size=80>ODOTA</size>\n<size=35>Muodostetaan yhteyttä...</size>
 <size=80>KIERROS UUDELLEENKÄYNNISTYY</size>\n<size=35>Kierros käynnistyy uudelleen...</size>
-<size=80>ODOTA</size>\n<size=35>Ladataan opetuspeliä...</size>
+<size=80>ODOTA</size>\n<size=35>Ladataan tutoriaalia...</size>
 <size=80>VERSION YHTEENSOPIMATTOMUUS</size>\nPelisi versio poikkeaa palvelimen versiosta\n(Sinun - [your]; Palvelin - [server])
 <size=80>YHDISTETTY</size>\n<size=35>Ladataan tasoa...</size>
 <size=35>Ladataan laitosta...</size>
@@ -31,3 +31,6 @@
 <size=80>YHTEYS KATKAISTU</size>\nPalvelin on hylännyt todennustunnuksesi.\nKäynnistä peli uudelleen ja tai ota uudelleen yhteyttä studion tekniseen tukeen.
 <size=80>YHTEYS KATKAISTU</size>\nSinulla on porttikielto tälle palvelimelle.\nSyystä: [reason]
 <size=80>YHTEYS KATKAISTU</size>\nSinulla on porttikielto tälle palvelimelle.\nPorttikielto päättyy: [date] [time]\nSyystä: [reason]
+<size=80>Odota</size>\nProsessoidaan palvelimen turvavarmennetta...
+<size=80>YHTEYS KATKAISTU</size>\nPalvelimen turvavarmenteen käsittely epäonnistui.
+<size=80>YHTEYS KATKAISTU</size>\nPalvelimen suojauksen varmennus kesti liian kauan.\nYritä uudelleen tai ota yhteyttä palvelimen järjestelmänvalvojaan.

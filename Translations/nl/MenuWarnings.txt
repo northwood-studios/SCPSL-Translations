@@ -1,4 +1,4 @@
 WAARSCHUWING
 OKE
-<b>Intel graphics</b> is gedetecteerd. Intel Graphics wordt <b>niet ondersteund</b>./nHet is <b>aanbevolen</B> om een <b>niet geïntegreerde</b> graphics card te gebruiken./nHet spel zal <b>vaak crashen</b> met de huidige configuratie.
+<b>Intel graphics</b> is gedetecteerd. Intel Graphics wordt <b>niet ondersteund</b>.\nHet is <b>aanbevolen</B> om een <b>niet geïntegreerde</b> graphics card te gebruiken.\nHet spel zal <b>vaak crashen</b> met de huidige configuratie.
 Een belangrijke update die vereist is door voice chat is niet gevonden. Zorg ervoor dat uw Windows volledig up-to-date is, om te verkomen dat het spel niet juist gaat functioneren. Als dit probleem zich blijft voordoen, zoek dan contact op met onze tech support team voor hulp.

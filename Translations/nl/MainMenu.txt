@@ -71,7 +71,7 @@ Klasse intro text vervaagt veel sneller.
 SCP-079 - Wissel Kijk Modus
 Klik een keer om van cameras te wisselen.
 SCP-079 - POST-PROCESSING
-Als dit uit staat zijn de camera effecten gereduceerd. 
+Als dit uit staat zijn de camera effecten gereduceerd.
 HOOFD SCHUDDEN
 Activeert camera beweging als je loopt.
 SPRINT MODUS
@@ -87,6 +87,5 @@ PUBLIEKE LOBBY
 Als dit aan staat kunnen jou vrienden meespelen zonder toestemming te vragen.
 VERBERG IP
 Als dit aan staat worden IP Addressen verborgen in de client console.
-TOGGLE SEARCH
 PICKUP MODUS
 Om een voorwerp op te pakken hoef je niet meer een knop ingedrukt te houden als dit aan staat. Klik opnieuw op de knop om voorwerp oppakken te annuleren.
