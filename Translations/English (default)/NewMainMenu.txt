@@ -37,7 +37,7 @@ Shadow Distance
 Motion Blur
 Color Correction
 Anti Aliasing
-Light Rendering Mode
+Render Lights
 Master Volume
 Sound Effects
 Voice Chat

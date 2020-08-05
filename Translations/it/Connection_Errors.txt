@@ -31,3 +31,6 @@
 <size=80>DISCONNESSO</size>\nIl tuo token d'autenticazione è stato rifiutato dal server.\nSi prega di riavviare il gioco oppure contattare il nostro supporto tecnico.
 <size=80>DISCONNESSO</size>\nSei stato bannato da questo server.\nMotivazione: [reason]
 <size=80>DISCONNESSO</size>\nSei stato bannato da questo server.\nPotrai riconnetterti nuovamente il:: [date] [time]\nMotivazione: [reason]
+<size=80>ATTENDERE</size>\nElaborazione della verifica della sicurezza del server...
+<size=80>DISCONNESSO</size>\nImpossibile validare la verifica della sicurezza del server.
+<size=80>DISCONNESSO</size>\nL'elaborazione della verifica della sicurezza del server è stata troppo lenta. \nSi prega di riprovare o contattare l'amministratore del server.

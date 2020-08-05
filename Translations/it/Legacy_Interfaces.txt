@@ -16,3 +16,4 @@ SEI MORTO
 Sei stato ucciso da
 come
 Passivo
+(nascosto)

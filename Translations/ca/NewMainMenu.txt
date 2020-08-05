@@ -36,7 +36,7 @@ Resolució de les Ombres
 Distància de les Ombres
 Motion Blur
 Correcció de color
-Anti Aliasing
+Anti Aliàsing
 Mode de Renderització de la Llum
 Volum Principal
 Efectes de So
