@@ -12,7 +12,7 @@ SCP-049-2
 Nine-Tailed Fox Lieutenant
 Nine-Tailed Fox Commander
 Nine-Tailed Fox Cadet
-TUTORIAL
+Tutorial
 Facility Guard
 SCP-939-53
 SCP-939-89

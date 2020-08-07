@@ -12,7 +12,7 @@ Hae palvelimia
 Luo palvelin
 Liity takaisin
 Suora yhdistys
-Virkistä
+Päivitä
 Piilota tyhjät pelit
 Piilota täydet pelit
 Ei pääsylistaa
