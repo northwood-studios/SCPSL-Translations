@@ -63,7 +63,7 @@ Não
 Você tem certeza que quer sair?
 Resolução da tela
 Esconder IP
-Bemvindo de volta, {username}!
+Bem vindo de volta, {username}!
 Creditos
 AUTENTICANDO
 Conectando-se a os servidores centrais...
@@ -74,3 +74,8 @@ Conectando-se a os servidores centrais...
 Desativado
 {0} Segundo(s)
 Tempo de limpeza de Ragdoll
+Mostrar perfil da steam
+Permite que jogadores vejam o seu perfil na steam clicando no icone na lista de jogadores.
+Do Not Track (DNT)
+Proibe que o servidor utilize os seus dados (endereço IP, ID de usuário, etc.) em propósitos não relacionados à segurança do servidor.
+Graficos API
