@@ -42,3 +42,4 @@ Northwood Specialista di codice nativo
 Northwood Specialista in verificazione server
 SCP:SL Controllo Qualità
 SCP:SL Supervisore Controllo Qualità
+SCP:SL Abbonato Twitch
