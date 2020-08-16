@@ -4,14 +4,14 @@ KAMERASYÖTE PÄÄLLÄ
 PAINA [KEY] AVATAKSESI KARTTA
 Kokemusta saatu:
 Yhteistyö
-D-luokan tapon avustus
-C. I.:n tapon avustus
+D-Luokan tapon avustus
+CI:n tapon avustus
 MTF:n tapon avustus
 Tutkijan tapon avustus
 SCP:n tapon avustus
-LUKITUT OVET: [LOCKED_NUM]<size=25>PAINA OIKEAA HIIREN PAINIKETTA AVATAKSESI KAIKKI</size>
+LUKITUT OVET: [LOCKED_NUM]<size=25>PAINA OIKEAA HIIRIPAINIKETTA AVATAKSESI KAIKKI</size>
 Yleistoiminnot
 Olet hyökkäyksen kohteena!
 Generaattorit ovat korostettu kartassa
 VAARA
-SCP{0}MTF & vartijat{1}Tutkijat{2}D-luokka{3}Kaaoskapinalliset{4}
+SCP{0}MTF & Vartijat{1}Tutkijat{2}D-Luokka{3}Chaos Insurgency{4}

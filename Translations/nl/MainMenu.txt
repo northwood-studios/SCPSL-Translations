@@ -71,7 +71,7 @@ Klasse intro text vervaagt veel sneller.
 SCP-079 - Wissel Kijk Modus
 Klik een keer om van cameras te wisselen.
 SCP-079 - POST-PROCESSING
-Als dit uit staat zijn de camera effecten gereduceerd. 
+Als dit uit staat zijn de camera effecten gereduceerd.
 HOOFD SCHUDDEN
 Activeert camera beweging als je loopt.
 SPRINT MODUS

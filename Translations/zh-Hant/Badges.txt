@@ -42,3 +42,4 @@ Northwood工作室 審核專員
 Northwood工作室 原生碼專家
 SCP:SL 質量保證測試員
 SCP:SL 質量保證主管
+SCP:SL Twitch 訂閱者
