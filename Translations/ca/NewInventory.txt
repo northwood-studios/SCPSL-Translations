@@ -25,7 +25,7 @@ MP7:Sense descripció
 Logicer:Sense descripció
 Granada de fragmentació:Boom!
 Flashbang:Cega a l'enemic.
-Disarmer:Clic esquerre desarma, clic dret deslliga. \Prem E sobre algú desarmat en el teu equip per a deixar-li lliure.
+Disarmer:Clic esquerre desarma, clic dret deslliga.\nPrem E sobre algú desarmat en el teu equip per a deixar-li lliure.
 Dropped 7.62:Sense descripció.
 Dropped 9mm:Sense descripció.
 USP:Sense descripció.
