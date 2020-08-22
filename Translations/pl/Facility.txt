@@ -34,5 +34,5 @@ Czas ucieczki: [escape_minutes] minut i [escape_seconds] sekund
 Zaczekaj [time] zanim użyjesz ponownie [item].
 Naciśnij <color=yellow><b>F1</b></color>, aby uzyskać informacje.
 Zostałeś rozbrojony.\n<size=40>Wykonuj rozkazy lub poproś członków swojej drużyny o pomoc.</size>
-Zostałeś odeskortowany przez Nine-Tailed Fox.\nZ mniejszym zagrożeniem, byli w stanie wzmocnić siły.
+Zostałeś odeskortowany przez Nine-Tailed Fox.\nZ mniejszym zagrożeniem, byli w stanie wzmocnić swoje siły.
 Jako naukowiec, zostałeś więźniem Rebelii Chaosu.\nZyskali przewagę dzięki informacji którą im dałeś.
