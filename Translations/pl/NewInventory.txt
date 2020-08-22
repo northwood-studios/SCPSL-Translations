@@ -3,10 +3,10 @@ Karta naukowca:No description
 Karta kierownika badań:No description
 Karta zarządcy strefy:No description
 Karta ochroniarza:No description
-Karta kadeta MTF:No description
+Karta kadeta MFO:No description
 Karta technika zabezpieczeń:No description
-Karta porucznika MTF:No description
-Karta dowódcy MTF:No description
+Karta porucznika MFO:No description
+Karta dowódcy MFO:No description
 Karta administratora placówki:No description
 Urządzenie włamujące Rebelii Chaosu
 Karta Rady O5
