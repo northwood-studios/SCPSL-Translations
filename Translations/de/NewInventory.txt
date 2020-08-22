@@ -25,7 +25,7 @@ MP7:Standard Ausrüstung des Sicherheitspersonals
 Logicer:Leichtes Maschinengewehr und Standard Ausrüstung der Chaos Insurgency
 Splittergranate:Es macht Boom!
 Blendgranate:Blendet deine Feinde!
-Entwaffner:Linksklick entwaffnet, Rechtsklick macht es rückgängig. Achte darauf das die Person nicht schleicht! \nHalte E auf eines deiner Teammitglieder gedrückt, um es zu entfesseln
+Entwaffner:Linksklick entwaffnet, Rechtsklick macht es rückgängig. Achte darauf das die Person nicht schleicht!\nHalte E auf eines deiner Teammitglieder gedrückt, um es zu entfesseln
 7.62 Munition:Sieht aus wie 7.62 Munition
 9mm Munition:Sieht aus wie 9mm Munition
 USP:Stärkere Variante der COM-15
