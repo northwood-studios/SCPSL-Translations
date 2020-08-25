@@ -1,0 +1,17 @@
+AUXILIAKRAFT
+ERFARENHET
+KAMERAFLÖDE ONLINE
+KLICKA PÅ [KEY] ATT VÄXLA KAMERA I ÖVERVAKNINGSKARTAN
+Förtjänad erfarenhet:
+Kooperativt arbete
+Klass-D dödsassistans
+Kaos dödsassistans
+MTF dödsassistans
+Forkare dödsassistans
+SCP dödsassistans
+LÅSTA DÖRRAR: [LOCKED_NUM]<size=25>HÖGER MUS KNAPP FÖR ATT LÅSA UPP ALLA</size>
+Allmänna interaktioner
+Du attackeras!
+Generatorer har markerats på kartan
+FARA
+SCPs{0}MTF & Vakter{1}Forskare{2}D-Klass{3}Kaos Uppror{4}

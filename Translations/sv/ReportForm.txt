@@ -1,0 +1,7 @@
+Rapportera spelare
+Mål:\nSpelar ID:\nBeskrivning:
+Avbryt
+Rapportera för att bryta serverregler
+Rapportera för fusk eller raiding
+RAPPORTERAR
+Vänta...

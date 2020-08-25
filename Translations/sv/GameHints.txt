@@ -1,0 +1,6 @@
+<color=red>Nekat tillträde</color>
+Nådde gränsen för <color=yellow>[type] skott</color> (<color=yellow>[max_type_count] rounds</color>).
+<b>Redan</b> nått gränsen av <color=yellow>[type] skott</color> (<color=yellow>[max_type_count] rounds</color>).
+Nådde gränsen för <color=yellow>[type]</color> (<color=yellow>[max_type_count] items</color>).
+<b>Redan</b> nått gränsen av <color=yellow>[type]</color> (<color=yellow>[max_type_count] saker</color>).
+Bara <color=yellow>[max_item_count] saker</color> kan hållas.

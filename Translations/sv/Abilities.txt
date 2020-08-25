@@ -1,0 +1,30 @@
+Ability Not Found:The ability ID associated with this ability does not exist.
+Sprint:Increases your movement speed, but also increases sound made while moving.
+Sneak:Your movements become silent, at the cost of a lot of speed.
+Inventory:Open your inventory and select an item you have picked up using LMB, or drop it using RMB.
+Unarmed:You have nothing. Find something. Anything.
+Access Card:You have an access card, it's not the best but don't lose it.
+Standard Issue:You are equipped with a Rifle, Grenades, a Radio, a Disarmer and an Access Card.
+Armed & Dangerous:You have consigned a Light Machine Gun, a Hacking Tool (access card), and a First-Aid Kit.
+Startling Speed:When no humans can see you, you move very quickly. If you're being directly watched by a human, you can't move or attack, but all watching humans will simultaneously blink every few seconds, allowing you to act.
+Panic:You move more quickly as your health decreases.
+Sinkhole:You can place a black pool of corrosion and teleport back to it at any time. Teleporting takes a few seconds.\nYou can move your sinkhole by placing it again.
+Corrosion:You can move through doors by walking into them.
+Swan Song: You take almost no damage from bullets, but you can be instantly recontained via a human sacrifice within your containment chamber.
+Pocket Dimension:Captures a human and teleports them to a pocket dimension that quickly kills them. Humans must choose the correct exit, or die.
+Scopophobia:You start docile, and become enraged when you're seen or hurt. Quell your rage by killing transgressors - follow their light before your fury subsides. The indignity of each offender adds to your AHP, preventing harm to you as long as it stands.
+Try Not To Cry (Docile):It's too hard. Leaning on a door helps; you become quieter and stand in place against it, calming yourself down... or waiting for someone to come through.
+Melee Attack (Rage):Tear through anything in your way to get to those who've hurt you. Your attacks will destroy doors and kill most humans instantly.
+Ultrasensitive:You can't see humans unless they run, bump you, or fire a weapon in close proximity to you.
+Predator:Your footsteps are silent. Holding the assigned key increases your speed, but makes your movement audible.
+Mimic:You can speak out loud to any nearby players, including humans.
+Bite:Attacks a human in melee range, instantly dealing severe damage.
+Antidote:Touches a human within close range, instantly killing them.
+The Cure:Reanimates a recently killed human. Cured humans play as zombies with fast movement and low health.\nThere is no limit on how many humans can be reanimated.
+Strike:Attacks a human and deals a moderate amount of damage to them.
+Open/Close Doors:You can interact with doors to open and close them for 5 AP. You can also lock them down, draining your AP but preventing anyone from opening or closing it until you lift the lockdown or run out of AP.
+Tesla Overcharge:You can activate a Tesla Gate for 50 AP to instantly trigger it, killing any players in or near it.
+Lockdown:Starting at Access Level 2, you can interact with some rooms to lock them down, shutting off all lights and closing all doors. While in locked down rooms, humans can't see SCP-173.
+Virtually Indestructible: Five generators spawn across the Heavy Containment Zone. If all of them are unlocked and activated, you become recontained.\nGenerators have a countdown sequence that any player can interrupt by pressing the "CANCEL" button on the generator.
+Neck Snap:Hold or click to snap a human's neck, instantly killing them as long as they can't see you or are blinking.
+Charge (Rage):Cut their escapes short - they deserve it. You bolt straight ahead, demolishing anything in front of you for a short distance. If you hit a heavy gate, you force yourself through it.
