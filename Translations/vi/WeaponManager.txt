@@ -1,0 +1,7 @@
+Nhấn bất cứ phím mũi tên để bắt đầu
+Điều hướng - Mũi tên lên/xuống\nChọn - Mũi tên phải\nTrở về - Mũi tên trái
+[var_name]\n\nLoại đạn: [var_atype]\nĐạn còn lại: [var_ares]\nCỡ băng đạn: [var_mag]\n\nSát thương tối đa: [var_maxdmg]\nSát thương hiệu quả: [var_effdmg]\nPhát bắn trên giây: [var_sps]\n\nLựa chọn khả dụng: [var_custs]\n\nCHUỘT PHẢI ĐỂ VỨT ĐẠN
+Bạn đang chuẩn bị vứt [var_nom]\nNhấn mũi tên lên/xuống để chỉnh số lượng.\nNhấn mũi tên phải để vứt đạn.\nNhấn mũi tên trái để trở về.
+Không đủ đạn để vứt (type [var_nom]). \nNhấn mũi tên trái để trở về.
+BARREL
+KHÁC

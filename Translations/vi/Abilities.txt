@@ -1,0 +1,30 @@
+Không tìm thấy kĩ năng:ID kĩ năng này không tồn tại.
+Chạy:Tăng tốc độ di chuyển, đồng thời tăng âm lượng của âm thanh phát ra di chuyển.
+Đi nhẹ:Không phát ra âm thanh khi di chuyển, nhưng làm giảm tốc độ đi rất nhiều.
+Kho đồ:Mở kho đồ và và chọn đồ cần lấy ra bằng cách nhấn chuột trái, hoặc bỏ nó ra khỏi kho bằng cách dùng chuột phải.
+Không được trang bị:Chưa có gì hết. Tìm thứ gì đó. Gì cũng được.
+Thẻ khóa:Được trang bị một chiếc thẻ khóa, chưa phải loại tốt nhất nhưng hãy giữ kỹ nó.
+Trang bị tiêu chuẩn:Được trang bị một chiếc súng trường, lựu đạn, bộ đàm, máy giải giáp và một chiếc thẻ khóa.
+Trang bị khủng:Được trang bị một chiếc súng máy, một thẻ khóa và bộ sơ cứu.
+Tốc độ rất nhanh:Khi không có người nhìn, bạn có thể di chuyển rất nhanh. Nếu có người nhìn, bạn không thể di chuyển hay tấn công, nhưng những người nhìn bạn sẽ chớp mắt sau vài giây, cho phép bạn di chuyển.
+Hoảng sợ:Tốc độ di chuyển tỉ lệ nghịch với lượng máu còn lại.
+Hố sình:Khả năng đặt một hố đen ăn mòn và dịch chuyển tức thì tới hố đó bất cứ lúc nào. Việc dịch chuyển tức thì mất vài giây.\nCó thể chuyển hố sang chỗ khác bằng cách đặt lại hố.
+Ăn mòn:Đi xuyên cửa bằng cách đi thẳng vào chúng.
+Khúc hát thiên nga:Chịu rất ít sát thương từ đạn, tuy nhiên bạn sẽ lập tức bị nhốt lại qua việc hiến tế một người trong buồng nhốt của bạn.
+Không gian bỏ túi:Bắt một người và dịch chuyển họ đến không gian bỏ túi nơi họ sẽ nhanh chóng bị giết. Người đó phải chọn lối thoát đúng, hoặc sẽ chết.
+Hội chứng sợ hãi:Lúc đầu bạn rất ngoan ngoãn, tuy nhiên sẽ nổi giận nếu có người nhìn hoặc tấn công. Kết thúc sự tức giận bằng cách giết hết những kẻ làm bạn giận - tìm và diệt họ trước khi họ trốn mất. Sự hiện diện của mỗi mục tiêu sẽ làm tăng lượng AHP của bạn, ngăn chặn sát thương một khi còn AHP.
+Cố gắng ngưng khóc (Ngoan ngoãn):Việc này rất khó. Tựa lên cửa sẽ giúp bạn ngưng khóc; bạn trở nên yên lặng và đứng dựa vào cửa, kiềm chế bản thân... hoặc đợi ai đó đến để tấn công tiếp.
+Cận chiến (Thịnh nộ):Xé nát mọi thứ trên đường đi hay những kẻ làm bạn giận. Đòn tấn công này sẽ phá hủy các cửa và giết người ngay lập tức.
+Siêu nhạy cảm:Không thể thấy người trừ khi họ chạy, va vào bạn hoặc khai hỏa trong khoảng cách đủ gần.
+Săn mồi:Bước chân không gây ra tiếng động. Bạn có thể chạy nhanh để tăng tốc độ, tuy nhiên cũng sẽ gây ra tiếng động từ bước chân.
+Bắt chước:Có khả năng nói chuyện với mọi nhân vật xung quanh, kể cả người.
+Cắn:Tấn công người ở tầm gần, lập tức gây ra sát thương lớn.
+Giải độc:Chạm người ở tầm gần sẽ ngay lập tức giết họ.
+Cứu chữa:Mô phỏng lại người vừa bị giết. Người được cứu chữa sẽ vào vai xác sống với tốc độ di chuyển nhanh và lượng máu thấp.\nKhông giới hạn số người được bạn cứu chữa.
+Tấn công:Tấn công người chơi và gây sát thương lên họ.
+Đóng/Mở cửa:Tương tác với cửa để đóng hoặc mở chúng với 5 AP. Bạn có thể khóa cửa, làm giảm dần lượng AP và ngăn bất cứ ai đóng hoặc mở cửa cho đến khi bạn mở khóa hoặc hết AP.
+Quá tải cổng điện:Kích hoạt cổng điện để khiến nó giật điện ngay lập tức với 50 AP, giết những người chơi đứng gần hoặc trong cổng.
+Cách ly:Sau khi đạt được Cấp truy cập thứ 2, bạn có thể tương tác với các phòng để cách ly nơi đó, tắt hết đèn và khóa hết cửa thoát. Trong phòng cách ly, người không thể nhìn được SCP-173.
+Hầu như không thể bị tiêu diệt:Năm máy điều khiển điện sẽ xuất hiện trong Khu giam giữ hạng nặng. Nếu tất cả các máy trên được mở khóa và kích hoạt, bạn sẽ bị nhốt lại.\nCác máy điều khiển điện đều có khoảng thời gian chờ trước khi được kích hoạt nên tất cả người chơi để có thể ngăn việc kích hoạt bằng cách nhấn nút 'CANCEL' trên máy.
+Cắn cổ: Giữ hoặc nhấn chuột để cắn cổ người, ngay lập tức giết họ nếu họ không thể nhìn bạn hoặc đang chớp mắt.
+Xung kích (Thịnh nộ):Ngăn người khác tẩu thoát - họ xứng đáng bị giết. Bạn cắm đầu thẳng về phía trước, phá hủy mọi thứ trong một khoảng cách nhỏ. Nếu bạn chạy vào cổng lớn, bạn sẽ lách được qua nó.
