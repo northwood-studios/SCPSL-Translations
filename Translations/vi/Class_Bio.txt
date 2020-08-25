@@ -1,9 +1,10 @@
 SCP-173 không thể di chuyển hay tấn công khi bị nhìn vào. Bức tượng này là nỗi khiếp sợ với những người không được trang bị hoặc nhóm nhỏ, tuy nhiên phải tiếp cận các nhóm được trang bị một cách cẩn thận.
 Tù nhân được Tổ chức sử dụng để thử các vật thể lạ. Mục tiêu chính là cố thoát khỏi cơ sở giam giữ, né tránh các <color=#f00>SCP</color> và <color=#0096FF>MTF</color>.\n<color=008f1e>Chaos Insurgency</color> sẽ giúp họ tẩu thoát.
-Bạn sẽ sớm được hồi sinh.\Trong lúc chờ, tận hưởng việc theo dõi mọi thứ diễn ra.
+Bạn sẽ sớm được hồi sinh.\nTrong lúc chờ, tận hưởng việc theo dõi mọi thứ diễn ra.
 SCP-106 rất chậm và chắc - là lực lượng không thể ngăn cản với khả năng đi xuyên mọi cửa.
 Thành viên của lực lượng tinh nhuệ phản ứng với các đợt sự cố, bảo đảm an toàn cho Tổ chức. Mục tiêu chính là tiêu diệt mọi <color=#f00>SCP</color>, <color=#008f1e>Chaos Insurgency</color> và <color=#FF8E00>Tù nhân</color>, đồng thời giúp các <color=#FFFF7CFF>Nhà khoa học</color> thoát hiểm an toàn.
 Chậm và mong manh, SCP-049 là chuyên gia săn mồi thầm lặng, có khả năng 'lật kèo' với đoàn quân zombie đi theo.
+Nhân viên của Tổ chức chuyên nghiên cứu những vật thể lạ. Mục tiêu chính là thoát hiểm khỏi cơ sở, né tránh các <color=#f00>SCP</color> và <color=#008f1e>Chaos Insurgency</color>. <color=#0096FF>MTF</color> giúp Nhà khoa học thoát hiểm.
 SCP-079 không có khả năng tấn công trực tiếp. Thay vào đó, bạn xem mọi thứ xung quanh qua camera trong các phòng. Bạn có thể nhấn Tab để xem bản đồ của toàn cơ sở, hoặc di chuột và nhấn vào biểu tượng camera để di chuyển đến chúng.\nBạn có tài nguyên được gọi là năng lượng phụ trợ, gọi tắt là AP, năng lượng để tiêu vào các kĩ năng của bạn. Các Cấp truy cập gia tăng khả năng hồi AP và mở khóa kĩ năng mới.
 Thành viên của một tổ chức ngầm với mục tiêu chính là chặn các hành động của Tổ chức SCP lại và tối ưu các SCP cho mục đích của bạn. Nhiệm vụ của bạn là tiêu diệt các <color=#FFFF7CFF>Nhà khoa học</color> và các <color=#0096FF>Nhân viên tổ chức</color>, đồng thời giúp đỡ <color=#FF8E00>Tù nhân</color> tẩu thoát.
 Khi tức giận, SCP-096 có thể tiêu diệt một nhóm lớn và cả khi chưa tức giận, SCP-096 cũng gây ra nỗi sợ lớn với sự hiện diện của mình.
