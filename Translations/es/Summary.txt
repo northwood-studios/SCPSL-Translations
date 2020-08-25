@@ -1,16 +1,16 @@
 ¡La ronda ha acabado!
 LOS SCPs GANAN
 LOS MTF GANAN
-LOS CLASE-D GANAN
+LA CLASE-D GANA
 TABLAS
 Son responsables de la perdida de [summary_scpfrags] vidas humanas.
 Amenaza eliminada. Las instalaciones son seguras de nuevo.
-Toda la seguridad de La Fundación ha sido neutralizada.
+Toda la seguridad de la Fundación ha sido neutralizada.
 Ambos bandos han sufrido grandes perdidas. Ganador indeterminado.
 Han escapado: [summary_d_escaped] Clase-D
 Han escapado: [summary_s_escaped] Científicos
-La detonación del Silo Alfa acabó con [summary_warhead_kills] sujetos.
-El Silo Alfa no se detonó en esta misión.
+La detonación de la ojiva Alfa acabó con [summary_warhead_kills] sujetos.
+La Ojiva Alfa no se detonó en esta misión.
 La misión duró [summary_round_minutes] minutos y [summary_round_seconds] segundos.
 Sujetos SCP recontenidos: [summary_scp_terminated] .
 La próxima ronda empieza en: [summary_next_round_countdown] segundos.

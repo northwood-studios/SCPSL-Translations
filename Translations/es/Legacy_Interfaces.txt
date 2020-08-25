@@ -5,7 +5,7 @@ Clase-D escapados
 Científicos supervivientes
 Asesinados por SCP
 SCP Eliminados
-Silo Alfa
+Ojiva Alfa
 Detonado
 Sin usar
 La próxima ronda comenzará en [time] segundos.

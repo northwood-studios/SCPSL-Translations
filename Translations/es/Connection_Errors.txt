@@ -1,4 +1,4 @@
-<size=80>HAS SIDO EXPULSADO</size>\nEl servidor a detenido la conexión.\n<size=26>\nProbablemente has sido vetado por el administrador o no cumples con los requisitos del servidor (ej: conectarse a Steam).\nRespecto a los tiempos de vetación - los creadores del juego <u>no</u> son responsables.\n</size>
+<size=80>HAS SIDO EXPULSADO.</size>\nEl servidor a detenido la conexión.\n<size=26>\nProbablemente has sido vetado por el administrador o no cumples con los requisitos del servidor (ej: conectarse a Steam).\nRespecto a los tiempos de vetación - los creadores del juego <u>no</u> son responsables.\n</size>
 <size=80>DESCONECTADO</size>\nEl host especificado no esta disponible.
 <size=80>DESCONECTADO</size>\nLa ID de conexión especificada no existe.
 <size=80>DESCONECTADO</size>\nEl canal especificado no existe.

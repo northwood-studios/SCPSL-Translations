@@ -12,6 +12,6 @@ Muerte asistida de SCP
 PUERTAS BLOQUEADAS: [LOCKED_NUM]<size=25>CLIC DERECHO PARA DESBLOQUEAR TODAS</size>
 Interacciones generales
 ¡Estas siendo atacado!
-Se han marcado los generadores activos en el mapa
+Se han marcado los generadores activos en el mapa.
 PELIGRO
 SCPs{0}MTF & Guardias{1}Científicos{2}Clase-D{3}Insurgentes del Caos{4}

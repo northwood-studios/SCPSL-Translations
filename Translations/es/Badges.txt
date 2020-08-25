@@ -1,17 +1,17 @@
-Gerente de desarrollo de Northwood
+Gerente de Desarrollo de Northwood
 Director/a Ejecutivo de Northwood
 Director/a de Información de Northwood
 Director/a de Operaciones de Northwood
-Director de comunidad de Northwood
+Director de Comunidad de Northwood
 Gerente de Discord de Northwood
-Asistente ejecutivo de Northwood
-Gerente de opiniones de Northwood
+Asistente Ejecutivo de Northwood
+Gerente de Opiniones de Northwood
 Recursos Humanos de Northwood
 Director/a de Recursos Humanos de Northwood
-Oficial conjunto de información de Northwood
-Ingeniero jefe de bots de Northwood
+Oficial Conjunto de Información de Northwood
+Ingeniero Jefe de Bots de Northwood
 Director/a de Marketing de Northwood
-Director/a de plataformas de Marketing de Northwood
+Director/a de Plataformas de Marketing de Northwood
 Trabajador de Northwood
 Gerente de Steam de Northwood
 Administrador de Sistemas de Northwood
@@ -20,25 +20,25 @@ Director Artístico de SCP:SL
 Supervisor Artístico de SCP:SL
 Artista de SCP:SL
 Programador Back-end de SCP:SL
-Gerente de programación Back-end de SCP:SL
+Gerente de Programación Back-end de SCP:SL
 Desarrollador de SCP:SL
 Ganador de evento de SCP:SL
 Programador Full-stack de SCP:SL
 Diseñador/a de SCP:SL
-Programador de jugabilidad de SCP:SL
-Gerente de moderacion global de SCP:SL
-Moderador/a global de SCP:SL
-Diseñador/a principal de SCP:SL
-Programador/a principal de jugabilidad de SCP:SL
-Diseñador/a de niveles de SCP:SL
+Programador de Jugabilidad de SCP:SL
+Gerente de Moderacion Global de SCP:SL
+Moderador/a Global de SCP:SL
+Diseñador/a Principal de SCP:SL
+Programador/a Principal de Jugabilidad de SCP:SL
+Diseñador/a de Niveles de SCP:SL
 Socio/a de SCP:SL
 Patreon de SCP:SL
 Programador/a de SCP:SL
-Gerente de control de calidad de SCP:SL
-Diseñador/a de sonido de SCP:SL
-Director de juego de SCP:SL
-Gerente oficial de servidores de SCP:SL
-Especialista de verificación de Northwood
-Especialista de código nativo de Northwood
-Teste de control de calidad de SCP:SL
-Superior de control de calidad de SCP:SL
+Gerente de Control de Calidad de SCP:SL
+Diseñador/a de Sonido de SCP:SL
+Director de Juego de SCP:SL
+Gerente Oficial de Servidores de SCP:SL
+Especialista de Verificación de Northwood
+Especialista de Código Nativo de Northwood
+Tester de Control de Calidad de SCP:SL
+Superior de Control de Calidad de SCP:SL

@@ -45,7 +45,7 @@ Música del menú
 Volumen de la interfaz
 Tema del menú
 Atenuación rápida de la introducción
-Cabeza de Bob
+Agitar cámara
 Pulsar para alternar sprint
 Mostrar valores exactos de vida
 Rich Presence
@@ -73,7 +73,7 @@ Conectando a los servidores centrales...
 <color=red>Fallo en la autenticación con Discord (Comprueba la consola para más detalles)</color>
 Deshabilitado
 {0} Segundos
-Tiempo de limpieza de muñecos de trapo
+Tiempo de limpieza de ragdolls
 Mostrar perfil de Steam
 Permite a los jugadores ver tu perfil de Steam en el icono de la lista de jugadores.
 No rastrear (NR)

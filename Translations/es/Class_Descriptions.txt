@@ -1,18 +1,18 @@
-Asesina a todos\nNo dejes escapar a nadie\nCoopera con los demás <color=#f00>SCPs</color>\n <color=#ffff00>Mantén clic izquierdo y muévete hacia al enemigo para matarlo.\nA menos vida, te mueves más rápido.</color>
-Escapa de las instalaciones\nCoopera con <color=#008f1e>Los Insurgentes del Caos</color>\nEvita a los demás.
+Asesina a todos.\nNo dejes escapar a nadie.\nCoopera con los demás <color=#f00>SCP</color>s.\n<color=#ffff00>Mantén clic izquierdo y muévete hacia al enemigo para matarlo.\nA menos vida, te mueves más rápido.</color>
+Escapa de las instalaciones.\nCoopera con los <color=#008f1e>Insurgentes del Caos</color>.\nEvita a los demás.
 Reaparecerás pronto.
-Asesina a todos\nNo dejes escapar a nadie\nCoopera con los demás <color=#f00>SCPs</color><color=#ffff00>\nPuedes caminar a través de cualquier puerta.\nTu ataque daña y envía a la gente a tu dimensión.\nMantén TAB para ver las habilidades.</color>
-Ayuda a los <color=#FFFF7CFF>científicos</color> a escapar\nNeutraliza a los demás sujetos.\nOrdena a los subordinados. \nSigue ordenes de tu superior.
-Asesina a todos\nNo dejes escapar a nadie\nCoopera con los demás <color=#f00>SCPs</color><color=#ffff00>\nMata instantáneamente con poco tiempo de reutilización.\nInteractúa con un cuerpo recién muerto para revivirlos como aliados.</color>
-Escapa de la instalación\nCoopera con los <color=#0096FF>MTF</color>\nEvita a los demás.
-Hackea a todos\nNo dejes escapar a nadie\nCoopera con los demás <color=#f00>SCPs</color><color=#ffff00>\nAcceso total a las instalaciones.\nPuedes abrir cualquier puerta.\nSobrecarga puertas Tesla para matar.\nEvita que te sobrecargen.</color>
-Ayuda a los <color=#FF8E00>Clase-D</color> a escapar\nNeutraliza al resto.
-Asesina a todos\nNo dejes escapar a nadie\nCoopera con los demás <color=#f00>SCPs</color><color=#ffff00>\nTe enfadas si la gente te mira y por los sonidos de disparos.\nAl enfurecerse, corres rápido y rompes puertas cerradas.</color>
-Asesina a todos\nNo dejes escapar a nadie\nCoopera con los demás <color=#f00>SCPs</color><color=#ffff00>\nProtege a SCP-049, funcionas mejor en grupo.</color>
-Ayuda a los <color=#FFFF7CFF>científicos</color> a escapar\nNeutraliza al resto.\nOrdena a tus subordinados. \nSigue las ordenes de tu comandante.
-Ayuda a los <color=#FFFF7CFF>científicos</color> a escapar\nNeutraliza al resto.\nOrdena a tus subordinados.
-Ayuda a los <color=#FFFF7CFF>científicos</color> a escapar\nNeutraliza al resto.\nSigue las ordenes de tus superiores.
+Asesina a todos.\nNo dejes escapar a nadie.\nCoopera con los demás <color=#f00>SCP</color>s.\n<color=#ffff00>Puedes caminar a través de cualquier puerta.\nTu ataque daña y envía a la gente a tu dimensión.\nMantén TAB para ver las habilidades.</color>
+Ayuda a los <color=#FFFF7CFF>científicos</color> a escapar.\nNeutraliza a los demás.\nOrdena a los subordinados.\nSigue ordenes de tu superior.
+Asesina a todos.\nNo dejes escapar a nadie.\nCoopera con los demás <color=#f00>SCP</color>s.\n<color=#ffff00>Mata instantáneamente con poco tiempo de reutilización.\nInteractúa con un cuerpo recién muerto para revivirlos como aliados.</color>
+Escapa de la instalación.\nCoopera con la <color=#0096FF>MTF</color>.\nEvita a los demás.
+Hackea a todos.\nNo dejes escapar a nadie.\nCoopera con los demás <color=#f00>SCP</color>s.\n<color=#ffff00>Acceso total a las instalaciones.\nPuedes abrir cualquier puerta.\nSobrecarga arcos Tesla para matar.\nEvita que te sobrecargen.</color>
+Ayuda a la <color=#FF8E00>Clase-D</color> a escapar.\nNeutraliza al resto.
+Asesina a todos.\nNo dejes escapar a nadie.\nCoopera con los demás <color=#f00>SCP</color>s.\n<color=#ffff00>Te enfadas si la gente te mira y por los sonidos de disparos.\nAl enfurecerse, corres rápido y rompes puertas cerradas.</color>
+Asesina a todos.\nNo dejes escapar a nadie.\nCoopera con los demás <color=#f00>SCP</color>s.\n<color=#ffff00>Protege a SCP-049. Eres mas poderoso en grupos.</color>
+Ayuda a los <color=#FFFF7CFF>Científicos</color> a escapar.\nNeutraliza al resto.\nOrdena a tus subordinados.\nSigue las ordenes de tu comandante.
+Ayuda a los <color=#FFFF7CFF>Científicos</color> a escapar.\nNeutraliza al resto.\nOrdena a tus subordinados.
+Ayuda a los <color=#FFFF7CFF>Científicos</color> a escapar.\nNeutraliza al resto.\nSigue las ordenes de tus superiores.
 Sigue las tareas para cumplir tu objetivo.
-Ayuda a los <color=#FFFF7CFF>científicos</color> a escapar\nCoopera con los <color=#0096FF>MTF</color>\nNeutraliza a los demás sujetos.
-Asesina a todos\nNo dejes escapar a nadie\nCoopera con los demás <color=#f00>SCPs</color>\n <color=#ffff00>Eres ciego, tu visión se basa en el sonido\nSolo podrás ver a tus víctimas si hacen ruido o si están muy cerca.</color>
-Asesina a todos\nNo dejes escapar a nadie\nCoopera con los demás <color=#f00>SCPs</color>\n <color=#ffff00>Eres ciego, tu visión se basa en el sonido\nSolo podrás ver a tus víctimas si hacen ruido o si están muy cerca.</color>
+Ayuda a los <color=#FFFF7CFF>Científicos</color> a escapar.\nCoopera con la <color=#0096FF>MTF</color>.\nNeutraliza a los demás sujetos.
+Asesina a todos.\nNo dejes escapar a nadie.\nCoopera con los demás <color=#f00>SCP</color>s.\n<color=#ffff00>Eres ciego, tu visión se basa en el sonido.\nSolo podrás ver a tus víctimas si hacen ruido o si están muy cerca.</color>
+Asesina a todos.\nNo dejes escapar a nadie.\nCoopera con los demás <color=#f00>SCP</color>s.\n<color=#ffff00>Eres ciego, tu visión se basa en el sonido.\nSolo podrás ver a tus víctimas si hacen ruido o si están muy cerca.</color>
