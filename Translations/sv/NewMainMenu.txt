@@ -1,0 +1,81 @@
+Nyheter
+Servrar
+Inställningar
+Lämna
+Social Media
+Internet
+Favoriter
+Officiella
+Historik
+Vänner
+Sök Servrar
+Skapa Server
+Joina om
+Direktkoppling
+Uppdatera
+Dölj tomma spel
+Dölj hela spel
+Ingen vitlista
+Bild
+Ljud
+Kontroller
+Spelinställningar
+Annat
+Fönsterläge
+Exklusiv Fullskärm
+Gränslöst fönster
+Maximerad fönster
+Fönsterläge
+V-Sync
+FPS Begränsning
+Av
+Texturkvalitet
+Max blodmängd
+Skuggor
+Skuggupplösning
+Skuggavstånd
+Rörelseoskärpa
+Färgkorrigering
+Anti Alias
+Rendera Ljus
+Huvudvolym
+Ljudeffekter
+Röstchat
+Meny Musik
+Gränssnittets volym
+Menytema
+Snabbt Introduktions borttoning
+Huvudskakning
+Växla Sprint
+Visa exakta HP Värde
+Rich Presence
+Offentlig lobby
+Växla sök-läge
+SCP-079 - Växla Syn-Läge
+SCP-079 - Efterbehandling
+Språk
+Huvudmeny
+Anslut
+Tillbaka
+Denna ändring kommer att kräva en omladdning.\nLadda om menyn nu?
+Ja
+Nej
+Är du säker på att du vill avsluta?
+Skärmupplösning
+Göm IP
+Välkommen tillbaka, {username}!
+Medverkande
+AUTENTISERANDE
+Ansluter till centrala servrar...
+<color=green>Kontakt etablerad</color>
+<color=red>Anslutningsfel (Kontrollera konsolen för mer information)</color>
+<color=red>Steam autentiseringsfel (Kontrollera konsolen för mer information)</color>
+<color=red>Discord autentiseringsfel (Kontrollera konsolen för mer information)</color>
+Inaktiverad
+{0} Sekunder
+Ragdoll-rensningstid
+Visa Steam Profil
+Tillåter spelare att se din Steam-profil genom att klicka på en ikon i spelarlistan.
+Spåra inte (DNT)
+Förbjuder servern att använda dina data (IP-adress, användar-ID etc.) i syften som inte är relaterade till serversäkerheten.
+Grafik API

@@ -1,0 +1,7 @@
+Använd valfri piltangent för att börja...
+Navigera - UPP/NER piltangenter\nVälj - HÖGER piltangent\nTillbaka - VÄNSTER piltangent
+[var_name]\n\nSkott typ: [var_atype]\nReservera ammunition: [var_ares]\nMagasinkapacitet: [var_mag]\n\nMax skada: [var_maxdmg]\nEffektiv skada: [var_effdmg]\nSkott per sekund: [var_sps]\n\nTillgängliga anpassningar: [var_custs]\n\nHÖGER PILKNAPP FÖR ATT SLÄPPA AV AMMUNITION.
+Du kommer att släppa [var_nom]\nUPP/NER-piltangenterna för att ändra kvantitet.\nHÖGER pil för att släppa.\nVÄNSTER pil för att gå bakåt.
+Inte tillräckligt med ammunition att släppa (type [var_nom]). \nVÄNSTER pil för att gå bakåt.
+GEVÄRSPIPA
+ÖVRIGT

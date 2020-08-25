@@ -1,0 +1,5 @@
+DU DOG
+Tryck på {KEYBINDING_INTERACTION} föt att placera <color=yellow>Weapon Manager-surfplatta</color>.
+Tryck på {KEYBINDING_INTERACTION} för att plocka upp <color=yellow>Weapon Manager-platta</color>.
+Denna <color=yellow>arbetsstation</color> har redan någon annans <color=yellow>Weapon Manager-surfplatta</color> ansluten.
+Du behöver en <color=yellow>Weapon Manager-surfplatta</color> för att använda denna <color=yellow>arbetsstation</color>.

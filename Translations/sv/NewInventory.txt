@@ -1,0 +1,36 @@
+Vaktmästar Kort:No description
+Forkars Kort:No description
+Forskningshandledare Kort:No description
+Zonchefs Kort:No description
+Vakt Kort:No description
+MTF Kadett Kort:No description
+Inneslutnings ingenjör Kort:No description
+MTF Löjtnant Kort:No description
+MTF Kommandör Kort:No description
+Anläggningschefs Kort:No description
+Kaos upprors åtkomstenhet
+O5-level Kort
+Radio:SR = Kort avstånd \nMR = Medelavstånd \nLR = Långt avstånd \nUR = Ultralångt avstånd \nAnvänder batteri medan det är på. Längre räckvidd innebär högre batteriförbrukning.
+COM-15 Sidovapen:No description
+Första hjälpen låda:Läker dina skador.
+Ficklampa:Låt det finnas ljus!
+Micro H.I.D.:Mobil högintensiv elektrisk urladdningskast.
+SCP-500:Panacean.
+SCP-207:Ökar snabbheten skadligt.
+Vapen Hanterar-Platta:Används för att släppa ammunition och uppgradera dina vapen.
+MTF-E11-SR:No description
+Project 90:No description
+Släppt 5.56:No description
+MP7:No description
+Logicer:No description
+Granat:Boom!
+Flashbang Granat:Bländar dina fiender.
+Avväpnare:Vänsterklicka avväpnar, högerklickar släpper loss.\nHåll E på någon som är avväpnad i ditt team för att befria dem.
+Släppt 7.62:No description.
+Släppt 9mm:No description.
+USP:No description.
+SCP-018:Superboll kan studsa med extrem effektivitet.
+SCP-268:När du tar på dig den då gör den dig osynlig temporärt.
+Adrenaline:Ökar tillfälligt uthållighet.
+Painkillers:Relieve minor injuries.
+Coin:Du är inte säker på varför du vill ha det här...

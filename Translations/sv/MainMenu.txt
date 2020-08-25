@@ -1,0 +1,91 @@
+JOINA
+STÄNG
+SKUGG UPPLÖSNING
+INSTÄLLNINGAR
+BASERAT PÅ <i>SCP: CONTAINMENT BREACH</i>
+TILLBAKA
+SPRÅK
+ANTIALIASERING
+Ändra detaljer:\n-PIXEL LIGHT COUNT - Maximalt antal ljuskällor som har ljuset återges på enskilda pixlar.\n-V-Sync - Aktivera synkronisering med uppdateringsfrekvensen för displayenheten.
+JOINA SPEL
+EFTERBEHANDLING
+MEDVERKANDE
+STÄNG SPEL
+Fullskärmsläge
+SKÄRM INSTÄLLNINGAR
+FÄRGKORRIGERING
+Ange IP-adress...
+SKÄRMUPPLÖSNING
+SPELA
+PIXEL LIGHT COUNT
+SKUGG TYP
+SKUGGOR
+SKAPA SPEL
+Ändra efterbehandlingsinställningar. Dessa inställningar påverkar oftast inte prestandan, att lämna standardvärden rekommenderas.
+Light rendering mode:\nWhen off, graphics quality is significantly reduced. Disabling this setting is only recommended for low-end computers.
+V-SYNC
+ANSLUT
+KVALITETS INSTÄLLNINGAR
+Ändra skuggpreferenser. Att ställa in dessa skjutreglage på lägre värden kan öka spelets smidighet.
+HUVUDMENY
+LJUSRENDERING
+RÖRELSEOSKÄRPA
+SKUGGAVSTÅND
+DETALJER
+3. SCP-914
+HANDLEDNINGAR
+VARNING
+Bläddra bland tillgängliga servrar
+Visa det inte igen
+Hur vill du ansluta?
+SERVER SÖKNING
+OKEJ
+HITTA MATCH
+2. Använda vapen
+Vi använder Discord som ett forum. Ingen installation behövs.\n(Klicka på loggan för att gå med)
+Som standard kommer servern att konfigureras i det lokala nätverket.\nDina vänner behöver den direkta IP-adressen för att ansluta.\nOm du vill ställa in en offentlig server väljer du LocalAdmin.exe och följer instruktionerna.\nOm du har några frågor, fråga vår tekniska support (länk i huvudmenyn)
+1. Grunderna
+Det presenterade spelet finns fortfarande i en offentlig beta.\nDu kan få problem med anslutningen och många andra buggar.\nDet aktuella tillståndet återspeglar inte den slutliga versionen.
+4. (mer handledning senare)
+DIREKTKOPPLING
+TEKNISK SUPPORT / FORUM
+LJUDVOLYM
+Ange IP-adressen för den specifika servern.
+NEDLADNING AV DATA
+INGEN SERVRAR TILLGÄNGLIGA
+KLICKA PÅ ESC FÖR ATT STÄNGA / AVBRYT
+Tangentbindande
+MAX BLODMÄNGD
+FPS Begränsning
+FPS Begränsning fungerar inte när vSync är aktiverat!
+Sätt som normalt
+Vi använder Steam-diskussioner som ett forum. (Klicka på loggan för att öppna forumet)
+LJUDINSTÄLLNINGAR
+HUVUDVOLYM
+MENY MUSIK
+RÖSTCHAT
+LJUDEFFEKTER
+SPELALTERNATIV
+SNABB INTRO BORTTONING
+Introduktionstexter försvinner mycket snabbare.
+SCP-079 - BYT SYN-LÄGE
+Tryck en gång för att byta mellan kameralägen.
+SCP-079 - EFTERBEHANDLING
+Om de är inaktiverade, kommer kameraeffekter att minskas kraftigt.
+HUVUDSKAKNING
+Gör det möjligt för första person att spola kamera under rörelse.
+BYT SPRINT-LÄGE
+Sprinting växlar från av och på, istället för att hållas nere.
+SEPARAT ARTIFICIELL HP BAR
+Ger artificiell HP sin egen hälsobar istället för en överläggning.
+Våra översättningar har öppen källkod på GitHub!\nVill hjälpa till? Klicka här.
+RIK NÄRVARO
+Om den är aktiverad visas din status på Discord / Steam.
+VISA EXAKTA HP-VÄRDE
+Visar exakta HP istället för bara procenten.
+OFFENTLIG LOBBY
+Om det är aktiverat kan dina steam vänner gå med dig utan tillstånd.
+GÖM IP
+Om den är aktiverad visas inte någon IP i klientkonsolen.
+BYT SÖK-LÄGE
+Objektupphämtning kräver inte en hållbar tangent; tryck igen för att avbryta.

@@ -1,0 +1,36 @@
+RÖST VOLYM
+Ja
+TVÅNGSSTART
+SCP-106 RE-INNESLUTNING\nFÖRFARANDE ÖVERSIKT
+Invertera Y-Axel
+SAMMANFATTNING
+Avbryt
+I N V E N T A R I E
+LJUSSTYRKA
+INSTÄLLNINGAR
+KOPPLA FRÅN
+ALPHA WARHEAD ÄR INAKTIVERAD
+NEKAT TILLTRÄDE
+RÖSTCHAT
+INVENTARIEÖVERLADNING
+MUS KÄNSLIGHET
+HACKAR
+PLOCKAR UPP...
+Ökad ljusstyrka <b>förvärrar stämningen på spelet avsevärt</b>.\nFörsök att ställa in detta värde till så lågt som möjligt.\n<b>Standardvärdet rekommenderas.</b>
+[1] ÖPPNA/STÄNG DÖRR\n[2] LÅS DÖRR*\n\n*Att låsa dörren använder speciell förmåga
+DÖREN HAR LÅSTS AV SCP-079
+Fullskärmsläge
+Är du säker på att du vill lämna servern?
+Grundläggande alternativ. Fullständig lista över inställningar i menyn.
+VÄNTAR PÅ SPELARE
+SAMMANFATTNING
+FORTSÄTT
+HUVUDVOLYM
+ansluten
+Du rymde som Forskare och gick med i MTF-enheterna.
+Du rymde som D-Klass Personal och gick med i Kaos Upproret.
+DU ÄR
+Flyktid: [escape_minutes] minuter och [escape_seconds] sekunder
+Vänta [time] innan du kan använda [item] igen.
+Klicka <color=yellow><b>F1</b></color> för hjälp.
+Du har blivit satt i handklovar.\n<size=40>Följ order eller fråga lagkamrater för hjälp.</size>

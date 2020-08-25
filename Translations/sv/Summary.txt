@@ -1,0 +1,17 @@
+omgången är klar!
+SCPs VANN
+MTF VANN
+KLASS-D VANN
+INGEN VANN
+De ansvarar för har dödat [summary_scpfrags] personer.
+Hoten dog. Den här platsen är nu säker igen.
+All Stiftelse-säkerhet har avslutats.
+Båda sidor har lidit förluster och gynnat mycket. Vinnaren är inte fastställd.
+[summary_d_escaped] d-klass flydde
+[summary_s_escaped] forskare överlevde
+Alpha Warhead-detonationen dödade [summary_warhead_kills] personer.
+Alpha Warhead detonerades inte under denna runda.
+Rundan tog [summary_round_minutes] minuter och [summary_round_seconds] sekunder.
+[summary_scp_terminated] dödade SCPs
+nästa runda om [summary_next_round_countdown] sekunder.
+Du har gjort [summary_damages] skada och har dödat [summary_kills] spelare.
