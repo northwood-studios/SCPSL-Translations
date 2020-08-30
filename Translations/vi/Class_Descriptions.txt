@@ -4,7 +4,7 @@ Bạn sẽ sớm hồi sinh.
 Giết tất cả mọi người.\nNgăn mọi người tẩu thoát.\nHợp tác với các <color=#f00>SCP</color><color=#ffff00>\nNhấn chuột trái+W và nhắm vào mục tiêu để giết.\nBạn có thể đi xuyên qua cửa.\nNhấn chuột trái để tấn công và dịch chuyển mục tiêu đến không gian của bạn.\nNhấn Tab để mở Menu kĩ năng.</color>
 Giúp <color=#FFFF7CFF>Nhà khoa học</color> thoát hiểm.\n Tiêu diệt các phe khác.\nChỉ huy cấp dưới.\nTuân Lệnh cấp trên.
 Giết tất cả mọi người.\nNgăn mọi người tẩu thoát.\nHợp tác với các <color=#f00>SCP</color><color=#ffff00>\nNhấn chuột trái vào mục tiêu để giết ngay lập tức.\nTương tác với người mới chết để hồi sinh họ.</color>
-Thoát khỏi cơ sở giam giữ.\nHợp tác với <color=#008f1e>Chaos Insurgency.</color>\nTránh các phe khác.
+Thoát khỏi cơ sở giam giữ.\nHợp tác với <color=#0096FF>MTF.</color>\nTránh các phe khác.
 Giết tất cả mọi người.\nNgăn mọi người tẩu thoát.\nHợp tác với các <color=#f00>SCP.</color>
 Giúp <color=#FF8E00>Tù nhân</color> tẩu thoát. Tiêu diệt các phe khác.
 Giết tất cả mọi người.\nNgăn mọi người tẩu thoát.\nHợp tác với các <color=#f00>SCP.</color>
