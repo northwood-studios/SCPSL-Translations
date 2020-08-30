@@ -1,0 +1,17 @@
+NĂNG LƯỢNG PHỤ TRỢ (AP)
+KINH NGHIỆM (EXP)
+MÀN ẢNH CAMERA ONLINE
+NHẤN [KEY] ĐỂ BẬT MAP TOÀN CƠ SỞ
+Kinh nghiệm kiếm được:
+Hành động hợp tác
+Hỗ trợ tiêu diệt Tù nhân
+Hỗ trợ tiêu diệt CI
+Hỗ trợ tiêu diệt MTF
+Hỗ trợ tiêu diệt Nhà khoa học
+Hỗ trợ tiêu diệt SCP
+CỬA ĐÃ KHÓA: [LOCKED_NUM]<size=25>CHUỘT PHẢI ĐỂ MỞ KHÓA TẤT CẢ</size>
+Tương tác tổng quan
+Bạn đang bị tấn công!
+Máy điều khiển điện đã được đánh giấu trên bản đồ
+NGUY HIỂM
+SCP{0}MTF & Bảo vệ{1}Nhà khoa học{2}Tù nhân{3}Chaos Insurgents{4}
