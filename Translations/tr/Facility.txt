@@ -34,3 +34,5 @@ Kaçış süresi: [escape_minutes] dakika ve [escape_seconds] saniye
 [item] eşyasını tekrar kullanmak için [time] kadar bekleyin.
 DAHA FAZLA BİLGİ İÇİN <color=white><b>F1</b></color> TUŞUNA BAS
 Tutuklandın\n<size=40>emirlere uy veya takım arkadaşlarından yardım iste</size>
+Dokuz Kuyruklu Tilki ekibi tarafından yakalandın.\nVakıftan bir tehditin azalmasıyla beraber, kendi saflarını güçlendirebilirler.
+Bilim adamı olarak Kaos İsyancıları seni esir aldı.\nOnlara verdiğin bilgilerle bir avantaj elde ettiler.
