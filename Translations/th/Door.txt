@@ -1,0 +1,11 @@
+<color=#1DA8FFFF>ปิด</color>
+<color=#00ee00FF>เปิด</color>
+<color=#FF7800FF>ขยีบอยู่</color>
+<color=#ee0000FF>ไม่สามารถใช้งานได้</color>
+<color=#ee0000FF>ล็อกดาวน์</color>
+<color=#00C0eeFF>ต้องใช้คีย์การ์ด</color>
+<color=#00ee00FF>ผ่าน</color>
+<color=#ee0000>ระดับคีย์การ์ดไม่เพียงพอ</color>
+<color=#ee7900FF>กรุณาเดินผ่านไป</color>
+<color=#00ee00FF>อพยพ</color>
+<color=#ee7900FF>กำลังปิด</color>
