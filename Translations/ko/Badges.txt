@@ -43,3 +43,4 @@ Northwood 네이티브 코드 전문가
 SCP:SL 품질 보증 테스터
 SCP:SL 품질 보증 감독
 SCP:SL 트위치 구독자
+SCP:SL 음향 감독
