@@ -1,0 +1,11 @@
+<color=#1DA8FFFF>닫힘</color>
+<color=#00ee00FF>열림</color>
+<color=#FF7800FF>여는 중</color>
+<color=#ee0000FF>거부됨</color>
+<color=#ee0000FF>잠김</color>
+<color=#00C0eeFF>키카드 필요</color>
+<color=#00ee00FF>접근 허가됨</color>
+<color=#ee0000>접근 금지됨</color>
+<color=#ee7900FF>통행하세요</color>
+<color=#00ee00FF>대피하세요</color>
+<color=#ee7900FF>닫는 중</color>
