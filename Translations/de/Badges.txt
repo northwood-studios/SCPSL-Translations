@@ -43,3 +43,4 @@ Northwood Native Code Specialist
 SCP:SL Quality Assurance Tester
 SCP:SL Quality Assurance Supervisor
 SCP:SL Twitch Subscriber
+SCP:SL Audio Manager
