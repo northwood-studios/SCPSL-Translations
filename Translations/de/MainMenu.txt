@@ -22,13 +22,13 @@ Schatten
 Schatten
 ERSTELLE SPIEL
 Das Ändern dieser Einstellung wirkt sich nicht auf die Spielperformance aus. Standard Einstellungen sind empfohlen.
-Einfacher Rendermodus:\nWenn aus - lässt das Spiel schlechter aussehen. Es ist empfohlen diese Einstellung nur zu nutzen, wenn du ein schlechtes PC-Setup (low-end) besitzt.
+Rendere Licht:\nWenn aus - lässt das Spiel schlechter aussehen. Es ist empfohlen diese Einstellung nur zu nutzen, wenn du ein schlechtes PC-Setup (low-end) besitzt.
 V-SYNC
 VERBINDE
 QUALITÄTSEINSTELLUNGEN
 Das Verschieben des Reglers auf einen niedrigeren Wert kann die allgemeine Performance erhöhen.
 HAUPTMENÜ
-Einfacher Rendermodus
+Rendere Licht
 BEWEGUNGSUNSCHÄRFE
 Schattendistanz
 Details

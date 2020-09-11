@@ -1,11 +1,11 @@
-AUXILIARY POWER
+RESERVE ENERGIE
 ERFAHRUNG
 KAMERA ÜBERTRAGUNG ONLINE
 Drücke [KEY] um zur Minimap zu wechseln
 Erfahrung gesammelt:
 Zusammenarbeit
 Klasse-D Tötungsassist
-C. I. Tötungsassist
+CI Tötungsassist
 MTF Tötungsassist
 Wissenschaftler Tötungsassist
 SCP Tötungsassist

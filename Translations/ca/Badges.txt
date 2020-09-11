@@ -42,3 +42,4 @@ Northwood Especialista en Verificació
 Northwood Especialista en Codi Natiu
 SCP:SL Control i Provador de la Qualitat
 SCP:SL Supervisor de Control i Provadors de Qualitat
+SCP:SL Subscriptor de Twitch

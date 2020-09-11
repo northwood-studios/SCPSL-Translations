@@ -42,3 +42,5 @@ Northwood工作室 游戏审核专员
 Northwood工作室 本地代码专家
 SCP:SL 质量保证员
 SCP:SL 质量保证主管
+SCP:SL Twitch 订阅者
+SCP:SL 音频经理

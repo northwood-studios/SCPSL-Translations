@@ -37,7 +37,7 @@ Schattendistanz
 Bewegungsunschärfe
 Farbkorrektur
 Kantenglättung
-Einfacher Rendermodus
+Rendere Licht
 Allgemeine Lautstärke
 Soundeffekte
 Sprachchat

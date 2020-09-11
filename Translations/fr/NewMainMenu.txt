@@ -46,11 +46,11 @@ Volume de l'interface
 Thème du menu
 Fondu rapide de l'intro
 Mouvements de tête
-Option de Sprint
+Sprint automatique
 Afficher la valeur des points de vie
 Rich-Presence
 Lobby public
-Option de Recherche
+Récupérer objet sans maintenir
 SCP-079 - Basculer de mode d'affichage
 SCP-079 - Post-traitement
 Langue
