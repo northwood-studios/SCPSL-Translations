@@ -36,5 +36,5 @@ Naciśnij <color=yellow><b>F1</b></color>, aby uzyskać informacje.
 Zostałeś rozbrojony.\n<size=40>Wykonuj rozkazy lub poproś członków swojej drużyny o pomoc.</size>
 Zostałeś przechwycony przez jednostkę Nine Tailed Fox.\nWzmocniłeś jej szeregi, zmniejszając tym samym poziom zagrożenia w placówce.
 Zostałeś schwytany jako naukowiec przez Rebelię Chaosu.\nInformacje, które z ciebie wyciągnęli, pozwoliły im na uzyskanie przewagi nad jednostkami Nine-Tailed Fox.
-Runda rozpocznie się za <color=yellow>{0}</color>s
-Rozpoczęcie rundy zostało <color=#FF5050>WSTRZYMANE</color>
+Start rundy za <color=yellow>{0}</color>s
+Start rundy <color=#FF5050>WSTRZYMANY</color>
