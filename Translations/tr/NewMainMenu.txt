@@ -63,7 +63,7 @@ Hayır
 Çıkmak istediğinizden emin misiniz?
 Ekran Çözünürlüğü
 IP'yi gizle
-Hoşgelirsiniz inşallah, {username}!
+Hoşgeldiniz, {username}!
 Jenerik
 DOĞRULANIYOR
 Merkez sunuculara bağlanıyor...
@@ -72,7 +72,7 @@ Merkez sunuculara bağlanıyor...
 <color=red>Steam doğrulaması başarısız (Detaylar için konsola bakınız)</color>
 <color=red>Discord doğrulaması başarısız (Detaylar için konsola bakınız)</color>
 Devredışı
-{0] Saniye
+{0} Saniye
 Ceset Temizleme Süresi
 Steam Profilini Göster
 Oyuncuların oyuncu listesindeki ikona tıklayıp profilini görüntülemesini izin ver.
