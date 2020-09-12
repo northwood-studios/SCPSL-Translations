@@ -36,3 +36,5 @@ DRÜCKE <color=white><b>F1</b></color> FÜR MEHR INFORMATIONEN
 Du bist gefesselt\n<size=40>Folge den Anweisungen oder bitte deine Teammates um Hilfe</size>
 Du wurdest von der MTF wieder eingefangen.\nMit einer Gefahr weniger in der Einrichtung, ist es Ihnen möglich stärker zu sein.
 Du wurdest, als Wissenschaftler, von der Chaos Insurgency gefangen genommen.\nSie haben einen Vorteil bekommen, dank den Informationen welche du Ihnen gegeben hast.
+RUNDE STARTET IN: <color=yellow>{0}</color>s
+RUNDENSTART IST <color=#FF5050>PAUSIERT</color>
