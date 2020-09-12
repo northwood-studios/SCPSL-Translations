@@ -1,0 +1,11 @@
+<color=#1DA8FFFF>KAPALI</color>
+<color=#00ee00FF>AÇIK</color>
+<color=#FF7800FF>AÇILIYOR</color>
+<color=#ee0000FF>REDDEDİLDİ</color>
+<color=#ee0000FF>KİLİTLİ</color>
+<color=#00C0eeFF>KART GEREKLİ</color>
+<color=#00ee00FF>ERİŞİM SAĞLANDI</color>
+<color=#ee0000>ERİŞİM REDDEDİLDİ</color>
+<color=#ee7900FF>LÜTFEN İLERLEYİN</color>
+<color=#00ee00FF>TAHLİYE EDİN</color>
+<color=#ee7900FF>KAPANIYOR</color>
