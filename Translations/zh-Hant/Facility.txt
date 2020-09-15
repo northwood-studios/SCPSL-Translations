@@ -31,7 +31,7 @@ ALPHA核彈頭已關閉
 你以D級人員的身份逃出了，並且加入了混沌分裂者。
 你是
 逃出時間 : [escape_minutes] 分 [escape_seconds] 秒
-等候[time]後後你可以再次使用[item]。
+等候[time]秒後你可以再次使用[item]。
 按著 <color=white><b>F1</b></color> 來獲得幫助。
 你已被鎖上手銬了。\n<size=40>請乖乖服從 或 尋找隊友幫忙。</size>
 你已被九尾狐小隊奪回了。\n設施中的威脅減少了一份，他們將獲得增援。
