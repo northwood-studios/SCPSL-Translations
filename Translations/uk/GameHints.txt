@@ -1,4 +1,4 @@
-﻿<color=red>У доступі відмовлено</color>
+<color=red>У доступі відмовлено</color>
 <color=yellow>Набої [type]</color>: зібрано максимум (<color=yellow>[max_type_count]</color>).
 <color=yellow>Набої [type]</color>: уже зібрано максимум (<color=yellow>[max_type_count]</color>).
 <color=yellow>[type]</color>: зібрано максимум (<color=yellow>[max_type_count]</color>).
