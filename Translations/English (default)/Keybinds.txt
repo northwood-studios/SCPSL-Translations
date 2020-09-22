@@ -1,0 +1,19 @@
+Shoot
+Zoom
+Jump
+Interact
+Inventory
+Reload
+Run
+Voice Chat
+Sneak
+Move Forward
+Move Backward
+Move Left
+Move Right
+Player List
+Character Info
+Remote Admin
+Toggle flashlight
+Alt Voice Chat
+Noclip
