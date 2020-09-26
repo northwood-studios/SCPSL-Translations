@@ -1,20 +1,20 @@
-Schiessen
-Zoomen
-Springen
-Interagieren
-Inventar
-Nachladen
-Sprinten
-Sprachchat
-Schleichen
-Vorwärts bewegen
-Rückwärts bewegen
-Nach Links bewegen
-Nach Rechts bewegen
-Spielerliste
-Charakterinfo
+Shoot
+Zoom
+Jump
+Interact
+Inventory
+Reload
+Run
+Voice Chat
+Sneak
+Move Forward
+Move Backward
+Move Left
+Move Right
+Player List
+Character Info
 Remote Admin
-Taschenlampe Ein/Ausschalten
-Alternative Sprachchat
+Toggle Flashlight
+Alt Voice Chat
 Noclip
-Spielkonsole
+Game Console
