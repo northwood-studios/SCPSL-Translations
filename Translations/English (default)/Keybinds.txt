@@ -17,4 +17,4 @@ Remote Admin
 Toggle Flashlight
 Alt Voice Chat
 Noclip
-Spielkonsole
+Game Console
