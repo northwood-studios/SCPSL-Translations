@@ -1,0 +1,20 @@
+Schiessen
+Zoomen
+Springen
+Interagieren
+Inventar
+Nachladen
+Sprinten
+Sprachchat
+Schleichen
+Vorwärts bewegen
+Rückwärts bewegen
+Nach Links bewegen
+Nach Rechts bewegen
+Spielerliste
+Charakterinfo
+Remote Admin
+Taschenlampe Ein/Ausschalten
+Alternative Sprachchat
+Noclip
+Spielkonsole
