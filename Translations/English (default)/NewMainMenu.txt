@@ -72,7 +72,7 @@ Connecting to central servers...
 <color=red>Steam authentication failure (Check console for details)</color>
 <color=red>Discord authentication failure (Check console for details)</color>
 Disabled
-{0} Seconds
+Seconds
 Ragdoll Cleanup Time
 Display Steam Profile
 Allows players to view your Steam profile by clicking an icon on the player list.
@@ -84,3 +84,4 @@ CREATE ANYWAY
 READ MORE
 RENT A SERVER
 CANCEL
+Second
