@@ -6,13 +6,13 @@ Celowniki (Dostępnych: {0} )
 Przedłużenia lufy (Dostępnych: {0})
 Inne dodatki (Dostępnych: {0})
 Powrót
-Obrażenia {0}
-Hałaśliwość strzału {0}
-Odrzut {0}
-Siła ognia {0}
-Rozrzut pocisków (bez celowania) {0}
+Obrażenia: {0}
+Hałaśliwość strzału: {0}
+Odrzut: {0}
+Siła ognia: {0}
+Rozrzut pocisków (bez celowania): {0}
 <color=red>Modyfikuje celownik</color>
 <color=green>Wizja teleskopowa</color>
 Skala przybliżenia: <color=green>{0}</color>
 Odrzut (podczas celowania): {0}
-<size=100>ŻEGNAJ!</size>\nTerminowanie aktualnej sesji...
+<size=100>Do widzenia!</size>\nTerminowanie aktualnej sesji...

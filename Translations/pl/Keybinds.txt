@@ -15,6 +15,6 @@ Lista graczy
 Informacje o postaci
 Remote Admin
 Latarka
-Alternatywny czat głosowy
+Drugi czat głosowy
 Noclip
 Konsola gry
