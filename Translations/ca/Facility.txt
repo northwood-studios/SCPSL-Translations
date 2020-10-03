@@ -33,4 +33,6 @@ Tu ets
 Temps de fugida: [escape_minutes] minuts i [escape_seconds] segons
 Espera [time] fins que pugueu tornar a utilitzar [item].
 PRESSIONEU <color=white><b>F1</b></color> PER MÉS INFORMACIÓ
-Has estat esposat\n<size=40>segueix les ordres o demana ajuda als teus companys</size>
+Has estat esposat.\n<size=40>Segueix les ordres o demana ajuda als teus companys.</size>
+Ha estat capturada la Nine-Tailed Fox.\nAmb una amenaça menys serà possible reforçar-se.
+La insurgència del CHAOS t'ha fet presoner.\nUtilitzaran la informació que els has donat per tenir avantatge.

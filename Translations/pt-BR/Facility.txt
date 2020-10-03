@@ -9,7 +9,7 @@ I N V E N T Á R I O
 BRILHO
 OPÇÕES
 SAIR
-OGIVA ALFA ESTA DESATIVADA
+OGIVA NUCLEAR ESTA DESATIVADA
 ACESSO NEGADO
 CHAT DE VOZ
 INVENTÁRIO LOTADO
@@ -18,7 +18,7 @@ HACKEANDO
 PEGANDO...
 Aumentar o brilho <b>piora significamente a emoção </b>do jogo.\nTente deixar esse valor o mais baixo possivel.\n<b>é recomendado deixar no valor padrão.</b>
 [1] ABRIR/FECHAR PORTA\n[2] TRANCAR A PORTA*\n\n*Ao fechar a porta usa a habilidade especial.
-A PORTA FOI BLOQUEADO PELO SCP-079.
+A PORTA FOI BLOQUEADA PELO SCP-079.
 Modo tela cheia.
 Tem certeza que deseja sair desse servidor?
 Opções basicas. Lista completa das configurações no menu principal.
@@ -31,3 +31,6 @@ Você escapou como cientista e se juntou as tropas da MTF.
 Você escapou como Classe-D e se juntou as tropas da Insurgencia do Caos.
 VOCÊ É
 Tempo de fuga: [escape_minutes] minutos e [escape_seconds] segundos
+Espere [time] para poder usar [item] novamente.
+SEGURE <color=white><b>F1</b></color> PARA MAIS INFORMAÇÕES.
+Você foi algemado\n<size=40>Siga ordens ou peça ajuda a alguem do seu time</size>

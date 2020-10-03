@@ -79,3 +79,8 @@ Erlaubt anderen Spielern dein Steamprofil aufzurufen wenn sie in der Spielerlist
 Do Not Track (DNT)
 Verbietet dem Server deine Daten (IP Adresse, User ID, etc.) zu nutzen, außer für Zwecke welche der Serversicherheit dienen.
 Grafik API
+Einen Server direkt im Spiel zu erstellen ist nicht mehr Nativ unterstützt.\nEs gibt zur Zeit 3 Möglichkeiten einen SCP:SL Server zu hosten:\n- Du kannst einen Server auf deinem Rechner mit dem Programm SCP:SL Dedicated Server (Steamapp ID: 996560) hosten.\n – Du kannst einen VPS oder dedizierten Server mieten und dort den SCP:SL Dedicated Server drauf laufen lassen.\n – Du kannst einen vorinstallierten SCP:SL Server von einem Hoster (z.B. Zap Hosting) mieten.\n\nKlicke auf die Links weiter unten um mehr Informationen dazu zu erhalten.\nDu kannst unseren Tech-Support bei Problemen um Hilfe bitten (Link zu unserem Discordserver kann im Hauptmenü gefunden werden)
+ERSTELLE TROTZDEM
+MEHR LESEN
+MIETE EINEN SERVER
+ABBRECHEN
