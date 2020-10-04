@@ -1,0 +1,5 @@
+你已死亡
+按 {KEYBINDING_INTERACTION} 放置<color=yellow>武器控制面板</color>。
+按 {KEYBINDING_INTERACTION} 拿起<color=yellow>武器控制面板</color>。
+这台<color=yellow>工作站</color>已经连接了其他人的<color=yellow>武器控制面板</color>。
+你需要用<color=yellow>武器控制面板</color>来激活这台<color=yellow>工作站</color>。

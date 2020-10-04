@@ -1,0 +1,20 @@
+Strzał
+Przybliżenie
+Skok
+Interakcja
+Ekwipunek
+Przeładowanie broni
+Bieg
+Czat głosowy
+Skradanie
+Ruch w przód
+Ruch w tył
+Ruch w lewo
+Ruch w prawo
+Lista graczy
+Informacje o postaci
+Remote Admin
+Latarka
+Drugi czat głosowy
+Noclip
+Konsola gry
