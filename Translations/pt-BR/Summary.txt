@@ -1,17 +1,17 @@
 A rodada terminou!
 SCPs GANHARAM
 MTF GANHARAM
-CLASS-D GANHARAM
+CLASSEs-D GANHARAM
 EMPATE
-Eles sao responsaveis por matar [summary_scpfrags] seres humanos.
-Ameaça terminada. Este lugar esta seguro novamente.
-Toda a seguranca da Fundacao foi encerrada.
-Ambos os lados sofreram perdas e se beneficiaram mutualmente. O vencedor e indeterminado.
-[summary_d_escaped] Classe-D(s) escaparam
+SCPs foram responsáveis por matar [summary_scpfrags] seres humanos.
+Ameaça eliminada. Este lugar está seguro novamente.
+Toda a segurança da Fundação foi eliminada.
+Ambos os lados sofreram perdas e se beneficiaram mutualmente. O vencedor é indeterminado.
+[summary_d_escaped] Classe(s)-D escaparam
 [summary_s_escaped] Cientista(s) sobreviveram
-Detonação da Ogiva Nuclear terminada, [summary_warhead_kills] seres eliminados.
-A Ogiva Nuclear nao foi detonada durante esta missao.
-A missao levou [summary_round_minutes] minutos e [summary_round_seconds] segundos.
+A Detonação da Ogiva Nuclear eliminou [summary_warhead_kills] entidades.
+A Ogiva Nuclear não foi detonada durante esta missão.
+A missão levou [summary_round_minutes] minutos e [summary_round_seconds] segundos.
 [summary_scp_terminated] SCPs eliminados.
-Proxima rodada em [summary_next_round_countdown] segundos.
-Você deu [summary_damages] de dano, e matou [summary_kills] jogadores.
+Próxima rodada iniciando em [summary_next_round_countdown] segundos.
+Você causou [summary_damages] de dano, e matou [summary_kills] jogadores.
