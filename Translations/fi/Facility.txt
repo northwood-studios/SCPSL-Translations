@@ -36,3 +36,5 @@ Paina <color=white><b>F1</b></color> saadaksesi lisätietoja.
 Sinut on pidätetty.\n<size=40>Seuraa ohjeita tai kysy tiimikavereilta apua.</size>
 Nine-Tailed Fox otti sinut kiinni.\nNyt yksi vähempi uhka laitoksessa, he pystyivät vahvistumaan.
 Sinut otettiin vangiksi tutkijana Chaos Insurgencyn toimesta.\nHe pystyivät hyötymään tiedosta jota annoit heille.
+KIERROS ALKAA: <color=yellow>{0}</color>s
+KIERROKSEN ALKAMINEN ON <color=#FF5050>PYSÄYTETTY</color>
