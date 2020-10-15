@@ -1,9 +1,9 @@
 NO MODS
 None
 Holo Sight
-Red Dot
+Red Dot Sight
 Blue Dot Sight
-Collimator
+Collimator Sight
 Night Vision Sight
 Sniper Scope
 Suppressor
