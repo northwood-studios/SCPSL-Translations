@@ -10,7 +10,7 @@ Marche Furtive
 Avancer
 Reculer
 Aller à Gauche
-Aller àDroite
+Aller à Droite
 Liste des Joueurs
 Informations Personnage
 Remote Admin
