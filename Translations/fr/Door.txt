@@ -7,5 +7,5 @@
 <color=#00ee00FF>ACCÈS AUTORISÉ</color>
 <color=#ee0000>ACCÈS REFUSÉ</color>
 <color=#ee7900FF>VEUILLEZ PASSER</color>
-<color=#00ee00FF>EVACUEZ</color>
+<color=#00ee00FF>ÉVACUEZ</color>
 <color=#ee7900FF>FERMETURE</color>
