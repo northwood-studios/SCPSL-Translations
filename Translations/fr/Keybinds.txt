@@ -1,11 +1,11 @@
 Tirer
-Zoom
+Zoomer
 Sauter
 Interagir
 Inventaire
 Recharger
-Sprint
-Presser pour Parler
+Courir
+Chat Vocal
 Marche Furtive
 Avancer
 Reculer
@@ -15,6 +15,6 @@ Liste des Joueurs
 Informations Personnage
 Remote Admin
 Lampe Torche
-Presser pour Parler Alternatif
+Chat Vocal Alt
 Noclip
-Console de Jeu
+Console de Commandes
