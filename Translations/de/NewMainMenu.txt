@@ -72,7 +72,7 @@ Verbinde mit den Central Servern...
 <color=red>Steam-Authentifizierung fehlgeschlagen (Prüfe deine Konsole für Details)</color></color>
 <color=red>Discord-Authentifizierung fehlgeschlagen (Prüfe deine Konsole für Details)</color></color>
 <size=25>Ausgeschaltet</size>
- Sekunden
+Sekunden
 Ragdoll Beseitigungszeit
 Zeige Steamprofil an
 Erlaubt anderen Spielern dein Steamprofil aufzurufen wenn sie in der Spielerliste auf ein Icon klicken.
@@ -84,4 +84,4 @@ ERSTELLE TROTZDEM
 MEHR LESEN
 MIETE EINEN SERVER
 ABBRECHEN
- Sekunde
+Sekunde
