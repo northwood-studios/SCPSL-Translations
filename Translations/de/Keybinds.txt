@@ -1,6 +1,6 @@
 <size=25>Schießen</size>
 <size=25>Zoomen</size>
-<size=25S>Springen</size>
+<size=25>Springen</size>
 <size=25>Interagieren</size>
 <size=25>Inventar</size>
 <size=25>Nachladen</size>
