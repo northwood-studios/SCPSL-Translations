@@ -79,3 +79,9 @@ Oyuncuların oyuncu listesindeki ikona tıklayıp profilini görüntülemesini i
 Do Not Track (DNT)
 Sunucunun verilerinizi (IP adresi, kullanıcı kimliği, vb.) sunucu güvenliği ile ilgili olmayan amaçlarla kullanmasını yasaklar.
 Grafik API
+Oyunda doğrudan sunucu oluşturmak artık desteklenmiyor.\nŞu anda SCP:SL sunucusu oluşturmanın 3 yolu vardır:\n- SCP:SL'ye ayrılmış sunucuyu (Steam AppID: 996560) indirebilir ve bilgisayarınızda çalıştırabilirsiniz\n- Bir barındırma sağlayıcısından bir VPS veya Adanmış Sunucu[Dedicated Server] kiralayabilir ve burada SCP:SL için adanmış sunucu çalıştırabilirsiniz\n- SCP:SL'yi destekleyen bir oyun barındırma sağlayıcısından bir SCP:SL sunucusu kiralayabilirsiniz (örn. ZAP Hosting)\n\nDaha fazla bilgi almak için aşağıdaki bağlantılara tıklayın.\nYardım için teknik desteğimizden (Discord sunucumuzun bağlantısı ana menüde bulunabilir) isteyebilirsiniz.
+YİNE DE OLUŞTUR
+DAHA FAZLASINI OKU
+BİR SUNUCU KİRALA
+İPTAL
+İkinci
