@@ -1,0 +1,4 @@
+<size=180><color=red>已停用</color></size>
+<color=red><size=200>請等候</size></color>
+<color=lime><size=180>準備就緒</size></color>
+無法終止引爆程序

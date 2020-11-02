@@ -1,0 +1,4 @@
+<size=180><color=red>ОТКЛЮЧЕНО</color></size>
+<color=red><size=200>ОЖИДАЙТЕ</size></color>
+<color=lime><size=180>ГОТОВО</size></color>
+ДЕТОНАЦИЯ НЕИЗБЕЖНА

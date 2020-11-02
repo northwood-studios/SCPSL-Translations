@@ -32,5 +32,9 @@ Elmenekültél és csatlakoztál a Chaos Insurgencyhez.
 EZ VAGY:
 Ennyi idő alatt szöktél el: {0} perc és {1} másodperc
 Várj [time], mielőtt újra használhatod a következő tárgyat: [item].
-TARTSD LENYOMVA AZ <color=white><b>F1</b></color>-T TOVÁBBI INFORMÁCIÓÉRT
+NYOMD MEG AZ <color=white><b>F1</b></color>-T TOVÁBBI INFORMÁCIÓÉRT
 Meg lettél bilincselve\n<size=40>kövesd az utasításokat, vagy kérj segítséget a társaidtól</size>
+A Nine-Tailed Fox sikeresen elzárt téged.\nMivel a létesítmény területén egyel kevesebb veszélyforrás van, erősítést tudtak hívni.
+A Chaos Insurgency fogságba ejtett téged.\nSikeresen előnyre tettek szert a te általad kiadott információkból.
+A KÖR: <color=yellow>{0}</color>mp-en belül indul
+A KÖR KEZDÉSE <color=#FF5050>SZÜNETELVE</color>

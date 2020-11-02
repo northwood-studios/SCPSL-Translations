@@ -36,3 +36,5 @@ Press <color=yellow><b>F1</b></color> for help.
 You have been cuffed.\n<size=40>Follow orders or ask teammates for help.</size>
 You were recaptured by the Nine-Tailed Fox.\nWith one less threat in the facility, they were able to reinforce.
 You were taken prisoner as a scientist by the Chaos Insurgency.\nThey were able to gain an advantage from the information you gave them.
+ROUND STARTS IN: <color=yellow>{0}</color>s
+ROUND START IS <color=#FF5050>PAUSED</color>

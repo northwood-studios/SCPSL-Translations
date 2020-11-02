@@ -1,0 +1,4 @@
+<size=180><color=red>DEAKTIVIERT</color></size>
+<color=red><size=200>BITTE WARTEN</size></color>
+<color=lime><size=180>BEREIT</size></color>
+DETONATION UNAUSWEICHLICH

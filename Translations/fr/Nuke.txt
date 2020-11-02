@@ -1,0 +1,4 @@
+<size=180><color=red>DÉSACTIVÉ</color></size>
+<color=red><size=200>VEUILLEZ PATIENTER</size></color>
+<color=lime><size=180>PRÊT</size></color>
+DÉTONATION INÉVITABLE

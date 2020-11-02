@@ -3,9 +3,9 @@ SIGA ORDENS
 O MESMO NIVEL DE PERMISSÃO
 Class-D Personnel escaparam
 Cientistas sobreviveram
-Mortos por SCPs
+Morto por SCPs
 SCPs mortos/contidos
-Ogiva Alfa
+Ogiva Nuclear
 Detonado
 Não usado
 A proxima partida iniciara em [time] segundos.
@@ -15,3 +15,5 @@ USAR BURACO
 VOCÊ MORREU
 Voce foi morto por
 como
+Passivo
+(escondido)
