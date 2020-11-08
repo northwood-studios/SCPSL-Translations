@@ -1,4 +1,4 @@
-Zgłoś Gracza
+Zgłoś gracza
 Gracz:\nID Gracza:\n\nOpis:
 Anuluj
 Łamanie regulaminu serwera

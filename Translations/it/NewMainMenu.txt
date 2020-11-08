@@ -1,6 +1,6 @@
 Notizie
 Lista Server
-Imposazioni
+Impostazioni
 Esci
 Social Media
 Internet

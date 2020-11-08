@@ -1,10 +1,10 @@
 Carte d'accès de Concierge : Pas de description.
 Carte d'accès de Scientifique : Pas de description.
-Carte d'accès de Scientifique majeur : Pas de description.
-Carte d'accès du Manager de zone : Pas de description.
+Carte d'accès de Scientifique Senior : Pas de description.
+Carte d'accès du Manager du Site : Pas de description.
 Carte d'accès de Garde : Pas de description.
 Carte d'accès de Cadet Epsilon-11 : Pas de description.
-Carte d'accès de l'Ingénieur de confinement : Pas de description.
+Carte d'accès d'Ingénieur de confinement : Pas de description.
 Carte d'accès de Lieutenant Epsilon-11 : Pas de description.
 Carte d'accès de Commandant Epsilon-11 : Pas de description.
 Carte d'accès du Manager du site : Pas de description.

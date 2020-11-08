@@ -63,7 +63,7 @@ Hayır
 Çıkmak istediğinizden emin misiniz?
 Ekran Çözünürlüğü
 IP'yi gizle
-Hoşgelirsiniz inşallah, {username}!
+Tekrar hoşgeldiniz, {username}!
 Jenerik
 DOĞRULANIYOR
 Merkez sunuculara bağlanıyor...
