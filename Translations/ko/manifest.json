@@ -1,16 +1,16 @@
 {
-    "Name":"Korean (한국어)",
-    "Authors":[
-        "Dr-Devan",
-        "Arizen",
-        "OneKoin"
-    ],
-    "SystemLocales":[
-        "ko-KR",
-        "ko-KP",
-        "ko"
-    ],
-    "ForcedFontOrder":[
-        "NotoSansCJKkr-RegularDynamic"
-    ]
+  "Name": "Korean (한국어)",
+  "Authors": [
+    "Dr-Devan",
+    "Arizen",
+    "OneKoin"
+  ],
+  "SystemLocales": [
+    "ko-KR",
+    "ko-KP",
+    "ko"
+  ],
+  "ForcedFontOrder": [
+    "NotoSansCJKkr-RegularDynamic"
+  ]
 }

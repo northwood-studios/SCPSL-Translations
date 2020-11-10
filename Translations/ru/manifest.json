@@ -1,0 +1,18 @@
+{
+  "Name": "Русский - Russian",
+  "Authors": [
+    "Welcome To Hell Project"
+  ],
+  "SystemLocales": [
+    "ru-BY",
+    "ru-KZ",
+    "ru-KG",
+    "ru-MD",
+    "ru-RU",
+    "ru-UA",
+    "ru"
+  ],
+  "ForcedFontOrder": [
+
+  ]
+}

@@ -1,13 +1,13 @@
 {
-    "Name":"Japanese (日本語)",
-    "Authors":[
-        "PalZaxson"
-    ],
-    "SystemLocales":[
-        "ja-JP",
-        "ja"
-    ],
-    "ForcedFontOrder":[
-        "NotoSansCJKjp-RegularDynamic"
-    ]
+  "Name": "Japanese (日本語)",
+  "Authors": [
+    "PalZaxson"
+  ],
+  "SystemLocales": [
+    "ja-JP",
+    "ja"
+  ],
+  "ForcedFontOrder": [
+    "NotoSansCJKjp-RegularDynamic"
+  ]
 }

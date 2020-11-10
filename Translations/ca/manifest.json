@@ -1,0 +1,16 @@
+{
+  "Name": "Català - Catalan",
+  "Authors": [
+    "ThiEstoRil"
+  ],
+  "SystemLocales": [
+    "ca-AD",
+    "ca-FR",
+    "ca-IT",
+    "ca-ES",
+    "ca"
+  ],
+  "ForcedFontOrder": [
+
+  ]
+}

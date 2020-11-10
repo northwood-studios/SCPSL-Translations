@@ -1,16 +1,16 @@
 {
-    "Name":"Chinese (Traditional) (中文(繁體))",
-    "Authors":[
-        "X-EROS",
-        "Arkira-Kouyo"
-    ],
-    "SystemLocales":[
-        "zh-TW",
-        "zh-HK",
-        "zh-MO",
-        "zh-Hant"
-    ],
-    "ForcedFontOrder":[
-        "NotoSansCJKtc-RegularDynamic"
-    ]
+  "Name": "Chinese (Traditional) (中文(繁體))",
+  "Authors": [
+    "X-EROS",
+    "Arkira-Kouyo"
+  ],
+  "SystemLocales": [
+    "zh-TW",
+    "zh-HK",
+    "zh-MO",
+    "zh-Hant"
+  ],
+  "ForcedFontOrder": [
+    "NotoSansCJKtc-RegularDynamic"
+  ]
 }
