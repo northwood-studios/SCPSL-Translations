@@ -1,0 +1,17 @@
+name: TranslationManifestChecker
+
+on: pull_request
+
+jobs:
+  check:
+    runs-on: windows-latest
+    steps:
+    - uses: actions/checkout@v2
+      
+    - id: files
+      uses: jitterbit/get-changed-files@v1
+      with:
+        format: 'csv'
+
+    - name: Check Translation
+      run: .\TranslationChecker.exe -githubaction "${{ steps.files.outputs.all }}"
