@@ -14,4 +14,4 @@ jobs:
         format: 'csv'
 
     - name: Check Translation
-      run: .\TranslationChecker.exe -githubaction "${{ steps.files.outputs.all }}"
+      run: .\TranslationManifestChecker.exe -githubaction "${{ steps.files.outputs.all }}"
