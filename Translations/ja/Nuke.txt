@@ -1,0 +1,4 @@
+<size=180><color=red>無効</color></size>
+<color=red><size=200>お待ちください</size></color>
+<color=lime><size=180>準備完了</size></color>
+間もなく爆破
