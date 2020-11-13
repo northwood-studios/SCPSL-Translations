@@ -1,0 +1,4 @@
+<size=150><color=red>ВІДКЛЮЧЕНО</color></size>
+<color=red><size=180>ЗАЧЕКАЙТЕ</size></color>
+<color=lime><size=180>ГОТОВО</size></color>
+ДЕТОНАЦІЯ НЕМИНУЧА
