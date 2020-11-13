@@ -25,7 +25,7 @@ MP7:No description
 Logicer:No description
 Frag Grenade:Boom!
 Flashbang Grenade:Blinds your enemies.
-Disarmer:Left click disarms, right click unties. \nHold E on someone who is disarmed on your team to free them.
+Disarmer:Left click disarms, right click unties.\nHold E on someone who is disarmed on your team to free them.
 Dropped 7.62:No description.
 Dropped 9mm:No description.
 USP:No description.
@@ -33,3 +33,4 @@ SCP-018:Superball able to bounce with extreme efficiency.
 SCP-268:When worn, temporarily makes you invisible unless it is interrupted by any user interaction.
 Adrenaline:Temporarily increases endurance.
 Painkillers:Relieve minor injuries.
+Coin:You're not sure why you'd want to carry this around...

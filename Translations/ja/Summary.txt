@@ -1,17 +1,17 @@
-この ラウンド は 終わりました!
-SCPs 勝利
-MTF 勝利
-CLASS-D 勝利
+ラウンド終了!
+SCPの勝利
+機動部隊の勝利
+Dクラス職員の勝利
 引き分け
-彼らは残り [summary_scpfrags] 人を殺す義務があります。
-脅威は終了されました。 この場所は再び安全になりました。
-財団の警備は全て解除されました。
-互いに損失と利益を受けました。 勝者は未決です。
-[summary_d_escaped] class-d 脱出
-[summary_s_escaped] scientist(s) 生存
-Alpha Warhead の爆発は [summary_warhead_kills] を終了しました。
-Alpha Warhead はこのミッション中に爆発しませんでした。
-このミッションは [summary_round_minutes] 分 と [summary_round_seconds] 秒を要した。
-[summary_scp_terminated] 終了された SCPs
-次のラウンドは [summary_next_round_countdown] 秒で始まります。
-貴方は [summary_damages] ダメージを与えた そして [summary_kills] 人を殺した。
+彼らによって[summary_scpfrags]人の人間が殺害されました。
+脅威は去り、この場所は再び安全になりました。
+財団のセキュリティはすべて無効化されました。
+双方が損失を被りつつ、大きな恩恵を受けました。勝者は未定です。
+[summary_d_escaped] Dクラス職員 脱出
+[summary_s_escaped] 研究員 生存
+Alpha Warheadにより、[summary_warhead_kills]の存在が無効化されました。
+この作戦中ではAlpha Warheadは起爆されませんでした。
+この作戦は[summary_round_minutes]分[summary_round_seconds]秒かかりました。
+[summary_scp_terminated] SCP 無力化
+次のラウンドは[summary_next_round_countdown]秒後に開始されます。
+あなたは[summary_damages]ダメージを与え、[summary_kills]人を殺しました。

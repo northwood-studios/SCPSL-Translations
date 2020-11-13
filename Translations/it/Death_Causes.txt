@@ -1,17 +1,22 @@
-Morto a causa di un' esplosione.
-La caduta ha terminato la sua vita.
-Morto per ricontenere l' SCP-106.
+Vaporizzato dalla testata nucleare.
+Le fratture a gambe e piedi suggeriscono un trauma fatale causato da una caduta.
+I segni di un grave trauma ad entrambe le ossa femorali suggeriscono la morte per shock circolatorio.
 Perduto nella dimensione tascabile.
 Sono dei resti lasciati dal SCP-106.
-Scossa ad alta tensione.
-Schiacciato da una struttura pesante.
-Ci sono molte ferite da arma da fuoco sul cadavere. Probabilmente, sono state causate da delle munizioni di tipo [ammotype].
+Ustioni gravi da elettrocuzione.
+Trauma contusivo fatale; il corpo è gravemente mutilato e spappolato.
+[ammotype] ferite da colpi di proiettile.
 Il collo è spezzato alla base del cranio.
-Non è sopravvissuto all' incontro con l' SCP-106.
-Il soggetto è stato curato dalla piaga.
+Enormi quantità di decadimento dei tessuti presenti sul corpo.
+Interruzione improvvisa dei segni vitali. Nessun trauma.
 Causa della morte sconosciuta.
 I resti del corpo di <b>[user]</b>, Ruolo: [class]!\n\nCausa della morte: [cause]
-Fatto a pezzi dal SCP-096.
-Morso potente sul cranio.
+Lacerazioni massicce ed eccessiva perdita di sangue.
+Si osservano segni di morsi profondi attorno al cranio.
 Sciolto da una sostanza altamente corrosiva.
-Ferite post esplosione.
+Shrapnel e ustioni di terzo grado causate da un'esplosione.
+La pelle pallida e le perdite di sangue dalla bocca suggeriscono un'emorragia interna causata dall'ingestione di sostanze.
+Ricontenuto da un umano.
+Trauma contusivo e piccoli graffi sono presenti sul corpo.
+Grave perdita di sangue causata da ferite profonde.
+La pelle giallo malata e un odore rancido suggeriscono la morte per avvelenamento.

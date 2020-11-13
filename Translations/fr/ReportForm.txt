@@ -1,0 +1,7 @@
+Signaler un joueur
+Cible:\nID du joueur:\nDescription:
+Annuler
+Signaler pour violation des règles du serveur
+Signaler pour tricherie ou raid
+REPORT
+Veuillez patienter...

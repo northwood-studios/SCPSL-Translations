@@ -1,0 +1,27 @@
+"lang"
+{
+	"Language"	"japanese"
+	"Tokens"
+	{
+		"#Status_WaitingForPlayers"	"プレイヤーを待っています...(%lobbystatus%)"
+		"#Status_MainMenu"	"メインメニュー"
+		"#PlayingAs"	"{#Class_%class%}としてプレイ中 (%lobbystatus%)"
+		"#Class_Scp173"	"SCP-173"
+		"#Class_ClassD"	"Dクラス職員"
+		"#Class_Spectator"	"観戦"
+		"#Class_NtfScientist"	"九尾狐 研究員"
+		"#Class_Scp049"	"SCP-049"
+		"#Class_Scientist"	"研究員"
+		"#Class_Scp079"	"SCP-079"
+		"#Class_ChaosInsurgency"	"カオス・インサージェンシー"
+		"#Class_Scp096"	"SCP-096"
+		"#Class_Scp0492"	"SCP-049-2"
+		"#Class_NtfLieutenant"	"九尾狐 副官"
+		"#Class_NtfCommander"	"九尾狐 指揮官"
+		"#Class_NtfCadet"	"九尾狐 候補生"
+		"#Class_Tutorial"	"チュートリアル"
+		"#Class_FacilityGuard"	"施設警備員"
+		"#Class_Scp93953"	"SCP-939-53"
+		"#Class_Scp93989"	"SCP-939-89"
+	}
+}

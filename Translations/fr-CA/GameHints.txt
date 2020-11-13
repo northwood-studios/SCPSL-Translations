@@ -1,0 +1,6 @@
+<color=red>Accès refusé</color>
+Limite de <color=yellow>munitions [type]</color> atteinte (<color=yellow>[max_type_count] cartouches</color>)
+Limite de <color=yellow>munitions [type]</color> <b>déjà</b> atteinte (<color=yellow>[max_type_count] cartouches</color>)
+Limite d'items <color=yellow>[type]</color> atteinte (<color=yellow>[max_type_count] items</color>)
+Limite d'items <color=yellow>[type]</color> <b>déjà</b> atteinte (<color=yellow>[max_type_count] items</color>)
+Seuls <color=yellow>[max_item_count] items</color> peuvent être transportés.

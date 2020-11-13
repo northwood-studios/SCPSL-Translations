@@ -1,5 +1,5 @@
-YOU DIED
-Press {KEYBINDING_INTERACTION} to place the <color=yellow>Weapon Manager Tablet</color>.
-Press {KEYBINDING_INTERACTION} to pick up the <color=yellow>Weapon Manager Tablet</color>.
-This <color=yellow>workstation</color> already has someone else's <color=yellow>Weapon Manager Tablet</color> connected.
-You need a <color=yellow>Weapon Manager Tablet</color> to use this <color=yellow>workstation</color>.
+ÖLDÜN
+<color=yellow>Silah Yönetim Tableti</color> 'ni yerleştirmek için {KEYBINDING_INTERACTION} tuşuna bas.
+<color=yellow>Silah Yönetim Tableti</color> 'ni toplamak için {KEYBINDING_INTERACTION} tuşuna bas.
+Bu <color=yellow>iş santrali</color> çoktan başkasının <color=yellow>Silah Yönetim Tableti</color> ile bağlanmış.
+Bu <color=yellow>iş santrali</color> 'nu kullanmak için <color=yellow>Silah Yönetim Tableti</color> 'ne ihtiyacın vardır.

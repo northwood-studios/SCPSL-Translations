@@ -1,0 +1,81 @@
+Notícias
+Servidores
+Opções
+Sair
+Mídia Social
+Internet
+Favoritos
+Oficial
+Historico
+Amigos
+Procurar Servidores
+Criar Servidor
+Reconectar
+Conexão direta
+Recarregar
+Esconder Servidores Vazios
+Esconder Servidores Cheios
+Sem Whitelist
+Video
+Audio
+Controles
+Gameplay
+Outros
+Modo Janela
+Tela cheia
+Janela sem Borda
+Janela Maximizada
+Janela
+V-Sync
+Limite de FPS
+Desligado
+Qualidade da Textura
+Quantidade maxima de Sangue
+Sombras
+Qualidade da Sombra
+Distancia da Sombra
+Motion Blur
+Correção de cores
+Anti Aliasing
+Modo de Renderização de Luz
+Volume Principal
+Efeitos Sonoros
+Chat de Voz
+Volume do Menu
+Volume da Interface
+Musica do Menu
+Intro Desaparecer Rapidamente
+Balanço da Cabeça
+Ativar "Sprint"
+Exibir Numero de Vida Exato
+Presença na Comunidade
+Lobby Publico
+Ativar "Search"
+SCP-079 - Modo alternativo
+SCP-079 - Pós-Processamento
+Idioma
+Menu Principal
+Conectar
+Voltar
+Essa alteração exige recarregar o menu.\nRecarregar o menu agora?
+Sim
+Não
+Você tem certeza que quer sair?
+Resolução da tela
+Esconder IP
+Bem vindo de volta, {username}!
+Creditos
+AUTENTICANDO
+Conectando-se a os servidores centrais...
+<color=green>Conexão estabelecida</color>
+<color=red>Falha na conexão (Verifique o console para obter detalhes)</color>
+<color=red>Falha na autenticação da Steam (Verifique o console para obter detalhes)</color>
+<color=red>Falha na autenticação do Discord (Verifique o console para obter detalhes)</color>
+Desativado
+{0} Segundo(s)
+Tempo de limpeza de Ragdoll
+Mostrar perfil da steam
+Permite que jogadores vejam o seu perfil na steam clicando no icone na lista de jogadores.
+Do Not Track (DNT)
+Proibe que o servidor utilize os seus dados (endereço IP, ID de usuário, etc.) em propósitos não relacionados à segurança do servidor.
+Graficos API

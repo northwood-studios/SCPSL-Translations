@@ -1,8 +1,0 @@
-Witaj w SCP: Secret Laboratory! Jestem jednym z aktorów głosowych do tej gry.\nPrzedstawie ci podstawowe zasady gry.\nSpróbuj znaleść i sprawdzić toalety, w znalezieniu karty dostępu.\n
-<color=#00FF58>Użyj <b>W, A, S & D</b> żeby pójść w stronę <b>toalet</b>\nUżyj <b>E</b> aby <b>wejść w interakcję</b> z drzwiami i przedmiotami.</color>
-Dobrze, teraz ją podnieś.
-Karty dostępu są jedne z ważniejszych elementów tej gry, dając możliwość wejścia do zablokowanych miejsc.\nSprawdź pobliższe drzwi i spróbuj je otworzyć za pomocą zdobytej karty.
-<color=#00FF58>Użyj <b>TAB</b> by otworzyć ekwipunek.\n<b>Lewy przycisk myszy</b> by wybrać przedmiot\ni <b>prawy</b> żeby go upuścić.
-Jeżeli będziesz chciał otworzyć kolejne drzwi - Sugeruję ci znalezienie lepszej karty.
-Każda karta ma swój poziom uprawnień. Możesz porównać karty najeżdżając kursorem myszy na jedną z nich w twoim ekwipunku.
-Gratulację! Przeszedłeś właśnie pierwszą część poradnika!

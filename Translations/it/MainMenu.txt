@@ -25,7 +25,7 @@ Cambia impostazioni di post-processing. Questi cambiamenti non avranno effetti s
 MODALITA' DI RENDERIZZAZIONE DELLE LUCI:\nQuando disattivato - il gioco avra' un aspetto peggiore. E' consigliabile usarlo solo se si possiede un computer di fascia bassa
 V-SYNC
 CONNETTITI
-IMPOSTAZIONI QUALITA'
+IMPOSTAZIONI QUALITÀ
 Cambia le preferenze sulle ombre. Posizionare questi sliders sul valore piu' basso potrebbe migliorare la fluidita' di gioco.
 MENU
 MODALITA' DI RENDERIZZAZIONE DELLE LUCI
@@ -59,25 +59,33 @@ SANGUE
 Limita FPS
 Se il vSync è attivo i frame non verranno limitati!
 Ripristina
-We use Steam Discussions as a forum. (Click the logo below to open the forum)
+Usiamo le discussioni di Steam come un Forum. (Clicca sul logo in basso per aprire i forum)
 IMPOSTAZIONI AUDIO
 VOLUME PRINCIPALE
 MUSICA DEL MENU'
 CHAT VOCALE
 EFFETTI SONORI
-OPZIONI GAMEPLAU
+OPZIONI GAMEPLAY
 INTRODUZIONE VELOCE
 Velocizza l'introduzione
 SCP-079 - MODALITA' VISUALIZZAZIONE
-Premi una volta per cambiare le modalità della camera.
+Premi una volta per cambiare le modalità della telecamera.
 SCP-079 - POST-PROCESSING
 Se disabilitato gli effetti della camera verranno pesantemente ridotti.
-HEAD BOB
-Enables first-person camera bobbing during movement.
-CORSA ATTIVA
-Imposta la corsa ad on oppure off invece che tenere premuto il pulsante.
+SOBBALZO TESTA
+Abilita il sobbalzo della telecamera in prima persona durante i movimenti.
+ATTIVA/DISATTIVA CORSA
+Attiva o disattiva la corsa con un tasto invece che tenere premuto il pulsante.
 SEPARA BARRA HP ARTIFICIALE
-Fornisce agli HP la propria barra della salute, anziché una overlay.
-Our translations are open-source on GitHub!\nWant to help? Click here to access the repo.
+Fornisce agli HP la propria barra della salute, anziché un overlay.
+Le nostre traduzioni sono Opensource su GitHub!\nVuoi dare una mano? Clicca qui per accedere al repository.
 RICH PRESENCE
-If enabled, your status will be displayed on Discord/Steam.
+Se abilitata, il tuo stato verrà mostrato su Discord/Steam.
+MOSTRA VALORE HP ESATTO
+Mostra il valore degli HP esatto al posto della percentuale.
+LOBBY PUBBLICA
+Se attiva, i tuoi amici possono unirsi alla tua lobby senza chiedere il permesso.
+NASCONDI IP
+Se abilitato, qualsiasi IP visualizzato nella console del client non verrà visualizzato.
+ATTIVA/DISATTIVA RICERCA
+Raccogliere un item non richiederà premere un tasto; premi di nuovo per annullare.

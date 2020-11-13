@@ -1,0 +1,17 @@
+de Rundn is voabei!
+SCPs GWINNAN
+MTF GWINNAN
+KLOSS-D's GWINNAN
+UNENTSCHIEDN
+Se san vantwortlich fia [summary_scpfrags] menschliche Valuste.
+Bedrohung beseitigt. De Sichaheit vo dem Ort is wiedaheagstöt.
+Des gesomte Foundationsichaheitspersonal wurde getötet.
+Beide Seiten homn erhebliche Verluste erlittn. Dea Sieger konn ned ermittelt wean.
+[summary_d_escaped] Kloss-D's entkuma
+[summary_s_escaped] Wissenschoftla überlebtn
+Dea Alpha Warhead hod [summary_warhead_kills] Lebewesen umbrocht.
+Der Alpha Warhead is ned g'nutzt woan.
+De Mission dauerte [summary_round_minutes] Minuten und [summary_round_seconds] Sekundn.
+[summary_scp_terminated] umbrochte SCP's
+Nächste Rundn startet in [summary_next_round_countdown] Sekundn.
+Du host [summary_damages] Schaden vaursocht und [summary_kills] Spieler umbrocht.

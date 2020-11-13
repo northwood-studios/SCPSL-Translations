@@ -1,33 +1,36 @@
-SES YUKSEKLIGI
+SES DÜZEYİ
 Evet
-BASLAMAYA ZORLA
-SCP-106 GERI-ZAPTETME\nPROSEDURU ASIRI YUKLENMESI
-Y-ekseni ters cevir
-OZET
-Iptal
+BAŞLAMAYA ZORLA
+SCP-106 GERİ BARINDIRMA\nPROSEDÜRÜ BAŞLAT
+Y-ekseni ters çevir
+ÖZET
+İptal
 E N V A N T E R
 PARLAKLIK
 AYARLAR
-CIK
-ALFA SAVAS BASLIGI DEVREDISI
-ERISIM REDDEDILDI
-SESLI SOHBET
-ENVANTER ASRI YUKLENMESI
-F. HASSASIYETI
-HACKLENIYOR
+BAĞLANTIYI KES
+ALFA SAVAŞ BAŞLIĞI DEVREDIŞI
+ERİŞİM REDDEDİLDİ
+SESLİ SOHBET
+ENVANTER DOLU
+F. HASSASİYETİ
+HACKLENİYOR
 ALINIYOR...
-Oyunun parlakligini arttirmak <b> oyunun havasini onemli bir derecede kotulestirir </b>\nBu degeri yapabildiginiz kadar dusuge alin.\n<b>Varsayilan degerde birakmak onerilir.</b>
-[1] KAPIYI AC/KAPA\n[2] KAPIYI KITLE*\n\n*Kapiyi kitlemek ozel yetenegini kullanir
-SCP-079 TARAFINDAN KITLENDI
-Tamekran modu
-Bu sunucudan cikmak istedigine emin misin?
-Basit ayarlar. Menudeki ayarlarin tam listesi.
-OYUNCULAR BEKLENIYOR
-OZET
+Oyun parlaklığını arttırmak <b> oyunun atmosferini önemli derecede kötüleştirir. </b>\nBu değeri olabildiğince düşüğe alın.\n<b>Varsayılan değerde bırakmak önerilir.</b>
+[1] KAPIYI AÇ/KAPA\n[2] KAPIYI KİLİTLE*\n\n*Kapıyı kilitlemek özel yeteneğini kullanır
+KAPI SCP-079 TARAFINDAN KİLİTLENDİ
+Tam-ekran modu
+Bu sunucudan çıkmak istediğine emin misin?
+Temel ayarlar. Menüdeki ayarların tam listesi.
+OYUNCULAR BEKLENİYOR
+ÖZET
 DEVAM ET
 ANA SES
-baglandi
-Bir arastirmaci olarak oradan kactin ve MTF birimlerine katildin.
-Bir Class D olarak kactin ve Kaos Isyancilari birimlerine katildin.
-SEN BIR
-Escape time: [escape_minutes] minutes and [escape_seconds] seconds
+bağlandı
+Bir Bilim adamı olarak kaçtın ve MGG birimlerine katıldın.
+Bir D-Sınıf olarak kaçtın ve Kaos İsyancılarına katıldın.
+ROLÜN
+Kaçış süresi: [escape_minutes] dakika ve [escape_seconds] saniye
+[item] eşyasını tekrar kullanmak için [time] kadar bekleyin.
+DAHA FAZLA BİLGİ İÇİN <color=white><b>F1</b></color> TUŞUNA BAS
+Tutuklandın\n<size=40>emirlere uy veya takım arkadaşlarından yardım iste</size>

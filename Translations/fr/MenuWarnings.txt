@@ -1,0 +1,4 @@
+ATTENTION
+OK
+La Carte Graphique détectée est une carte graphique Intel Graphics. Elles ne sont pas supportées.\n<b>Il est recommandé d'utiliser une carte graphique différente</b>.\nLe jeu peut souvent se fermer <b>(crash)</b> avec le système actuel.
+Une mise à jour très importante nécessaire pour le chat vocal n'a pas été trouvée. Veuillez vérifier que votre système d'exploitation est à jour, autrement, le jeu peut ne pas fonctionner comme prévu. Si ce problème persiste, veuillez contacter le support technique pour plus d'assistance.

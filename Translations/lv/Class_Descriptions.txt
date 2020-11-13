@@ -1,0 +1,18 @@
+Nogalini visus.\nNeļauj nevienam izmukt.\nSadarbojies ar pārējiem <color=#f00>SCPs.</color><color=#ffff00>\nTuri left click+W un tēmē uz savu mērķi lai nogalinātu.\nTu esi ātrāks ar mazāk dzīvībām.</color>
+Izmūc no Fonda.\nSadarbojies ar <color=#008f1e>Haoss sacelšanās.</color>\nIzvairies no pārējam komandām.
+Tu drīz atdzimsi.
+Nogalini visus.\nNeļauj nevienam izmukt.\nSadarbojies ar pārējiem <color=#f00>SCPs.</color><color=#ffff00>\nTu vari iet caur durvīm.\nLeft click sāpina un teleportē cilvēkus uz tavu kabatas dimensiju.\nTuri TAB lai attaisītu savas teleportācijas iespējas.</color>
+Palīdzi <color=#FFFF7CFF>Zinātniekiem</color> izmukt.\nNogalini pārejos subjektus.\nInstruktē savus komandas biedrus. \nKlausi augstāku pavēles.
+Nogalini visus.\nNeļauj nevienam izmukt.\nSadarbojies ar pārējiem <color=#f00>SCPs.</color><color=#ffff00>\nLeft click lai uzreiz nogalninātu bez gaidīšanas.\nTuri E uz miruša cilvēka </color><color=#f00>kuru tu</color><color=#ffff00> nogalināji lai padarītu par zombiju.\nTu zombificē cilvēkus ātrāk kad tev ir mazāk dzīvību.</color>
+Izmukt no Fonda.\nSadarbojies ar <color=#0096FF>MTF.</color>\nIzvairies no pārējam komandām.
+Nogalini visus.\nNeļauj nevienam izmukt.\nSadarbojies ar pārejiem <color=#f00>SCPs.</color>
+Palīdzi <color=#FF8E00>Klase-D Personāliem/color> izmukt.\nNogalini pārējos.
+Nogalini visus.\nNeļauj nevienam izmukt.\nSadarbojies ar pārejiem <color=#f00>SCPs.</color>
+Nogalini visus.\nNeļauj nevienam izmukt.\nSadarbojies ar pārejiem <color=#f00>SCPs.</color><color=#ffff00>\nLeft click lai nodarītu nedaudz dzīvību.\nTu uzbrūc ātrāk ar mazāk dzīvībām.</color>
+Palīdzi <color=#FFFF7CFF>Zinātniekiem</color> izmukt.\nNogalini pārējos.\nInstruktē savu komandu. \nKlausi pavēles no komandiera.
+Palīdzi <color=#FFFF7CFF>Zinātniekiem</color> izmukt.\nNogalini pārējos.\nInstruct savu komdanu.
+Palīdzi <color=#FFFF7CFF>Zinātniekiem</color> izmukt.\nNogalini pārējos.\nKlausi pavēles no augstākiem.
+Izpildiet uzdevumus, lai sasniegtu savu mērķi.
+Palīdzi <color=#FFFF7CFF>Zinātniekiem</color> izmukt\nSadarbojies ar <color=#0096FF>MTF</color>\nNogalini pārējos
+Nogalini visus.\nNeļauj nevienam izmukt.\nSadarbojies ar pārejiem <color=#f00>SCPs.</color>
+Nogalini visus.\nNeļauj nevienam izmukt.\nSadarbojies ar pārējiem <color=#f00>SCPs.</color>

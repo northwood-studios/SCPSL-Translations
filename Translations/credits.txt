@@ -1,28 +1,32 @@
 
-## This list contains all translation authors and contributors.
+## This list contains all translation contributors.
 ## In the case of mis-credit, feel free to open an issue or contact the studio through any means.
 ## Folders named after https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-lcid/a9eac961-e77d-41a6-90a5-ce1a8b0cdb9c language tags. These automatically display the correct language name ingame
 
 
+ca by ThiEstoRil
 cs by ahyper & Krumpac
 da by Bemsen
 de by DasDavid, Mr.Panda & Joseph
+de-AT by Darüssel & Real Jeff
 es by Anreol, Erick & ConnorTheCone
 fi by Blad3z, Doge & Zathor
 fr by FranceSCP, lucasboss45 & Ganxly
+fr-CA by DragonsLover aka SilverMike
 hu by asderman
-it by Lycan
+it by Lycan & terminator-97
 ja by PalZaxson
-ko by Dr-Devan & Arizen
+ko by Dr-Devan & Arizen, OneKoin
+lv by Rainers
 nb by Tam
-nl by Lazyneer
+nl by Lazyneer, DatBoiFaCeBjEr, Hoptimtom & Rin
 pl by Multiverse Uncle
 pt by Esquilo_Voador
 pt-BR by Amanda
 ru by Welcome To Hell Project
 sk by Gejb & Mordi Slovakian
-th by AGKK Histoire & DatPanda
-tr by Jhrino
-uk by TRI99ER
-zh-Hans by Schrodinger_Sig & ShingekiNoRex
-zh-Hant by X-EROS
+th by AGKK Histoire, Aleph-Naught & DatPanda
+tr by Jhrino, MHS, vexdy, Gonsez
+uk by TRI99ER, Andrii "Rayfulrand" Raboshchuk
+zh by No_149, Schrodinger_Sig, ShingekiNoRex, TitanSix, Tychus_Xiaoyi & 饺子
+zh-Hant by X-EROS & Arkira-Kouyo

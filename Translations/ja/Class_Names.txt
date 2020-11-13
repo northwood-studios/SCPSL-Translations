@@ -1,17 +1,18 @@
 SCP-173
-Class-D 職員
+Dクラス職員
 観戦者
 SCP-106
-Nine-Tailed Fox 科学者
+九尾狐 研究員
 SCP-049
-科学者
+研究員
 SCP-079
-カオス インサージェンシー
+カオス・インサージェンシー
 SCP-096
 SCP-049-2
-Nine-Tailed Fox 士官
-Nine-Tailed Fox 指揮官
-Nine-Tailed Fox 訓練兵
+九尾狐 副官
+九尾狐 指揮官
+九尾狐 候補生
 チュートリアル
 施設警備員
-SCP-939
+SCP-939-53
+SCP-939-89

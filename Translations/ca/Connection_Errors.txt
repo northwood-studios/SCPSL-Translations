@@ -1,0 +1,36 @@
+<size=80>HAS estat EXPULSAT/EXPULSADA</size>\nEl servidor ha detingut la connexió.\n<size=26>\nProbablement has estat banejat per l'administrador o no compleixes amb els requisits del servidor (ej: connectar-se a Steam).\nRespecte als temps de baneig - els creadors del joc <u>no</u> son responsables.\n</size>
+<size=80>DESCONNECTAT</size>\nEl servidor no es troba disponible.
+<size=80>DESCONNECTAT</size>\nEl ID de connexió especificat no existeix.
+<size=80>DESCONNECTAT</size>\nEl canal especificat no existeix.
+<size=80>DESCONNECTAT</size>\nServidor ple.
+<size=80>DESCONNECTAT</size>\nPaquet erroni rebut.
+<size=80>DESCONNECTAT</size>\nConnexió perduda (timed out).
+<size=80>DESCONNECTAT</size>\nConnexió perduda (timed out).
+<size=80>DESCONNECTAT</size>\nOperació no permesa.
+<size=80>DESCONNECTAT</size>\nServidor desactualitzat (versió no compatible).
+<size=80>DESCONNECTAT</size>\nServidor mal configurat.
+<size=80>DESCONNECTAT</size>\nLa IP subministrada no pot ser trobada o és incorrecta.
+<size=80>DESCONNECTAT</size>\nUn problema inesperat ha estat detectat!
+<size=80>SI US PLAU ESPERI</size>\n<size=35>Establint connexió</size>
+<size=80>REINICIANT RONDA</size>\n<size=35>El servidor està reiniciant el nivell...</size>
+<size=80>SI US PLAU ESPERI</size>\n<size=35>Carregant tutorial...</size>
+<size=80>VERSIÓ INCOMPATIBLE</size>\nLa versió del joc és diferent de la del servidor\n(La seva versió - [your]; Versió del servidor - [server])
+<size=80>CONNECTAT</size>
+<size=35>Carregant el mapa...</size>
+<size=80>DESCONNECTAT</size>\nS'ha produït un error no especificat al servidor.
+<size=80>DESCONNECTAT</size>\nAquest servidor requereix verificació.
+<size=80>DESCONNECTAT</size>\nNo estàs a la whitelist del servidor.
+<size=80>DESCONNECTAT</size>\nHa estat prohibida la teva entrada a tots els servidors.
+<size=80>DESCONNECTAT</size>\nHa estat prohibida la teva entrada a tots els servidors: [reason].
+<size=80>DESCONNECTAT</size>\nHa estat prohibida la teva entrada a aquest servidor.
+<size=80>DESCONNECTAT</size>\nHa estat prohibida la teva entrada a aquest servidor.\nLa prohibició acaba: [date] [time]
+<size=80>DESCONNECTAT</size>\nEl teu "token" de verificació ha caducat.\nEl server potser té una ozna horària invàlida.\nSi us plau, contacti amb un administrador del servidor.
+<size=80>DESCONNECTAT</size>\nHas excedit el teu límit de sol·licituds.
+<size=80>DESCONNECTAT</size>\nEl servidor no accepta connexions des del teu punt geogràfic.\nEl nom del servidor o la seva descripció pot contenir més detalls.
+<size=80>DESCONNECTAT</size>\nHas estat expulsat per una modificació del servidor.\n\nRaó: [reason]\nEs tracta d'un mod del server.\nContacta amb un administrador del servidor per més informació.
+<size=80>DESCONNECTAT</size>\nEl servidor ha rebutjat el teu "token" d'autenticació.\nReinicia el joc o contacta amb el suport tècnic.
+<size=80>DESCONNECTAT</size>\nHa estat prohibida la teva entrada a aquest servidor.\nRaó: [reason]
+<size=80>DESCONNECTAT</size>\nHa estat prohibida la teva entrada a aquest servidor.\nLa prohibició acaba: [date] [time]\nRaó: [reason]
+<size=80>Si us plau, esperi</size>\nProcessant la verificació de seguretat del servidor...
+<size=80>DESCONNECTAT</size>\nFall al procés de verificació de la seguretat del servidor.
+<size=80>DESCONNECTAT</size>\nEl processament de verificació de la seguretat del servidor fou massa lenta pel servidor.\nSi us plau, intenta-ho de nou o contacta amb l'administrador del servidor.

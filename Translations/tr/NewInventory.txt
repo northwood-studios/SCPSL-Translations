@@ -1,31 +1,36 @@
-Janitor Keycard:No description
-Scientist Keycard:No description
-Research Supervisor Keycard:No description
-Zone Manager Keycard:No description
-Guard Keycard:No description
-MTF Cadet Keycard:No description
-Containment Engineer Keycard:No description
-MTF Lieutenant Keycard:No description
-MTF Commander Keycard:No description
-Facility Manager Keycard:No description
-Chaos Insurgency Access Device
-O5-level Keycard
-Radio:SR = Short Range \nMR = Medium Range \nLR = Long Range \nUR = Ultra Range \nUses battery while on. Longer range means higher battery use.
-COM-15 Sidearm:No description
-First AID Kit:Heals your injuries.
-Flashlight:Let there be light!
-Micro H.I.D.:Mobile high-intensity electrical discharge thrower.
-Coin:No description
-Cup:No description
-Weapon Manager Tablet:Used to drop ammo & upgrade your weapons.
-MTF-E11-SR:No description
-Project 90:No description
-Dropped 5.56:No description
-MP7:No description
+Hademe Kartı:Açıklama yok
+Bilim Adamı Kartı:Açıklama yok
+Araştırma Gözetmeni Kartı:Açıklama yok
+Bölge Müdürü Kartı:Açıklama yok
+Gardiyan Kartı:Açıklama yok
+MGG Eri Kartı:Açıklama yok
+Barındıma Mühendisi Kartı:Açıklama yok
+MGG Teğmeni Kartı:Açıklama yok
+MGG Kumandanı Kartı:Açıklama yok
+Tesis Müdürü Kartı:Açıklama yok
+Kaos İsyancılarının Erişim Cihazı
+O5-Seviye Kart
+Telsiz:SR = Kısa Menzil \nMR = Orta Menzil \nLR = Uzun Menzil \nUR= Ultra Menzil \nAçıkken pil kullanır. Daha uzun mesafe daha fazla pil kullanımı demek.
+COM-15 Tabancası:Açıklama yok
+İlk Yardım Kiti:Yaralarını iyileştirir.
+El Feneri:Orayı aydınlatmama izin ver!
+Mikro Y.Y.D.:Mobil yüksek yoğunluklu elektrik püskürtücü.
+SCP-500:Her derde deva ilaç.
+SCP-207:Motor gücünü zararlı bir şekilde arttırır.
+Silah Yönetim Tableti:Cehpane bırakmak ve silahları güçlendirmek için kullanılır.
+MGG-E11-SR:Açıklama yok
+P90:Açıklama yok
+Düşürülmüş 5.56:Açıklama yok
+MP7:Açıklama yok
 Logicer:No description
-Frag Grenade:Boom!
-Flashbang Grenade:Blinds your enemies.
-Disarmer:Left click disarms, right click unties. \nHold E on someone who is disarmed on your team to free them.
-Dropped 7.62:No description.
-Dropped 9mm:No description.
-USP:No description.
+El Bombası:Bum!
+Flaş bombası:Rakiplerini kör eder.
+Kelepçe:Sol tık kelepçeler,Sağ tık serbest bırakır. \nAynı takımda olduğun birini serbest bırakmak için E'ye basılı tutunuz.
+Bırakılmış 7.62:Açıklama yok.
+Bırakılmış 9mm:Açıklama yok.
+USP:Açıklama yok.
+SCP-018:Aşırı güçlü bir şekilde sekebilen süper top.
+SCP-268:Giyildiğinde geçici olarak seni görünmez yapar. Başka biriyle etkileşime girdiğinde bozulur.
+Adrenalin:Dayanıklılığını geçiçi olarak arttırır.
+Ağrı kesici:Küçük yaralarını dindirir.
+Para:Bunu neden taşımak istediğin hakkında bir fikrin yok...

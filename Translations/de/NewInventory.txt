@@ -2,7 +2,7 @@ Hausmeister Zugangskarte:No description
 Wissenschaftler Zugangskarte:No description
 Hauptwissenschaftler Zugangskarte:No description
 Zonenmanager Zugangskarte:No description
-Wachpersonal Zugangskarte:No description
+Sicherheitspersonal Zugangskarte:No description
 MTF Kadett Zugangskarte:No description
 Eindämmungsingenieur Zugangskarte:No description
 MTF Leutnant Zugangskarte:No description
@@ -10,7 +10,7 @@ MTF Kommandant Zugangskarte:No description
 Einrichtungsmanager Zugangskarte:No description
 Chaos Insurgency Zugangsgerät
 O5-level Zugangskarte
-Radio:SR = kurze Reichweite \nMR = Medium Reichweite \nLR = Lange/Große Reichweite \nUR = Ultra Reichweite \nVerbraucht Batterieladung wenn eingeschaltet. Höherer Reichweite resultiert in höherem Batterieverbrauch
+Radio:SR = kurze Reichweite \nMR = Medium Reichweite \nLR = Lange/Große Reichweite \nUR = Ultra Reichweite \nVerbraucht Batterieladung, wenn eingeschaltet. Höherer Reichweite resultiert in höherem Batterieverbrauch
 COM-15 Pistole:einfache Selbstverteidigungspistole
 Erste Hilfe Paket:Heilt deine Wunden!
 Taschenlampe:Es werde Licht!
@@ -21,11 +21,11 @@ Waffenbearbeitungstablet:Wird genutzt um Munition fallen zu lassen und Aufsätze
 MTF-E11-SR:Standard MTF Ausrüstung
 Project 90:Verbesserte Version der P90
 Dropped 5.56:Sieht aus wie 5.56 Munition
-MP7:Standard Ausrüstung des Wachpersonals
-Logicer:Leichtes Maschinengewehr und standard Ausrüstung der Chaos Insurgency
+MP7:Standard Ausrüstung des Sicherheitspersonals
+Logicer:Leichtes Maschinengewehr und Standard Ausrüstung der Chaos Insurgency
 Splittergranate:Es macht Boom!
 Blendgranate:Blendet deine Feinde!
-Entwaffner:Linksklick entwaffnet, Rechtsklick macht es rückgängig. Achte darauf das die Person nicht schleicht! \nHalte E auf eines deiner Teammitglieder gedrückt um es zu entfesseln
+Entwaffner:Linksklick entwaffnet, Rechtsklick macht es rückgängig. Achte darauf das die Person nicht schleicht!\nHalte E auf eines deiner Teammitglieder gedrückt, um es zu entfesseln
 7.62 Munition:Sieht aus wie 7.62 Munition
 9mm Munition:Sieht aus wie 9mm Munition
 USP:Stärkere Variante der COM-15
@@ -33,3 +33,4 @@ SCP-018:Superball, welcher mit extremer Effizienz umher springt
 SCP-268:Wenn ausgerüstet, macht dich vorübergehend unsichtbar, außer du wirst durch Interaktionen anderer Spieler gestört
 Adrenalin:Erhöht deine Ausdauer vorübergehend
 Schmerzmittel:Lindert leichte Verletzungen
+Münze:Du bist dir nicht sicher warum du sowas mit dir herum tragen solltest...

@@ -1,0 +1,11 @@
+<color=#1DA8FFFF>ZAMKNIĘTE</color>
+<color=#00ee00FF>OTWARTE</color>
+<color=#FF7800FF>W RUCHU</color>
+<color=#ee0000FF>ZABRONIONO</color>
+<color=#ee0000FF>ZABLOKOWANE</color>
+<color=#00C0eeFF>ZBLIŻ KARTĘ</color>
+<color=#00ee00FF>DOSTĘP UDZIELONY</color>
+<color=#ee0000>ODMOWA DOSTĘPU</color>
+<color=#ee7900FF>PROSZĘ PRZEJŚĆ</color>
+<color=#00ee00FF>EWAKUUJ SIĘ</color>
+<color=#ee7900FF>ZAMYKANIE</color>

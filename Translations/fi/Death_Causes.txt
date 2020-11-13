@@ -1,6 +1,6 @@
 Höyrystetty Alpha Warheadilla.
 Murtuneet jalat ja jalkaterät viittaavat putoamisesta kuolemaan.
-Merkkejä vakavasta vammasta kummassakin reisiluussa viittaa verenkierron sokin aiheuttamaan kuolemaan.
+Merkkejä vakavasta vammasta kummassakin reisiluussa viittaa verenkiertosokin aiheuttamaan kuolemaan.
 Mädäntynyt tasku-ulottuvuudessa.
 Se on jäännös SCP-106:sta.
 Vakavia sähköisiä palovammoja.
@@ -15,3 +15,8 @@ Massiivisia repeytymiä ja liiallinen verenhukka.
 Havaittavissa suuria, syviä puremisen merkkejä kallon ympärillä.
 Sulanut erittäin syövyttävästä aineesta.
 Räjähdyksen sirpaleista aiheutuneita kolmannen asteen palovammoja.
+Kalpea iho ja suusta vuotava veri viittaavat aineen nielemisen aiheuttamaan sisäiseen verenvuotoon.
+Ihmisen taltuttama.
+Ulkoisia vammoja ja pieniä raapaisuja on näkyvissä ruumiissa.
+Syvien haavojen aiheuttama vakava verenhukka.
+Keltainen iho ja paha haju viittaa kuolemaan myrkystä.

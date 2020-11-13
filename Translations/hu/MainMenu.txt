@@ -60,3 +60,32 @@ FPS Limit
 FPS Limit nem működik, ha a vSync be van kapcsolva!
 Alapértelmezettek betöltése
 Mi a Steam Témákat használjuk fórumként. (Klikk a logóra, hogy megnyisd)
+AUDIO BEÁLLÍTÁSOK
+FŐ HANGERŐ
+MENÜ ZENÉJE
+HANGOS CSEVEGÉS
+HANGEFFEKTEK
+JÁTÉKMENET BEÁLLÍTÁSAI
+GYORS INTRO ELHALVÁNYULÁS
+A szerepek leírásai gyorsabban tűnnek el.
+SCP-079 - NÉZET MÓD KAPCSOLÁSA
+Nyomd meg egyszer, ha a nézetek módja között szeretnél lépegetni.
+SCP-079 UTÓFELDOLGOZÁS
+Ha nincs engedélyezve, sokkal kevesebb effekt lesz látható.
+KAMERA BILLEGÉSE
+Engedélyezi a kamera billegését mozgás közben.
+SPRINT MÓD KAPCSOLÁSA
+Sprint ki- és bekapcsolása, lenyomva tartás helyett.
+ELKÜLÖNÍTETT MESTERSÉGES HP CSÍK
+Saját HP csík lesz egy átfedés helyett
+A fordításaink nyílt forráskódúak GitHub-on! Szeretnél segíteni? Kattints ide!
+RÉSZLETES MEGJELENÍTÉS
+Ha engedélyezve van, a státuszod Steamen és Discordon is fel lesz tüntetve.
+PONTOS HP ÉRTÉK MUTATÁSA
+A pontos HP értékeket mutatja a százalék helyett.
+NYÍLVÁNOS LOBBY
+Ha engedélyezve van, a Steames barátaid engedély nélkül szabadon csatlakozhatnak.
+IP elrejtése
+Ha engedélyezve van, semmilyen IP cím sem lesz feltüntetve a konzolban.
+Interakció módja
+A tárgyak felvételéhez nyomd meg az interakció gombját; nyomd meg mégegyszer, ha meg akarod szakítani.

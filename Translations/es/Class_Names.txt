@@ -1,18 +1,18 @@
 SCP-173
-Clase D
+Clase-D
 Espectador
 SCP-106
-Cientifico de la MTF
+Científico de la NTF
 SCP-049
-Cientifico
+Científico
 SCP-079
-Insurgente del caos
+Insurgentes del Caos
 SCP-096
 SCP-049-2
-Teniente de la MTF
-Comandante de la MTF
-Cadete de la MTF
+Teniente de la NTF
+Comandante de la NTF
+Cadete de la NTF
 TUTORIAL
-Guardia de la instalacion
-SCP-939
-SCP-939
+Guardia de las instalaciones
+SCP-939-53
+SCP-939-89

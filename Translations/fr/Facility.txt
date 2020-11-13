@@ -1,6 +1,6 @@
 VOLUME DES VOIX
 OUI
-<size=34>FORCER LE DÉMARRAGE</size>
+<size=30>FORCER LE DÉMARRAGE</size>
 PROCÉDURE DE RE-CONFINEMENT\nDE SCP-106
 Inverser l'axe Y
 RÉSUMÉ
@@ -15,14 +15,14 @@ CHAT VOCAL
 INVENTAIRE PLEIN
 SENSIBILITÉ SOURIS
 PIRATAGE
-RAMASSER...
-L'augmentation de la luminosité <b>diminue l'immersion</b> du jeu.\n<b>Il est recommandé de garder la valeur par défaut.</b>
+RAMASSAGE...
+Augmenter la luminosité <b>diminue l'immersion</b> dans le jeu.\n<b>Il est recommandé de garder la valeur par défaut.</b>
 [1] OUVRIR/FERMER LA PORTE\n[2] VERROUILLER LA PORTE*\n\n*Le verrouillage d'une porte utilise votre compétence spéciale.
 PORTE VERROUILLÉE PAR SCP-079
 Mode plein écran
 Êtes-vous sûr de vouloir quitter ce serveur ?
 Options de base : pour modifier autre chose, allez au menu principal.
-EN ATTENTE DE JOUEURS...
+EN ATTENTE DE JOUEURS\n
 RÉSUMÉ
 CONTINUER
 VOLUME PRINCIPAL
@@ -30,4 +30,11 @@ EN LIGNE
 Vous avez rejoint la FIM Epsilon-11.
 Vous avez rejoint l'Insurrection du Chaos.
 VOUS ÊTES
-Échappé en : [escape_minutes] minutes et [escape_seconds] secondes
+Vous vous êtes échappé en [escape_minutes] minutes et [escape_seconds] secondes
+Attendez [time] pour pouvoir réutiliser [item].
+Appuyez sur <color=white><b>F1</b></color> pour obtenir de l'aide
+Vous avez été menotté\n<size=40>suivez les ordres ou demandez de l'aide à vos coéquipiers</size>
+Vous avez été recapturé par les Nine-Tailed Fox.\nAvec une menace en moins, ils ont pu renforcer les troupes.
+Vous avez été fait prisonnier par l'Insurrection du Chaos.\nIls ont pu prendre avantage des informations que vous leur avez fournies.
+La partie commence dans : <color=yellow>{0}</color>s
+Le lancement de la partie a été <color=#FF5050>suspendu</color>

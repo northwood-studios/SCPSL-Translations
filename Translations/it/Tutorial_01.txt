@@ -1,8 +1,0 @@
-Benvenuto in SCP: Secret Laboratory! Sono uno degli attori che presta la sua voce all' interno del gioco.\nLascia che ti introduca alle regole di gioco di base.\nPrima di tutto cerca e trova all' interno dei bagni per vedere se è presente una scheda magnetica.\n
-<color=#00FF58>Usa i tasti <b>W, A, S & D</b> per raggiungere i <b>bagni</b>\nUsa <b>E</b> per <b>interagire</b> con le porte e gli oggetti.</color>
-Bravo, ora prendila.
-Le schede magnetiche sono uno degli elementi fondamentali del gioco, visto che ti permetteranno di accedere a particolari sezioni della mappa.\nControlla le porte nelle vicinanze e prova ad aprirle.
-<color=#00FF58>Usa il tasto <b>TAB</b> per aprire l'inventario.\n<b>Tasto sinistro del mouse</b> per selezionare un' oggetto\ne <b>destro</b> per lasciarlo.
-Se vuoi veramente scappare - Ti consiglio di trovare una scheda migliore.
-Ogni scheda ha il suo livello di accesso. Puoi comparare le schede facendo passare il cursore del mouse sopra ognuna di esse all' interno dell' inventario.
-Congratulazioni! Hai passato la prima parte del tutorial!

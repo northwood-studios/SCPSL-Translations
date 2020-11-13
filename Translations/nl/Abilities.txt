@@ -1,0 +1,30 @@
+Ability Niet Gevonden:Ability ID niet gevonden.
+Sprint:Sneller dan lopen, maar maakt meer geluid en heeft stamina nodig.
+Sluipen:Je bewegingen zijn helemaal stil, maar je beweegt veel slomer
+Inventaris:Open je inventaris en selecteer een voorwerp met de linkermuisknop, of laat het vallen met de rechtermuisknop.
+Ongewapend:Je hebt niets. Vind iets. Wat dan ook.
+Toegangskaart:Je hebt een kaart om deuren mee open te maken. Het is niet de beste, maar het is beter dan niets.
+Standaard Pakket:Je hebt een geweer, granaten, radio, handboeien en een toegangskaart gekregen van de Foundation om je doel te bereiken.
+Bewapend en Gevaarlijk:Je hebt een licht machinegeweer, een hack apparaat (toegangskaart), en een EHBO-doos bemachtigt om je doel te bereiken.
+Ongelooflijke Snelheid:Wanneer mensen je niet kunnen zien, beweeg je zeer snel. Als een mens naar je staart kun je niet bewegen of aanvallen, maar alle mensen die naar je kijken knipperen om de zoveel seconden tegelijkertijd, waardoor je je slag kan slaan.
+Paniek:Je beweegt sneller des te minder HP je hebt.
+Zinkgat:Je kunt een zwart "zinkgat" maken, waarnaar je terug kan teleporteren wanneer je maar wilt. Teleporteren duurt een paar seconden.\nJe kun je zinkgat verplaatsen door hem opnieuw neer te zetten.
+Corrosie:Je kunt door deuren en ramen heen lopen.
+Zwanenzang: Kogels doen je bijna niets, maar je kunt onmiddellijk gevangen worden door een opoffering in je insluitingskamer.
+Pocket Dimensie:Vang een mens en stop ze in een dimensie waar ze snel dood in gaan. Mensen moeten van de acht uitgangen de juiste vinden, of sterven terwijl ze dat proberen.
+Scopophobie:Je bent meestal stil en kalm. Maar je vindt het niet fijn om gezien te worden. Wanneer je bekeken of beschadigt wordt kun je je woede afreageren op de mensen die het hebben veroorzaakt. Volg hun licht voordat je kalmeert. Des te meer mensen je kwaad maken, des te meer AHP je krijgt, waardoor je minder beschadigt kan worden tot je gekalmeerd bent.
+Probeer Niet Te Huilen (Kalm):Het leven is zo moeilijk, leunen tegen een deur helpt; je wordt stiller en blijft in dezelfde plek staan terwijl je jezelf troost... of tot er iemand de deur door komt.
+Aanval (Woedend):Gewoonlijk ben je erg op jezelf. Maar wanneer je boos bent reken je af met de mensen die je pijn hebben gedaan. Je vernietigt mensen en deuren terwijl je woedend om je heen slaat.
+Ultragevoelig:Je kunt mensen niet zien tenzij ze rennen, lopen, in je lopen of schieten.
+Roofdier:Je voetstappen zijn stil. Als je de aangegeven knop indrukt loop je sneller, maar maak je geluid.
+Naäper:Je kunt hardop praten met alle dichtstbijzijnde spelers, inclusief mensen.
+Bijt:Valt een mens van dichtbij aan, waardoor er serieuze schade aangericht wordt en de mensen vergeetachtig worden.
+Geneesmiddel:Raakt mensen van dicht bij aan, waardoor ze onmiddellijk doodgaan.
+De Genezing:Reanimeert een recent gestorven mens. Genezen mensen spelen als zombies met hoge snelheid en laag HP.\nEr staat geen limiet op het hoeveel mensen er genezen kunnen worden.
+Klap:Valt een mens aan en doet een gemiddeld hoeveelheid schade.
+Open/Sluit Deuren:Je kunt een deur openen/sluiten door erop te klikken, ten koste van 5 AP. Je kunt deuren ook vergrendelen, waardoor je AP constant omlaag gaat. Maar iedereen tegenhoudt deuren te openen of sluiten tot je AP op is of je het zelf ontgrendelt.
+Tesla Overbelasting:Je kunt een Tesla Gate voor 50 AP onmiddellijk aanzetten, waardoor alle spelers die erin zitten dood gaan.
+Lockdown:Vanaf Access Level 2 kun je in sommige kamers een lockdown aanzetten, waardoor alle lampen en deuren tijdelijk uitgaan. Spelers kunnen in het donker SCP-173 niet zien.
+Vrijwel Onverwoestbaar: Vijf generatoren zijn te vinden in Heavy Containment Zone. Als ze allemaal aangezet worden, ga je dood.\nGeneratoren hebben een timer, en alle spelers kunnen een generator uitzetten door op "CANCEL" te drukken voordat hij aanstaat.
+Nek Breker:Hou ingedrukt of klik op een mens zijn nek, waardoor zij onmiddellijk doodgaan wanneer zij je niet zien of knipperen met hun ogen.
+Aanval (Rage):Laat ze niet ontsnappen! Je gaat in een raket vooruit, waarmee je alles wat in je weg staat vernietigt. Als je een dikke deur tegenkomt, zoals in SCP-914, forceer je jezelf er doorheen.

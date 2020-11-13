@@ -1,0 +1,87 @@
+Informations
+Serveurs
+Réglages
+Quitter
+Réseaux sociaux
+Internet
+Favoris
+Officiel
+Historique
+Amis
+Recherche des Serveurs
+Créer un serveur
+Rejoindre
+Connexion directe
+Rafraîchir
+Masquer les parties vides
+Masquer les parties complètes
+Sans liste blanche
+Vidéo
+Audio
+Contrôles
+Gameplay
+Autres
+Mode fenêtré
+Plein écran exclusif
+Fenêtre sans bordure
+Fenêtre Étirée
+Fenêtré
+Syncronisation Verticale
+Limite Images/s
+Off
+Qualité des textures
+Quantité maximale de sang
+Ombres
+Qualité des ombres
+Distance des ombres
+Flou de mouvement
+Correction de couleur
+Anti-crénelage
+Mode de rendu des lumières
+Volume principal
+Effets sonores
+Chat vocal
+Musique du menu
+Volume de l'interface
+Thème du menu
+Fondu rapide de l'intro
+Mouvements de tête
+Sprint automatique
+Afficher la valeur des points de vie
+Rich-Presence
+Lobby public
+Récupérer objet sans maintenir
+SCP-079 - Basculer de mode d'affichage
+SCP-079 - Post-traitement
+Langue
+Menu principal
+Se connecter
+Retour
+Cette modification nécessitera un rechargement. \nRecharger le menu maintenant?
+Oui
+Non
+Êtes-vous sûr de vouloir quitter?
+Résolution d'écran
+Masquer les IP
+Salut {username} !
+Crédits
+AUTHENTIFICATION
+Connexion aux serveurs centraux ...
+<color=green>Connexion établie</color>
+<color=red>Échec de la connexion (Vérifiez dans la console)</color>
+<color=red>Échec de l'authentification Steam (Vérifiez dans la console)</color>
+<color=red>Échec de l'authentification Discord (Vérifiez dans la console)</color>
+Désactivé
+Secondes
+Temps de suppression des corps
+Afficher le profil Steam
+Permet aux joueurs de voir votre profil Steam en cliquant l'icône dans la liste des joueurs.
+Do Not Track (DNT)
+Interdit au serveur d'utiliser vos données (adresse IP, ID utilisateur, etc.) à des fins non liées à la sécurité du serveur.
+API graphique
+Créer une partie depuis le jeu n'est désormais plus supporté.\nCependant, il y a actuellement trois façons d'en créer un :\n- Vous pouvez télécharger le serveur dédié (SCP:SL dedicated server - Steam AppID: 996560) et le lancer depuis votre ordinateur.\n- Vous pouvez louer un VPS ou un Serveur Dédié depuis un hébergeur.\n- Vous pouvez louer un serveur prédéfini par un fournisseur/hébergeur qui supporte le jeu SCP:SL (Ex. ZAP Hosting)\n\nCliquez sur les liens ci-dessous pour obtenir plus d'informations.\nVous pouvez demander au support technique en cas de besoinsur notre serveur Discord (discord.gg/scpsl - Serveur anglais uniquement).
+CRÉER MALGRÉ TOUT
+EN SAVOIR PLUS
+LOUER UN SERVEUR
+ANNULER
+Seconde

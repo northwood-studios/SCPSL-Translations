@@ -10,4 +10,8 @@ Assistencia na eliminacao do MTF
 Assistencia na eliminacao do Cientista
 Assistencia na eliminacao do SCP
 PORTAS BLOQUEADAS: [LOCKED_NUM]<size=25>BOTAO DIREITO DO MOUSE PARA DESBLOQUEAR TUDO</size>
-Interacoes gerais
+Interacões gerais
+Você está sendo atacado!
+Geradores atacados foram destacados no mapa
+PERIGO
+SCPs{0}MTF & Guardas{1}Cientistas{2}Class-D{3}Insurgentes do Caos{4}

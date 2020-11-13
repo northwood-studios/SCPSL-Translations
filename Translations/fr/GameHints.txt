@@ -1,0 +1,6 @@
+<color=red>Accès refusé</color>
+Vous venez d'atteindre la limite de munitions de type <color=yellow>[type]</color> (<color=yellow>[max_type_count] balles</color>)
+Vous avez <b>déjà</b> atteint la limite de munitions de type <color=yellow>[type]</color> (<color=yellow>[max_type_count] balles</color>)
+Vous venez d'atteindre la limite de/d' <color=yellow>[type]</color> (<color=yellow>[max_type_count] objets</color>)
+Vous avez <b>déjà</b> atteint la limite de/d' <color=yellow>[type]</color> (<color=yellow>[max_type_count] objets</color>)
+Vous ne pouvez porter que <color=yellow>[max_item_count] objets</color>.

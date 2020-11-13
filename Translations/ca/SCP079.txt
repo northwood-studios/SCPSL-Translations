@@ -1,0 +1,17 @@
+POTÈNCIA AUXILIAR
+EXPERIÈNCIA
+ALIMENTACIÓ DE CÀMERES ONLINE
+PRESSIONA [KEY] PER ACTIVAR EL MAPA DE VIGILÀNCIA
+Experiència guanyada:
+Treball cooperatiu
+Classe-D assistència de terminació
+CI assistència de terminació
+MTF assistència de terminació
+Científic assistència de terminació
+SCP assistència de terminació
+PORTES BLOQUEJADES: [LOCKED_NUM]<size=25>CLIC DRET AL RATOLÍ PER DESBLOQUEJAR-LES TOTES</size>
+Interaccions generals
+Estàs sent atacat!
+S'han destacat els generadors al mapa
+PERILL
+SCPs{0}MTF i Guardes{1}Científics{2}ClasseD{3}Insurgents del CAOS{4}

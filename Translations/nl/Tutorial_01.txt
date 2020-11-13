@@ -1,8 +1,0 @@
-Welkom bij SCP: Secret Laboratory! Ik ben een van de stemacteurs van het spel.\nLaat me je de basisregels van het spel voorstellen.\nProbeen de toiletten te vinden and controleer ze om een mogelijke sleutelkaart te vinden.\n
-<color=#00FF58>Gebruik <b>W, A, S & D</b> om naar de <b>toiletten</b> te gaan\nGebruik <b>E</b> om met deuren en voorwerpen te gaan.</color>
-Geweldig, pak het nu.
-Sleutelkaarten zijn een van de basis elementen van het spel, waardoor toegang tot vergrendelde gebieden mogelijk is./nControleer de deuren in the buurt and probeer ze te openen met je sleutelkaart
-<color=#00FF58>Gebruik <b>TAB</b> om je inventaris te openen.\n<b>Linker muis knop</b> om een voorwerp te selecteren\nen <b>rechts</b> om het te laten vallen.
-Als je echt wil ontsnappen - raak ik je aan om een betere sleutelkaart te vinden.
-Elke sleutelkaart heeft zijn eigen toegang niveau. Je can sleutelkaart vergelijken door met je muis cursor over ze in je inventaris te houden.
-Hartelijk gefeliciteerd! Je hebt net het eerste deel van de tutorial gehaald!

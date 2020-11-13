@@ -11,29 +11,29 @@ LIITY PELIIN
 JÄLKI-\nKÄSITTELY
 TEKIJÄT
 LOPETA PELI
-Koko näytön tila
+Kokonäytöntila
 NÄYTÖN ASETUKSET
 VÄRIKORJAUS
 Anna IP-osoite...
 NÄYTÖN RESOLUUTIO
 PELAA
-PIKSELEIDEN VALO-MÄÄRÄ
+PIKSELEIDEN VALOMÄÄRÄ
 VARJON TYYPPI
 VARJOT
 LUO PELI
 Vaihda jälkikäsittelyn asetuksia. Nämä asetukset eivät yleisesti vaihda suorityskykyä, joten oletusarvojen jättäminen on suositeltu.
-Valon-renderöinnin tila e:\nKun poissa päältä, grafiikkojen laatu on huomattavasti alhaisempi. Tämän asetuksen poistaminen päältä on suositeltu vain huonoille koneille.
+Valorenderöinti:\nKun poissa päältä, grafiikkojen laatu on huomattavasti alhaisempi. Tämän asetuksen poistaminen päältä on suositeltu vain huonoille koneille.
 V-SYNC
 YHDISTÄ
 LAADUN ASETUKSET
-Vaihda varjojen asetuksia. Laittamalla nämä asetukset alhaisemmaksi voi parantaa pelin sulavaa toimintaa.
+Vaihda varjojen asetuksia. Laittamalla nämä asetukset alhaisemmaksi voi parantaa pelin sulavuutta.
 PÄÄVALIKKO
-VALON-RENDERÖINNIN TILA
+VALORENDERÖINTI
 LIIKESUMENNUS
 VARJOJEN ETÄISYYS
 YKSITYISKOHDAT
 3. SCP-914
-HARJOITUKSET
+TUTORIAALIT
 VAROITUS
 Selaa saatavilla olevia palvelimia
 Älä näytä uudestaan
@@ -60,3 +60,32 @@ Kuvataajuuden rajoitus
 Kuvataajuuden rajoitus ei toimi kun vSync on päällä!
 Palauta oletukset
 Me käytämme Steamin foorumia keskustelualueenamme. (Paina logoa avataksesi foorumin)
+ÄÄNIASETUKSET
+PÄÄ-ÄÄNENVOIMAKKUUS
+PÄÄVALIKKO MUSIIKKI
+ÄÄNIKESKUSTELU
+ÄÄNITEHOSTEET
+PELIN VAIHTOEHDOT
+NOPEA INFON HAIHTUMINEN
+Luokan esittelyteksti katoaa paljon nopeammin.
+SCP-079 - VAIHDA NÄKYVYYSTILAA
+Paina kerran vaihtaaksesi kameran tilaa.
+SCP-079 - JÄLKIKÄSITTELY
+Jos poissa käytöstä, näytön tehosteet vähenevät huomattavasti.
+PÄÄN KEIKKUMINEN
+Aktivoi ensimmäisen persoonan kameran keikkumisen liikkeessä.
+AKTIVOI JUOKSEMINEN
+Juokseminen vaihtelee päälle ja pois, napin pohjassapitämisen sijaan.
+Erillinen keinotekoinen HP-palkki
+Antaa keinotekoiselle HP:lle oman terveyspalkin peittokuvan sijasta.
+Käännöksemme ovat avointa lähdekoodia GitHubissa!\nHaluatko auttaa? Napsauta tätä päästäksesi repoon.
+RICH PRESENCE
+Jos aktivoituna, statuksesi näkyy Discordissa/Steamissa.
+NÄYTÄ OIKEA HP-ARVO
+Näyttää oikean HP:n, pelkästään prosentin sijasta.
+JULKINEN AULA
+Jos aktivoituna, kaverisi voivat liittyä peliisi ilman lupaa.
+HIDE IP
+Jos päällä, piilottaa kaikki IP:t pelikonsolista.
+AKTIVOI NOSTO
+Tavaroiden nosto ei tarvitse napin pohjassapitämistä; paina uudelleen peruaksesi.

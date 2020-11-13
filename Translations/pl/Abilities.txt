@@ -1,29 +1,30 @@
-Nie Znaleziono Umiejętności:Umiejętność o podanym ID nie istnieje.
+Nie znaleziono umiejętności:Umiejętność o podanym ID nie istnieje.
 Sprint:Zwiększa twoją prędkość ruchu, lecz poruszasz się wówczas głośniej.
-Skradanie:Twoje ruchy są cichsze, ale wolniejsze.
+Skradanie:Twoje ruchy są cichsze, lecz wolniejsze.
 Ekwipunek:Otwórz ekwipunek i wybierz przedmiot który podniosłeś, używając LPM, lub upuść go, używając PPM.
 Bezbronny:Niczego nie masz. Znajdź coś. Cokolwiek.
-Karta Dostępu:Masz kartę dostępu, nie jest najlepsza, ale postaraj się jej nie zgubić.
-Standardowe Wyposażenie:Jesteś wyposażony w Karabin, Granaty, Radio, Rozbraczacz i Kartę Dostępu.
-Uzbrojony i Niebezpieczny:Wysłano cię z Lekkim Karabinem Maszynowym, Urządzeniem Hakującym (specjalną kartą dostępu) oraz Apteczką.
-Zaskakująca Prędkość:Gdy żaden człowiek cię nie widzi, poruszasz się bardzo szybko. Jeżeli ktoś cię obserwuje, nie możesz się poruszać ani atakować, ale wszyscy obserwatorzy będą równocześnie mrugać co kilka sekund, pozwalając ci na działanie.
+Karta dostępu:Masz kartę dostępu, nie jest najlepsza, ale postaraj się jej nie zgubić.
+Standardowe wyposażenie:Jesteś wyposażony w karabin, granaty, radio, rozbrajacz i kartę dostępu.
+Uzbrojony i niebezpieczny:Wysłano cię z lekkim karabinem maszynowym, urządzeniem hakującym (specjalną kartą dostępu) oraz apteczką.
+Zaskakująca prędkość:Gdy żaden człowiek cię nie widzi, poruszasz się bardzo szybko. Jeżeli ktoś cię obserwuje, nie możesz się poruszać ani atakować, ale wszyscy obserwujący będą równocześnie mrugać co kilka sekund, umożliwiając ci działanie.
 Popłoch:Im mniej masz zdrowia, tym szybciej się poruszasz.
-Przejście:Stawiasz albo teleportujesz się do przejścia, widocznego jako czarna plama na ziemi.\nMożesz stworzyć tylko jedno przejście, ale możesz je cały czas przenosić. Teleportacja zajmuje kilka sekund.
+Przejście:Możesz utworzyć pole czarnej mazi do którego możesz sie w każdej chwili teleportować. Teleportacja trwa kilka sekund.\nPonowne utworzenie pola spowoduje zmianę miejsca teleportacji.
 Korozja:Możesz przechodzić przez drzwi, wchodząc w nie.
-Nietykalny: Nie otrzymujesz obrażeń od niczego oprócz granatów i elektryczności, ale twoja przechowalnia ma małe pomieszczenie, gdzie gracz może wejść, aby się zabić. Odtąd każdy może kliknąć przycisk w twojej przechowalni, aby po piętnastu sekundach cię zabezpieczyć.
-Wymiar Łuzowy:Chwytasz człowieka i teleportujesz go do wymiaru łuzowego z ośmioma ścieżkami; jedna z tych ścieżek teleportuje go do losowego pomieszczenia w placówce, a pozostałe siedem zabija.\nLudzie, będąc w tym wymiarze, powoli umierają
-Nieśmiały:Normalnie poruszasz się powoli, nie możesz atakować oraz wydajesz cichy płacz. Jeśli ludzie będą spoglądać się na ciebie wystarczająco długo, staniesz w miejscu i wpadniesz w szał.
-Aspołeczna wściekłość:We wściekłości poruszasz się ekstremalnie szybko oraz głośno krzyczysz. Wściekłość trwa do dwudziestu sekund; po jej zakończeniu nie możesz wejść we wściekłość na krótki czas, oraz przestajesz płakać.\nPodczas bycia wściekłym, klikanie lub trzymanie tego przycisku, natychmiast zabije człowieka znajdującego się w małej odległości od ciebie.
-Zniszczenie:Podczas bycia wściekłym, interakcja z drzwiami spowoduje ich wyważenie.
-Niezwykle Wrażliwy:Nie dostrzegasz ludzi, chyba że biegną, dotkną cię, lub strzelą z broni blisko ciebie.
-Pośpiech:Zwiększa prędkość ruchu.
+Nietykalny: Pociski nie zadają ci prawie żadnych obrażeń, lecz poświęcenie ludzkiej ofiary w twojej komorze przechowawczej powoduje twoje natychmiastowe zabezpieczenie.
+Wymiar Łuzowy:Chwytasz i teleportujesz ofiarę do wymiaru łuzowego, który pozbawia ją życia coraz szybciej. Jeśli nie wybierze poprawnego wyjścia, zginie w męczarniach.
+Skopofobia:Zaczynasz spokojnym, wpadasz w szał gdy ktoś cię ujrzy lub zrani. Zaspokój swój gniew zabijając winnych - podążaj za ich światłem zanim szał minie. Każdy cel zwiększy twoje AHP, zapobiegające obrażeniom od innych osób do jego wyczerpania.
+Spróbuj nie płakać (gdy spokojny):Jest to ciężkie. Oparcie się o drzwi może pomóc; staniesz się cichszy, opierając się o nie, uspokajając się... czekając na kogoś kto je otworzy.
+Atak (podczas szału):Przedrzyj się przez wszystko na swojej drodze aby dostać się do osoby, która wyrządziła Ci krzywdę. Atakując, niszczysz drzwi i zabijasz ludzi.
+Niezwykle wrażliwy:Nie dostrzegasz ludzi, chyba że biegną, dotkną cię, lub strzelą z broni blisko ciebie.
+Drapieżnik:Twoje kroki są prawie niesłyszalne. Trzymanie przypisanego klawisza ruchu zwiększa twoją prędkość, kosztem głośniejszych kroków.
 Imitacja:Możesz głośno mówić do graczy w pobliżu, wliczając w to ludzi.
 Gryzienie:Atakujesz człowieka z bliska, zadając poważne obrażenia.
-Antidotum:Atakując człowieka, natychmiastowo go zabijasz i czynisz go podatnym na reanimację na kilka sekund. To nie ma cooldownu.
-Reanimacja: Przytrzymując na kilka sekund ten sam przycisk na ciele niedawno zabitej osoby, wskrzesisz ją, przemieniając człowieka w zombie. Mają mało życia oraz słaby atak, lecz są stosunkowo szybkie i mogą się komunikować z innymi SCP.\nNie ma maksymalnej liczby ludzi których możesz zreanimować.
+Antidotum:Dotykając człowieka, natychmiastowo go zabijasz.
+Lekarstwo:Wskrzesasz niedawno zabitą osobę. Uleczone osoby grają jako zombie z dużą prędkością ruchu oraz małą ilością życia.\nNie ma maksymalnej liczby ludzi których możesz wskrzesić.
 Uderzenie:Atakujesz człowieka zadając mu niewielką ilość obrażeń.
-Otwórz/Zamknij Drzwi:Możesz wchodzić w interakcję z drzwiami za 5 punktów energii. Możesz również je zablokować, wyczerpując powoli swą energię, lecz zapobiegając ich otworzeniu lub zamknięciu, dopóki ich nie odblokujesz lub nie stracisz całej energii.
-Przeciążenie Tesli:Możesz aktywować bramę tesli za 50 punktów energii, aby natychmiast ją uruchomić, zabijając każdego gracza znajdującego się w niej lub w jej otoczeniu.
-Blokada:Począwszy od trzeciego poziomu dostępu, możesz wejść w interakcję z pomieszczeniem, aby je zablokować, wyłączyć światła oraz zamknąć drzwi. W zablokowanych pomieszczeniach ludzie nie mogą widzieć SCP-173.
-Praktycznie Niezniszczalny: Pięć generatorów pojawia się w strefie ciężkiego nadzoru, do ich aktywacji wymagana jest karta do zbrojowni wysokiego poziomu oraz tablet menadżera broni. Jedyną możliwością na zabicie cię, jest aktywowanie ich wszystkich; ludzie lub inne SCP mogą to anulować w każdym czasie, poprzez interakcję z nimi.\nKażdy generator ma dwuminutową sekwencję odliczania, każdy aktywowany zwiększa także regenerację twojej energii. Gdy wszystkie pięć generatorów zostanie aktywowane, przez 1 minutę będziesz posiadał nieskończoną ilość energii, a później zginiesz.
-Łamanie Karku: Przytrzymaj lub kliknij, aby złamać człowiekowi kark. Atakując go na bardzo małym dystansie, zginie jeśli tylko mrugnie.
+Otwórz/Zamknij drzwi:Możesz wchodzić w interakcję z drzwiami za 5 punktów energii. Możesz również je zablokować, wyczerpując powoli swą energię, lecz zapobiegając ich otworzeniu lub zamknięciu, dopóki ich nie odblokujesz lub nie stracisz całej energii.
+Przeciążenie tesli:Możesz aktywować bramę tesli za 50 punktów energii, aby natychmiast ją uruchomić, zabijając każdego gracza znajdującego się w niej lub w jej otoczeniu.
+Blokada:Począwszy od drugiego poziomu dostępu, możesz wejść w interakcję z pomieszczeniem, aby je zablokować, wyłączyć światła oraz zamknąć drzwi. W zablokowanych pomieszczeniach ludzie nie mogą widzieć SCP-173.
+Praktycznie niezniszczalny: Pięć generatorów pojawia się w Strefie Ciężkiego Nadzoru. Jeśli wszystkie zostaną odblokowane i aktywowane, zostaniesz zabezpieczony.\nKażdy generator ma sekwencję odliczania, którą każdy gracz może przerwać, klikając przycisk "ANULUJ" na generatorze.
+Łamanie karku: Przytrzymaj lub kliknij, aby złamać człowiekowi kark, natychmiastowo go zabijając, gdy cię nie widzi lub mrugnie.
+Szarża (podczas szału):Skróć ich ucieczkę - zasługują na to. Szarżujesz przed siebie, niszcząc wszystko oraz raniąc każdego w twoim zasięgu. Jeśli natrafisz na bramę, przeciśniesz się przez nią.

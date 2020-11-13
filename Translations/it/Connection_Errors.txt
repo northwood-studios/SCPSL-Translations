@@ -7,13 +7,30 @@
 <size=80>DISCONNESSO</size>\nConnessione persa (tempo scaduto).
 <size=80>DISCONNESSO</size>\nConnessione persa (tempo scaduto).
 <size=80>DISCONNESSO</size>\nL'Operazione non è supportata.
-<size=80>DISCONNESSO</size>\nConfigurazione del server sbagliata (versione non compatibile).
-<size=80>DISCONNESSO</size>\nConfigurazione del server sbagliata.
+<size=80>DISCONNESSO</size>\nLa tua versione del gioco è diversa da quella del server.
+<size=80>DISCONNESSO</size>\nConfigurazione del server erratta.
 <size=80>DISCONNESSO</size>\nL'indirizzo inserito è invalido o insesistente.
 <size=80>DISCONNESSO</size>\nE' stato riscontrato un' errore inaspettato!
 <size=80>ATTENDERE</size>\n<size=35>Connessione...</size>
 <size=80>ROUND RICOMINCIATO</size>\n<size=35>Il server sta riavviando il livello...</size>
 <size=80>ATTENDERE</size>\n<size=35>Caricamento tutorial...</size>
-<size=80>VERSIONE INCOMPATIBILE</size>\nLa tua versione del gioco è differente rispetto a quella del server\n(Your - [your]; Server - [server])
+<size=80>VERSIONE INCOMPATIBILE</size>\nLa tua versione del gioco è differente rispetto a quella del server\n(Client - [your]; Server - [server])
 <size=80>CONNESSO</size>\n<size=35>Caricamento del livello...</size>
 <size=35>Caricamento della struttura...</size>
+<size=80>DISCONNESSO</size>\nErrore sconosciuto sul server.
+<size=80>DISCONNESSO</size>\nQuesto server richiede l'autenticazione da parte del server centrale.
+<size=80>DISCONNESSO</size>\nNon sei whitelistato nel server.
+<size=80>DISCONNESSO</size>\nSei stato bannato globalmente.
+<size=80>DISCONNESSO</size>\nSei stato bannato globalmente: [reason].
+<size=80>DISCONNESSO</size>\nSei stato bannato da questo server.
+<size=80>DISCONNESSO</size>\nSei stato bannato da questo server.\nPotrai riconnetterti nuovamente il: [date] [time]
+<size=80>DISCONNESSO</size>\nIl tuo token d'autenticazione è scaduto.\nIl server potrebbe avere l'ora o il fuso orario erratto.\nSi prega di contattare l'amministratore del server.
+<size=80>DISCONNESSO</size>\nLa tua connessione è stata limitata. Si prega di riprovare tra qualche secondo.
+<size=80>DISCONNESSO</size>\nIl server non accetta connessioni dalla tua posizione geografica.\nIl nome del server o le informazioni potrebbero contenere maggiori dettagli.
+<size=80>DISCONNESSO</size>\nSei stato espulso da una modifica del server.\n\nMotivazione: [reason]\nQuesta è una modifica del server, non una funzione del gioco.\nContatta l'amministratore del server per maggiori informazioni.
+<size=80>DISCONNESSO</size>\nIl tuo token d'autenticazione è stato rifiutato dal server.\nSi prega di riavviare il gioco oppure contattare il nostro supporto tecnico.
+<size=80>DISCONNESSO</size>\nSei stato bannato da questo server.\nMotivazione: [reason]
+<size=80>DISCONNESSO</size>\nSei stato bannato da questo server.\nPotrai riconnetterti nuovamente il:: [date] [time]\nMotivazione: [reason]
+<size=80>ATTENDERE</size>\nElaborazione della verifica della sicurezza del server...
+<size=80>DISCONNESSO</size>\nImpossibile validare la verifica della sicurezza del server.
+<size=80>DISCONNESSO</size>\nL'elaborazione della verifica della sicurezza del server è stata troppo lenta. \nSi prega di riprovare o contattare l'amministratore del server.

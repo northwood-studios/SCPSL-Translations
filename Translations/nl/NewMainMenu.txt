@@ -1,0 +1,81 @@
+Nieuws
+Servers
+Instellingen
+Afsluiten
+Social Media
+Internet
+Favorieten
+Officiële
+Geschiedenis
+Vrienden
+Zoek naar servers
+Maak een server
+Re-Join
+Direct Connect
+Ververs
+Verberg lege servers
+Verberg volle servers
+Geen Whitelist
+Video
+Audio
+Controls
+Gameplay
+Overig
+Venster Modus
+Exclusieve Volledig Scherm
+Randloze Venster
+Volledige Venster
+Venster
+V-Sync
+FPS Limiet
+Uit
+Textuur Kwaliteit
+Maximale hoeveelheid bloed
+Schaduwen
+Schaduw resolutie
+Schaduwafstand
+Bewegingsonscherpte
+Kleurcorrectie
+Anti Aliasing
+Licht rendering modus
+Master Volume
+Geluidseffecten
+Voice Chat
+Menu Muziek
+Interface Volume
+Menu Titelsong
+Snellere intro vervaging
+Head Bob
+Schakel sprintmodus
+Vertoon de exacte hoeveelheid HP
+Rich Presence
+Openbare Lobby
+Wissel Zoekmodus
+SCP-079 - Schakel Weergavemodus
+SCP-079 - Nabewerking
+Taal
+Hoofdmenu
+Verbind
+Terug
+Deze optie vereist een menu herlaad.\nWilt u het menu nu herladen?
+Ja
+Nee
+Weet je zeker dat je het spel wilt verlaten?
+Scherm Resolutie
+Verberg IP
+Welkom terug, {username}!
+Aftiteling
+AUTHENTICEREN
+Verbinding maken met centrale servers...
+<color=green>Verbinding gemaakt</color>
+<color=red>Verbinding mislukt (Kijk in de console voor details)</color>
+<color=red>Steam authenticatie mislukt (Kijk in de console voor details)</color>
+<color=red>Discord authenticatie mislukt (Kijk in de console voor details)</color>
+Uitgeschakeld
+{0} Seconden
+Ragdoll Cleanup Time
+Toon Steam Profiel
+Staat spelers toe om uw Steam profiel te zien door op een icoon te drukken op de spelerslijst.
+Do Not Track (DNT)
+Verbiedt de server om uw IP te gebruiken (IP address, user ID, etc.) voor doeleinden die niet te maken hebben met de serverbeveiliging.
+Graphics API

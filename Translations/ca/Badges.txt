@@ -1,0 +1,45 @@
+Northwood Director de Desenvolupament de Negocis
+Northwood Director Executiu
+Northwood Director d'Informació
+Northwood Director d'Operacions
+Northwood Director de la Comunitat
+Northwood Gestor del Discord
+Northwood Assistent executiu
+Northwood Gestor de Comentaris
+Northwood Recursos Humans
+Northwood Director de Recursos Humans
+Northwood Oficial Adjunt d'Informació
+Northwood Director Enginyer de Bot
+Northwood Director de Màrqueting
+Northwood Gestor de la Plataforma de Màrqueting
+Northwood Personal
+Northwood Gestor del Personal
+Northwood Administrador de Sistemes
+Northwood Gestor de la WIKI
+SCP:SL Director Artístic
+SCP:SL Supervisor Artístic
+SCP:SL Artista
+SCP:SL Programador Backend
+SCP:SL Gestor de Programació Backend
+SCP:SL Desenvolupador
+SCP:SL Guanyador de l'Event
+SCP:SL Programador Fullstack
+SCP:SL Dissenyador del Joc
+SCP:SL Programador del Joc
+SCP:SL Gestor de Moderadors
+SCP:SL Moderador
+SCP:SL Cap de Disseny del Joc
+SCP:SL Cap de Programadors del Joc
+SCP:SL Dissenyador de Nivells
+SCP:SL Patrocinador
+SCP:SL Ajudant de Patreon
+SCP:SL Programador
+SCP:SL Control de Qualitat i Seguretat
+SCP:SL Dissenyador de Sons
+SCP:SL Director del Joc
+SCP:SL Gestor dels Servidor
+Northwood Especialista en Verificació
+Northwood Especialista en Codi Natiu
+SCP:SL Control i Provador de la Qualitat
+SCP:SL Supervisor de Control i Provadors de Qualitat
+SCP:SL Subscriptor de Twitch

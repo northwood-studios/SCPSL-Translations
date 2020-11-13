@@ -1,8 +1,0 @@
-Üdvözöllek az SCP: Secret Laboratory-ben! Én a játék egyik szinkronszínésze vagyok.\nHadd mutassam be a játék alap szabályait.\nKeress mosdókat és ellenőrízd őket, hátha találsz kártyákat.\n
-<color=#00FF58>Használd a <b>W, A, S & D</b> gombokat, hogy eljuss a <b>mosdókba.</b>\nNyomd meg az <b>E</b>-t, hogy <b>interakcióba lépj </b> az ajtókkal és a tárgyakkal.</color>
-Remek, most vedd el.
-A kártyák az egyik legalapabb elemek a játékban, amikkel be tudsz lépni a lezárt zónákba.\nEllenőrízd a közeli ajtókat és próbáld meg kinyitni őket.
-<color=#00FF58>Nyomd meg a <b>TAB</b>-ot hogy megnyisd a leltáradat.\n<b>Bal egérgombbal</b> tudod kiválasztani\nés <b>jobb egérgombbal</b> eldobni.
-Ha tényleg el szeretnél szökni - akkor ajánlanék egy jobb kártyát.
-Minden kártyának megvan a saját engedély szintje. Ha a kártyákat össze szeretnéd hasonlítani, akkor csak vidd a kurzort rájuk a leltárodban.
-Gratulálok! Most végeztél az első tutoriallal!

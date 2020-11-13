@@ -5,8 +5,8 @@ USTAWIENIA
 NA PODSTAWIE <i>SCP: CONTAINMENT BREACH</i>
 POWRÓT
 JĘZYK
-ANTIALIASING
-Objaśnienia detali:\n-LICZBA ŚWIATEŁ - maksymalna liczba źródeł światła, których jest renderowane na poszczególnych pikselach.\n-V-Sync - synchronizuje ilość FPS to częstotliwości monitora.
+ANTYALIASING
+Objaśnienia detali:\n-LICZBA ŚWIATEŁ - maksymalna liczba źródeł światła, które są renderowane na poszczególnych pikselach.\n-V-Sync - synchronizuje ilość FPS do częstotliwości monitora.
 DOŁĄCZ DO GRY
 POST\nPROCESSING
 AUTORZY
@@ -21,12 +21,12 @@ LICZBA ŚWIATEŁ
 TYP CIENI
 CIENIE
 STWÓRZ GRĘ
-Zmień ustawienia post-processingu. Nie wpływają one na wydajności. Zalecane jest pozostawienie domyślnych ustawień.
-Tryb renderowania świateł:\nKiedy wyłączone - pogarsza znacznie wygląd gry. Zalecane jest wyłączenie tego tylko wtedy, jeżeli posiadasz słaby sprzęt
+Zmień ustawienia post-processingu. Nie wpływają one na wydajność. Zalecane jest pozostawienie domyślnych ustawień.
+Tryb renderowania świateł:\nGdy wyłączone - pogarsza znacznie wygląd gry. Zalecane jest wyłączenie tej opcji tylko w przypadku, gdy posiadasz słaby sprzęt
 V-SYNC
 POŁĄCZ
 USTAWIENIA JAKOŚCI
-Zmień preferencje cieni. Ustawienie tych suwaków przy niższych wartościach może zwiększyć płynność gry.
+Zmień preferencje cieni. Zmniejszenie wartości tych suwaków może zwiększyć płynność gry.
 MENU GŁÓWNE
 USTAWIENIA RENDEROWANIA ŚWIATEŁ
 ROZMYCIE W RUCHU
@@ -42,8 +42,8 @@ WYSZUKIWARKA SERWERÓW
 OK
 ZNAJDŹ GRĘ
 2. Bronie
-Używamy Discorda jako forum. Instalacja niewymagana.\n(kliknij na logo poniżej, aby dołączyć)
-Domyślnie serwer uruchomi się w sieci lokalnej.\nTwoi znajomi będą potrzebowali Twojego IP, aby dołączyć.\nJeżeli chcesz stworzyć serwer publiczny, otwórz LocalAdmin.exe i postępuj zgodnie z instrukcjami.\nJeżeli masz wątpliwości, zapytaj naszą pomoc techniczną (link w menu głównym)
+Używamy Discorda jako forum. Instalacja nie jest wymagana.\n(kliknij na logo poniżej, aby dołączyć)
+Domyślnie serwer uruchomi się w sieci lokalnej.\nTwoi znajomi będą potrzebowali Twojego IP, aby dołączyć.\nJeśli chcesz stworzyć serwer publiczny, otwórz LocalAdmin.exe i postępuj zgodnie z instrukcjami.\nJeżeli masz wątpliwości, zapytaj naszą pomoc techniczną (link w menu głównym)
 1. Podstawy
 Prezentowana gra to otwarta beta.\nMożesz doświadczyć wielu błędów.\nAktualny stan nie świadczy o wersji finalnej.
 4. (więcej poradników później)
@@ -56,10 +56,10 @@ BRAK AKTYWNYCH SERWERÓW
 WCIŚNIJ ESC ABY ANULOWAĆ/ZAMKNĄĆ
 STEROWANIE
 MAKSYMALNA ILOŚĆ KRWI
-Limitowane FPS
-Limitowane FPS nie działa, kiedy jest V-SYNC!
-Przywróć Domyślne
-Używamy sekcji "Dyskusje" na Steam, jako forum. (Kliknij na logo poniżej, by otworzyć)
+Limitowanie FPS
+Limitowanie FPS nie działa, gdy V-SYNC ON!
+Przywróć domyślne
+Używamy sekcji "Dyskusje" na Steam jako forum. (Kliknij na logo poniżej, by otworzyć)
 USTAWIENIA DŹWIĘKU
 GŁOŚNOŚĆ OGÓLNA
 MUZYKA W MENU
@@ -75,13 +75,17 @@ Gdy wyłączony, efekty na kamerze zostaną znacząco zmniejszone.
 ANIMACJA CHODZENIA
 Włącza ruch kamery podczas biegu.
 PRZEŁĄCZANY BIEG
-Bieganie można włączyć i wyłączyć, bez przytrzymywania klawisza.
+Bieganie można włączać i wyłączać bez przytrzymywania klawisza.
 ODDZIELNY PASEK DODATKOWEGO ZDROWIA
-Oddziela dodatkowe zdrowie na swój osobny pasek, zamiast się nakładać.
-Nasze spolszczenia są dostępne na GitHub!\nChcesz pomóc? Naciśnij tutaj aby uzyskać dostęp.
+Przenosi dodatkowe zdrowie na osobny pasek, zamiast nakładać je na główny.
+Możesz pomóc w edycji naszych tłumaczeń, odwiedzając portal GitHub!\nNaciśnij tutaj, by tam przejść
 RICH PRESENCE
-Gdy włączony, twój status w grze zostanie pokazany na Discordzie/Steamie.
-WYŚWIETL DOKŁADNĄ ILOŚĆ ŻYCIA
-Wyświetla dokładną ilość życia, zamiast w procentach.
+Gdy włączone, twój status w grze zostanie pokazany na Discordzie/Steamie.
+WYŚWIETL DOKŁADNĄ ILOŚĆ ZDROWIA
+Wyświetlaj dokładną liczbę punktów życia, zamiast wartości procentowej.
 PUBLICZNE LOBBY
 Gdy włączone, twoi znajomi na Steam będą mogli dołączyć do gry bez wymagania twojej zgody.
+UKRYJ IP
+Gdy włączone, adresy IP nie są wyświetlane w konsoli.
+PRZEŁĄCZANE PODNOSZENIE
+Podnoszenie przedmiotu nie będzie wymagać trzymania przycisku; naciśnij ponownie by anulować.

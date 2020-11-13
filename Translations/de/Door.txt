@@ -1,0 +1,11 @@
+<color=#1DA8FFFF>GESCHLOSSEN</color>
+<color=#00ee00FF>GEÖFFNET</color>
+<color=#FF7800FF>BEWEGEND</color>
+<color=#ee0000FF>VERWEIGERT</color>
+<color=#ee0000FF>VERSCHLOSSEN</color>
+<color=#00C0eeFF>ZUGANGSKARTE ERFORDERLICH</color>
+<color=#00ee00FF>ZUGANG GEWÄRT</color>
+<color=#ee0000>ZUGANG VERWEIGERT</color>
+<color=#ee7900FF>BITTE PASSIEREN</color>
+<color=#00ee00FF>EVAKUIEREN</color>
+<color=#ee7900FF>SCHLIESSEN</color>

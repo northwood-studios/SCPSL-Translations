@@ -1,17 +1,17 @@
 Раунд завершено!
-SCP ПЕРЕМОГЛИ
-Nine-Tailed Fox ПЕРЕМОГЛИ
-Персонал класу D ПЕРЕМОГЛИ
+ПЕРЕМОГА SCP
+ПЕРЕМОГА МОГ
+ПЕРЕМОГА КЛАСУ D
 НІЧИЯ
-Вони відповідальні за смерть [summary_scpfrags] людей.
-Небезпека була ліквідована. Тепер тут безпечно.
-Вся Служба Безпеки Установи була знищена.
-Всі сторони понесли втрати і частково виконали свої задачі. Переможця немає.
-[summary_d_escaped] Персоналу класу D втекло
-[summary_s_escaped] Вчених вижило
-Детонація Альфа боєголовки знищила [summary_warhead_kills] суб'єктів.
-Альфа боєголовка не була здетонована.
-Раунд тривав [summary_round_minutes] хвилин і [summary_round_seconds] секунд.
-[summary_scp_terminated] SCP знищено
-Наступний раунд через [summary_next_round_countdown] секунд.
-You have dealed [summary_damages] damages, and killed [summary_kills] players.
+Вони відповідальні за смерті людей: [summary_scpfrags].
+Загрозу ліквідовано. Тепер тут знову безпечно.
+Усю охорону Фонду ліквідовано.
+Обидві сторони зазнали втрат і здобули певну перемогу. Остаточного переможця немає.
+Утекло персоналу класу D: [summary_d_escaped]
+Утекло науковців: [summary_s_escaped]
+Боєголовка «Альфа» вибухнула. Убито [summary_warhead_kills].
+Під час цього завдання боєголовка «Альфа» не вибухнула.
+Завдання тривало [summary_round_minutes] хв [summary_round_seconds] с
+Знищено суб’єктів SCP: [summary_scp_terminated]
+Наступний ранд за [summary_next_round_countdown] с
+Ви завдали [summary_damages] шкоди. Гравців, убитих вами: [summary_kills].

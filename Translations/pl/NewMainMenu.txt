@@ -1,0 +1,87 @@
+Aktualności
+Serwery
+Ustawienia
+Wyjdź
+Media społecznościowe
+Sieć
+Ulubione
+Oficjalne
+Historia
+Znajomi
+Wyszukaj serwer
+Stwórz serwer
+Połącz ponownie
+Połącz bezpośrednio
+Odśwież
+Ukryj puste serwery
+Ukryj pełne serwery
+Bez białej listy
+Wideo
+Dźwięk
+Sterowanie
+Rozgrywka
+Inne
+Tryb okna gry
+Pełny ekran
+Bez krawędzi
+Zmaksymalizowane okno
+W oknie
+V-Sync
+Ograniczenie FPS
+Wyłączone
+Jakość tekstur
+Maksymalna ilość krwi
+Cienie
+Rozdzielczość cieni
+Odległość cieni
+Rozmycie w ruchu
+Korekcja kolorów
+Antyaliasing
+Wyświetlaj światła
+Głośność ogólna
+Efekty dźwiękowe
+Czat głosowy
+Muzyka w menu
+Głośność interfejsu
+Utwór w menu
+Szybsze opisy
+Animacja chodzenia
+Przełączany bieg
+Wyświetl dokładną ilość zdrowia
+Rich Presence
+Publiczne lobby
+Przełączane podniesienie
+SCP-079 - przełącz tryb widoku
+SCP-079 - Post-Processing
+Język
+Menu główne
+Połącz
+Powrót
+Ta zmiana wymaga zresetowania menu.\nZrestartować menu główne?
+Tak
+Nie
+Czy aby na pewno chcesz wyjść?
+Rozdzielczość ekranu
+Ukryj IP
+Witaj, {username}!
+Autorzy
+UWIERZYTELNIANIE
+Łączenie z serwerami centralnymi...
+<color=green>Nawiązano połączenie</color>
+<color=red>Błąd połączenia (Szczegóły w konsoli)</color>
+<color=red>Uwierzytelnianie Steam nie powiodło się (Szczegóły w konsoli)</color>
+<color=red>Uwierzytelnianie Discord nie powiodło się (Szczegóły w konsoli)</color>
+Wyłączono
+Sekund
+Czas na wyczyszczenie ciał
+Wyświetlaj profil Steam
+Pozwala innym graczom wyświetlić Twój profil Steam, klikając na ikonę w liście graczy.
+Nie śledź (DNT)
+Zakazuje serwerowi używania twoich danych (adresu IP, ID użytkownika itd.) w celach niezwiązanych z bezpieczeństwiem serwera.
+Interfejs graficzny
+Tworzenie serwerów z poziomu gry nie jest juz wspierane\nIstnieją trzy sposoby na stworzenie serwera SCP:SL:\n- Możesz pobrać serwer dedykowany SCP:SL (ID aplikacji na Steam: 996560) i uruchomić go na swoim komputerze\n- Mozesz wynająć serwer dedykowany lub VPS na hostingu i tam uruchomić serwer dedykowany SCP:SL\n- Możesz wynająć serwer SCP:SL na hostingu serwerów gier, który wspiera SCP:SL (przykładowo ZAP Hosting)\n\nNaciśnij poniższy link po więcej informacji.\nMożesz także poprosić o pomoc naszych techników (link do naszego serwera Discord znajduje się w menu głównym)
+STWÓRZ SERWER MIMO TO
+CZYTAJ WIĘCEJ
+WYNAJMIJ SERWER
+ANULUJ
+Sekunda

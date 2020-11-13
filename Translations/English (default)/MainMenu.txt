@@ -28,7 +28,7 @@ CONNECT
 QUALITY SETTINGS
 Change shadow preferences. Setting these sliders at lower values may increase gameplay smoothness.
 MAIN MENU
-LIGHT RENDERING MODE
+RENDER LIGHTS
 MOTION BLUR
 SHADOW DISTANCE
 DETAILS
@@ -85,3 +85,7 @@ DISPLAY EXACT HP VALUE
 Displays exact HP, instead of just the percentage.
 PUBLIC LOBBY
 If enabled, your steam friends can join you without permission.
+HIDE IP
+If enabled, any IP in client console is not displayed.
+TOGGLE SEARCH
+Item pickup will not require a held key; press again to cancel.

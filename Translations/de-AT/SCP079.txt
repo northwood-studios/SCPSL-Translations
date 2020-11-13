@@ -1,0 +1,17 @@
+AUXILIARY POWER
+ERFOHRUNG
+KOMERA ÜBATROGUNG ONLINE
+Druck [KEY] um zur Minimap zu wöchseln
+Erfohrung g'sammelt:
+Zusammenorbeit
+Klosse-D Tötungsassist
+C. I. Tötungsassist
+MTF Tötungsassist
+Wissenschoftla Tötungsassist
+SCP Tötungsassist
+VERRIEGELTE DIARN: [LOCKED_NUM]<size=25>RECHTSCLICK UM VERRIEGLUNG AUFZUMHEMN</size>
+Oigemeine Interaktionen
+Du wiast Ongriffen!
+Generatoren san auf der Karte markiert wordn.
+GEFAHR
+SCPs{0}MTF & Sichaheitspersonal{1}Wissenschoftla{2}D-Klossen{3}Chaos Insurgents{4}

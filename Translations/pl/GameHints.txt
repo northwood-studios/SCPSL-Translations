@@ -1,0 +1,6 @@
+<color=red>Odmowa dostępu</color>
+Limit <color=yellow>amunicji [type]</color> został osiągnięty (<color=yellow>[max_type_count] sztuk</color>).
+<b>Osiągnięto</b> limit <color=yellow>amunicji [type]</color> (<color=yellow>[max_type_count] sztuk</color>).
+Limit <color=yellow>[type]</color> został osiągnięty (<color=yellow>[max_type_count] przedmioty</color>).
+<b>Osiągnięto</b> limit <color=yellow>[type]</color> (<color=yellow>[max_type_count] przedmioty</color>).
+Możesz mieć tylko <color=yellow>[max_item_count] przedmiotów</color>.

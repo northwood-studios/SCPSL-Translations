@@ -1,0 +1,18 @@
+<size=100>STATION DE TRAVAIL - VERROUILLÉE</size>\nl'accès par du personnel non autorisé est strictement interdit\nveuillez connecter votre gestionnaire d'armes afin de vérifier l'identité
+<size=100>VEUILLEZ PATIENTER</size>\nvérification du gestionnaire d'armes connecté
+<size=100>STATION DE TRAVAIL - PRÊTE</size>\n\nveuillez équiper l'arme que vous souhaitez modifier
+<size=80>QUE VOULEZ-VOUS MODIFIER ?</size>
+vision ({0} prêt)
+extensions du canon ({0} prêt)
+autres ajouts ({0} prêt)
+RETOUR
+Dommages {0}
+Bruit du tir {0}
+Recul {0}
+Cadence de tir {0}
+Précision (sans viser) {0}
+<color=red>Modifie le réticule</color>
+<color=green>Viseur télescopique</color>
+Échelle de zoom <color=green>{0}</color>
+Recul (lors de la visée) {0}
+<size=100>À BIENTÔT</size>\nfermeture de la session en cours

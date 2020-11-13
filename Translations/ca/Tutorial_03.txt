@@ -1,0 +1,15 @@
+Aquí anem! No hi ha cap ronda en la qual no s'utilitzi l'SCP-914. És una màquina especial que et permet canviar el nivell de les targetes d'accés. Si us plau, entra a la sala de contenció.
+Mira el panell amb l'interruptor. Pot ser col·locat en 5 posicions diferents.
+1:1 - canvia el nivell d'una targeta. Per exemple:\ntla targeta de científic a targeta de guàrdia;\no una targeta de comandant MTF a targeta d'enginyer de contenció
+Fine - augmenta el nivell de la targeta, i Coarse - la disminueix.
+Very fine y Rough són equivalents a fine y Coarse. Són més ràpids, però amb riscos.
+Tutorial3_GiveKeycard
+He llançat una targeta per terra.\nAgafa-la i tracta de millorar-la al màxim - la targeta de nivell 05.
+<color=#00FF58>Canvia l'interruptor a <b>Fine, Very fine o 1:1</b> per millorar la targeta.
+Què has fet? No esperava això... no hi ha res interessant allà, torna a l'SCP-914!
+Has fet una errada i l'has cremat! Cap problema, agafa una altra.
+Oh, ho has fet de nou! Vinga! Aquí tens una altra.
+Saps què? Potser seria millor donar-te la targeta de nivell 5 d'una vegada\nRecorda, volem una targeta de nivell 05.
+Ehh, ho estàs fent amb tota la intenció. Creus que això és divertit? Saps que puc fer i tu no podràs evitar-ho? Tabcar el joc! Sí! Torna després quan siguis més intel·ligent!
+Tutorial3_Quit
+Ben fet! Amb aquesta targeta podràs obrir qualsevol porta! Ja entens quin és l'SCP-914? Espero que puguis utilitzar allò que has aprés en una partida real. Bona sort!

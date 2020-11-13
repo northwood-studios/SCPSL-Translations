@@ -1,0 +1,30 @@
+Capacité introuvable:L'ID de capacité associé à cette capacité n'existe pas.
+Sprint:Vous vous déplacez plus rapidement mais vous devenez plus bruyant et moins discret lors de vos déplacements.
+Furtif:Vos pas sont silencieux mais votre vitesse est fortement réduite.
+Inventaire:Ouvrez votre inventaire et sélectionnez un objet que vous avez ramassé avec le clic gauche ou déposez-le avec le clic droit.
+Désarmé:Vous n'avez rien. Trouvez quelque chose. N'importe quoi.
+Carte d'accès:Vous avez une carte d'accès, ce n'est pas la meilleure mais ne la perdez pas.
+Équipement standard:Vous êtes équipé d’un fusil, de grenades, d’une radio, d’un désarmeur et d’une carte d’accès.
+Armé et dangereux:Vous avez avec vous une mitrailleuse légère, un outil de piratage (carte d'accès) et une trousse de premiers soins.
+Vitesse démesurée:Quand aucun humain ne vous voit, vous vous déplacez très rapidement. Si vous êtes directement surveillé par un humain, vous ne pouvez ni vous déplacer ni attaquer, mais tous les humains qui vous regardent clignotent simultanément toutes les quelques secondes, ce qui vous permet d'agir.
+Panique:Vous vous déplacez plus rapidement à mesure que votre santé diminue.
+Portail:Vous pouvez placer ou vous téléporter vers votre portail représenté par une tache noire sur le sol.\nVous ne pouvez pas en avoir plus d'un seul à la fois mais vous pouvez le déplacer à tout moment. La téléportation prend quelques secondes.
+Corrosion:Vous pouvez franchir les portes en passant à travers.
+Chant du cygne:Vous ne subissez presque aucun dommage, à l'exception des grenades et de l'électricité, mais votre enceinte de confinement dispose d'une petite pièce dans laquelle tout joueur peut entrer pour se sacrifier. À partir de ce moment-là, tout le monde peut appuyer sur un bouton de cette chambre pour vous rappeler instantanément après un délai de quinze secondes.
+Dimension de poche:Vous capturez un humain et le téléportez dans une dimension à huit portes; une ou plusieurs de ces portes les téléportent dans une pièce de l’installation au hasard, et les sept autres les tuent.\nL’humain meurt lentement tout en restant dans la dimension.
+Timide:Par défaut, vous vous déplacez lentement, vous ne pouvez pas attaquer et vous émettez des pleurs silencieux. Si les humains vous regardent assez longtemps, vous vous bloquez sur place pendant cinq secondes, puis vous entrez en rage.
+Rage anti-sociale:En colère, vous vous déplacez extrêmement vite et criez fort. La rage dure environ vingt secondes; ensuite, vous ne pouvez plus entrer en rage pendant une courte période.\nLorsque vous êtes en rage, cliquer sur le bouton d'attaque ou le maintenir enfoncé tuera instantanément les humains à courte distance.
+Destruction:En colère, interagir avec les portes les détruira.
+Ultrasensible:Vous ne pouvez voir les humains que s’ils courent, vous heurtent ou tirent avec une arme à proximité de vous.
+Rush:Augmente votre vitesse de déplacement.
+Imitation:Vous pouvez parler à haute voix avec tous les joueurs à proximité, y compris les humains.
+Morsure:Attaque un être humain de près infligeant des dégâts importants.
+Antidote:Toucher un être humain le tue instantanément et le rend vulnérable à la réanimation pendant plusieurs secondes. Cela n'a pas de temps de recharge.
+Réanimation:En maintenant le bouton d'interaction enfoncé pendant plusieurs secondes sur un cadavre que vous avez récemment tué, vous le réanimerez, transformant ainsi l’humain en zombie. Ils ont une santé faible et une attaque faible, mais se déplacent assez rapidement et peuvent communiquer avec vous et les autres SCP.\nIl n’y a aucune limite quant au nombre d’êtres humains pouvant être réanimés.
+Frappe:Attaque un humain et lui inflige quelques dégâts.
+Ouvrir / Fermer les portes:Vous pouvez interagir avec les portes pour 5 Points de Puissance. Vous pouvez également les verrouiller en utilisant votre énergie. Cela empêchera quiconque d'ouvrir ou de fermer la ou les portes jusqu'à ce que vous leviez le verrouillage ou bien que vous soyez à court d'énergie.
+Décharge Tesla:Vous pouvez activer une Tesla pour 50 Points de Puissance pour la déclencher instantanément, tuant ainsi tous les joueurs qui se trouvent à l'intérieur ou très proche.
+Verrouillage:À partir du niveau d'accès 2, vous pouvez interagir avec certaines pièces pour les verrouiller, en éteignant toutes les lumières et en fermant toutes les issues. Dans les salles verrouillées et éteintes, les humains ne peuvent pas voir SCP-173.
+Pratiquement indestructible:Cinq générateurs apparaissent dans la zone de confinement intensif, nécessitant une carte de haut niveau et une tablette de gestion des armes pour être activés. La seule façon de vous tuer est que les humains alimentent la totalité de ces générateurs; les humains ou d’autres SCP peuvent les annuler à tout moment en interagissant avec eux.\nChaque générateur a une séquence de compte à rebours de deux minutes et chaque générateur actif augmente la régénération de votre énergie. Une fois que les cinq générateurs sont actifs, vous obtenez une énergie illimitée pendant 1 minute, puis vous mourrez.
+Briseur de nuque:Tenez enfoncé ou cliquez pour casser le cou d'un humain. Attaquer un humain à portée lorsqu'il ne vous regarde pas, le tuera instantanément.
+Charge (Rage):Coupez court à des évasions. Vous foncez droit devant en démolissant n'importe quoi. Si vous tentez de passer à travers une porte blindée, vous pouvez la forcer.

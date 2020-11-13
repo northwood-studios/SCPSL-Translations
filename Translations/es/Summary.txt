@@ -1,17 +1,17 @@
-La ronda ha finalizado
-Los SCPs ganan
-La MTF gana
-Los Clases D ganan
+¡La ronda ha acabado!
+LOS SCPs GANAN
+LOS MTF GANAN
+LOS CLASE-D GANAN
 TABLAS
-Son responsable de la perdida de [summary_scpfrags] vidas humanas.
-Amenaza eliminada. Esta instalacion es segura de nuevo.
-La seguridad de la Fundacion ha sido neutralizada.
-Ambos bandos han sufrido grandes perdidas. El ganador no queda determinado.
-Han escapado: [summary_d_escaped] clases D
-Han escapado: [summary_s_escaped] cientificos
-La detonacion de la Alpha warhead ha eliminado a [summary_warhead_kills] sujetos.
-La Alpha warhead no ha sido detonada en esta partida.
-La mision ha durado: [summary_round_minutes] minutos y [summary_round_seconds] segundos.
+Son responsables de la perdida de [summary_scpfrags] vidas humanas.
+Amenaza eliminada. Las instalaciones son seguras de nuevo.
+Toda la seguridad de La Fundación ha sido neutralizada.
+Ambos bandos han sufrido grandes perdidas. Ganador indeterminado.
+Han escapado: [summary_d_escaped] Clase-D
+Han escapado: [summary_s_escaped] Científicos
+La detonación del Silo Alfa acabó con [summary_warhead_kills] sujetos.
+El Silo Alfa no se detonó en esta misión.
+La misión duró [summary_round_minutes] minutos y [summary_round_seconds] segundos.
 Sujetos SCP recontenidos: [summary_scp_terminated] .
-La proxima ronda empieza en: [summary_next_round_countdown] segundos.
-Has inflingido [summary_damages] puntos de impacto y eliminado a [summary_kills] jugadores.
+La próxima ronda empieza en: [summary_next_round_countdown] segundos.
+Has infligido [summary_damages] puntos de daño y eliminado a [summary_kills] jugadores.

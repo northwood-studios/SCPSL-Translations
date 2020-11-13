@@ -1,17 +1,17 @@
-the round has finished!
-SCPs WON
-MTF WON
-CLASS-D WON
-STALEMATE
-They are responsible for killing [summary_scpfrags] human beings.
-Threat terminated. This place is now safe again.
-All Foundation security has been terminated.
-Both sides have suffered losses and benefited greatly. The winner is undetermined.
-[summary_d_escaped] class-d escaped
-[summary_s_escaped] scientist(s) survived
-Alpha Warhead detonation terminated [summary_warhead_kills] beings.
-Alpha Warhead was not detonated during this misson.
-The mission took [summary_round_minutes] minutes and [summary_round_seconds] seconds.
-[summary_scp_terminated] terminated SCPs
-next round in [summary_next_round_countdown] seconds.
-You have dealed [summary_damages] damages, and killed [summary_kills] players.
+De ronde is afgelopen!
+SCPs WINNEN
+MTF WINNEN
+D-Klasse WINNEN
+GELIJKSPEL
+Zij zijn verantwoordelijk voor het doden van [summary_scpfrags] mensen.
+Gevaren vernietigd. Het gebied is weer veilig.
+Alle Foundation bewakers zijn vermoord.
+Beide kanten hebben enorm verlies en winst gemaakt. De winnaar is onduidelijk.
+[summary_d_escaped] D-Klasse ontsnapt
+[summary_s_escaped] Wetenschappers(s) overleven
+Alpha Warhead explosie vermoordde [summary_warhead_kills] wezens.
+Alpha Warhead is niet ontploft deze ronde.
+De ronde duurde [summary_round_minutes] minuten en [summary_round_seconds] seconden.
+[summary_scp_terminated] vernietigde SCPs
+Volgende ronde in [summary_next_round_countdown] seconden.
+U heeft [summary_damages] schade aangericht, en [summary_kills] spelers vermoord.

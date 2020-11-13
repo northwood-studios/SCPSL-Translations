@@ -6,7 +6,7 @@ Chiave Magnetica della Guardia:Nessuna descrizione
 Chiave Magnetica del Cadetto MTF:Nessuna descrizione
 Chiave Magnetica del Ingegnere di Contenimento:Nessuna descrizione
 Chiave Magnetica del Luogotenente MTF:Nessuna descrizione
-Chiave Magnetica del Commandante MTF:Nessuna descrizione
+Chiave Magnetica del Comandante MTF:Nessuna descrizione
 Chiave Magnetica del Responsabile della struttura:Nessuna descrizione
 Dispositivo d'Accesso dei Chaos Insurgency
 Chiave Magnetica livello-05
@@ -33,3 +33,4 @@ SCP-018:Super-Palla in grado di ribalzare con un'efficienza estrema!
 SCP-268:Rende temporaneamente invisibile se indossato, a meno che l'utente non lo interrompa con una qualsiasi interazione.
 Adrenalina:Aumenta temporaneamente la resistenza.
 Antidolorifici:Allevia piccole ferite.
+Moneta:Non sei sicuro del motivo per il quale la vorresti tenere...

@@ -1,31 +1,36 @@
-Janitor Keycard:No description
-Scientist Keycard:No description
-Research Supervisor Keycard:No description
-Zone Manager Keycard:No description
-Guard Keycard:No description
-MTF Cadet Keycard:No description
-Containment Engineer Keycard:No description
-MTF Lieutenant Keycard:No description
-MTF Commander Keycard:No description
-Facility Manager Keycard:No description
-Chaos Insurgency Access Device
-O5-level Keycard
-Radio:SR = Short Range \nMR = Medium Range \nLR = Long Range \nUR = Ultra Range \nUses battery while on. Longer range means higher battery use.
+Schoonmaker Toegangskaart:No description
+Wetenschapper Toegangskaart:No description
+Onderzoek Inspecteur Toegangskaart:No description
+Zone Manager Toegangskaart:No description
+Bewaker Toegangskaart:No description
+MTF Cadet Toegangskaart:No description
+Insluiting Ingenieur Toegangskaart:No description
+MTF Lieutenant Toegangskaart:No description
+MTF Commandant Toegangskaart:No description
+Facility Manager Toegangskaart:No description
+Chaos Insurgency Toegangs Apparaat
+O5-level Toegangskaart
+Radio:SR = Kort Bereik \nMR = Gemiddeld Bereik \nLR = Lang Bereik \nUR = Ultra Bereik \nVerbruikt batterij terwijl het aan staat. Hoger bereik betekent hoger batterij gebruik.
 COM-15 Sidearm:No description
-First AID Kit:Heals your injuries.
-Flashlight:Let there be light!
-Micro H.I.D.:Mobile high-intensity electrical discharge thrower.
-Coin:No description
-Cup:No description
-Weapon Manager Tablet:Used to drop ammo & upgrade your weapons.
+EHBO-doos:Geneest je wonden.
+Zaklamp:Laat er licht zijn!
+Micro H.I.D.:Draagbare hoge-voltage ontlader.
+SCP-500:Het wondermiddel.
+SCP-207:Verbetert de spieren op een schadelijke manier.
+Wapen Manager Tablet:Gebruikt om munitie op de grond te leggen & wapens te verbeteren.
 MTF-E11-SR:No description
 Project 90:No description
 Dropped 5.56:No description
 MP7:No description
 Logicer:No description
-Frag Grenade:Boom!
-Flashbang Grenade:Blinds your enemies.
-Disarmer:Left click disarms, right click unties. \nHold E on someone who is disarmed on your team to free them.
+Handgranaat:Boem!
+Flitsgranaat:Verblindt uw vijanden.
+Handboeien:Linkermuisknop doet handboeien om, rechtermuisknop haalt ze eraf. \nHoud E ingedrukt op een gehandboeide persoon om ze te bevrijden.
 Dropped 7.62:No description.
 Dropped 9mm:No description.
 USP:No description.
+SCP-018:Zeer effectieve stuiterbal.
+SCP-268:Maakt je tijdelijk onzichtbaar, tenzij de gebruiker actief iets uitvoert.
+Adrenaline:Verhoogt tijdelijk je uithoudingsvermogen.
+Pijnstillers:Geneest kleine wonden.
+Munt:Je weet niet zeker waarom je dit bij je hebt...

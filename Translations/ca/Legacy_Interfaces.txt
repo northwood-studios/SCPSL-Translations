@@ -1,0 +1,19 @@
+POTS DONAR-LI ORDRES
+SEGUEIX LES SEVES ORDRES
+EL MATEIX NIVELL DE PERMÍS
+Classe-D escapats
+Científics supervivents
+Assassinats per SCP
+SCP Exterminats
+Nucli Alfa
+Detonat
+No Utilitzat
+La propera ronda començarà en [time] segons.
+HABILITAT ESPECIAL
+CREAR POU
+UTILITZAR POU
+HAS MORT
+Has sigut assassinat per
+com a
+Passiu
+(amagat)

@@ -13,10 +13,10 @@ O5-szintű kártya
 Rádió:SR = Rövid hatótávolság \nMR = Közepes hatótávolság \nLR = Nagy hatótávolság \nUR = Ultra hatótávolság Energiát csak akkor használ, ha be van kapcsolva. Nagyobb hatótávolság esetén nagyobb a fogyasztás.
 COM-15 pisztoly:Nincs leírás.
 Medkit:Meggyógyítja a sérüléseidet.
-Zseblámpa:"S lőn világosság!"!
+Zseblámpa:"S lőn világosság!"
 Micro H.I.D.:Mobilis, nagy intenzitású elektromos kisülést szór.
-Érme:Nincs leírás.
-Csésze:Nincs leírás.
+SCP-500:A csodaszer.
+SCP-207:Károsan növeli az izmok működését.
 Fegyver menedzser tablet:Eldobhatod a lőszeredet & fejlesztheted a fegyvereidet.
 MTF-E11-SR:Nincs leírás.
 Projekt 90:Nincs leírás.
@@ -29,3 +29,8 @@ Lefegyverző:Bal klikk lefegyverez, jobb klikk eltávolítja a bilincset. \nTart
 Eldobott 7.62:Nincs leírás.
 Eldobott 9mm:Nincs leírás.
 USP: Nincs leírás.
+SCP-018:Egy szuper labda, ami képes extrém hatékonysággal pattogni.
+SCP-268:Miközben ezt viseled, ideiglenesen láthatatlanná válsz, mindaddig amíg bármilyen emberi cselekdettel félbe nem szakítod
+Adrenalin:Ideiglenesen növeli az állóképességet.
+Fájdalomcsillapító:Enyhíti a kisebb sérüléseket.
+Érme:Nem vagy benne biztos, hogy miért cipelnéd ezt magaddal...

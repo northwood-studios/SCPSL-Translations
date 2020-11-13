@@ -1,0 +1,4 @@
+<size=180><color=red>DISABLED</color></size>
+<color=red><size=200>PLEASE WAIT</size></color>
+<color=lime><size=180>READY</size></color>
+DETONATION INEVITABLE

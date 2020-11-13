@@ -1,5 +1,5 @@
 NIE ŻYJESZ
-Kliknij {KEYBINDING_INTERACTION} by podłączyć <color=yellow>Tablet Menadżera Broni</color>.
-Kliknij {KEYBINDING_INTERACTION} by odłączyć <color=yellow>Tablet Menadżera Broni</color>.
-Ta <color=yellow>stacja robocza</color> posiada już kogoś podłączony <color=yellow>Tablet Menadżera Broni</color>
-Potrzebujesz <color=yellow>Tablet Menadżera Broni</color> by użyć tej <color=yellow>stacji roboczej</color>.
+Kliknij {0}, aby podłączyć <color=yellow>tablet menadżera broni</color>.
+Kliknij {0}, aby odłączyć <color=yellow>tablet menadżera broni</color>.
+Do tej <color=yellow>stacji roboczej</color> podłączony jest już <color=yellow>tablet menadżera broni</color>.
+Potrzebujesz <color=yellow>tablet menadżera broni</color> by użyć tej <color=yellow>stacji roboczej</color>.
