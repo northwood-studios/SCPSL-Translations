@@ -1,6 +1,6 @@
 <color=red>У доступі відмовлено</color>
-ДосягнутоReached the limit of <color=yellow>[type] ammo</color> (<color=yellow>максимум: [max_type_count]</color>)
-<b>Уже</b> зібрано максимум <color=yellow>набоїв [type]</color> (<color=yellow>[max_type_count] набоїв</color>)
+Досягнутий ліміт <color=yellow>[type] патронів</color> (<color=yellow>максимум: [max_type_count]</color>)
+<b>Вже</b> зібрано максимум <color=yellow>набоїв [type]</color> (<color=yellow>[max_type_count] набоїв</color>)
 Зібрано максимум <color=yellow>[type]</color> (<color=yellow>максимум: [max_type_count]</color>)
-<b>Уже</b> зібрано максимум <color=yellow>[type]</color> (<color=yellow>максимум: [max_type_count]</color>)
+<b>Вже</b> зібрано максимум <color=yellow>[type]</color> (<color=yellow>максимум: [max_type_count]</color>)
 Можна нести лише <color=yellow>[max_item_count] предметів</color>.

@@ -1,0 +1,11 @@
+<color=#1DA8FFFF>ЗАЧИНЕНО</color>
+<color=#00ee00FF>ВІДЧИНЕНО</color>
+<color=#FF7800FF>ВІДКРИВАЄТЬСЯ</color>
+<color=#ee0000FF>ВІДХИЛИНО</color>
+<color=#ee0000FF>ЗАМКНЕНО</color>
+<color=#00C0eeFF>ПОТРІБНА КАРТА</color>
+<color=#00ee00FF>ДОСТУП ДОЗВОЛЕНО</color>
+<color=#ee0000>ДОСТУП ЗАБОРОНЕНО</color>
+<color=#ee7900FF>ПРОХОДЬТЕ</color>
+<color=#00ee00FF>ЕВАКУАЦІЯ</color>
+<color=#ee7900FF>ЗАКРИВАЄТЬСЯ</color>
