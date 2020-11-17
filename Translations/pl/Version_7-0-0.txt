@@ -1,5 +1,0 @@
-NIE ŻYJESZ
-Kliknij {0}, aby podłączyć <color=yellow>tablet menadżera broni</color>.
-Kliknij {0}, aby odłączyć <color=yellow>tablet menadżera broni</color>.
-Do tej <color=yellow>stacji roboczej</color> podłączony jest już <color=yellow>tablet menadżera broni</color>.
-Potrzebujesz <color=yellow>tablet menadżera broni</color> by użyć tej <color=yellow>stacji roboczej</color>.

@@ -1,5 +1,0 @@
-死亡した
-{KEYBINDING_INTERACTION}を押して<color=yellow>武器管理端末</color>をセットしてください。
-{KEYBINDING_INTERACTION}を押して<color=yellow>武器管理端末</color>を外してください。
-この<color=yellow>ワークステーション</color>は既に誰かの<color=yellow>武器管理端末</color>が接続されています。
-<color=yellow>ワークステーション</color>を使用するには<color=yellow>武器管理端末</color>が必要です。

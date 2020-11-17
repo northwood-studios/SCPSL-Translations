@@ -1,6 +1,0 @@
-<color=red>Erişim reddedildi</color>
-<color=yellow>[type] cephane</color> türünün sınırına ulaşıldı (<color=yellow>[max_type_count] mermi</color>)
-<color=yellow>[type] cephane</color> türünün sınırına <b>çoktan</b> ulaştın (<color=yellow>[max_type_count] mermi</color>)
-<color=yellow>[type]</color> eşya türünün sınırına ulaşıldı (<color=yellow>[max_type_count] eşya</color>)
-<color=yellow>[type]</color> eşya türünün sınırına <b>çoktan</b> ulaştın (<color=yellow>[max_type_count] eşya</color>)
-Sadece <color=yellow>[max_item_count] eşya</color> taşıyabilirsin.

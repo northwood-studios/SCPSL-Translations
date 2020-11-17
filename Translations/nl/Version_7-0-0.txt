@@ -1,5 +1,0 @@
-JE BENT DOODGEGAAN
-Druk {KEYBINDING_INTERACTION} om de <color=yellow>Weapon Manager Tablet</color> te plaatsen.
-Druk {KEYBINDING_INTERACTION} om de <color=yellow>Weapon Manager Tablet</color> op te pakken.
-Deze <color=yellow>workstation</color> Heeft al een <color=yellow>Weapon Manager Tablet</color> verbonden.
-Je hebt een <color=yellow>Weapon Manager Tablet</color> nodig om deze <color=yellow>workstation</color> te gebruiken.

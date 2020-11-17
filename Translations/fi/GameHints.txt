@@ -1,6 +1,0 @@
-<color=red>Pääsy kiellettycolor>
-Saavutettu <color=yellow>[type]:n</color>maksimiraja (<color=yellow>[max_type_count] ammusta</color>).
-<b>Saavutettu jo</b> <color=yellow>[type]:n</color> maksimiraja (<color=yellow>[max_type_count] ammusta</color>).
-Saavutettu <color=yellow>[type]:n</color> maksimiraja (<color=yellow>[max_type_count] tavaraa</color>).
-<b>Saavutettu jo</b> <color=yellow>[type]:n</color> maksimiraja (<color=yellow>[max_type_count] tavaraa</color>).
-Ainoastaan <color=yellow>[max_item_count] esinettä</color> on kannettavissa.

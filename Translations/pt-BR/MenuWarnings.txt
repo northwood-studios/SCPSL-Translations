@@ -1,4 +1,0 @@
-AVISO
-OK
-<b>Gráficos Intel</b> foi detectado que <b>não é suportado</b> .\nIt é <b>recomendado</b> usar placa gráfica <b>não integrada</b>.\nO jogo talvez <b>fecha repentinamente</b> com a configuração atual.
-Não é possível encontrar uma atualização importante do sistema exigida para o bate-papo por voz. Verifique se o Windows está totalmente atualizado, caso contrário, o jogo pode não funcionar corretamente. Se esse problema persistir, entre em contato com nossa equipe de suporte técnico para obter mais assistência

@@ -1,7 +1,7 @@
 
 ## This list contains all translation contributors.
 ## In the case of mis-credit, feel free to open an issue or contact the studio through any means.
-## Folders named after https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-lcid/a9eac961-e77d-41a6-90a5-ce1a8b0cdb9c language tags. These automatically display the correct language name ingame
+## Folders named after https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-lcid/a9eac961-e77d-41a6-90a5-ce1a8b0cdb9c language tags. These automatically display the correct language name ingame.
 
 
 ca by ThiEstoRil
@@ -28,5 +28,5 @@ sk by Gejb & Mordi Slovakian
 th by AGKK Histoire, Aleph-Naught & DatPanda
 tr by Jhrino, MHS, vexdy, Gonsez
 uk by TRI99ER, Andrii "Rayfulrand" Raboshchuk
-zh-Hans by Schrodinger_Sig, ShingekiNoRex, TitanSix & Tychus_Xiaoyi
+zh by No_149, Schrodinger_Sig, ShingekiNoRex, TitanSix, Tychus_Xiaoyi & 饺子
 zh-Hant by X-EROS & Arkira-Kouyo

@@ -1,7 +1,0 @@
-Játékos jelentése
-Célpont:\nJátékos ID:\nLeírás:
-Mégsem
-Jelentés a szerver szabályzat megsértéséért
-Jelentés csalásért vagy raidelésért
-JELENTÉS
-Kérlek várj...

@@ -1,5 +1,0 @@
-MEGHALTÁL
-Nyomd le a {KEYBINDING_INTERACTION}-t, hogy lehelyezd a <color=yellow>Fegyver Menedzser tabletet</color>.
-Nyomd le a {KEYBINDING_INTERACTION}-t, hogy felvedd a <color=yellow>Fegyver Menedzser tabletet</color>.
-Ebben a <color=yellow>munkaállomásban</color> már más <color=yellow>Fegyver Menedzser tablete</color> található.
-Szükséged van egy <color=yellow>Fegyver Menedzser tabletre</color>, hogy használd ezt a <color=yellow>munkaállomást</color>.

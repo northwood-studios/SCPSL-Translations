@@ -1,5 +1,0 @@
-SEI MORTO
-Premi {KEYBINDING_INTERACTION} per inserire il <color=yellow>tablet di gestione delle armi</color>.
-Premi {KEYBINDING_INTERACTION} per raccogliere il <color=yellow>tablet di gestione delle armi</color>.
-Questa <color=yellow>postazione di lavoro</color> ha già il <color=yellow>tablet di gestione delle armi</color> di qualcun'altro.
-Hai bisogno di un <color=yellow>tablet di gestione delle armi</color> per usare questa<color=yellow>postazione di lavoro</color>.

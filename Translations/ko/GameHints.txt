@@ -1,6 +1,0 @@
-<color=red>접근 불가</color>
-더는 <color=yellow>[type] 탄약</color>을 소지할 수 없습니다 (<color=yellow>[max_type_count] 발</color>)
-<b>이미</b> <color=yellow>[type] 탄약</color>의 최대 보유량을 넘었습니다 (<color=yellow>[max_type_count] 발</color>)
-더는 <color=yellow>[type]</color>을 소지할 수 없습니다 (<color=yellow>[max_type_count]개</color>)
-<b>이미</b> <color=yellow>[type]</color>의 최대 보유량을 넘었습니다 (<color=yellow>[max_type_count]개</color>)
-오직 <color=yellow>[max_item_count]개의 아이템</color>만 소지할 수 있습니다.

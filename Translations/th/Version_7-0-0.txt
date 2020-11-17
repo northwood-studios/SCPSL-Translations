@@ -1,5 +1,0 @@
-คุณตาย
-กดปุ่ม {KEYBINDING_INTERACTION} เพื่อวาง<color=yellow>แท็บเล็ตจัดการอาวุธ</color>
-กดปุ่ม {KEYBINDING_INTERACTION} เพื่อหยิบ<color=yellow>แท็บเล็ตจัดการอาวุธ</color>
-<color=yellow>เวิร์กสเตชัน</color>นี้เชื่อมต่อกับ<color=yellow>แท็บเล็ตจัดการอาวุธ</color>ของบุคคลอื่นอยู่แล้ว
-คุณต้องมี<color=yellow>แท็บเล็ตจัดการอาวุธ</color> เพื่อใช้<color=yellow>เวิร์กสเตชัน</color>นี้

@@ -1,5 +1,0 @@
-DU DØDE
-Trykk {KEYBINDING_INTERACTION} for å plassere <color=yellow>Våpentilpasnings-tableten</color>.
-Press {KEYBINDING_INTERACTION} for å plukke opp <color=yellow>Våpentilpasnings-tableten</color>.
-Denne <color=yellow>arbeidsstasjonen</color> har allerede noen andres <color=yellow>Våpentilpasnings-tablet</color> koblet til.
-Du trenger en <color=yellow>Våpentilpasnings-tablet</color> for å bruke denne <color=yellow>arbeidsstasjonen</color>.

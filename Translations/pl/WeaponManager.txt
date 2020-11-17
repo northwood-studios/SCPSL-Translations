@@ -1,7 +1,0 @@
-Kliknij strzałkę, aby rozpocząć...
-Nawigacja: strzałki W GÓRĘ I DÓŁ\nWybór: strzałka W PRAWO\nPowrót: strzałka W LEWO
-[var_name]\n\nRodzaj amunicji: [var_atype]\nZapas amunicji: [var_ares]\nPojemność magazynka: [var_mag]\n\nMaksymalne obrażenia: [var_maxdmg]\nEfektywne obrażenia: [var_effdmg]\nIlość strzałów na sekundę: [var_sps]\n\nDostępnych dostosowań: [var_custs]\n\nUŻYJ STRZAŁKI W PRAWO, ABY WYRZUCIĆ AMUNICJĘ.
-Wyrzucisz [var_nom]\nZmień ilość strzałkami W GÓRĘ I DÓŁ.\nWyrzuć strzałką W PRAWO.\nWróć strzałką W LEWO.
-Brak wystarczającej ilości amunicji ([var_nom]). \nWciśnij strzałkę W LEWO, aby wrócić.
-LUFA
-INNE

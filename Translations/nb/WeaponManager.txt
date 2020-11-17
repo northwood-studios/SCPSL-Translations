@@ -1,7 +1,0 @@
-Bruk en piltast for å starte...
-Navigere - Piltaster OPP/NED \nVelg - HØYRE piltast \nTilbake - VENSTRE piltast
-[var_name]\n\nAmmunisjonstype: [var_atype]\nAmmunisjonsreserve: [var_ares]\nMagasinstørrelse: [var_mag]\n\nMaks. skade: [var_maxdmg]\nEffektiv skade: [var_effdmg]\nSkudd per sekund: [var_sps]\n\nTilgjengelige tilpasninger: [var_custs]\n\nHØYRE PILTAST FOR Å TILPASSE VÅPNET
-Du vil slippe [var_nom]\nPiltaster OPP/NED for å endre mengde.\nHØYRE piltast for å slippe.\nVENSTRE piltast for å gå tilbake.
-Ikke nok ammunisjon (type [var_nom]). \nVENSTRE piltast for å gå tilbake.
-LØP
-ANDRE

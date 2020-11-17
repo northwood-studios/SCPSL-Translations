@@ -1,7 +1,0 @@
-Pressiona qualsevol fletxa per començar...
-Navega - fletxes AMUNT/ABAIX\nSelecció - fletxa DRETA\nEnrere - fletxa ESQUERRA
-[var_name]\n\nTipus de munició: [var_atype]\nMunició de reserva: [var_ares]\nCapacitat del carregador: [var_mag]\n\nDany màxim: [var_maxdmg]\nDany efectiu: [var_effdmg]\nTrets per segon: [var_sps]\n\nPersonalitzacions disponibles: [var_custs]\n\nFLETXA DRETA PER PERSONALITZAR L'ARMA
-Vas a llançar [var_nom]\nfletxes AMUNT/ABAIX per variar la quantitat.\nfletxa DRETA per llançar.\nfletxa ESQUERRA per anar enrere.
-No hi ha suficient munició per llançar (type [var_nom]). \nfletxa ESQUERRA per anar enrere.
-BARRIL
-ALTRES

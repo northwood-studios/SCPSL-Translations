@@ -1,5 +1,0 @@
-HAS MUERTO
-Presiona {KEYBINDING_INTERACTION} para poner el <color=yellow>Administrador de armas</color>.
-Presiona {KEYBINDING_INTERACTION} para coger el <color=yellow>Administrador de armas</color>.
-Esta <color=yellow>mesa de trabajo</color> ya tiene el <color=yellow>Administrador de armas</color> de alguien conectado.
-Necesitas un <color=yellow>Administrador de armas</color> para usar esta <color=yellow>mesa de trabajo</color>.

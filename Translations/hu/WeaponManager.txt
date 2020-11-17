@@ -1,7 +1,0 @@
-Nyomd meg bármelyik nyilat a folytatáshoz...
-Navigáció - FEL/LE nyilak \nKiválasztás - JOBBRA nyíl \nVissza - BALRA nyíl
-[var_name]\n\nLőszertípus: [var_atype]\nTartalék lőszer: [var_ares]\nTár kapacitás: [var_mag]\n\nMaximum sebzés: [var_maxdmg]\nTényleges sebzés: [var_effdmg]\nLövés/mp: [var_sps]\n\nElérhető testreszabási lehetőségek: [var_custs]\n\nJOBBRA NYÍLLAL TESTRESZABHATOD A FEGYVERT
-You are going to drop [var_nom]\nFEL/LE nyilakkal változtathatod a mennyiséget.\nJOBBRA nyíllal eldobod.\nBALRA nyíllal visszalépsz.
-Nincs elegendő (type [var_nom]) lőszer. \nBALRA nyíllal visszalépsz.
-CSŐ
-EGYÉB

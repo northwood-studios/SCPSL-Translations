@@ -1,7 +1,0 @@
-Izmanto jebkuras bultiņas pogas lai sāktu...
-Navigācija - AUKŠA/LEJA bultiņu pogas \nIzvēleties - LABĀ bultiņu poga \nAtpakaļ- KREISĀ bultiņu poga
-[var_name]\n\nPatronu veids: [var_atype]\nRezerves patronas: [var_ares]\nMagazīna lielums: [var_mag]\n\nMaksimalie bojājumi: [var_maxdmg]\nEfektīvie bojajumi: [var_effdmg]\nŠāvieni sekundē: [var_sps]\n\nPieejamās izmaiņas: [var_custs]\n\nLABA BULTIŅA LAI SKATĪTU IEROČA STATUS
-Tu izmetisis [var_nom]\nAUGŠA/LEJA bultiņu pogas lai mainītu daudzumu.\nLABĀ bultiņa lai izmestu.\nKREISĀ bultiņa lai dotos atpakaļ.
-Nav pietiekami daudz patronu lai izmestu (veids [var_nom]). \nKREISĀ bultiņa lai dotos atpakaļ.
-BARREL
-PĀREJIE

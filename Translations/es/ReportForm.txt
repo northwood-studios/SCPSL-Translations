@@ -1,7 +1,0 @@
-Reportar Jugador
-Objetivo:\nPlayer ID:\nDescripcion:
-Cancelar
-Reportar por romper las normas del servidor
-Reportar por trampas o ataques
-REPORTANDO
-Por favor, espere...

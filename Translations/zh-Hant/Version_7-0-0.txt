@@ -1,5 +1,0 @@
-你死了
-按下{KEYBINDING_INTERACTION} 鍵來放置 <color=yellow>武器管理平板</color>
-按下 {KEYBINDING_INTERACTION} 鍵來拾起 <color=yellow>武器管理平板</color>
-這個<color=yellow>工作站</color> 已經被某個人的 <color=yellow>武器管理平板</color> 連接了
-你需要一個<color=yellow>武器管理平板</color>方才可使用<color=工作站</color>

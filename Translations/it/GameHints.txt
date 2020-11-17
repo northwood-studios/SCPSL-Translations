@@ -1,6 +1,0 @@
-<color=red>Accesso Negato</color>
-Limite di <color=yellow>{0} munizioni</color> raggiunto (<color=yellow>{1} colpi</color>)
-Limite di <color=yellow>{0} munizioni</color> già raggiunto (<color=yellow>{1} colpi</color>)
-Limite di <color=yellow>[type]</color> raggiunto (<color=yellow>[max_type_count] oggetti</color>)
-Limite di <color=yellow>[type]</color> già raggiunto (<color=yellow>[max_type_count] oggetti</color>)
-Puoi portare assieme a te solo <color=yellow>[max_item_count] items</color> oggetti

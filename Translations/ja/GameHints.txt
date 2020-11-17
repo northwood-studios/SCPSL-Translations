@@ -1,6 +1,0 @@
-<color=red>アクセス拒否</color>
-<color=yellow>[type]</color>弾の所持数制限に達しました (<color=yellow>[max_type_count]発</color>)
-<b>既に</b><color=yellow>[type]弾</color>の所持数制限に達しています (<color=yellow>[max_type_count]発</color>)
-<color=yellow>[type]</color>の所持数制限に達しました (<color=yellow>[max_type_count]個</color>)
-<b>既に</b><color=yellow>[type]</color>の所持数制限に達しています (<color=yellow>[max_type_count]個</color>)
-携帯できるのは<color=yellow>[max_item_count]個</color>までです。

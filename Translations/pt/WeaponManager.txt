@@ -1,7 +1,0 @@
-Use qualquer seta para começar...
-Navegar - Setas para CIMA/BAIXO\nSelecionar - Seta DIREITA\nVoltar - Seta ESQUERDA
-[var_name]\n\nTipo de munição: [var_atype]\nMunição reserva: [var_ares]\nTamanho do pente: [var_mag]\n\nDano maximo: [var_maxdmg]\nDano efetivo: [var_effdmg]\nTiros por segundo: [var_sps]\n\nCustomizações disponiveis: [var_custs]\n\nUSE A SETA PARA DIREITA PARA COSTUMIZAR A ARMA
-You are going to drop [var_nom]\nUP/DOWN arrow keys to change quantity.\nRIGHT arrow to drop.\nLEFT arrow to back.
-Not enough ammo to drop (type [var_nom]). \nLEFT arrow to back.
-CANO
-OUTROS

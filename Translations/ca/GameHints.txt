@@ -1,6 +1,0 @@
-<color=red>Accés denegat</color>
-Has arribat al límit de <color=yellow>[type] munició</color> (<color=yellow>[max_type_count] rondes</color>).
-<b>Ja has arribat al límit</b> de <color=yellow>[type] munició</color> (<color=yellow>[max_type_count] rondes</color>).
-Has arribat al límit d'<color=yellow>[type]</color> (<color=yellow>[max_type_count] objectes</color>).
-<b>Ja has arribat al límit</b> d'<color=yellow>[type]</color> (<color=yellow>[max_type_count] objectes</color>).
-Solament <color=yellow>[max_item_count] objectes</color> es poden transportar.

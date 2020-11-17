@@ -1,5 +1,0 @@
-TU NOMIRI
-Spied {KEYBINDING_INTERACTION} lai uzliktu <color=yellow>Ieroču menedžera planšeti</color>.
-Spied {KEYBINDING_INTERACTION} lai paceltu <color=yellow>Ieroču menedžera planšeti</color>.
-Šim <color=yellow>darba galdam</color> jau ir kāda cita <color=yellow>Ieroču menedžera planšeti</color> savienots.
-Tev vajag <color=yellow>Ieroču menedžera planšeti</color> lai lietotu šo <color=yellow>darba galdu</color>.
