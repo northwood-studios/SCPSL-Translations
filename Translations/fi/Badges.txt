@@ -8,7 +8,7 @@ Northwood Johdon Assistentti
 Northwood Palautepäällikkö
 Northwood Henkilöstöhallinto
 Northwood Henkilöstöhallinnonjohtaja
-Northwood Yhdystietohallintojohtaja
+Northwood Varatietohallintojohtaja
 Northwood Johtava Bottikehittäjä
 Northwood Markkinointijohtaja
 Northwood Markkinointialustanjohtaja

@@ -37,9 +37,10 @@ Programmeur SCP:SL
 Responsable de la Qualité SCP:SL
 Sound Designer SCP:SL
 Directeur du jeu SCP:SL
-Responsabe des serveurs Officiels SCP:SL
+Responsable des serveurs Officiels SCP:SL
 Spécialiste des Vérifications Northwood
 Spécialiste du code Natif Northwood
 Testeur de la qualité SCP:SL
 Testeur de la qualité en chef SCP:SL
 Abonné Twitch SCP:SL
+Audio Manager SCP:SL

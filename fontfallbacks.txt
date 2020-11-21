@@ -1,0 +1,13 @@
+NotoSans-RegularDynamic
+NotoSansCJKsc-RegularDynamic
+NotoSansCJKtc-RegularDynamic
+NotoSansCJKkr-RegularDynamic
+NotoSansCJKjp-RegularDynamic
+NotoSansThai-RegularDynamic
+NotoSansHebrew-RegularDynamic
+NotoSansArabic-RegularDynamic
+NotoSansArmenian-RegularDynamic
+NotoSansEthiopic-RegularDynamic
+NotoSansGeorgian-RegularDynamic
+NotoSansSymbols-RegularDynamic
+NotoEmoji-RegularDynamic
