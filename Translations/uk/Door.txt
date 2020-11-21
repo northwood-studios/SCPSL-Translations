@@ -1,0 +1,11 @@
+<color=#1DA8FFFF>ЗАЧИНЕНО</color>
+<color=#00ee00FF>ВІДЧИНЕНО</color>
+<color=#FF7800FF>ОПРАЦЬОВУЄТЬСЯ</color>
+<color=#ee0000FF>ВІДМОВЛЕНО</color>
+<color=#ee0000FF>ЗАБЛОКОВАНО</color>
+<color=#00C0eeFF>ПОТРІБНА КАРТКА</color>
+<color=#00ee00FF>ДОЗВОЛЕНО</color>
+<color=#ee0000>ВІДМОВЛЕНО</color>
+<color=#ee7900FF>ПРОХОДЬТЕ</color>
+<color=#00ee00FF>ЕВАКУАЦІЯ</color>
+<color=#ee7900FF>ЗАЧИНЯЮТЬСЯ</color>
