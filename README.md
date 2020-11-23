@@ -57,9 +57,5 @@ To merge your modified fork with the master, a Pull Request must be made. **Plea
    * **Ensure that the 'Allow edits from maintainers' is selected.**
    * Write a meaningful title and message for your pull request described the changes that have been made.
 
-# Missing characters
-Some characters might appear incorrectly in the current versison of the game.
-This issue should be fixed in the next update.
-
 ***
 ## Got any questions about contributing? Please open an issue [here](https://github.com/northwood-studios/SCPSL-Translations/issues/new).
