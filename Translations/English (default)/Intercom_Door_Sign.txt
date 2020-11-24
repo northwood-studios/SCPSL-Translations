@@ -1,0 +1,5 @@
+#INFO FOR TRANSLATORS: In this file you can use as many lines as you want, all of them will be displayed on the display above the door.
+INTERCOM
+BROAD-
+-CASTING
+CENTER

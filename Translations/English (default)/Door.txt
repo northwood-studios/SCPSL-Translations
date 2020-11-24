@@ -1,0 +1,11 @@
+<color=#1DA8FFFF>CLOSED</color>
+<color=#00EE00FF>OPENED</color>
+<color=#FF7800FF>MOVING</color>
+<color=#EE0000FF>DENIED</color>
+<color=#EE0000FF>LOCKED DOWN</color>
+<color=#00C0EEFF>KEYCARD NEEDED</color>
+<color=#00EE00FF>ACCESS GRANTED</color>
+<color=#EE0000>ACCESS DENIED</color>
+<color=#EE7900FF>PLEASE PASS</color>
+<color=#00EE00FF>EVACUATE</color>
+<color=#EE7900FF>CLOSING</color>

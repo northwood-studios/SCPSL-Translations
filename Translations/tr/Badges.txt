@@ -36,3 +36,9 @@ SCP:SL Patreon Destekçisi
 SCP:SL Programcı
 SCP:SL Kalite Güvence Müdürü
 SCP:SL Ses Tasarımcısı
+SCP:SL Oyun Müdürü
+SCP:SL Resmî Sunucu Müdürü
+Northwood Doğrulama Uzmanı
+Northwood Yerel Kod Uzmanı
+SCP:SL Kalite Güven Deneyen
+SCP:SL Kalite Güven Gözetmeni

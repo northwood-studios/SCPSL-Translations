@@ -1,0 +1,11 @@
+<color=#1DA8FFFF><size=35>닫힘</size></color>
+<color=#00ee00FF><size=35>열림</size></color>
+<color=#FF7800FF><size=30>작동 중</size></color>
+<color=#ee0000FF><size=30>거부됨</size></color>
+<color=#ee0000FF><size=35>잠김</size></color>
+<color=#00C0eeFF><size=25>키카드 필요</size></color>
+<color=#00ee00FF><size=25>접근 허가됨</size></color>
+<color=#ee0000><size=25>접근 금지됨</size></color>
+<color=#ee7900FF><size=25>통행하세요</size></color>
+<color=#00ee00FF><size=25>대피하세요</size></color>
+<color=#ee7900FF><size=30>닫는 중</size></color>

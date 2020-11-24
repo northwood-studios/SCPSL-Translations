@@ -15,7 +15,7 @@ Connexion directe
 Rafraîchir
 Masquer les parties vides
 Masquer les parties complètes
-Pas de liste blanche
+Sans liste blanche
 Vidéo
 Audio
 Contrôles
@@ -46,11 +46,11 @@ Volume de l'interface
 Thème du menu
 Fondu rapide de l'intro
 Mouvements de tête
-Option de Sprint
+Sprint automatique
 Afficher la valeur des points de vie
 Rich-Presence
 Lobby public
-Option de Recherche
+Récupérer objet sans maintenir
 SCP-079 - Basculer de mode d'affichage
 SCP-079 - Post-traitement
 Langue
@@ -72,10 +72,16 @@ Connexion aux serveurs centraux ...
 <color=red>Échec de l'authentification Steam (Vérifiez dans la console)</color>
 <color=red>Échec de l'authentification Discord (Vérifiez dans la console)</color>
 Désactivé
-{0} Secondes
+Secondes
 Temps de suppression des corps
 Afficher le profil Steam
 Permet aux joueurs de voir votre profil Steam en cliquant l'icône dans la liste des joueurs.
 Do Not Track (DNT)
 Interdit au serveur d'utiliser vos données (adresse IP, ID utilisateur, etc.) à des fins non liées à la sécurité du serveur.
 API graphique
+<size=20><b>Créer une partie depuis le jeu n'est désormais plus supporté.\n\nIl y a cependant trois façons d'en créer un :\nVous pouvez télécharger le serveur dédié (SCP:SL dedicated server - Steam AppID: 996560) et le lancer depuis votre ordinateur.\nVous pouvez louer un VPS ou un Serveur Dédié depuis un hébergeur.\nVous pouvez louer un serveur prédéfini par un fournisseur/hébergeur qui supporte le jeu SCP:SL (Ex. ZAP Hosting)\n\nCliquez sur les liens ci-dessous pour obtenir plus d'informations.\nVous pouvez demander au support technique en cas de besoinsur notre serveur Discord (discord.gg/scpsl - Serveur anglais uniquement).</b></size>
+<size=20>CRÉER MALGRÉ TOUT</size>
+EN SAVOIR PLUS
+LOUER UN SERVEUR
+ANNULER
+Seconde

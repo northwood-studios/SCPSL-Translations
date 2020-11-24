@@ -1,11 +1,11 @@
-AUXILIARY POWER
+RESERVE ENERGIE
 ERFAHRUNG
 KAMERA ÜBERTRAGUNG ONLINE
 Drücke [KEY] um zur Minimap zu wechseln
 Erfahrung gesammelt:
 Zusammenarbeit
 Klasse-D Tötungsassist
-C. I. Tötungsassist
+CI Tötungsassist
 MTF Tötungsassist
 Wissenschaftler Tötungsassist
 SCP Tötungsassist
@@ -14,4 +14,4 @@ Allgemeine Interaktionen
 Du wirst attackiert!
 Generatoren wurden auf der Karte markiert
 GEFAHR
-SCPs{0}MTF & Wachpersonal{1}Wissenschaftler{2}D-Klassen{3}Chaos Insurgents{4}
+SCPs{0}MTF & Sicherheitspersonal{1}Wissenschaftler{2}D-Klassen{3}Chaos Insurgents{4}

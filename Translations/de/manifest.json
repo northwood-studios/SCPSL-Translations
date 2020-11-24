@@ -1,0 +1,20 @@
+{
+  "Name": "Deutsch - German",
+  "Authors": [
+    "DasDavid",
+    "Mr.Panda",
+    "Joseph"
+  ],
+  "SystemLocales": [
+    "de-BE",
+    "de-DE",
+    "de-IT",
+    "de-LI",
+    "de-LU",
+    "de-CH",
+    "de"
+  ],
+  "ForcedFontOrder": [
+
+  ]
+}

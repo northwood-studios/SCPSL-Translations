@@ -63,7 +63,7 @@ Hayır
 Çıkmak istediğinizden emin misiniz?
 Ekran Çözünürlüğü
 IP'yi gizle
-Hoşgelirsiniz inşallah, {username}!
+Tekrar hoşgeldiniz, {username}!
 Jenerik
 DOĞRULANIYOR
 Merkez sunuculara bağlanıyor...
@@ -78,3 +78,4 @@ Steam Profilini Göster
 Oyuncuların oyuncu listesindeki ikona tıklayıp profilini görüntülemesini izin ver.
 Do Not Track (DNT)
 Sunucunun verilerinizi (IP adresi, kullanıcı kimliği, vb.) sunucu güvenliği ile ilgili olmayan amaçlarla kullanmasını yasaklar.
+Grafik API

@@ -1,0 +1,18 @@
+<size=100>Stacja robocza - ZABLOKOWANA</size>\nUżycie przez nieautoryzowany personel surowo zabronione.\nW celu weryfikacji podłącz swój tablet.
+<size=100>PROSZĘ CZEKAĆ</size>\nWeryfikacja podłączonego menadżera broni.
+<size=100>Stacja robocza - GOTOWA</size>\n\nProszę o założenie broni, którą chcesz zmodyfikować.
+<size=80>Co chciałbyś zmienić?</size>
+Celowniki (Dostępnych: {0} )
+Przedłużenia lufy (Dostępnych: {0})
+Inne dodatki (Dostępnych: {0})
+Powrót
+Obrażenia: {0}
+Hałaśliwość strzału: {0}
+Odrzut: {0}
+Siła ognia: {0}
+Rozrzut pocisków (bez celowania): {0}
+<color=red>Modyfikuje celownik</color>
+<color=green>Wizja teleskopowa</color>
+Skala przybliżenia: <color=green>{0}</color>
+Odrzut (podczas celowania): {0}
+<size=100>Do widzenia!</size>\nTerminowanie aktualnej sesji...

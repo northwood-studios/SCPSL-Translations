@@ -1,0 +1,17 @@
+EI MODEJA
+Tyhjä
+Holotähtäin
+Punapistetähtäin
+Sinipistetähtäin
+Viherpistetähtäin
+Pimeänäkötähtäin
+Kiikaritähtäin
+Vaimennin
+Äänenvaimennin
+Raskas Piippu
+Suujarru
+Suuvahvistin
+Gyroskooppinen Tasaaja
+Taskulamppu
+Laservalo
+Ammusnäyttö
