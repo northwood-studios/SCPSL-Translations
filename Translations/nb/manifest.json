@@ -1,0 +1,15 @@
+{
+  "Name": "Norsk (bokmål) - Norwegian (Bokmål)",
+  "Authors": [
+    "Tam"
+  ],
+  "SystemLocales": [
+    "nb-NO",
+    "nb-SJ",
+    "nb",
+    "no"
+  ],
+  "ForcedFontOrder": [
+
+  ]
+}

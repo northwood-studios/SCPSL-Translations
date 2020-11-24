@@ -1,0 +1,44 @@
+Northwood Forretningsudviklingschef
+Northwood Administrerende Direktør
+Northwood Informationschef
+Northwood Driftsdirektør
+Northwood Community Manager
+Northwood Discord Manager
+Northwood Executive Assistent
+Northwood Feedback Manager
+Northwood HR-afdeling
+Northwood HR-afdelings Direktør
+Northwood Informationsmedarbejder
+Northwood Førende Botudvikler
+Northwood Marketingsdirektør
+Northwood Marketingplatform Manager
+Northwood Personale
+Northwood Steam Manager
+Northwood System Administrator
+Northwood Wiki Manager
+SCP:SL Kunstdirektør
+SCP:SL Kunst Supervisor
+SCP:SL Kunstner
+SCP:SL Backend Programmør
+SCP:SL Backend Programmør Manager
+SCP:SL Udvikler
+SCP:SL Begivenhedsvinder
+SCP:SL Fullstack Programmør
+SCP:SL Spildesigner
+SCP:SL Gameplay Programmør
+SCP:SL Global Moderationschef
+SCP:SL Global Moderatør
+SCP:SL Førende Spildesigner
+SCP:SL Førende Gameplay Programmør
+SCP:SL Level Designer
+SCP:SL Partner
+SCP:SL Patreon Medlem
+SCP:SL Programmør
+SCP:SL Kvalitetssikringschef
+SCP:SL Lyddesigner
+SCP:SL Spildirektør
+SCP:SL Officiel Server Manager
+Northwood Verifikationsspecialist
+Northwood Native Code Specialist
+SCP:SL Kvalitetssikring
+SCP:SL Kvalitetssikring Supervisor

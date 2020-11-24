@@ -1,0 +1,17 @@
+{
+  "Name": "Türkçe - Turkish",
+  "Authors": [
+    "Jhrino",
+    "MHS",
+    "vexdy",
+    "Gonsez"
+  ],
+  "SystemLocales": [
+    "tr-CY",
+    "tr-TR",
+    "tr"
+  ],
+  "ForcedFontOrder": [
+
+  ]
+}

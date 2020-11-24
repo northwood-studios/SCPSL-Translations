@@ -1,0 +1,81 @@
+Nyheder
+Servere
+Indstillinger
+Afslut
+Sociale Medier
+Internet
+Favoritter
+Officiel
+Historik
+Venner
+Søg efter servere
+Opret server
+Tilslut igen
+Tilslut direkte
+Opdater
+Skjul tomme servere
+Skjul fulde servere
+Ingen Whitelist
+Video
+Lyd
+Styring
+Gameplay
+Andet
+Vindue Tilstand
+Ekslusiv Fuldskærm
+Kantløs Vindue
+Maksimeret Vindue
+Vindue
+V-Sync
+FPS Begrænsning
+Fra
+Teksturkvalitet
+Maks. Blodmængde
+Skygger
+Skyggeopløsning
+Skyggeafstand
+Bevægelsessløring
+Farvekorrektion
+Anti Aliasing
+Gengiv Lyskilder
+Primære Lydstyrke
+Lydeffekter
+Stemmechat
+Musik i Menuen
+Brugerflade Lydstyrke
+Menu Theme
+Hurtig Introduktion
+Hovedbevægelse
+Til/fra Sprint
+Vis Præcise Helbredværdi
+Detaljeret Status
+Offentlig Lobby
+Skift Søgning
+SCP-079 - Skift Kameratilstand
+SCP-079 - Efterbehandling
+Sprog
+Hovedmenu
+Tilslut
+Tilbage
+Denne ændring kræver at menuen skal genindlæses.\nØnsker du at genindlæse menuen nu? 
+Ja
+Nej
+Er du sikker på at du vil afslutte?
+Skærmopløsning
+Skjul IP-adresse
+Velkommen tilbage, {username}!
+Medvirkende
+GODKENDER
+Tilslutter centrale servere...
+<color=green>Forbindelse etableret</color>
+<color=red>Forbindelsesfejl (Se konsollen for detaljer)</color>
+<color=red>Steam autentificeringsfejl (Se konsollen for detaljer)</color>
+<color=red>Discord autentificeringsfejl (Se konsollen for detaljer)</color>
+Deaktiveret
+{0} Sekunder
+Ragdoll-oprydningstid
+Vis Steam-profil
+Lader andre spillere se din Steam-profil ved at klikke på et ikon på spillerlisten.
+Do Not Track (DNT)
+Forbyder servere i at se dine data (IP-adresse, bruger ID, osv.) til formål, der ikke er relateret til serverens sikkerhed.
+Grafik API
