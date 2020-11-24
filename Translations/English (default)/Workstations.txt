@@ -1,6 +1,6 @@
-<size=100>WORKSTATION\n<color=#EE0000FF>LOCKED</color></size>\naccess by unauthorized personnel is strictly prohibited\nplease connect your weapon manager in order to verify the identity
+<size=100>WORKSTATION\n<color=EE0000FF>LOCKED</color></size>\naccess by unauthorized personnel is strictly prohibited\nplease connect your weapon manager in order to verify the identity
 <size=100>PLEASE STAND BY</size>\nverifying the connected weapon manager
-<size=100>WORKSTATION\n<color=#00EE00FF>READY</color></size>\n\nplease equip the weapon you want to modify
+<size=100>WORKSTATION\n<color=00EE00FF>READY</color></size>\n\nplease equip the weapon you want to modify
 <size=80>WHAT WOULD YOU LIKE TO CHANGE?</size>
 sights ({0} ready)
 barrel extensions ({0} ready)
