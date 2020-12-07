@@ -1,6 +1,6 @@
-<size=100>STATION DE TRAVAIL\n<color=EE0000FF>VERROUILLÉ</color></size>\nl'accès par du personnel non autorisé est strictement interdit\nveuillez connecter votre gestionnaire d'armes afin de vérifier l'identité
+<size=100>STATION DE TRAVAIL\n<color=#EE0000FF>VERROUILLÉ</color></size>\nl'accès par du personnel non autorisé est strictement interdit\nveuillez connecter votre gestionnaire d'armes afin de vérifier l'identité
 <size=100>VEUILLEZ PATIENTER</size>\nvérification du gestionnaire d'armes connecté
-<size=100>STATION DE TRAVAIL\n<color=00EE00FF>PRÊT</color></size>\n\nveuillez équiper l'arme que vous souhaitez modifier
+<size=100>STATION DE TRAVAIL\n<color=#00EE00FF>PRÊT</color></size>\n\nveuillez équiper l'arme que vous souhaitez modifier
 <size=80>QUE VOULEZ-VOUS MODIFIER ?</size>
 vision ({0} prêt)
 extensions du canon ({0} prêt)
