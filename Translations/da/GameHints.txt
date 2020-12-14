@@ -1,0 +1,6 @@
+<color=red>Adgang nægtet</color>
+Grænse nået for mængden af <color=yellow>[type] ammunition</color> (<color=yellow>[max_type_count] skud</color>)
+<b>Du har allerede</b> nået grænsen for mængden af <color=yellow>[type] ammunition</color> (<color=yellow>[max_type_count] skud</color>)
+Grænsen nået for mængden af <color=yellow>[type]</color> (<color=yellow>[max_type_count] genstande</color>)
+<b>Du har allerede</b> nået grænsen for mængden af <color=yellow>[type]</color> (<color=yellow>[max_type_count] genstande</color>)
+Du kan kun bære <color=yellow>[max_item_count] genstande</color>

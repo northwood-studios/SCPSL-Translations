@@ -1,4 +1,4 @@
-<size=80>Byl jsi vyhozen</size>\nServer přinutil ukončit spojení.\n<size=26>\nPravděpodobně jsi byl dočasně zaBANován administrátorem \nnebo nesplňuješ požadavky pro připojení (např. spojení se službou Steam).\nZa možné časové BANy <u>nejsou</u> tvůrci hry zodpovědní.\n</size>
+<size=80>Byl jsi vyhozen</size>\nServer přinutil ukončit spojení.\n<size=26>\nPravděpodobně jsi byl dočasně zaBANován administrátorem \nnebo nesplňuješ požadavky pro připojení (např. spojení se službou Steam).\nZa možné časové BANy <b>nejsou</b> tvůrci hry zodpovědní.\n</size>
 <size=80>ODPOJEN</size>\nVybraný host není dostupný.
 <size=80>ODPOJEN</size>\nVybraný identifikátor neexistuje.
 <size=80>ODPOJEN</size>\nVybraný kanál neexistuje.

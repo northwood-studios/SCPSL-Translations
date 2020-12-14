@@ -1,0 +1,14 @@
+{
+  "Name": "Dansk - Danish",
+  "Authors": [
+    "Bemsen"
+  ],
+  "SystemLocales": [
+    "da-DK",
+    "da-GL",
+    "da"
+  ],
+  "ForcedFontOrder": [
+
+  ]
+}

@@ -4,7 +4,7 @@
 (Input the changed Language's name here)
 
 ## State Type of change (New language, changed existing Etc.)
-(My Change descrtiption here)
+(My Change description here)
 
 # Checklist:
 - [ ] I have tested the translation changes ingame
