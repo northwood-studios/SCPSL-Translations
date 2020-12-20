@@ -3,7 +3,7 @@ Entkomme der Einrichtung.\nKooperiere mit der <color=#008f1e>Chaos Insurgency.</
 Du wirst bald wiederbelebt.
 Töte jeden.\nVerhindere dass jemand entkommt.\nKooperiere mit anderen <color=#f00>SCPs.</color><color=#ffff00>\nDu kannst durch Türen laufen.\nLinksklick schadet deinen Gegnern und teleportiert sie in deine "Pocket Dimension".\nHalte TAB um deine Fähigkeiten abzurufen.</color>
 Hilf <color=#FFFF7CFF>Wissenschaftlern</color> zu entkommen.\nNeutralisiere andere Fraktionen.\nGib deinen Soldaten Anweisungen. \nFolge den Anweisungen deiner Vorgesetzten.
-Töte jeden.\nVerhindere dass jemand entkommt.\nKooperiere mit anderen <color=#f00>SCPs.</color><color=#ffff00>\nKlicke Linksklick auf Menschen um sie sofort, mit einem Cool down, zu töten.\nInteragiere mit einem kürzlich verstorbenen Spieler um Ihn wiederzubeleben und Ihn einen deiner Fraktion zu machen.</color>
+Töte jeden.\nVerhindere dass jemand entkommt.\nKooperiere mit anderen <color=#f00>SCPs.</color><color=#ffff00>\nKlicke Linksklick auf Menschen um sie sofort, mit einem Cooldown, zu töten.\nInteragiere mit einem kürzlich verstorbenen Spieler um Ihn wiederzubeleben und Ihn in einen verbündeten Zombie zu machen.</color>
 Entkomme der Einrichtung.\nKooperiere mit dem <color=#0096FF>MTF.</color>\nMeide andere Fraktionen.
 Töte jeden.\nVerhindere dass jemand entkommt.\nKooperiere mit anderen <color=#f00>SCPs.</color>
 Hilf' dem <color=#FF8E00>Klasse-D Personal</color> zu entkommen.\nNeutralisiere andere Fraktionen.
