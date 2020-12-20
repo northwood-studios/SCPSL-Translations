@@ -1,6 +1,6 @@
 <size=100>WERKBANK\n<color=#EE0000FF>VERRIEGELT</color></size>\nZugang von unauthorisiertem Personal ist strengstens untersagt.\nBitte verbinde dein Waffenbearbeitungstablet um dich zu identifizieren.
 <size=100>BITTE WARTEN</size>\nVerifiziere das verbundene Waffenbearbeitungstablet
-<size=100>WERKBANK\n<color=00EE00FF>BEREIT</color></size>\n\nBitte rüste die Waffe aus, die du bearbeiten willst.
+<size=100>WERKBANK\n<color=#00EE00FF>BEREIT</color></size>\n\nBitte rüste die Waffe aus, die du bearbeiten willst.
 WAS WÜRDEST DU GERNE VERÄNDERN?
 <size=50>Visiere ({0} Verfügbar)</size>
 <size=50>Lauferweiterungen ({0} Verfügbar)</size>
