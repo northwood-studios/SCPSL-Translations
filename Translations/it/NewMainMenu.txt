@@ -58,7 +58,7 @@ Menu principale
 Connetti
 Indietro
 Questa modifica richiederà un ricaricamento.\nRicaricare ora il menu?
-Si
+Sì
 No
 Sei sicuro di voler uscire?
 Risoluzione dello Schermo
