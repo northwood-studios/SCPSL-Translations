@@ -1,0 +1,4 @@
+<size=180><color=red>비활성화됨</color></size>
+<color=red><size=200>기다려주세요...</size></color>
+<color=lime><size=180>준비됨</size></color>
+폭발 절차 취소 불가

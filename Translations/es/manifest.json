@@ -1,0 +1,41 @@
+{
+  "Name": "Español - Spanish",
+  "Authors": [
+    "Anreol",
+    "Erick",
+    "ConnorTheCone"
+  ],
+  "SystemLocales": [
+    "es-AR",
+    "es-BZ",
+    "es-VE",
+    "es-BO",
+    "es-BR",
+    "es-CL",
+    "es-CO",
+    "es-CR",
+    "es-CU",
+    "es-DO",
+    "es-EC",
+    "es-SV",
+    "es-GQ",
+    "es-GT",
+    "es-HN",
+    "es-419",
+    "es-MX",
+    "es-NI",
+    "es-PA",
+    "es-PY",
+    "es-PE",
+    "es-PH",
+    "es-PR",
+    "es-ES_tradnl",
+    "es-ES",
+    "es-US",
+    "es-UY",
+    "es"
+  ],
+  "ForcedFontOrder": [
+
+  ]
+}

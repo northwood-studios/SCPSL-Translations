@@ -79,3 +79,9 @@ Lehetővé teszi más játékosok számára a Steam profilod megtekintését, ha
 Do Not Track (DNT)
 Megtiltja a szerver számára az adataid felhasználását (IP cím, felhasználó ID, stb.) amelyek nem szükségesek a számára.
 Grafikus API
+A játékszerverek létrehozása közvetlen a játékból már nem lehetséges.\nJelenleg 3 féleképpen lehet SCP:SL Szervert készíteni:\n- Letöltheted az SCP:SL dedikált szerverét (Steam AppID: 996560) és futtathatod a számítógépeden.\n- Bérelhetsz egy VPS-t vagy dedikált szervert egy tárhelyszolgáltatótól és azon futtathatod az SCP:SL dedikált szervert\n- Bérelhetsz egy SCP:SL szervert egy jétékszerver szolgáltatótól amely támogatja az SCP:SL-t (pl. ZAP Hosting)\n\nKattints a linkre további információkért.\nSegítségül hívhatod a tech support csapatunkat (link a Discord szerverünkhöz a főmenüben található).
+LÉTREHOZÁS MINDENFÉLEKÉPPEN
+ITT OLVASHATSZ BŐVEBBEN
+SZERVER BÉRLÉSE
+VISSZA
+Másodperc

@@ -1,0 +1,20 @@
+Lövés
+Célzás
+Ugrás
+Interakció
+Eszköztár
+Újratöltés
+Futás
+Hangos Csevegés
+Settenkedés
+Mozgás Előre
+Mozgás Hátra
+Mozgás Balra
+Mozgás Jobbra
+Játékoslista
+Karakter Információ
+Távoli Admin
+Zseblámpa kapcsolása
+Alternatív Hangos Csevegés
+Noclip
+Játékkonzol

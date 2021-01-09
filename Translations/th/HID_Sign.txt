@@ -1,0 +1,10 @@
+#INFO FOR TRANSLATORS: In this file you can use as many lines as you want, all of them will be displayed on the display above the door.
+ห้องเก็บ
+อุปกรณ์
+MICRO-HID
+
+เฉพาะ
+เจ้าหน้าที่
+ที่ได้รับ
+อนุญาติ
+เท่านั้น

@@ -1,0 +1,15 @@
+{
+  "Name": "Korean (한국어)",
+  "Authors": [
+    "Dr-Devan",
+    "Arizen",
+    "OneKoin"
+  ],
+  "SystemLocales": [
+    "ko-KR",
+    "ko"
+  ],
+  "ForcedFontOrder": [
+    "NotoSansCJKkr-RegularDynamic"
+  ]
+}

@@ -79,3 +79,9 @@ Antaa pelaajien nähdä Steam-profiilisi painamalla nappia pelaajalistassa.
 Do Not Track (DNT)
 Kieltää palvelimen käyttämästä tietojasi (IP osoite, pelaaja ID, jne.) muuhun kuin palvelimen turvallisuuteen.
 Grafiikka API
+Palvelimien luomista suoraan pelin sisältä ei enää tueta.\nTällä hetkellä on kolme tapaa tehdä SCP:SL palvelin:\n- Voit ladata SCP:SL Dedicated Server (Steam AppID: 996560) työkalun ja pyörittää sitä omalla koneellasi\n- Voit vuokrata oman palvelimen tai virtuaalisen palvelimen palvelintarjoajalta ja pyörittää SCP:SL palvelinta siellä\n- Voit suoraan vuokrata SCP:SL palvelimen pelipalvelintarjoajalta joka tukee SCP:SL palvelimia (esim. ZAP Hosting)\n\nPaina alla olevia linkkejä saadaksesi enemmän tietoja.\nVoit myös kysyä meidän tekniseltä tuelta apua (linkki meidän Discordiin löytyy päävalikosta).
+LUO SILTI
+LUE LISÄÄ
+VUOKRAA PELIPALVELIN
+PERU
+Sekuntti

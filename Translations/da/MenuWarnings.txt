@@ -1,0 +1,4 @@
+ADVARSEL
+OKAY
+<b>Intel-grafik</b> er blevet fundet og er <b>ikke understøttet</b>.\nDet <b>anbefales</B> at anvende et <b>ikke-integreret</b> grafikkort.\nSpillet kan <b>lukke ned uden varsel</b> med den aktuelle opsætning.
+En vigtig systemopdatering, der kræves af stemmechatten, kan ikke findes. Sørg for, at dit Windows er opdateret, ellers vil spillet muligvis ikke fungerer korrekt. Hvis dette problem fortsætter, skal du kontakte vores tekniske support for yderligere hjælp.
