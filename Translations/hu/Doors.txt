@@ -1,0 +1,10 @@
+<color=green>NYITVA</color>
+<color=#07A2FF>ZÁRVA</color>
+<color=orange>MOZGÁSBAN</color>
+<color=red>LEZÁRVA</color>
+<color=red>HIBA</color>
+<color=red>HOZZÁFÉRÉS MEGTAGADVA</color>
+<color=green>HOZZÁFÉRÉS MEGADVA</color>
+<color=#07A2FF>KÁRTYA SZÜKSÉGES</color>
+<color=orange>KÉRJÜK HALADJON</color>
+<color=orange>ZÁRÁS</color>

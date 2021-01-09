@@ -79,7 +79,7 @@ Permet aux joueurs de voir votre profil Steam en cliquant l'icône dans la liste
 Do Not Track (DNT)
 Interdit au serveur d'utiliser vos données (adresse IP, ID utilisateur, etc.) à des fins non liées à la sécurité du serveur.
 API graphique
-<size=20><b>Créer une partie depuis le jeu n'est désormais plus supporté.\n\nIl y a cependant trois façons d'en créer un :\nVous pouvez télécharger le serveur dédié (SCP:SL dedicated server - Steam AppID: 996560) et le lancer depuis votre ordinateur.\nVous pouvez louer un VPS ou un Serveur Dédié depuis un hébergeur.\nVous pouvez louer un serveur prédéfini par un fournisseur/hébergeur qui supporte le jeu SCP:SL (Ex. ZAP Hosting)\n\nCliquez sur les liens ci-dessous pour obtenir plus d'informations.\nVous pouvez demander au support technique en cas de besoinsur notre serveur Discord (discord.gg/scpsl - Serveur anglais uniquement).</b></size>
+<size=20><b>Créer une partie depuis le jeu n'est désormais plus supporté.\n\nIl y a cependant trois façons d'en créer un :\nVous pouvez télécharger le serveur dédié (SCP:SL dedicated server - Steam AppID: 996560) et le lancer depuis votre ordinateur.\nVous pouvez louer un VPS ou un Serveur Dédié depuis un hébergeur.\nVous pouvez louer un serveur prédéfini par un fournisseur/hébergeur qui supporte le jeu SCP:SL (Ex. ZAP Hosting)\n\nCliquez sur les liens ci-dessous pour obtenir plus d'informations.\nVous pouvez demander au support technique en cas de besoin sur notre serveur Discord (discord.gg/scpsl - Serveur anglais uniquement).</b></size>
 <size=20>CRÉER MALGRÉ TOUT</size>
 EN SAVOIR PLUS
 LOUER UN SERVEUR
