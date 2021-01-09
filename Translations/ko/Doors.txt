@@ -1,0 +1,10 @@
+<color=green>열림</color>
+<color=#07A2FF>닫힘</color>
+<color=orange>작동 중</color>
+<color=red>잠김</color>
+<color=red>오류</color>
+<color=red>접근 금지</color>
+<color=green>접근 허가</color>
+<color=#07A2FF>키카드 필요</color>
+<color=orange>통행하세요</color>
+<color=orange>닫는 중</color>
