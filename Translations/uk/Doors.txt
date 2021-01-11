@@ -1,0 +1,10 @@
+<color=green>ВІДЧИНЕНО</color>
+<color=#07A2FF>ЗАЧИНЕНО</color>
+<color=orange>РУХАЮТЬСЯ</color>
+<color=red>ЗАБЛОКОВАНО</color>
+<color=red>ПОМИЛКА</color>
+<color=red>ВІДМОВЛЕНО</color>
+<color=green>ДОЗВОЛЕНО</color>
+<color=#07A2FF>ПОТРІБНА КАРТКА</color>
+<color=orange>ПРОХОДЬТЕ</color>
+<color=orange>ЗАЧИНЯЮТЬСЯ</color>
