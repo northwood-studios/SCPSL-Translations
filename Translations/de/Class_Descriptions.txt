@@ -8,7 +8,7 @@ Entkomme der Einrichtung.\nKooperiere mit dem <color=#0096FF>MTF.</color>\nMeide
 Töte jeden.\nVerhindere dass jemand entkommt.\nKooperiere mit anderen <color=#F00>SCPs.</color>
 Hilf' dem <color=#FF8E00>Klasse-D Personal</color> zu entkommen.\nNeutralisiere andere Fraktionen.
 Töte jeden.\nVerhindere dass jemand entkommt.\nKooperiere mit anderen <color=#F00>SCPs.</color><color=#FFFF00>\nWenn dich jemand anschaut, verfällst du in Rage und kannst andere Spieler töten.</color>
-Töte jeden.\nVerhindere dass jemand entkommt.\nKooperiere mit anderen <color=#F00>SCPs.</color><color=#ffff00>\nLinksklick um jemand zu töten.</color>
+Töte jeden.\nVerhindere dass jemand entkommt.\nKooperiere mit anderen <color=#F00>SCPs.</color><color=#FFFF00>\nLinksklick um jemand zu töten.</color>
 Hilf' <color=#FFFF7CFF>Wissenschaftlern</color> zu entkommen.\nNeutralisiere andere Fraktionen.\nGib deinen Soldaten Anweisungen. \nFolge den Anweisungen deiner Vorgesetzten.
 Hilf' <color=#FFFF7CFF>Wissenschaftlern</color> zu entkommen.\nNeutralisiere andere Fraktionen.\nGib deinen Soldaten Anweisungen.
 Hilf' <color=#FFFF7CFF>Wissenschaftlern</color> zu entkommen.\nNeutralisiere andere Fraktionen.\nFolge den Anweisungen deiner Vorgesetzten.
