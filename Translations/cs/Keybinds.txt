@@ -1,0 +1,20 @@
+Střílení
+Zoom
+Skočit
+Interakce
+Inventář
+Přebít zbraň
+Běžet
+Hlas. komunikace
+Plížit se
+Jít vpřed
+Jít vzad
+Jít doleva
+Jít doprava
+Seznam hráčů
+Info. o postavě
+Admin Konzole
+Zap/Vyp Svítilnu
+Hlas.K. Vysílačka
+Noclip
+Herní Konzole
