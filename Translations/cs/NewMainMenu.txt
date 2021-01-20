@@ -1,0 +1,87 @@
+Novinky
+Servery
+Nastavení
+Odejít
+Sociální sétě
+Internet
+Oblíbené
+Oficiální
+Historie
+Přátelé
+Hledat server
+Vytvořit server
+Re-Join
+Přímé připojení
+Načíst znova
+Skrýt prázdné servery
+Skrýt plné servery
+Bez whitelistu
+Grafika
+Zvuk
+Ovládání
+Hratelnost
+Ostatní
+Režim Zobrazení
+Celá obrazovka
+Borderless Window
+Maximized Window
+V okně
+V-Sync
+FPS Limit
+Vypnuto
+Kvalita textur
+Maximální počet krve
+Stíny
+Rozlišení stínů
+Vzdálenost stínů
+Rozostření pohybu
+Korekce barev
+Anti Aliasing
+Vykreslení světla
+Hlavní hlasitost
+Zvukové efekty
+Hlasová komunikace
+Hlasitost v menu
+Hlasitost rozhraní
+Nabídka zvuk menu
+Rychlé zmizení úvod.třídy
+Houpání kamery při chůzi
+Přepánaní sprintu
+Zobrazování přesné hodnoty HP
+Rich Presence
+Veřejná lobby
+Toggle Search
+SCP-079 - Přepnutí režimu zobrazení
+SCP-079 - Následné zpracování
+Jazyk
+Hlavní menu
+Připojit
+Zpět
+Tato změna bude vyžadovat opětovné načtení. \n Chcete znovu načíst nabídku?
+Ano
+Ne
+Jste si jisti, že chcete opustit hru?
+Rozlišení obrazovky
+SCHOVAT IP
+Vítej zpět, {username}!
+Bonus
+AUTENTIFIKACE
+Připojení k centrálním serverům...
+<color=green>Spojení navázáno</color>
+<color=red>Selhání připojení (Podrobnosti najdete v konzole)</color>
+<color=red>Selhání autentizace Steam (Podrobnosti najdete v konzole)</color>
+<color=red>Selhání autentizace Discordu (Podrobnosti najdete v konzole)</color>
+Deaktivováno
+Sekund
+Čas vyčištění mrtvol ve hře
+Zobrazit profil služby Steam
+Umožňuje hráčům zobrazit váš profil Steam kliknutím na ikonu v seznamu hráčů.
+Nesledovat (DNT)
+Zakazuje serveru používat vaše data (IP adresa, ID uživatele atd.) Za účelem, který nesouvisí se zabezpečením serveru.
+Grafické API
+Vytváření herních serverů přímo ze hry již není podporováno. \nV současné době existují 3 způsoby, jak vytvořit server SCP: SL: \n- Můžete si stáhnout dedikovaný server SCP: SL (Steam AppID: 996560) a spustit jej v počítači \n- Můžete si pronajmout VPS nebo dedikovaný server od poskytovatele hostingu a spustit tam dedikovaný server SCP: SL \n- Můžete si pronajmout server SCP: SL od poskytovatele hostování her, který podporuje SCP: SL (např. ZAP Hosting) \n\nDalší informace získáte kliknutím na níže uvedené odkazy. \nMůžete požádat o naši technickou podporu (odkaz na náš server Discord najdete v hlavní nabídce).
+STEJNĚ VYTVOŘ
+PŘEČTI SI VÍCE
+PRONÁJEM SERVERU
+ZRUŠIT
+Sekund
