@@ -1,0 +1,4 @@
+<size=180><color=red>NEAKTIVNÍ</color></size>
+<color=red><size=200>PROSÍM ČEKEJTE</size></color>
+<color=lime><size=180>PŘIPRAVENO</size></color>
+DETONACE NEVYHNUTELNÁ
