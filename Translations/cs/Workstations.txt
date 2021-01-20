@@ -1,0 +1,18 @@
+<size=100>PRACOVNÍ STANICE\n<color=#EE0000FF>ZAMČENO</color></size>\npřístup neoprávněným osobám je přísně zakázán\npřipoj prosím svého správce zbraní za účelem ověření totožnosti
+<size=100>PROSÍM VYDRŽTE</size>\nOvěření připojeného správce zbraní
+<size=100>PRACOVNÍ STANICE\n<color=#00EE00FF>PŘIPRAVENO</color></size>\n\nvybav se zbraňí, kterou chceš upravit
+<size=80>CO BY JSI CHTĚL UPRAVIT?</size>
+Zaměřovací systém({0} připraveno)
+Prodloužení hlavně ({0} připraveno)
+Další vylepšení ({0} připraveno)
+ZPĚT
+Poškození {0}
+Hlasitost výstřelu {0}
+Zpětný ráz {0}
+Rychlost střelby {0}
+Šíření střely (bez míření) {0}
+<color=red>Modifikace scopu</color>
+<color=green>Telescopic-type sight</color>
+Měřítko zvětšení <color=green>{0}</color>
+Zpětný ráz (při míření)) {0}
+<size=100>ZATÍM!</size>\nukončení aktuální relace
