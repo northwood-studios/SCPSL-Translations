@@ -1,0 +1,10 @@
+<color=green>เปิด</color>
+<color=#07A2FF>ปิด</color>
+<color=orange>กำลังขยับ</color>
+<color=red>ล็อกดาวน์</color>
+<color=red>ERROR</color>
+<color=red>ไม่ได้รับอนุญาต</color>
+<color=green>อนุมัติ</color>
+<color=#07A2FF>ต้องใช้คีย์การ์ด</color>
+<color=orange>กรุณาเดินผ่านไป</color>
+<color=orange>กำลังปิด</color>
