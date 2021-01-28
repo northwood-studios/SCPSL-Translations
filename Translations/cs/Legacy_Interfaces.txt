@@ -15,3 +15,5 @@ TELEPORTOVAT SE NA VYTVOŘENÝ BOD
 ZEMŘEL JSI
 Byl jsi zabit
 jako
+(skrytý)
+Pasivní
