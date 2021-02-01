@@ -1,0 +1,23 @@
+{
+  "Name": "Português - Portuguese",
+  "Authors": [
+    "Esquilo_Voador"
+  ],
+  "SystemLocales": [
+    "pt-AO",
+    "pt-CV",
+    "pt-GQ",
+    "pt-GW",
+    "pt-LU",
+    "pt-MO",
+    "pt-MZ",
+    "pt-PT",
+    "pt-ST",
+    "pt-CH",
+    "pt-TL",
+    "pt"
+  ],
+  "ForcedFontOrder": [
+
+  ]
+}

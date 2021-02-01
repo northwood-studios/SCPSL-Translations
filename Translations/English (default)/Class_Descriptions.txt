@@ -1,18 +1,18 @@
-Kill everyone.\nPrevent escape.\nCooperate with other <color=#f00>SCPs.</color><color=#ffff00>\nHold left click+W and aim at your enemy to kill.\nYou are faster at lower HP.</color>
-Escape from the facility.\nCooperate with the <color=#008f1e>Chaos Insurgency.</color>\nAvoid other teams.
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color><color=#FFFF00>\nHold left click+W and aim at your enemy to kill.\nYou are faster at lower HP.</color>
+Escape from the facility.\nCooperate with the <color=#008F1e>Chaos Insurgency.</color>\nAvoid other teams.
 You will respawn soon.
-Kill everyone.\nPrevent escape.\nCooperate with other <color=#f00>SCPs.</color><color=#ffff00>\nYou can walk through doors.\nLeft click hurts and TPs enemies to your dimension.\nHold TAB to access your TP abilities.</color>
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color><color=#FFFF00>\nYou can walk through doors.\nLeft click hurts and TPs enemies to your dimension.\nHold TAB to access your TP abilities.</color>
 Help <color=#FFFF7CFF>scientists</color> escape.\nNeutralize other subjects.\nInstruct your soldiers. \nFollow the orders of your superiors.
-Kill everyone.\nPrevent escape.\nCooperate with other <color=#f00>SCPs.</color><color=#ffff00>\nLeft click to insta-kill enemies with a short cooldown.\nInteract with a recently-dead human to revive them as an ally.</color>
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color><color=#FFFF00>\nLeft click to insta-kill enemies with a short cooldown.\nInteract with a recently-dead human to revive them as an ally.</color>
 Escape from the facility.\nCooperate with the <color=#0096FF>MTF.</color>\nAvoid other teams.
-Kill everyone.\nPrevent escape.\nCooperate with other <color=#f00>SCPs.</color>
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color>
 Help <color=#FF8E00>Class-D Personnel</color> escape.\nNeutralize other subjects.
-Kill everyone.\nPrevent escape.\nCooperate with other <color=#f00>SCPs.</color>
-Kill everyone.\nPrevent escape.\nCooperate with other <color=#f00>SCPs.</color><color=#ffff00>\nLeft click to attack with a short windup.</color>
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color>
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color><color=#FFFF00>\nLeft click to attack with a short windup.</color>
 Help <color=#FFFF7CFF>scientists</color> escape.\nNeutralize other subjects.\nInstruct your soldiers. \nFollow the orders of your commanders.
 Help <color=#FFFF7CFF>scientists</color> escape.\nNeutralize other subjects.\nInstruct your soldiers.
 Help <color=#FFFF7CFF>scientists</color> escape.\nNeutralize other subjects.\nFollow the orders of your superiors.
 Follow the tasks to complete your objective.
 Help <color=#FFFF7CFF>scientists</color> to escape\nCooperate with <color=#0096FF>MTF</color>\nNeutralize other subjects
-Kill everyone.\nPrevent escape.\nCooperate with other <color=#f00>SCPs.</color>
-Kill everyone.\nPrevent escape.\nCooperate with other <color=#f00>SCPs.</color>
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color>
+Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color>

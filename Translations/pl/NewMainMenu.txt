@@ -72,7 +72,7 @@ UWIERZYTELNIANIE
 <color=red>Uwierzytelnianie Steam nie powiodło się (Szczegóły w konsoli)</color>
 <color=red>Uwierzytelnianie Discord nie powiodło się (Szczegóły w konsoli)</color>
 Wyłączono
-{0} Sekund
+Sekund
 Czas na wyczyszczenie ciał
 Wyświetlaj profil Steam
 Pozwala innym graczom wyświetlić Twój profil Steam, klikając na ikonę w liście graczy.
@@ -84,3 +84,4 @@ STWÓRZ SERWER MIMO TO
 CZYTAJ WIĘCEJ
 WYNAJMIJ SERWER
 ANULUJ
+Sekunda

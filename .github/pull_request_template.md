@@ -4,7 +4,7 @@
 (Input the changed Language's name here)
 
 ## State Type of change (New language, changed existing Etc.)
-(My Change descrtiption here)
+(My Change description here)
 
 # Checklist:
 - [ ] I have tested the translation changes ingame
@@ -15,3 +15,4 @@
 - [ ] I have made sure to **not** included any advertisements/pointers to non-game stuff other than the translation author in the credits file
 - [ ] I have made sure to label my translation folder by [Microsoft Language Tag Standards](https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-lcid/a9eac961-e77d-41a6-90a5-ce1a8b0cdb9c)
    - Only in cases of **new** translations (Can be tested [Here](https://rextester.com/WDXPS97501)). Also check this box if the change is **not** a new translation
+> For more information regarding game translations, please visit our [README](https://github.com/northwood-studios/SCPSL-Translations/blob/master/README.md) page.

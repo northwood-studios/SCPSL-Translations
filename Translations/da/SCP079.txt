@@ -1,17 +1,17 @@
-Reservestrøm
-ERFARING
+Hjælpestrøm
+EVNENIVEAU
 KAMERA FEED ONLINE
 TRYK [KEY] FOR AT SLÅ OVERVÅGNINGSKORTET TIL OG FRA
-Erfaring opnået:
-Samarbejde
-Klasse-D drabs assist
-C. I. drabs assist
-MTF drabs assist
-Scientist drabs assist
-SCP drabs assist
-LÅSTE DØRE: [LOCKED_NUM]<size=25>HØJREKLIK FOR AT ÅBNE DØRENE IGEN</size>
-Generele interageringer
-Du er under angreb!
-Generatorer er blevet markeret på kortet
-ADVARSEL
-SCPs{0}MTF & Sikkerhedvagter{1}Videnskabsmænd{2}Klasse-D{3}Kaos Oprører{4}
+Evneniveau opnået:
+Arbejde sammen
+Assisterede drab på Klasse-D
+Assisterede drab på Kaos Oprørere
+Assisterede drab på MTF
+Assisterede drab på Videnskabsmænd
+Assisterede drab på SCP
+LÅSTE DØRE: [LOCKED_NUM]<size=25>HØJREKLIK FOR AT ÅBNE ALLE DØRE</size>
+Generelle interaktioner
+Du bliver angrebet!
+Du kan nu se generatorer på kortet
+FARE
+SCPs{0}MTF & Sikkerhedsvagter{1}Videnskabsmænd{2}Klasse-D{3}Kaos Oprørere{4}

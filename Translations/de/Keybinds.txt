@@ -1,20 +1,20 @@
-Schiessen
-Zoomen
-Springen
-Interagieren
-Inventar
-Nachladen
-Sprinten
-Sprachchat
-Schleichen
-Vorwärts bewegen
-Rückwärts bewegen
-Nach Links bewegen
-Nach Rechts bewegen
-Spielerliste
-Charakterinfo
-Remote Admin
-Taschenlampe Ein/Ausschalten
-Alternative Sprachchat
-Noclip
-Spielkonsole
+<size=25>Schießen</size>
+<size=25>Zoomen</size>
+<size=25>Springen</size>
+<size=25>Interagieren</size>
+<size=25>Inventar</size>
+<size=25>Nachladen</size>
+<size=25>Sprinten</size>
+<size=25>Sprachchat</size>
+<size=25>Schleichen</size>
+<size=25>Vorwärts bewegen</size>
+<size=25>Rückwärts bewegen</size>
+<size=25>Nach Links bewegen</size>
+<size=25>Nach Rechts bewegen</size>
+<size=25>Spielerliste</size>
+<size=25>Charakterinfo</size>
+<size=25>Remote Admin</size>
+<size=25>Taschenlampe</size>
+<size=25>Alternativer Sprachchat</size>
+<size=25>Noclip</size>
+<size=25>Spielkonsole</size>

@@ -1,0 +1,36 @@
+Thẻ khóa Janitor:Không có mô tả
+Thẻ khóa Scientist:Không có mô tả
+Thẻ khóa Research Supervisor:Không có mô tả
+Thẻ khóa Zone Manager:Không có mô tả
+Thẻ khóa Guard:Không có mô tả
+Thẻ khóa MTF Cadet:Không có mô tả
+Thẻ khóa Containmnet Engineer:Không có mô tả
+Thẻ khóa MTF Lieutenant: hông có mô tả
+Thẻ khóa MTF Commander:Không có mô tả
+Thẻ khóa Facility Manager: hông có mô tả
+Thiết bị truy cập Chaos Insurgency
+Thẻ khóa O5
+Radio:SR = Tầm gần \nMR = Tầm trung \nLR = Tầm xa \nUR = Tầm rất xa \nDùng được nếu còn pin. Tầm càng xa càng ngốn pin.
+Súng ngắn COM-15:Không có mô tả
+Bộ sơ cứu:Chữa lành vết thương của bạn.
+Đèn pin lớn: Sáng lên nào!
+Micro H.I.D.:Máy bắn năng lượng hạng nặng cầm tay.
+SCP-500:Thần dược chữa bách bệnh.
+SCP-207:Tăng kĩ năng di chuyển một cách tiêu cực.
+Weapon Manager Tablet:Dùng để vứt đạn hoặc nâng cấp vũ khí.
+MTF-E11-SR:Không có mô tả
+Project 90:Không có mô tả
+Dropped 5.56:Không có mô tả
+MP7:Không có mô tả
+Logicer:Không có mô tả
+Lựu đạn nổ (Frag Grenade):Bùm!
+Lựu đạn choáng (Flash Grenade):Làm mù đối thủ!
+Thiết bị giải giáp (Disarmer):Chuột trái để trói, chuột phải để cởi trói.\nNhấn E để cởi trói người cùng phe.
+Băng đạn 7.62mm:Không có mô tả
+Băng đạn 9mm:Không có mô tả
+USP:Không có mô tả.
+SCP-018:Bóng siêu nảy với hiệu suất siêu cao.
+SCP-268:Khi đội, làm người chơi tàng hình, trừ khi có hành động tương tác với xung quanh.
+Adrenaline:Tăng sức chịu đựng.
+Thuốc giảm đau: chữa vết thương nhỏ.
+Xu: Không chắc tại sao lại có cái này...

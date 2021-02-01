@@ -1,0 +1,20 @@
+Ateş et
+Yakınlaştır
+Zıpla
+Etkileşim
+Envanter
+Şarjör değiştir
+Koş
+Sesli Sohbet
+Yavaş Yürüme
+İleri Hareket
+Geri Hareket
+Sola Hareket
+Sağa Hareket
+Oyuncu Listesi
+Karakter Bilgisi
+Admin Paneli
+Fener Aç/Kapa
+Alternatif Sesli Sohbet
+Noclip
+Konsol

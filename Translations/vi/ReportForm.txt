@@ -1,0 +1,7 @@
+Báo cáo người chơi
+Người chơi:\nPlayer ID:\nMô tả:
+Hủy
+Báo cáo vì vi phạm nội quy server
+Báo cáo gian lận
+ĐANG BÁO CÁO
+Vui lòng chờ...

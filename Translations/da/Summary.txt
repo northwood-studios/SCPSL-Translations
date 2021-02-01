@@ -1,17 +1,17 @@
-runden er sluttet!
+runden er ovre!
 SCPs VANDT
 MTF VANDT
-CLASS-D VANDT
+KLASSE-D VANDT
 UAFGJORT
 De er ansvarlige for at dræbe [summary_scpfrags] mennesker.
-Trussel stoppet. Dette sted er sikkert igen.
-Alt security er blevet slået ihjel.
-Begge sider har lidt tab og gavnet meget. Vinderen er uklar.
-[summary_d_escaped] klasse-D personale slap væk
-[summary_s_escaped] videnskabsmand(mænd) overlevede
-Alpha Sprænghoved sprængning drabte [summary_warhead_kills] mennesker.
-Alpha Sprænghovedet blev ikke sprunget under denne mission.
-Missionen tog [summary_round_minutes] minutter og [summary_round_seconds] sekunder.
-[summary_scp_terminated] drabte SCPs
-Næste runde om [summary_next_round_countdown] sekunder.
-Du har delt [summary_damages] skade, og drabt [summary_kills] spillere.
+Trussel tilbageholdt. Stedet er under kontrol igen.
+Alle sikkerhedsansvarlige er blevet slået ihjel.
+Begge hold har kæmpet til det sidste. Rundens vinder er uklar.
+[summary_d_escaped] Klasse-D personale flygtede
+[summary_s_escaped] Videnskabsmænd overlevede
+Alfa Sprænghovedet blev detoneret og dræbte [summary_warhead_kills] mennesker i eksplosionen.
+Alfa Sprænghovedet blev ikke detoneret under denne mission.
+Missionen varede [summary_round_minutes] minutter og [summary_round_seconds] sekunder.
+[summary_scp_terminated] eliminerede SCPs
+Næste runde starter om [summary_next_round_countdown] sekunder.
+Du har gjort [summary_damages] skade, og dræbt [summary_kills] andre spillere.

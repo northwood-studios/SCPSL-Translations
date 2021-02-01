@@ -1,0 +1,17 @@
+vòng chơi đã hoàn thành!
+SCP thắng
+MTF thắng
+CLASS-D thắng
+HÒA
+SCP chịu trách nhiệm cho việc giết [summary_scpfrags] mạng người.
+Mối nguy đã được loại bỏ. Cơ sở đã an toàn trở lại.
+Tất cả bảo vệ cơ sở đã bị tiêu diệt.
+Tất cả các phe đều có lợi ích và thiệt hại ngang nhau. Không có phe thắng.
+[summary_d_escaped] tù nhân tẩu thoát
+[summary_s_escaped] nhà khoa học sống sót
+Đầu đạn hạt nhân kích nổ giết [summary_warhead_kills] mạng.
+Đầu đạn hạt nhân không được kích nổ trong nhiệm vụ này.
+Nhiệm vụ này diễn ra trong [summary_round_minutes] phút và [summary_round_seconds] giây.
+[summary_scp_terminated] SCP bị tiêu diệt
+Vòng chơi tiếp theo trong [summary_next_round_countdown] giây.
+Bạn đã gây [summary_damages] sát thương và giết [summary_kills] người chơi.

@@ -35,7 +35,7 @@ Sombras
 Qualidade da Sombra
 Distancia da Sombra
 Motion Blur
-Correção de cores 
+Correção de cores
 Anti Aliasing
 Modo de Renderização de Luz
 Volume Principal
