@@ -1,5 +1,4 @@
 #ÇEVİRMENLER İÇİN NOT: Bu dosyada istediğiniz kadar satır kullanabilirsiniz, hepsi de kapının üzerinde gösterilecektir.
 ALFA
 SAVAŞ
-BAŞLIĞI
 SİLOSU
