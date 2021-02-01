@@ -1,0 +1,5 @@
+ĐÃ CHẾT
+Nhấn {KEYBINDING_INTERACTION} để đặt <color=yellow>Weapon Manager Tablet</color>.
+Nhấn {KEYBINDING_INTERACTION} để nhặt <color=yellow>Weapon Manager Tablet</color>.
+<color=yellow>Workstation</color> này đang được người khác dùng, <color=yellow>Weapon Manager Tablet</color> của họ đã được kết nối
+Bạn cần <color=yellow>Weapon Manager Tablet</color> để dùng <color=yellow>workstation</color>.

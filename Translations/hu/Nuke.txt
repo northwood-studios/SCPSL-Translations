@@ -1,0 +1,4 @@
+<size=180><color=red>KIKAPCSOLVA</color></size>
+<color=red><size=200>KÉRJÜK VÁRJON</size></color>
+<color=lime><size=180>KÉSZ</size></color>
+A DETONÁCIÓ ELKERÜLHETETLEN

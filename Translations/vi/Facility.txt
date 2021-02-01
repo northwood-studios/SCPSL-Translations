@@ -1,0 +1,38 @@
+ÂM LƯỢNG
+Có
+BẮT BUỘC KHỞI ĐỘNG
+NHỐT LẠI SCP-106\nQUY TRÌNH NHỐT LẠI
+Đảo ngược Trục-Y
+TÓM TẮT
+Hủy
+K H O
+ĐỘ SÁNG
+CÀI ĐẶT
+NGẮT KẾT NỐI
+ĐẦU ĐẠN HẠT NHÂN CHƯA KÍCH HOẠT
+TỪ CHỐI TRUY CẬP
+VOICE CHAT
+QUÁ TẢI KHO ĐỒ
+ĐỘ NHẠY CHUỘT
+ĐANG HACK
+ĐANG LẤY
+Tăng độ sáng <b>làm giảm không khí </b>của game game.\nCố để ở mức càng thấp càng tốt.\n<b>Mức độ mặc định được khuyến nghị.</b>
+[1] ĐÓNG/MỞ CỬA\n[2] KHÓA CỬA*\n\n*Khóa cửa bằng cách dùng kỹ năng đặc biệt.
+PHÒNG ĐÃ BỊ CÁCH LY BỞI SCP-079
+Chế độ toàn màn hình
+Bạn có chắc muốn rời khỏi server?
+Các cài đặt cơ bản. Danh sách đầy đủ các cài đặt ở trong menu.
+ĐANG CHỜ NGƯỜI CHƠI
+TÓM TẮT
+TIẾP TỤC
+ÂM LƯỢNG CHÍNH
+đã kết nối
+Bạn thoát hiểm dưới vai Nhà khoa học và gia nhập lực lượng MTF
+Bạn tẩu thoát dưới vai Tù nhân và gia nhập lực lượng Chaos Insurgency.
+BẠN LÀ
+Thời gian trốn thoát: [escape_minutes] phút và [escape_seconds] giây
+Đợi [time] cho tới khi bạn được sử dụng [item] lại.
+Nhấn <color=yellow><b>F1</b></color> để hiện hướng dẫn.
+Bạn đã bị trói.\n<size=40>Tuân theo lệnh hoặc nhờ đồng đội giúp.</size>
+Bạn đã bị chiếm hữu bởi MTF.\nVới một mối nguy giảm đi, khả năng thành công của họ sẽ cao hơn.
+Bạn đã bị bỏ tù và chiếm hữu bởi Chaos Insurgency.\nVới lượng thông tin bạn đã khai, họ có thêm nhiều lợi thế.

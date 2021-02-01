@@ -10,20 +10,20 @@ Carte d'accès de Commandant Epsilon-11 : Pas de description.
 Carte d'accès du Manager du site : Pas de description.
 Dispositif de l'Insurrection du Chaos
 Carte d'accès des O5
-Radio :<color=#00ff00>SR</color> = Courte portée \n<color=#ffff00>MR</color> = Moyenne portée \n<color=#ffa500ff>LR</color> = Longue portée \n<color=#ff0000>UR</color> = Ultra portée \nLa consommation augmente avec la portée de la fréquence.
+Radio :<color=#00FF00>SR</color> = Courte portée \n<color=#FFFF00>MR</color> = Moyenne portée \n<color=#FFA500FF>LR</color> = Longue portée \n<color=#FF0000>UR</color> = Ultra portée \nLa consommation augmente avec la portée de la fréquence.
 Pistolet COM-15 : Pas de description.
 Trousse de premiers secours : Permet de soigner vos blessures.
-Lampe torche : <color=#ffff00>" Que la lumière soit ! "</color>
-Micro H.I.D : Lanceur mobile de décharges électriques à haute densité. \n<color=#ffa500ff>DANGEREUX</color>\n\n<color=#ff0000>Cette arme peut être activée et désactivée au besoin.</color>
-<color=red>SCP-500:</color><color=#ffa500ff>Cela vous soignera de tout !</color>
-<color=red>SCP-207:</color><color=#ffa500ff>Améliore vos capacités motrices tout en en détruisant vos muscles.</color>
+Lampe torche : <color=#FFFF00>" Que la lumière soit ! "</color>
+Micro H.I.D : Lanceur mobile de décharges électriques à haute densité. \n<color=#FFA500FF>DANGEREUX</color>\n\n<color=#FF0000>Cette arme peut être activée et désactivée au besoin.</color>
+<color=red>SCP-500:</color><color=#FFA500FF>Cela vous soignera de tout !</color>
+<color=red>SCP-207:</color><color=#FFA500FF>Améliore vos capacités motrices tout en en détruisant vos muscles.</color>
 Gestionnaire d'armes : Pour déposer vos munitions et modifier vos armes à l'aide d'un poste de travail.
 MTF-E11-SR :<color=#0096FF> Équipement standard de la FIM Epsilon-11.</color>
 Projet 90 : Pas de description.
 Munitions de 5.56mm : Pour les obtenir, il faut les lâcher au sol.
 MP7 : Pas de description.
-Logicer :<color=#008f1e> Équipement standard de l'Insurrection du Chaos.</color>
-Grenade à fragmentation : <color=#ff0000>Boom !</color>
+Logicer :<color=#008F1E> Équipement standard de l'Insurrection du Chaos.</color>
+Grenade à fragmentation : <color=#FF0000>Boom !</color>
 Grenade incapacitante : Aveugle l'ennemi.
 Désarmeur : Désarme l'ennemi en le menottant et en vidant son inventaire.
 Munitions de 7.62mm : Pour les obtenir, il faut les lâcher au sol.

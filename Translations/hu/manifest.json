@@ -1,0 +1,13 @@
+{
+  "Name": "Magyar - Hungarian",
+  "Authors": [
+    "asderman"
+  ],
+  "SystemLocales": [
+    "hu-HU",
+    "hu"
+  ],
+  "ForcedFontOrder": [
+
+  ]
+}

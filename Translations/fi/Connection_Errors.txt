@@ -34,3 +34,4 @@
 <size=80>Odota</size>\nProsessoidaan palvelimen turvavarmennetta...
 <size=80>YHTEYS KATKAISTU</size>\nPalvelimen turvavarmenteen käsittely epäonnistui.
 <size=80>YHTEYS KATKAISTU</size>\nPalvelimen suojauksen varmennus kesti liian kauan.\nYritä uudelleen tai ota yhteyttä palvelimen järjestelmänvalvojaan.
+<size=80>TODENNUSVIRHE</size>\nKeskuspalvelimen viesti: [message].
