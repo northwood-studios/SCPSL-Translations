@@ -1,0 +1,5 @@
+#INFO PER I TRADUTTORI: In questo file puoi usare altre linee, per farle mostrare sul display sopra la porta
+CENTRALE
+INTERCOM
+BROAD-
+-CASTING

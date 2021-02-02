@@ -1,4 +1,4 @@
-<size=80>VOCÊ FOI EXPULSO</size>\nO servidor foi forçado a termirnar a conexão.\n<size=26>\nVocê foi temporariamente banido pelo administrador.\nou não cumpria com o requisitado pelo servidor. (Ex: Conexão com a Steam).</size>
+<size=80>VOCÊ FOI EXPULSO</size>\nO servidor foi forçado a encerrar a conexão.\n<size=26>\nVocê foi temporariamente banido pelo administrador.\nou não cumpria com o requisitado pelo servidor. (Ex: Conexão com a Steam).</size>
 <size=80>DESCONECTADO</size>\nO host específicado não existe.
 <size=80>DESCONECTADO</size>\nA conexão específicada não existe.
 <size=80>DESCONECTADO</size>\nO canal especificado não existe.
@@ -7,14 +7,14 @@
 <size=80>DESCONECTADO</size>\nConexão perdida (tempo esgotado).
 <size=80>DESCONECTADO</size>\nconexão perdida (tempo esgotado).
 <size=80>DESCONECTADO</size>\nA operacão não é suportada.
-<size=80>DESCONECTADO</size>\nConfiguração do servidor errada (Versão não compativel).
-<size=80>DESCONECTADO</size>\nConfiguração do servidor errada.
+<size=80>DESCONECTADO</size>\nA Configuração do servidor está errada (Versão não compativel).
+<size=80>DESCONECTADO</size>\nA Configuração do servidor está errada.
 <size=80>DESCONECTADO</size>\nO endereço fornecido para conexão é inválido ou não pode ser resolvido.
-<size=80>DESCONECTADO</size>\nUm poblema não esperado detectado.
+<size=80>DESCONECTADO</size>\nUm problema não esperado foi detectado.
 <size=80>ESPERE UM MOMENTO</size>\n<size=35>Estabilizando conexão...</size>
 <size=80>REINICIANDO PARTIDA</size>\n<size=35>O servidor está reiniciando...</size>
 <size=80>ESPERE UM MOMENTO</size>\n<size=35>Carregando tutorial...</size>
-<size=80>VERSÃO IMCOPATÍVEL</size>\nA sua versão do jogo é diferente do server.\n(Sua versão - {0}; Versão do servidor - {1})
+<size=80>VERSÃO INCOMPATÍVEL</size>\nA sua versão do jogo é diferente do servidor.\n(Sua versão - {0}; Versão do servidor - {1})
 <size=80>CONECTANDO</size>\n<size=35>Carregando o nível...</size>
 <size=35>Carregando a instalação...</size>
 <size=80>DESCONECTADO</size>\nUm erro não especificado ocorreu no servidor.
@@ -28,9 +28,9 @@
 <size=80>DESCONECTADO</size>\nSua frequencia de conexão foi limitada. Tente novamente em alguns segundos.
 <size=80>DESCONECTADO</size>\nO servidor não está aceitando conexões da sua localização geográfica.\nA "info" ou o nome do servidor pode conter mais informações.
 <size=80>DESCONECTADO</size>\nVocê foi expulso por uma modificação do servidor.\n\nMotivo: {0}\nFoi uma modificação do servidor, não uma funcionalidade do jogo em si.\nEntre em contato com um administrador do servidor para mais detalhes.
-<size=80>DESCONECTADO</size>\nO seu "token de autorização" não foi aceitado pelo servidor.\nPor favor, reinicie o jogo ou entre em contato com o suporte tecnico.
+<size=80>DESCONECTADO</size>\nO seu "token de autorização" não foi aceitado pelo servidor.\nPor favor, reinicie o jogo ou entre em contato com o suporte técnico.
 <size=80>DESCONECTADO</size>\nVocê foi banido desse servidor.\nMotivo: {0}
-<size=80>DESCONECTADO</size>\nVocê foi banido desse servidor.\nO ban expira em: {0} {1}\nMotivo: {2}
+<size=80>DESCONECTADO</size>\nVocê foi banido desse servidor.\nO banimento expira em: {0} {1}\nMotivo: {2}
 <size=80>ESPERE UM MOMENTO</size>\nProcessando a verificação de segurança do servidor...
 <size=80>DESCONECTADO</size>\nFalha ao processar a verificação de segurança do servidor.
 <size=80>DESCONECTADO</size>\nO processamento da verificação de segurança do servidor foi muito lento.\nEntre em contato com um administrador do servidor para mais detalhes.

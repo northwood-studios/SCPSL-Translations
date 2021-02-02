@@ -12,7 +12,7 @@
 帮助<color=#FFFF7CFF>科学家</color>逃离设施。\n消灭其他事物。\n指挥你的部下。\n服从指挥官指挥。
 帮助<color=#FFFF7CFF>科学家</color>逃离设施。\n消灭其他事物。\n指挥你的部下。
 帮助<color=#FFFF7CFF>科学家</color>逃离设施。\n消灭其他事物。\n服从上级指挥。
-遵循指令以完成使命。
+遵循游戏提示完成你的使命。
 与<color=#0096FF>MTF</color>合作，帮助<color=#FFFF7CFF>科学家</color>逃离设施。\n消灭其他事物。
 与其他<color=#F00>SCP</color>合作，杀死所有人/阻止任何人逃脱。
 与其他<color=#F00>SCP</color>合作，杀死所有人/阻止任何人逃脱。

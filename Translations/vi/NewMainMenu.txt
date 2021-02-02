@@ -1,0 +1,81 @@
+Thông tin
+Server
+Cài đặt
+Thoát
+Mạng
+Internet
+Yêu thích
+Chính thức
+Lịch sử
+Bạn bè
+Tìm server
+Tạo server
+Vào lại
+Kết nối trực tiếp
+Làm mới
+Ẩn server trống
+Ẩn server đã đầy
+Không Whitelist
+Video
+Âm thanh
+Điều khiển
+Gameplay
+Khác
+Chế độ cửa sổ
+Toàn màn hình
+Cửa sổ không viền
+Cửa sổ lớn nhất
+Cửa sổ
+V-Sync
+Giới hạn FPS
+Tắt
+Chất lượng chi tiết
+Lượng máu tối đa
+Bóng
+Chất lượng đổ bóng
+Khoảng cách bóng
+Làm mờ khung hình
+Căn chỉnh màu
+Anti Aliasing
+Render Lights
+Âm lượng chính
+Chất lượng âm thanh
+Voice Chat
+Nhạc Menu
+Âm lượng Interface
+Chế độ Menu
+Fast Intro Fade
+Head Bob
+Toggle Sprint
+Hiện lượng HP
+Rich Presence
+Phòng chơi công khai
+Bật tìm kiếm
+SCP-079 - Bật chế độ nhìn
+SCP-079 - Post-Processing
+Ngôn ngữ
+Menu chính
+Kết nối
+Trở về
+Thay đổi này cần tải lại để có hiệu lực.\nTải lại menu bây giờ?
+Có
+Không
+Bạn có muốn thoát?
+Độ phân giải
+Ẩn IP
+Chào mừng trở lại, {username}!
+Credits
+ĐANG XÁC THỰC
+Kết nối đến server trung tâm...
+<color=green>Kết nối đã được thiết lập</color>
+<color=red>Kết nối thất bại (Kiểm tra Console để biết thêm chi tiết)</color>
+<color=red>Xác thực Steam thất bại (Kiểm tra Console để biết thêm chi tiết)</color>
+<color=red>Xác thực Discord thất bại (Kiểm tra Console để biết thêm chi tiết)</color>
+Đã tắt
+{0} giây
+Thời gian dọn dẹp xác chết
+Hiện hồ sơ Steam
+Cho phép người chơi mở hồ sơ steam qua menu người chơi.
+Do Not Track (DNT)
+Ngăn server sử dụng dữ liệu của bạn (IP address, user ID,...) nếu mục đích không liên quan đến bảo mật server.
+API đồ họa

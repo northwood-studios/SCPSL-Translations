@@ -8,7 +8,7 @@ Northwood Yönetici Asistanı
 Northwood Geribildirim Yöneticisi
 Northwood İnsan Kaynakları
 Northwood İnsan Kaynakları Müdürü
-Northwood Ortak Bilgi Görevlisi
+Northwood Ortak Bilgi Şef Yardımcısı
 Northwood Lead Bot Mühendisi
 Northwood Pazarlama Müdürü
 Northwood Pazarlama Platformu Yöneticisi
@@ -42,3 +42,5 @@ Northwood Doğrulama Uzmanı
 Northwood Yerel Kod Uzmanı
 SCP:SL Kalite Güven Deneyen
 SCP:SL Kalite Güven Gözetmeni
+SCP:SL Twitch Abonesi
+SCP:SL Ses Müdürü

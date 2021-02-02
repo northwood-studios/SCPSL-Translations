@@ -1,0 +1,91 @@
+VÀO
+ĐÓNG
+CHẤT LƯỢNG ĐỔ BÓNG
+CÀI ĐẶT
+DỰA TRÊN <i>SCP: CONTAINMENT BREACH</i>
+TRỞ VỀ
+NGÔN NGỮ
+ANTIALIASING
+Thay đổi chi tiết:\n-PIXEL LIGHT COUNT - Lượng ánh sáng tối đa thể hiện lên một pixel.\n-V-Sync - Cho phép đồng bộ với tần số làm tươi của màn hình.
+VÀO GAME
+POST\nPROCESSING
+CREDITS
+THOÁT GAME
+Chế độ toàn màn hình
+CÀI ĐẶT MÀN HÌNH
+CĂN CHỈNH MÀU
+Nhập địa chỉ IP...
+ĐỘ PHÂN GIẢI
+CHƠI
+PIXEL LIGHT COUNT
+LOẠI BÓNG
+BÓNG
+TẠO GAME
+Chỉnh cài đặt Post-Processing. Cài đặt này không ảnh hưởng nhiều, khuyến nghị để ở giá trị mặc định.
+Light rendering mode:\nKhi tắt, giảm chất lượng đồ họa đi rất nhiều. Chỉ tắt nếu máy bạn quá yếu.
+V-SYNC
+KẾT NỐI
+CÀI ĐẶT CHẤT LƯỢNG
+Chỉnh chất lượng bóng. Để ở mức thấp có thể giúp gameplay mượt hơn.
+MENU CHÍNH
+RENDER LIGHTS
+LÀM MỜ MÀN ẢNH
+KHOẢNG CÁCH BÓNG
+CHI TIẾT
+3. SCP-914
+HƯỚNG DẪN
+CẢNH BÁO
+Tìm các server khả dụng
+Đừng hiện nữa
+Bạn muốn kết nối bằng cách nào?
+TÌM SERVER
+OKAY
+TÌM VÁN
+2. Dùng vũ khí
+Chúng tôi dùng Discord như diễn đàn. Không cần cái đặt thêm\n(nhấn vào logo để gia nhập)
+Mặc định, server sẽ được đặt trên mạng nội bộ.\nNgười khác sẽ cần địa chỉ IP cụ thể để vào server.\nNếu bạn muốn tạo server công khai, hãy chạy LocalAdmin.exe và làm theo hướng dẫn.\nNếu có thắc mắc, hãy liên hệ hỗ trợ kĩ thuật (link ở menu chính).
+1. Cơ bản
+Game vẫn đang trong giai đoạn Public Beta\nBạn có thể gặp lỗi hoặc kết nối không ổn định.\nPhiên bản này không phải là phiên bản cuối cùng.
+4. (nhiều hướng dẫn hơn sau này)
+KẾT NỐI TRỰC TIẾP
+HỖ TRỢ KĨ THUẬT / DIỄN ĐÀN
+ÂM LƯỢNG
+Nhập IP cụ thể của server:
+TẢI XUỐNG DỮ LIỆU
+KHÔNG CÓ SERVER KHẢ DỤNG
+NHẤN ESC ĐỂ ĐÓNG / HỦY
+THIẾT LẬP PHÍM
+LƯỢNG MÁU TỐI ĐA
+Giới hạn FPS
+Giới hạn FPS không khả dụng nếu Vsync được bật!
+Chỉnh về mặc định
+Chúng tôi dùng Steam Discussions như một diễn đàn. (Nhấn logo bên dưới để mở diễn đàn)
+CÀI ĐẶT ÂM THANH
+ÂM LƯỢNG CHÍNH
+NHẠC MENU
+VOICE CHAT
+HIỆU ỨNG ÂM THANH
+LỰA CHỌN GAMEPLAY
+LÀM MỜ NHANH INTRO
+Intro vai trò sẽ biến mất nhanh hơn.
+SCP-079 - BẬT CHẾ ĐỘ NHÌN
+Nhấn một lần để chuyển giữa các chế độ camera.
+SCP-079 - POST-PROCESSING
+Nếu tắt đi, chất lượng hiệu ứng camera sẽ bị giảm sút.
+HEAD BOB
+Làm camera nhấp nhô khi di chuyển.
+TOGGLE SPRINT
+Kích hoạt trạng thái chạy bằng cách bật hoặc tắt thay vì nhấn giữ phím để chạy.
+THANH AHP RIÊNG
+Chia AHP thành thanh riêng, thay vì đi kèm theo thanh HP chính.
+Bản dịch của chúng tôi là mã nguồn mở trên GitHub\nMuốn giúp? Nhấn vào đây để truy cập repo.
+RICH PRESENCE
+Nếu bật, trạng thái cụ thể trong game của bạn sẽ được hiện lên Discord/Steam.
+HIỆN HP CỤ THỂ
+Hiện cụ thể lượng HP còn lại, thay vì phần trăm.
+PHÒNG CHƠI CÔNG KHAI
+Nếu bật, bạn của bạn có thể vào chung server mà không cần sự cho phép.
+ẨN IP
+Nếu bật, IP của bạn sẽ không hiện trong console.
+BẬT TÌM KIẾM
+Việc nhặt vật phẩm sẽ không cần nhấn giữ nữa, nhấn lại để bỏ chọn.

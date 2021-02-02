@@ -79,3 +79,9 @@ Permetti ai giocatori di vedere il tuo profilo di steam dalla lista giocatori
 Non tenere traccia (DNT)
 Proibisci ai server di utilizzare i tuoi dati (Indirizzo IP, ID Utente, etc.) per qualsiasi ragione che non riguardi sicurezza del server stesso.
 API Grafica
+Creare un server di gioco all'interno di esso non è più supportato.\nCi sono tre modi per creare un server in SCP: SL.\n-Puoi scaricare il server dedicato di SCP: SL (Steam AppID: 996560) ed avviarlo da esso.\n-Puoi noleggiare una VPS o un Server Dedicato da un host provider e  farlo partire da esso.\n-Puoi noleggiare un SCP: SL da un host provader in gioco che supporti SCP: SL (es: ZAP Hosting).\n\nClicca il link sottostante per avere maggiori informazioni.\nPuoi contattare il supporto tecnico per assistenza (il link del server discord si trova nel Menù di gioco principale).
+CREA UGUALMENTE
+MAGGIORI INFORMAZIONI
+NOLEGGIA UN SERVER
+CANCELLA
+Secondo
