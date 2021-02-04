@@ -1,6 +1,6 @@
 <color=red>Acesso Negado</color>
 Limite de <color=yellow>munição de [type]</color> atingido (<color=yellow>[max_type_count] balas</color>)
 Você já chegou no <b>limite</b> de <color=yellow>munição de [type]</color> (<color=yellow>[max_type_count] balas</color>)
-Limite de <color=yellow>[type]</color> atingido (<color=yellow>[max_type_count] items</color>)
+Limite de <color=yellow>[type]</color> atingido (<color=yellow>[max_type_count] itens</color>)
 Você já chegou no <b>limite</b> de <color=yellow>[type]</color> (<color=yellow>[max_type_count] itens</color>)
 Apenas <color=yellow>[max_item_count] itens</color> podem ser carregados.

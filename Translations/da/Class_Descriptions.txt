@@ -1,17 +1,17 @@
-Slå alle ihjel.\nForhindre flugtforsøg.\nSamarbejd med andre <color=#f00>SCPs.</color><color=#ffff00>\nHold venstreklik+W og sigt mod din fjende for at dræbe.\nDu er hurtigere ved lavere HP.</color>
-Slip ud af anlægget.\nSamarbejd med <color=#008f1e>Kaos Oprørsgruppen.</color>\nUndgå de andre hold.
-Du genopstår snart.
-Slå alle ihjel.\nForhindre flugtforsøg.\nSamarbejd med andre <color=#f00>SCPs.</color><color=#ffff00>\nDu kan gå igennem døre.\nVensteklik skader og sender fjenden til din dimension.\nHold TAB for at få adgang til dine teleporteringsevener.</color>
-Hjælp <color=#FFFF7CFF>Videnskabsmænd</color> med at flygte.\nNeutraliser alle andre ting.\nGiv dine soldater ordre. \nFølg ordrene fra dine kommanderne.
-Slå alle ihjel.\nForhindre flugtforsøg.\nSamarbejd med andre <color=#f00>SCPs.</color><color=#ffff00>\nVenstreklik for at øjeblikkeligt dræbe fjender med ingen nedkøling.\nHold E på en person </color><color=#f00>du</color><color=#ffff00> har dræbt, for at zombifisere.\nDu zombifisere hurtigere ved lavere HP.</color>
-Slip ud af anlægget.\nSamarbejd med <color=#0096FF>MTF.</color>\nUndgå andre hold.
-Slå alle ihjel.\nForhindre flugtforsøg.\nSamarbejd med andre <color=#f00>SCPs.</color>
-Hjælp <color=#FF8E00>Klasse-D Personale</color> med at flygte.\nNeutraliser alle andre ting.
-Slå alle ihjel.\nForhindre flugtforsøg.\nSamarbejd med andre <color=#f00>SCPs.</color>
-Slå alle ihjel.\nForhindre flugtforsøg.\nSamarbejd med andre <color=#f00>SCPs.</color><color=#ffff00>\nVensteklik for at angribe, med en kort start-up tid.\nDu angriber hurtigere ved lavere HP.</color>
-Hjælp <color=#FFFF7CFF>videnskabsmænd</color> med at flygte.\nNeutraliser alle andre ting.\nGiv dine soldater ordre. \nFølg ordrene fra dine kommanderne.
-Hjælp <color=#FFFF7CFF>videnskabsmænd</color> med at flygte.\nNeutraliser alle andre ting.\nGiv dine soldater ordre.
-Hjælp <color=#FFFF7CFF>videnskabsmænd</color> med at flygte.\nNeutraliser alle andre ting.\nFølg ordrene fra dine kommanderene.
-Løs opgaverne for at klare dit mål.
-Hjælp <color=#FFFF7CFF>videnskabsmænd</color> med at flygte\nSamarbejd med <color=#0096FF>MTF</color>\nNeutraliser alle andre ting.
-Slå alle ihjel.\nForhindre flugtforsøg.\nSamarbejd med andre <color=#f00>SCPs.</color>
+Dræb alle.\nForhindre andre i at flygte.\nSamarbejd med andre <color=#f00>SCPs.</color><color=#ffff00>\nHold venstreklik + W nede og sigt på fjenden for at angribe.\nDu bevæger dig hurtigere ved lavt helbred.</color>
+Flygt fra området.\nSamarbejd med <color=#008f1e>Kaos Oprørere.</color>\nUndgå andre hold.
+Du vil snart vende tilbage.
+Dræb alle.\nForhindre andre i at flygte.\nSamarbejd med andre <color=#f00>SCPs.</color><color=#ffff00>\nDu kan bevæge dig igennem døre.\nTryk på vensteklik for at skade og teleportere modstandere til din dimension.\nHold TAB nede for at anvende dine teleporteringsevener.</color>
+Hjælp <color=#FFFF7CFF>Videnskabsmænd</color> i at flygte.\nNedkæmp alt andet.\nBeordre dine soldater. \nAdlyd ordrer fra dine foresatte.
+Dræb alle.\nForhindre andre i at flygte.\nSamarbejd med andre <color=#f00>SCPs.</color><color=#ffff00>\nTryk på venstreklik for at dræbe dine modstandere øjeblikkeligt - med et kort mellemrum.\nHold E nede på en modstander som </color><color=#f00>du</color><color=#ffff00> har dræbt for at genoplive personen og få dem tilbage som allierede.\nDu genopliver hurtigere ved lavt helbred.</color>
+Flygt fra området.\nSamarbejd med <color=#0096FF>MTF.</color>\nUndgå andre hold.
+Dræb alle.\nForhindre andre i at flygte.\nSamarbejd med andre <color=#f00>SCPs.</color>
+Hjælp <color=#FF8E00>Klasse-D Personale</color> med at flygte.\nNedkæmp alt andet.
+Dræb alle.\nForhindre andre i at flygte.\nSamarbejd med andre <color=#f00>SCPs.</color>
+Dræb alle.\nForhindre andre i at flygte.\nSamarbejd med andre <color=#f00>SCPs.</color><color=#ffff00>\nTryk på venstreklik for at angribe - med en lille forsinkelse.\nDu angriber hurtigere ved lavt helbred.</color>
+Hjælp <color=#FFFF7CFF>Videnskabsmænd</color> i at flygte.\nNedkæmp alt andet.\nBeordre dine soldater. \nAdlyd ordrer fra dine foresatte.
+Hjælp <color=#FFFF7CFF>Videnskabsmænd</color> i at flygte.\nNedkæmp alt andet.\nBeordre dine soldater.
+Hjælp <color=#FFFF7CFF>Videnskabsmænd</color> i at flygte.\nNedkæmp alt andet.\nAdlyd ordrer fra dine foresatte.
+Løs opgaverne for at fuldføre dit mål.
+Hjælp <color=#FFFF7CFF>Videnskabsmænd</color> i at flygte\nSamarbejd med <color=#0096FF>MTF</color>\nNedkæmp alt andet.
+Dræb alle.\nForhindre andre i at flygte.\nSamarbejd med andre <color=#f00>SCPs.</color>

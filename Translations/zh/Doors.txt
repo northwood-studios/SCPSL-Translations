@@ -1,0 +1,10 @@
+<color=green>已开启</color>
+<color=#07A2FF>已关闭</color>
+<color=orange>移动中</color>
+<color=red>已锁定</color>
+<color=red>故 障</color>
+<color=red>拒绝访问</color>
+<color=green>允许访问</color>
+<color=#07A2FF>需要钥匙卡</color>
+<color=orange>请通行</color>
+<color=orange>关闭中</color>

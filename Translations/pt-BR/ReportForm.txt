@@ -1,5 +1,5 @@
-Player Reportado
-Player:\nPlayer ID:\nDescrição:
+Jogador Reportado
+Jogador:\nPlayer ID:\nDescrição:
 Cancelar
 Reportar por quebrar as regras do servidor
 Reportar por trapação ou invasão

@@ -1,0 +1,36 @@
+<size=80>BẠN ĐÃ BỊ KICK</size>\nServer đã chặn kết nối.\n<size=26>\nBạn có thể bị cấm tạm thời bởi quản trị viên server\nhoặc bạn không đủ điều kiện kết nối tới server (Ví dụ: connection to Steam).\nVề thời gian bị ban, bên phát triển game <b>not</b> không chịu trách nhiệm.\n</size>
+<size=80>MẤT KẾT NỐI</size>\nHost được nhập không tồn tại.
+<size=80>MẤT KẾT NỐI</size>\nID được nhập không tồn tại.
+<size=80>MẤT KẾT NỐI</size>\nKênh được nhập không tồn tại.
+<size=80>MẤT KẾT NỐI</size>\nServer đã kín người.
+<size=80>MẤT KẾT NỐI</size>\nNhận sai Packet.
+<size=80>MẤT KẾT NỐI</size>\nMất kết nối (hết thời gian chờ).
+<size=80>MẤT KẾT NỐI</size>\nMất kết nối (hết thời gian chờ).
+<size=80>MẤT KẾT NỐI</size>\nHoạt động không được hỗ trợ
+<size=80>MẤT KẾT NỐI</size>\nPhiên bản game của bạn khác với phiên bản game trên server.
+<size=80>MẤT KẾT NỐI</size>\nThiết lập server không hợp lệ.
+<size=80>MẤT KẾT NỐI</size>\nĐịa chỉ không hợp lệ hoặc không thể kết nối.
+<size=80>MẤT KẾT NỐI</size>\nVấn đề không ngờ tới đã xảy ra!
+<size=80>PLEASE WAIT</size>\n<size=35>Thiết lập kết nối...</size>
+<size=80>ROUND RESTART</size>\n<size=35>Đang khởi động lại vòng chơi...</size>
+<size=80>PLEASE WAIT</size>\n<size=35>Đang tải hướng dẫn...</size>
+<size=80>PHIÊN BẢN KHÔNG TƯƠNG THÍCH</size>\nPhiên bản game của bạn khác phiên bản của game trên server\n(Bạn - [your]; Server - [server])
+<size=80>ĐÃ KẾT NỐI</size>\n<size=35>Đang tải vòng chơi...</size>
+<size=35>Đang tải map...</size>
+<size=80>MẤT KẾT NỐI</size>\nLỗi lạ đã xảy ra trên server.
+<size=80>MẤT KẾT NỐI</size>\nServer này yêu cầu xác minh từ server trung tâm.
+<size=80>MẤT KẾT NỐI</size>\nBạn không được whitelist trên server.
+<size=80>MẤT KẾT NỐI</size>\nBạn đã bị cấm ở tất cả server.
+<size=80>MẤT KẾT NỐI</size>\nBạn đã bị cấm ở tất cả server: [reason].
+<size=80>MẤT KẾT NỐI</size>\nBạn đã bị cấm ở server này.
+<size=80>MẤT KẾT NỐI</size>\nBạn đã bị cấm ở server này.\nLệnh cấm hết hạn: [date] [time]
+<size=80>MẤT KẾT NỐI</size>\nToken chờ xác thực của bạn đã hết hạn.\nThời gian hoặc múi giờ của server có thể không hợp lệ.\nVui lòng liên hệ quản trị viên server.
+<size=80>MẤT KẾT NỐI</size>\nBạn đã bị giới hạn. Hãy thử lại sau vài giây.
+<size=80>MẤT KẾT NỐI</size>\nServer không chấp nhận vùng kết nối của bạn.\nTên hoặc mô tả server có thể nêu chi tiết hơn.
+<size=80>MẤT KẾT NỐI</size>\nBạn đã bị kick bởi quản trị viên server.\n\nLý do: [reason]\nĐây là mod của server, không phải game\nLiên hệ quản trị viên server để biết thêm thông tin chi tiết.
+<size=80>MẤT KẾT NỐI</size>\nToken chờ xác thực đã bị server từ chối.\nVui lòng khởi động lại game hoặc liên hệ Studio.
+<size=80>MẤT KẾT NỐI</size>\nBạn đã bị cấm khỏi server này.\nLý do: [reason]
+<size=80>MẤT KẾT NỐI</size>\nBạn đã bị cấm hỏi server này.\nLệnh cấm hết hạn: [date] [time]\nLý do: [reason]
+<size=80>Vui lòng chờ</size>\nĐang kiểm tra tính bảo mật của server...
+<size=80>MẤT KẾT NỐI</size>\nKhông kiểm tra được tính bảo mật của server.
+<size=80>MẤT KẾT NỐI</size>\nTốc độ kiểm tra tính bảo mật server quá chậm.\nVui lòng liên hệ quản trị viên server.
