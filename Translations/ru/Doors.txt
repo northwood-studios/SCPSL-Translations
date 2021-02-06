@@ -1,6 +1,6 @@
 <color=green>ОТКРЫТО</color>
 <color=#07A2FF>ЗАКРЫТО</color>
-<color=orange>ОТКРЫВАЕТСЯ</color>
+<color=orange><size=20>ОТКРЫВАЕТСЯ</size></color>
 <color=red>ЗАБЛОКИРОВАНО</color>
 <color=red>ОШИБКА</color>
 <color=red>ДОСТУП ЗАПРЕЩЁН</color>
