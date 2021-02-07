@@ -1,0 +1,4 @@
+<size=180><color=red>DISABILITATA</color></size>
+<color=red><size=200>ATTENDERE</size></color>
+<color=lime><size=180>PRONTA</size></color>
+DETONAZIONE INEVITABILE

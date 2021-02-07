@@ -1,18 +1,18 @@
-殺死所有人\n不要讓任何人逃走\n與其他 <color=#f00>SCP</color> 合作<color=#ffff00>\n按著左鍵+W並瞄準你想殺死的敵人。\n你的移動速度會隨著你的生命值減少而提高。</color>
-設法逃出設施\n與 <color=#008f1e>混沌分裂者</color> 合作\n躲開其他陣營
+殺死所有人\n不要讓任何人逃走\n與其他 <color=#F00>SCP</color> 合作<color=#FFFF00>\n按著左鍵+前進鍵並瞄準你想殺死的敵人。\n你的移動速度會隨著你的生命值減少而提高。</color>
+設法逃出設施\n與 <color=#008F1E>混沌分裂者</color> 合作\n躲開其他陣營
 你很快就會重生
-殺死所有人\n不要讓任何人逃走\n與其他 <color=#f00>SCP</color> 合作<color=#ffff00>\n你可以穿過所有門\n左鍵可以傷害你的敵人同時傳送他們到你的次元袋中\n按著TAB鍵去使用你的傳送技能</color>
+殺死所有人\n不要讓任何人逃走\n與其他 <color=#F00>SCP</color> 合作<color=#FFFF00>\n你可以穿過所有門\n左鍵可以傷害你的敵人同時傳送他們到你的次元袋中\n按著TAB鍵使用你的傳送技能</color>
 幫助 <color=#FFFF7CFF>科學家</color> 逃走\n消滅其他目標\n命令你的士兵 \n跟隨上頭指令
-殺死所有人\n不要讓任何人逃走\n與其他 <color=#f00>SCP</color> 合作<color=#ffff00>\n左鍵能夠秒殺敵人而且有較短的攻擊間隔\n對著被殺的人互動來進行屍化，使他們成為你的隊友</color>
+殺死所有人\n不要讓任何人逃走\n與其他 <color=#F00>SCP</color> 合作<color=#FFFF00>\n左鍵能夠秒殺敵人而且有較短的攻擊間隔\n對著被殺的人互動來進行屍化，使他們成為你的隊友</color>
 設法逃離設施\n與  <color=#0096FF>MTF</color> 合作\n躲開其他陣營
-殺死所有人\n不要讓任何人逃走\n與其他 <color=#f00>SCP</color> 合作
+殺死所有人\n不要讓任何人逃走\n與其他 <color=#F00>SCP</color> 合作
 幫助 <color=#FF8E00>D級人員</color> 逃出\n消滅其他目標
-殺死所有人\n不要讓任何人逃走\n與其他 <color=#f00>SCP</color> 合作
-殺死所有人\n不要讓任何人逃走\n與其他 <color=#f00>SCP</color> 合作<color=#ffff00>\n左鍵揮動手臂攻擊敵人</color>
+殺死所有人\n不要讓任何人逃走\n與其他 <color=#F00>SCP</color> 合作
+殺死所有人\n不要讓任何人逃走\n與其他 <color=#F00>SCP</color> 合作<color=#FFFF00>\n左鍵揮動手臂攻擊敵人</color>
 幫助 <color=#FFFF7CFF>科學家</color> 逃出\n消滅其他目標\n命令你的士兵 \n跟隨上頭指令
 幫助 <color=#FFFF7CFF>科學家</color> 逃出\n消滅其他目標\n命令你的士兵
 幫助 <color=#FFFF7CFF>科學家</color> 逃出\n消滅其他目標\n跟隨上頭指令
 跟隨任務目標以完成關卡
 幫助 <color=#FFFF7CFF>科學家</color> 逃出\n與 <color=#0096FF>MTF</color> 合作\n消滅其他目標
-殺死所有人\n不要讓任何人逃走\n與其他 <color=#f00>SCP</color> 合作
-殺死所有人\n不要讓任何人逃走\n與其他 <color=#f00>SCP</color> 合作
+殺死所有人\n不要讓任何人逃走\n與其他 <color=#F00>SCP</color> 合作
+殺死所有人\n不要讓任何人逃走\n與其他 <color=#F00>SCP</color> 合作

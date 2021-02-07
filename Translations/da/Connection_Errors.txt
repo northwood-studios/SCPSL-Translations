@@ -1,19 +1,36 @@
-<size=80>DU ER BLEVET KICKED</size>\nServeren var tvunget til at stoppe forbindelsen.\n<size=26>\nDu er sikkert blevet midlertidig bandlyst af administratoren\eller ikke møder kravene til serveren (e.g. forbindelse til Steam).\nVed midlertidige bandlysninger -  er spiludviklerne <u>ikke</u> ansvarlige.\n</size>
+<size=80>DU ER BLEVET FJERNET</size>\nServeren var tvunget til at stoppe forbindelsen.\n<size=26>\nDu er sikkert midlertidigt bandlyst af administratoren\eller at du ikke møder serverkravene (eks. forbindelse til Steam).\nSpiludviklerne står <u>ikke</u> til ansvar for midlertidige bandlysninger.\n</size>
 <size=80>FORBINDELSE AFBRUDT</size>\nDen valgte vært er ikke tilgængelig.
-<size=80>FORBINDELSE AFBRUDT</size>\nDen valgte værts forbindelses-id eksistere ikke.
-<size=80>FORBINDELSE AFBRUDT</size>\nDen valgte kanal eksistere ikke.
+<size=80>FORBINDELSE AFBRUDT</size>\nDen valgte værts ID eksisterer ikke.
+<size=80>FORBINDELSE AFBRUDT</size>\nDen valgte kanal eksisterer ikke.
 <size=80>FORBINDELSE AFBRUDT</size>\nServeren er fuld.
 <size=80>FORBINDELSE AFBRUDT</size>\nModtog forkert pakke.
-<size=80>FORBINDELSE AFBRUDT</size>\nForbindelsen mistet (timed out).
-<size=80>FORBINDELSE AFBRUDT</size>\nForbindelsen mistet (timed out).
-<size=80>FORBINDELSE AFBRUDT</size>\nOperationen er ikke understøttet.
-<size=80>FORBINDELSE AFBRUDT</size>\nForkert server config (version er ikke understøttet).
-<size=80>FORBINDELSE AFBRUDT</size>\nForket server config.
+<size=80>FORBINDELSE AFBRUDT</size>\nForbindelsen tabt (timed out).
+<size=80>FORBINDELSE AFBRUDT</size>\nForbindelsen tabt (timed out).
+<size=80>FORBINDELSE AFBRUDT</size>\nHandlingen er ikke understøttet.
+<size=80>FORBINDELSE AFBRUDT</size>\nDin spilversion er ikke den samme som serverens.
+<size=80>FORBINDELSE AFBRUDT</size>\nForkert server config.
 <size=80>FORBINDELSE AFBRUDT</size>\nAdressen er forkert eller kunne ikke findes.
-<size=80>FORBINDELSE AFBRUDT</size>\nEt uforventet problem er opstået!
+<size=80>FORBINDELSE AFBRUDT</size>\nDer opstod et uforventet problem!
 <size=80>VENT VENLIGST</size>\n<size=35>Opretter forbindelse...</size>
-<size=80>RUNDE GENSTART</size>\n<size=35>Runden genstarter...</size>
+<size=80>BANE GENSTART</size>\n<size=35>Banen genstarter...</size>
 <size=80>VENT VENLIGST</size>\n<size=35>Indlæser tutorial...</size>
-<size=80>VERSION UNDERSTØTTES IKKE</size>\nDin version af spillet er anderledes end serverens\n(Din - [your]; Server - [server])
-<size=80>FORBUNDET</size>\n<size=35>Indlæser spillet...</size>
-<size=35>Indlæser anlægget...</size>
+<size=80>VERSION UNDERSTØTTES IKKE</size>\nDin spilversion er anderledes end serverens\n(Client - [your]; Server - [server])
+<size=80>FORBUNDET</size>\n<size=35>Indlæser...</size>
+<size=35>Indlæser banen...</size>
+<size=80>FORBINDELSE AFBRUDT</size>\nServeren oplevede en uspecificeret fejl.
+<size=80>FORBINDELSE AFBRUDT</size>\nDenne server kræver godkendelse fra en central server.
+<size=80>FORBINDELSE AFBRUDT</size>\nDu har ikke adgang til denne server.
+<size=80>FORBINDELSE AFBRUDT</size>\nDu er blevet globalt bandlyst.
+<size=80>FORBINDELSE AFBRUDT</size>\nDu er blevet globalt bandlyst: [reason]
+<size=80>FORBINDELSE AFBRUDT</size>\nDu er blevet bandlyst fra denne server.
+<size=80>FORBINDELSE AFBRUDT</size>\nDu er blevet bandlyst fra denne server.\nBandlysning ophæves: [date] [time]
+<size=80>FORBINDELSE AFBRUDT</size>\nDin autentificeringstoken er udløbet.\nServeren har måske indstillet en ugyldig tidszone.\nKontakt venligst en serveradministrator.
+<size=80>FORBINDELSE AFBRUDT</size>\nDu er blevet begrænset. Prøv venligst igen om få sekunder.
+<size=80>FORBINDELSE AFBRUDT</size>\nServeren accepterer ikke forbindelser fra din geografiske lokation.\nServernavn eller serverinformation kan indeholde detaljer.
+<size=80>FORBINDELSE AFBRUDT</size>\nDin forbindelse er blevet afbrudt pga. en servermodifikation.\n\nGrund: [reason]\nDette er en servermodifikation, ikke en spilfunktion.\nKontakt venligst en serveradministrator for mere information.
+<size=80>FORBINDELSE AFBRUDT</size>\nDin autentificeringstoken er blevet afvist af serveren.\nGenstart venligst spillet og prøv igen eller kontakt Northwood teknisk support.
+<size=80>FORBINDELSE AFBRUDT</size>\nDu er blevet bandlyst fra denne server.\nGrund: [reason]
+<size=80>FORBINDELSE AFBRUDT</size>\nDu er blevet bandlyst fra denne server.\nBandlysning ophæves: [date] [time]\nGrund: [reason]
+<size=80>FORBINDELSE AFBRUDT</size>\nBearbejder serverens sikkerhedsverifikation...
+<size=80>FORBINDELSE AFBRUDT</size>\nBearbejdning af serverens sikkerhedsverifikation mislykkedes.
+<size=80>FORBINDELSE AFBRUDT</size>\nBearbejdning af serverens sikkerhedsverifikation tog for lang tid.\nPrøv venligst igen eller kontakt en serveradministrator.

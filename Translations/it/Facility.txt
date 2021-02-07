@@ -27,10 +27,14 @@ RIEPILOGO PARTITA
 CONTINUA
 VOLUME PRINCIPALE
 connessi
-Sei fuggito come scienziato e ti sei unito alle unita' NTF.
-Sei fuggito come Classe-D e ti sei unito ai Chaos Insurgency.
+Sei fuggito come Scienziato e ti sei unito alle forze Nine-Tailed Fox.
+Sei fuggito come Classe-D e ti sei unito alla Chaos Insurgency.
 RUOLO:
 Tempo di fuga: [escape_minutes] minuti [escape_seconds] secondi
 Attendi [time] prima di usare [item] di nuovo.
 TIENI PREMUTO <color=white><b>F1</b></color> PER MAGGIORI INFO
 Sei stato ammanettato\n<size=40>segui gli ordini o chiedi aiuto ai tuoi compagni di squadra</size>
+Eri stato catturato dalle forze Nine-Tailed Fox.\nCon una minaccia in meno nella facility, hanno potuto ottenere rinforzi.
+Eri stato catturato come Scienziato dai Chaos Insurgency.\nLoro possono avvantaggiarsi delle tue informazioni per trarne vantaggio.
+IL ROUND INIZIERA' TRA: <color=yellow>{0}</color> SECONDI.
+IL ROUND E' IN <color=#FF5050>PAUSA</color>

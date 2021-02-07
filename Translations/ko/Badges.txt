@@ -1,6 +1,6 @@
 Northwood 사업 개발 책임자
 Northwood 대표 이사
-Northwood 정보 관리 책임자
+Northwood 최고 정보 담당자
 Northwood 최고 운영 책임자
 Northwood 커뮤니티 관리자
 Northwood 디스코드 관리자
@@ -8,7 +8,7 @@ Northwood 운영 비서
 Northwood 피드백 매니저
 Northwood 인사부
 Northwood 인사부 감독
-Northwood 공동 정보 책임자
+Northwood 최고 정보 부담당자
 Northwood 봇 엔지니어링 팀장
 Northwood 마케팅 책임자
 Northwood 마케팅 플랫폼 책임자

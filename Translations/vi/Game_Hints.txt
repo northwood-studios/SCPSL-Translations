@@ -1,0 +1,6 @@
+<color=red>Đã chặn truy cập</color>
+Đã đạt giới hạn số đạn<color=yellow>[type] </color> (<color=yellow>[max_type_count] băng đạn</color>).
+<b>Đã</b> đạt giới hạn số đạn <color=yellow>[type]</color> (<color=yellow>[max_type_count] băng đạn</color>).
+Đã đạt giới hạn <color=yellow>[type]</color> (<color=yellow>[max_type_count] vật phẩm</color>).
+<b>Đã</b> đạt giới hạn <color=yellow>[type]</color> (<color=yellow>[max_type_count] vật phẩm</color>).
+Chỉ <color=yellow>[max_item_count] vật phẩm</color> có thể được mang theo.

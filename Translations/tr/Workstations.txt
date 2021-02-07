@@ -1,0 +1,18 @@
+<size=100>İŞ İSTASYONU - KİLİTLİ</size>\nyetkisiz personelin erişimi kesinlikle yasaktır\nkimliği doğrulamak için lütfen silah yönetici tabletinizi bağlayın
+<size=100>LÜTFEN BEKLEYİN</size>\nbağlı silah yöetim tableti doğrulanıyor
+<size=100>İŞ İSTASYONU - HAZIR</size>\n\nlütfen modifiye etmek istediğiniz silahı kuşanın
+<size=80>NEYİ DEĞİŞTİRMEK İSTERSİNİZ?</size>
+nişangah (mevcut {0})
+namlu eklentileri (mevcut {0})
+diğer eklentiler (mevcut {0})
+GERİ
+Hasar {0}
+Atış gürültüsü {0}
+Geri tepme {0}
+Atış hızı {0}
+Meri dağılımı (nişan almadan) {0}
+<color=red>Nişangahı değiştirir</color>
+<color=green>Teleskop tarzı nişangah</color>
+Yakınlaştırma oranı <color=green>{0}</color>
+Geri Tepme (nişan alırken) {0}
+<size=100>HOŞÇAKAL!</size>\nmevcut oturum sonlandırılıyor

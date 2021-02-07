@@ -1,0 +1,4 @@
+CẢNH BÁO
+OK
+<b>Intel graphics</b> đã được phát hiện, nó <b>không được hỗ trợ</b>.\nTrò chơi <b>khuyến nghị</B> sử dụng <b>Card đồ họa rời</b>.\nGame sẽ <b>dễ crash</b> nếu chơi với cấu hình hiện tại.
+Bản cập nhật cần thiết để sử dụng voice chat không được tìm thấy. Hãy đảm bảo phiên bản Windows của bạn được cập nhật đầy đủ, nếu không game sẽ không hoạt động tốt được. Nếu vấn đề này vẫn tiếp diễn, hãy liên hệ hỗ trợ kĩ thuật của chúng tôi.

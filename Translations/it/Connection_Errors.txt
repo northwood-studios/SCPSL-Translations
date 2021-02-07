@@ -34,3 +34,4 @@
 <size=80>ATTENDERE</size>\nElaborazione della verifica della sicurezza del server...
 <size=80>DISCONNESSO</size>\nImpossibile validare la verifica della sicurezza del server.
 <size=80>DISCONNESSO</size>\nL'elaborazione della verifica della sicurezza del server è stata troppo lenta. \nSi prega di riprovare o contattare l'amministratore del server.
+<size=80>ERRORE INTERNO</size>\nMessaggio dal server centrale: [message]

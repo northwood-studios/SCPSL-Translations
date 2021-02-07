@@ -1,0 +1,4 @@
+<size=180><color=red>DEVRE DIŞI</color></size>
+<color=red><size=200>LÜTFEN BEKLEYİN</size></color>
+<color=lime><size=180>HAZIR</size></color>
+KAÇINILMAZ İNFİLAK
