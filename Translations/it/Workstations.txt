@@ -1,10 +1,10 @@
-<size=100>WORKSTATION\n<color=#EE0000FF>BLOCCATO</color></size>\naccesso severamente vietato al personale non autorizzato\nper favore connetti il tablet per la gestione delle armi per verificare la tua identità
-<size=100>PER FAVORE ATTENDI</size>\nverificando il tuo tablet della gestione delle armi attualmente connesso
-<size=100>WORKSTATION\n<color=#00EE00FF>PRONTO</color></size>\n\nper favore equipaggia l'arma che vuoi modificare
+<size=80>WORKSTATION\n<color=#EE0000FF>BLOCCATO</color></size>\n<size=42>accesso severamente vietato al personale non autorizzato\nper favore connetti il tablet per la gestione delle armi per verificare la tua identità</size>
+<size=80>PER FAVORE ATTENDI</size>\nverificando il tuo tablet della gestione delle armi attualmente connesso
+<size=80>WORKSTATION\n<color=#00EE00FF>PRONTO</color></size>\n\nper favore equipaggia l'arma che vuoi modificare
 <size=80>COSA VORRESTI MODIFICARE?</size>
-mirini ({0} disponibili)
-estensioni della canna ({0} disponibili)
-altri accessori ({0} disponibili)
+<size=53>mirini ({0} disponibili)</size>
+<size=53>estensioni della canna ({0} disponibili)</size>
+<size=53>altri accessori ({0} disponibili)</size>
 INDIETRO
 Danno {0}
 Rumorosità {0}
