@@ -30,11 +30,11 @@ ALPHA核彈頭已關閉
 你以科學家的身份逃出了，並且加入了機動特遣隊。
 你以D級人員的身份逃出了，並且加入了混沌分裂者。
 你是
-逃出時間 : [escape_minutes] 分 [escape_seconds] 秒
+逃出時間 : [escape_minutes] 分 [escape_seconds] 秒。
 等候[time]秒後您可以再次使用[item]。
 按著 <color=white><b>F1</b></color> 來獲得幫助。
-你已被鎖上手銬了\n<size=40>請乖乖服從 或 尋找隊友幫忙</size>
-你被九尾狐逮捕了\n設施內的威脅少了,他們將獲得增援。
+你已被鎖上手銬了。\n<size=40>請乖乖服從 或 尋找隊友幫忙。</size>
+你被九尾狐逮捕了\n設施中的威脅減少了一份，他們將獲得增援。
 你作為科學家被混沌分裂者俘虜了\n他們能從你提供給他們的訊息中受益。
-回合將在 <color=yellow>{0}</color>秒後開始
+回合將在 <color=yellow>{0}</color> 秒後開始
 回合開始 <color=#FF5050>已暫停</color>
