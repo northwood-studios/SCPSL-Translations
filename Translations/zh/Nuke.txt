@@ -1,0 +1,4 @@
+<size=180><color=red>关  闭</color></size>
+<color=red><size=200>请等待</size></color>
+<color=lime><size=180>已就绪</size></color>
+/////  起爆程序无法终止  /////

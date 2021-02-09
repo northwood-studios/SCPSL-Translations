@@ -1,13 +1,17 @@
 ENERGIA AUXILIAR
-EXPERIENCIA
-CAMERA FEED ONLINE
+EXPERIÊNCIA
+CFTV ATIVADO
 PRESSIONE [KEY] PARA ALTERNAR O MAPA DE VIGILANCIA
-Experiencia ganha:
+Experiência ganha:
 Trabalho cooperativo
-Assistencia na eliminacao do Class-D
-Assistencia na eliminacao do I. C.
-Assistencia na eliminacao do MTF
-Assistencia na eliminacao do Cientista
-Assistencia na eliminacao do SCP
-PORTAS BLOQUEADAS: [LOCKED_NUM]<size=25>BOTAO DIREITO DO MOUSE PARA DESBLOQUEAR TUDO</size>
-Interacoes gerais
+Assistência na eliminação do Class-D
+Assistência na eliminação do I. C.
+Assistência na eliminação do MTF
+Assistência na eliminação do Cientista
+Assistência na eliminação do SCP
+PORTAS BLOQUEADAS: [LOCKED_NUM]<size=25>BOTÃO DIREITO DO MOUSE PARA DESBLOQUEAR TUDO</size>
+Interacões gerais
+Você está sendo atacado!
+Geradores em operação foram destacados no mapa
+PERIGO
+SCPs{0}MTF & Guardas{1}Cientistas{2}Class-D{3}Insurgentes do Caos{4}

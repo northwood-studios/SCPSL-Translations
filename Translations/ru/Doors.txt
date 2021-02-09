@@ -1,0 +1,10 @@
+<color=green>ОТКРЫТО</color>
+<color=#07A2FF>ЗАКРЫТО</color>
+<color=orange><size=20>ОТКРЫВАЕТСЯ</size></color>
+<color=red>ЗАБЛОКИРОВАНО</color>
+<color=red>ОШИБКА</color>
+<color=red>ДОСТУП ЗАПРЕЩЁН</color>
+<color=green>ДОСТУП РАЗРЕШЁН</color>
+<color=#07A2FF>НУЖНА КАРТА</color>
+<color=orange>ПРОХОДИТЕ</color>
+<color=orange>ЗАКРЫВАЕТСЯ</color>

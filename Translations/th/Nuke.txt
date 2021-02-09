@@ -1,0 +1,4 @@
+<size=180><color=red>ถูกปิดการใช้งาน</color></size>
+<color=red><size=200>กรุณารอซักครู่</size></color>
+<color=lime><size=180>พร้อมใช้งาน</size></color>
+ไม่สามารถหยุดการระเบิดได้

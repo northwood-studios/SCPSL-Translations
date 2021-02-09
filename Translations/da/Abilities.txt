@@ -1,0 +1,30 @@
+Evne ikke fundet:Evne ID tilknyttet til denne evne eksisterer ikke.
+Sprint:Du bevæger dig hurtigere, men dine fodtrin larmer meget.
+List:Du bevæger dig lydløst, dog meget langsomt.
+Inventar:Åben dit inventar og vælg en genstand du har samlet op med højreklik, eller smid genstanden med venstreklik.
+Ubevæbnet:Du har intet. Find noget. Bare et eller andet.
+Adgangskort:Du har fundet et adgangskort. Det er ikke en mesternøgle, men det er bedre end ingenting. 
+Standardudstyr:Du er udrustet med en Riffel, Granater, en Radio, en Afvæbner og et Adgangskort.
+Bevæbnet og farlig:Du er udrustet med et Let Maskingevær, et Hacking-værktøj (adgangskort), og en Førstehjælpskasse.
+Forskrækkende-fart:Du bevæger dig meget hurtigt når ingen kan se dig. Hvis du er inden for nogens synsfelt kan du ikke bevæge dig eller angribe. Alle som ser på dig vil til gengæld blinke efter få sekunder. Her kan du slå til.
+Panik:Din hastighed øges mens dit helbred formindskes.
+Passage:Du kan placere en sort pøl af korrosion som du kan teleportere tilbage til når som helst. At teleportere tager et par sekunder.\nDu kan flytte din passage ved at placere den igen.
+Korrosion:Du kan bevæge dig gennem døre ved at gå ind i dem.
+Svanesang:Du tager næsten ingen skade fra skud. En menneskeofring fra dit indeslutningskammer vil til gengæld tilfangetage dig igen.
+Lommedimension: Tilfangetag et menneske og teleportér dem til en lommedimension der dræber personen efter kort tid. Den tilfangetaget må vælge den rette udgang eller dø.
+Scopophobia:Du er harmløs men bliver rasende så snart andre kigger på dig eller skader dig. Find roen igen ved at rive dem i småstykker - følg deres lys inden dit raseri aftager. Enhver ydmygelse bidrager til dit totale helbred og forhindrer al skade så længe det varer.
+Ta' en tudekiks (Harmløs):Der er ingen grund til at være ked af det. Nogle gange kræver det en trøstende hånd. Måske man burde stoppe op i døråbning - måske kom en venlig sjæl forbi...
+Nærkamp (Raseri):Flæns alt på din vej for at hævne dig på dem som sårede dig. Dine angreb vil ødelægge døre og dræbe de fleste modstandere øjeblikkeligt. 
+Ultrasensitiv:Du kan ikke se modstandere med mindre de løber, støder ind i dig eller affyrer et våben nær dig. 
+Rovdyr:Du bevæger dig lydløst mens du går. Dit sprint kan dog høres.
+Efteraber:Du kan snakke med andre spillere i nærheden, heriblandt mennesker.
+Bid:Angrib en modstander med stor skade indenfor kort rækkevidde.
+Modgift:Giv en person modgiften til livet og dræb dem øjeblikkeligt. 
+Kuren:Genopliv et for nyligt dødt menneske. Kurerede mennesker vender tilbage som zombier med hurtig bevægelse og lavt helbred.\nDer er ingen begrænsning for antallet af genoplivede mennesker.
+Slag:Angrib en modstander med moderat skade indenfor kort rækkevidde.
+Åben/Luk Døre:Du kan integrere med døre for at åbne og lukke dem for 5 AP. Du kan også låse døre, hvilket dræner dit AP men forhindrer andre i at åbne og lukke døren indtil du låser døren op igen eller løber tør for AP.
+Tesla-talent:Du kan aktivere en Tesla Port for 50 AP for øjeblikkeligt at tænde den. Dette dræber enhver spiller nær porten.
+Nedlukning:Du kan, som start, nedlukke nogle rum med Adgangsniveau 2. Ved nedlukning af rum slukkes alle lys og døre vil blive lukket. Hvis mennesker befinder sig i et nedlukket rum, kan de ikke se SCP-173.
+Virtually Indestructible: Five generators spawn across the Heavy Containment Zone. If all of them are unlocked and activated, you become recontained.\nGenerators have a countdown sequence that any player can interrupt by pressing the "CANCEL" button on the generator.
+Nakkeknæk:Hold eller klik på venstreklik for at knække en modstanders nakke. Dette vil dræbe dem øjeblikkeligt, så længe de ikke kan se dig eller hvis de blinker.
+Angreb (Raseri):Giv dem ingen flugtveje - de fortjener det. Du spæner direkte ligeud og ødelægger alt på din vej over en kort distance. Hvis du støder på en stor port vil du fortsætte igennem.

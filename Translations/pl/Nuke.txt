@@ -1,0 +1,4 @@
+<size=180><color=red>WYŁĄCZONY</color></size>
+<color=red><size=200>PROSZĘ CZEKAĆ</size></color>
+<color=lime><size=180>GOTOWY</size></color>
+DETONACJA NIEUNIKNIONA

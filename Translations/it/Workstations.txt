@@ -1,0 +1,18 @@
+<size=100>WORKSTATION\n<color=#EE0000FF>BLOCCATO</color></size>\naccesso severamente vietato al personale non autorizzato\nper favore connetti il tablet per la gestione delle armi per verificare la tua identità
+<size=100>PER FAVORE ATTENDI</size>\nverificando il tuo tablet della gestione delle armi attualmente connesso
+<size=100>WORKSTATION\n<color=#00EE00FF>PRONTO</color></size>\n\nper favore equipaggia l'arma che vuoi modificare
+<size=80>COSA VORRESTI MODIFICARE?</size>
+mirini ({0} disponibili)
+estensioni della canna ({0} disponibili)
+altri accessori ({0} disponibili)
+INDIETRO
+Danno {0}
+Rumorosità {0}
+Rinculo {0}
+Rateo di fuoco {0}
+Diffusione dei proiettili (non mirando) {0}
+<color=red>Modifica mirino</color>
+<color=green>Mirino telescopico</color>
+Scala dello zoom <color=green>{0}</color>
+Rinculo (mirando) {0}
+<size=100>ARRIVEDERCI!</size>\nterminando la sessione corrente

@@ -1,0 +1,18 @@
+<size=100>MUNKAÁLLOMÁS - LEZÁRVA</size>\nilletéktelen személyzet számára a hozzáférés szigorúan tilos\nkérjük csatlakoztassa a fegyver menedzser tabletet a személyazonosság igazolásához
+<size=100>KÉRJÜK VÁRJON</size>\na csatlakoztatott fegyver menedzser tablet hitelesítése
+<size=100>MUNKAÁLLOMÁS - KÉSZ</size>\n\nkérjük szerelje fel a módosítani kívánt fegyvert
+<size=80>MIN SZERETNE VÁLTOZTATNI?</size>
+irányzékok ({0} ready)
+cső kiterjesztések ({0} ready)
+egyéb kiegészítők ({0} ready)
+VISSZA
+Sebzés {0}
+Lövés hangja {0}
+Visszarúgás {0}
+Tüzelési sebesség {0}
+Golyó szórása (célzás nélkül) {0}
+<color=red>Módosítja a célkeresztet</color>
+<color=green>Teleszkópos típusú irányzék</color>
+Nagyítási méret <color=green>{0}</color>
+Visszarúgás (célzás közben) {0}
+<size=100>VISZLÁT!</size>\naz aktuális munkamenet befejezése

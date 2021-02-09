@@ -1,0 +1,19 @@
+RA LỆNH
+TUÂN LỆNH
+CÙNG CẤP BẬC
+Tù nhân tẩu thoát
+Nhà khoa học sống sót
+Bị giết bởi SCP
+Giết SCP
+Đầu đạn hạt nhân
+Kích nổ
+Chưa được dùng
+Vòng tiếp theo sẽ bắt đầu trong [time] giây.
+KHẢ NĂNG ĐẶC BIỆT
+TẠO HỐ SÌNH
+DÙNG HỐ SÌNH
+ĐÃ CHẾT
+Bạn bị giết bởi
+là
+Liên tiếp
+(đã ẩn)
