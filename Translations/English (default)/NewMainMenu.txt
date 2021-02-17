@@ -85,3 +85,4 @@ READ MORE
 RENT A SERVER
 CANCEL
 Second
+For playing our game!
