@@ -2,16 +2,16 @@ SCP-173
 คลาส-ดี
 ผู้สังเกตการณ์
 SCP-106
-นักวิจัยหน่วย Nine-Tailed Fox
+นักวิจัยหน่วย NTF
 SCP-049
 นักวิจัย
 SCP-079
 Chaos Insurgency
 SCP-096
 SCP-049-2
-ลูแทนแนนท์หน่วย Nine-Tailed Fox
-คอมแมนเดอร์หน่วย Nine-Tailed Fox
-คาเดทหน่วย Nine-Tailed Fox
+ลูแทนแนนท์หน่วย NTF
+คอมแมนเดอร์หน่วย NTF
+คาเดทหน่วย NTF
 Tutorial
 เจ้าหน้าที่รักษาความปลอดภัย
 SCP-939-53
