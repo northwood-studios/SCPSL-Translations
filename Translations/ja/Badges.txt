@@ -42,3 +42,5 @@ Northwood 認証スペシャリスト
 Northwood ネイティブコードスペシャリスト
 SCP:SL 品質保証テスター
 SCP:SL 品質保証スーパーバイザー
+SCP:SL Twitchサブスクライバー
+SCP:SL オーディオマネージャー
