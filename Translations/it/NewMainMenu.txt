@@ -85,3 +85,4 @@ Creare un server di gioco all'interno di esso non è più supportato.\nCi sono t
 <size=20>NOLEGGIA UN SERVER</size>
 <size=20>CANCELLA</size>
 Secondo
+Per aver giocato al nostro gioco!
