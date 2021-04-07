@@ -46,4 +46,4 @@ SCP:SL Twitch Tilaaja
 SCP:SL Johtava Äänisuunnittelija
 Northwoodin Palaute Tiimi
 Northwoodin Varmennusvastaavien Valvoja
-SCP: SL virallisen Palvelimen Valvoja
+SCP:SL virallisen Palvelimen Valvoja
