@@ -22,19 +22,19 @@ Controles
 Juego
 Otros
 Modo ventana
-Pantalla completa exclusiva
+Pantalla completa
 Ventana sin bordes
 Ventana maximizada
 Ventana
 Sincronización vertical
 Límite de FPS
-Off
+Apagado
 Calidad de texturas
 Máxima cantidad de sangre
 Sombras
 Resolución de sombras
 Distancia de sombras
-Motion Blur
+Desenfoque de movimiento
 Corrección de color
 Anti Aliasing
 Modo de renderizado de luz
@@ -43,9 +43,9 @@ Efectos de sonido
 Chat de voz
 Música del menú
 Volumen de la interfaz
-Tema del menú
+Música del menú
 Atenuación rápida de la introducción
-Cabeza de Bob
+Movimiento de cabeza
 Pulsar para alternar sprint
 Mostrar valores exactos de vida
 Rich Presence
@@ -73,9 +73,16 @@ Conectando a los servidores centrales...
 <color=red>Fallo en la autenticación con Discord (Comprueba la consola para más detalles)</color>
 Deshabilitado
 {0} Segundos
-Tiempo de limpieza de muñecos de trapo
+Tiempo de limpieza de cadáveres
 Mostrar perfil de Steam
 Permite a los jugadores ver tu perfil de Steam en el icono de la lista de jugadores.
 No rastrear (NR)
 Prohíbe al servidor usar tus datos (Dirección IP, ID de usuario, etc.) con propósitos no relacionados con la seguridad del servidor
 API de gráficos
+Crear servidores desde el juego ya no es compatible.\nHay 3 formas de crear un servidor de SCP:SL:\n- Descargando el servidor dedicado de SCP:SL (Steam AppID: 996560) y usándolo en tu PC\n- Alquilando un VPS o un servidor dedicado de uno de los proveedores de servidores y ejecutando el servidor dedicado ahí\n- Alquilar un servidor de un proveedor de servidores que soporte SCP:SL (ej. ZAP Hosting)\n\nClic en los links para más información\nPuedes preguntar a nuestro soporte técnico (el link a nuestro discord está en el menú principal)
+CREAR IGUALMENTE
+LEER MÁS
+ALQUILAR UN SERVIDOR
+CANCELAR
+Segundo
+Por jugar a SCP:SL

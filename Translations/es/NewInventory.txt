@@ -10,7 +10,7 @@ Tarjeta de Comandante de la MTF:No description
 Tarjeta de Administrador:No description
 Aparato de los Insurgentes del Caos:No description
 Tarjeta Nivel-05
-Radio:SR = Corto alcance \nMR = Alcance medio \nLR = Largo alcance \nUR = Alcance Máximo \nUsa batería mientras este activa. A más alcance, más gasto de batería.
+Radio:SR = Corto alcance \nMR = Alcance medio \nLR = Largo alcance \nUR = Alcance Máximo \nUsa batería mientras este activa. A mayor alcance, mayor consumo de batería.
 Pistola COM-15:No description
 Botiquín primeros auxilios: Cura tus heridas.
 Linterna:¡Que se haga la luz!
@@ -32,5 +32,5 @@ USP:No description.
 SCP-018:Superbola capaz de rebotar con eficiencia extrema.
 SCP-268:Equipada, te hace temporalmente invisible a no ser que se interrumpa por alguna acción del jugador.
 Adrenalina:Aumenta temporalmente la resistencia.
-Analgésicos:Sana heridas menores.
-Moneda:No estas seguro por que quieres guardar esto...
+Analgésicos:Cura heridas menores.
+Moneda:No estás seguro por qué quieres guardar esto...

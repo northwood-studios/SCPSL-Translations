@@ -1,0 +1,17 @@
+SIN MODS
+NINGUNO
+Mira Holográfica
+Mira de Punto Rojo
+Mira de Punto Azul
+Mira Telescópica
+Mira de Visión Nocturna
+Mira de Francotirador
+Supresor
+Silenciador
+Cañón Pesado
+Freno de Retroceso
+Impulsor de Retroceso
+Establizador Giroscópico
+Linterna
+Láser
+Contador de Munición
