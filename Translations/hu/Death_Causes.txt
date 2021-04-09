@@ -1,13 +1,13 @@
 Elporlasztva az Alpha robbanófej által.
-Összerogyott lábak halálos sérülésekre utalnak egy esés által.
+Az összerogyott lábak halálos sérülésekre utalnak, amelyeket egy zuhanás okozhatott.
 Számos sérülés nyomai mindkettő combcsont körül, a keringési rendszer összeomlására utal.
 Elveszett a Pocket Dimenzióban.
 SCP-106 maradéka.
-Számos elektronikai égés.
+Súlyos elektromos égési sérülések.
 Halálos, lapos sérülés; a test erősen meg van csonkítva, illeteve pépesítve.
 [ammotype]-s lövedék nyomok.
 Nyaki törések a koponya kezdeténél.
-Masszív mennyiségű szövetelhalás van jelen a testen.
+Masszív meéretű szövetelhalás található a testen.
 Az életjelek hirtelen megszűntek. Nincs tisztázott sérülés.
 A halál oka ismeretlen.
 Ez <b>[user]</b> teste - a következő volt: [class]!\n\nA halál oka: [cause]
@@ -15,8 +15,8 @@ Masszív sérülések és nagy mennyiségű vérveszteség.
 Nagy, mély harapásnyomok lelhetőek fel a koponya körül.
 Mállás rendkívül korrózív anyag által.
 Apró szilánkok és harmadfokú égések egy robbanás által.
-Sápadt arc, illetve a szájból kifolyó vér belső vérzésre utal, egy anyag megemésztése okozhatta.
+Sápadt arc, illetve a szájból kifolyó vér belső vérzésre utal; egy anyag megemésztése okozhatta.
 Újra elzárva.
-Tompa sérülés, illetve apró karcolások vannak jelen a testen.
+Tompa sérülések, illetve apró karcolások vannak jelen a testen.
 Nagy vérveszteség mély sérülések következtében.
 Betegesen sárga bőrszín és az avas szagok méreg általi halálra utalnak.
