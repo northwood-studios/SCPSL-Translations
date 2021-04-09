@@ -7,7 +7,7 @@ Súlyos elektromos égési sérülések.
 Halálos, lapos sérülés; a test erősen meg van csonkítva, illeteve pépesítve.
 [ammotype]-s lövedék nyomok.
 Nyaki törések a koponya kezdeténél.
-Masszív meéretű szövetelhalás található a testen.
+Masszív méretű szövetelhalás található a testen.
 Az életjelek hirtelen megszűntek. Nincs tisztázott sérülés.
 A halál oka ismeretlen.
 Ez <b>[user]</b> teste - a következő volt: [class]!\n\nA halál oka: [cause]
