@@ -45,5 +45,5 @@ SCP:SL 品質保証スーパーバイザー
 SCP:SL Twitchサブスクライバー
 SCP:SL オーディオマネージャー
 Northwood フィードバックチーム
-Notthwood 認証スーパーバイザー
+Northwood 認証スーパーバイザー
 SCP:SL 公式サーバースーパーバイザー
