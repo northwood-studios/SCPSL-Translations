@@ -44,6 +44,6 @@ SCP:SL Laadunvarmistus
 SCP:SL Laadunvarmistuksenvalvoja
 SCP:SL Twitch Tilaaja
 SCP:SL Johtava Äänisuunnittelija
-Northwoodin Palaute Tiimi
+Northwood Palautetiimi
 Northwoodin Varmennusvastaavien Valvoja
 SCP:SL Virallisen Palvelimen Valvoja
