@@ -10,7 +10,7 @@ FÉNYERŐ
 BEÁLLÍTÁSOK
 LECSATLAKOZÁS
 ALPHA ROBBANÓFEJ KI VAN KAPCSOLVA
-HOZZÁFÉRÉS MEGTAGADVA
+HOZZÁFÉRÉS BIZTOSÍTVA
 HANGOS CSEVEGÉS
 AZ ESZKÖZTÁR TELE
 EGÉR ÉRZÉKENYSÉG
@@ -36,5 +36,5 @@ NYOMD MEG AZ <color=white><b>F1</b></color>-ET TOVÁBBI INFORMÁCIÓKÉRT
 Meg lettél bilincselve.\n<size=40>Kövesd az utasításokat, vagy kérj segítséget a társaidtól.</size>
 A Nine-Tailed Fox sikeresen elzárt téged.\nMivel a létesítmény területén egyel kevesebb veszélyforrás van, erősítést tudtak hívni.
 A Chaos Insurgency fogságba ejtett téged.\nSikeresen előnyre tettek szert a te általad kiadott információkból.
-A KÖR: <color=yellow>{0}</color>mp-en belül indul
+A KÖR: <color=yellow>{0}</color> mp-en belül indul
 A KÖR KEZDETE <color=#FF5050>SZÜNETEL</color>
