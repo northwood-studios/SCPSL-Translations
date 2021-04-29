@@ -23,7 +23,7 @@ Protijed: Dotkneš se člověka na krátkou vzdálenost a okamžitě ho zabiješ
 Léčení:Oživ nedávno zabitého člověka. Vyléčení lidé hrají jako zombie s rychlým pohybem a nízkým zdravím.\nNeexistuje žádný limit na to, kolik lidí může být oživeno jako zombie.
 Útok: Útočíš na člověka a způsobíš mu mírné poškození.
 Open/Close Doors:You can interact with doors to open and close them for 5 AP. You can also lock them down, draining your AP but preventing anyone from opening or closing it until you lift the lockdown or run out of AP.
-Tesla Overcharge:You can activate a Tesla Gate for 50 AP to instantly trigger it, killing any players in or near it.
+Tesla Overcharge:You can activate a Tesla Gate for 50 AP to instantly trigger it, killing any players in or near it. 
 Lockdown:Starting at Access Level 2, you can interact with some rooms to lock them down, shutting off all lights and closing all doors. While in locked down rooms, humans can't see SCP-173.
 Virtually Indestructible: Five generators spawn across the Heavy Containment Zone. If all of them are unlocked and activated, you become recontained.\nGenerators have a countdown sequence that any player can interrupt by pressing the "CANCEL" button on the generator.
 Neck Snap: Podržením nebo klepnutím zlomíš vaz člověku a okamžitě ho zabiješ, dokud tě nevidí nebo nemrká.
