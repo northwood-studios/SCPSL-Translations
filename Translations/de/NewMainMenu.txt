@@ -85,3 +85,4 @@ Grafik API
 <size=18>MIETE EINEN SERVER</size>
 <size=18>ABBRECHEN</size>
 Sekunde
+Für das spielen unseres Spieles!
