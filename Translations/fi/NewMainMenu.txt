@@ -85,3 +85,4 @@ LUE LISÄÄ
 VUOKRAA PELIPALVELIN
 PERU
 Sekuntti
+Pelin pelaamisesta!

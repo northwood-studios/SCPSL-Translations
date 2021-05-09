@@ -1,4 +1,4 @@
-<size=180><color=red>KIKAPCSOLVA</color></size>
+<size=180><color=red>LEÁLLÍTVA</color></size>
 <color=red><size=200>KÉRJÜK VÁRJON</size></color>
-<color=lime><size=180>KÉSZ</size></color>
+<color=lime><size=180>BEKAPCSOLVA</size></color>
 A DETONÁCIÓ ELKERÜLHETETLEN

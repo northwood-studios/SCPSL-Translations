@@ -8,9 +8,9 @@ Kollimátor Irányzék
 Mesterlövész Irányzék
 Hangtompító
 Hangtompító
-Nehéz Cső
+Nehéz csőszáj
 Csőszájfék
-Csőszáj gyorsító
+Csőszáj erősítő
 Giroszkópos stabilizátor
 Zseblámpa
 Lézer

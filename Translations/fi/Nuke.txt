@@ -1,4 +1,4 @@
-<size=180><color=red>DISABLOITU</color></size>
+<size=180><color=red>EI KÄYTETTÄVISSÄ</color></size>
 <color=red><size=200>ODOTA</size></color>
 <color=lime><size=180>VALMIS</size></color>
 RÄJÄHDYSTÄ EI VOI PYSÄYTTÄÄ

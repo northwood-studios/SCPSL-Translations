@@ -1,7 +1,7 @@
 Nem Talált Képesség:A képesség ID-je, illetve az ezzel összekapcsolt képesség nem létezik.
 Sprint:Gyorsabban futsz, viszont nagyobb zajt keltesz.
 Settenkedés:A lépteid halkak, viszont sokkal lassabban mozogsz.
-Eszköztár:Nyisd meg az eszköztárad és válaszd ki LMB-vel azt, amit használni szeretnél, és RMB-vel amit el szeretnél dobni.
+Eszköztár:Nyisd meg az eszköztárad és válaszd ki LMB-vel azt, amit használni szeretnél, és RMB-vel azt, amit el szeretnél dobni.
 Fegyvertelen:Nincs semmid. Találj valamit. Bármit.
 Hozzáférési kártya:Van egy ilyen kártyád, nem a legjobb, de ne veszítsd el.
 Alapértelmezett helyzet:Fel vagy szerelve egy fegyverrel, Gránátokkal, egy Rádióval, egy Lefegyverzővel és egy kártáyával.
@@ -19,9 +19,9 @@ Ultraérzékeny:Nem látod az embereket addig amíg nem futnak, nem ütköznek n
 Ragadozó:A lépéseid halkak. Ha lenyomva tartod az adott billentyűt gyorsabb leszel, de a mozgással zajt keltesz.
 Mimika:Beszélni tudsz a közeli játékosokkal, az embereket beleértve.
 Harapás:Megtámadhatsz egy embert a közvetlen közeledben, ezzel egy erős sebzést okozva.
-Ellenméreg:Megérinthet egy embert a közelében, azonnal megölve őt.
+Ellenméreg:Megérinthet egy embert a közelében, ezáltal azonnal megölve őt.
 A Gyógymód:Újraéleszt egy, a közelben megölt embert. A "meggyógyított" emberek zombiként játszanak gyors mozgással és kevés HP-val.\nBármennyi embert újraéleszthetsz.
-Ütés:Megütsz egy embert, ami közepes sebzést okoz.
+Ütés:Megüthetsz egy embert, amely közepes sebzést okoz.
 Ajtók nyitása/csukása:Kinyithatod és becsukhatod az ajtókat 5 AP-ért. Be is zárhatod őket, ami fogyasztja az AP-det, de megakadályzza hogy bárki kinyissa vagy becsukja azt, ameddig fel nem engeded a zárlatot vagy kifogysz az AP-ből.
 Tesla Túltöltés:Aktiválhatod a Tesla Kaput 50 AP-ért, ezáltal likvidálva az összes játékost a közelében.
 Lezárás:A 2-es Hozzáférési Szinttől egyszerre operálhatod bizonyos szobák ajtajait és világításait. Miközben ez aktiválva van, a szobában lévő emberek nem látják SCP-173-at.
