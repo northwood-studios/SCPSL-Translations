@@ -47,4 +47,4 @@ SCP:SL Audio Manager
 Northwood Feedback Team
 Northwood Verification Supervisor
 SCP:SL Official Server Supervisor
-Northwood Anti-Cheat Developer
+SCP:SL Anti-Cheat Developer
