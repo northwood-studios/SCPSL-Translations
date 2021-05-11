@@ -39,7 +39,7 @@ SCP:SL Äänisuunnittelija
 SCP:SL Peliohjaaja
 SCP:SL Virallisen Palvelimen Päällikkö
 Northwood Varmennusvastaava
-Northwood Koodiasiantuntija
+SCP:SL Huijauksen-eston Kehittäjä
 SCP:SL Laadunvarmistus
 SCP:SL Laadunvarmistuksenvalvoja
 SCP:SL Twitch Tilaaja
