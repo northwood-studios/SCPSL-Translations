@@ -1,0 +1,10 @@
+<color=green>OTWARTE</color>
+<color=#07A2FF>ZAMKNIĘTE</color>
+<color=orange>W RUCHU</color>
+<color=red>ZABLOKOWANE</color>
+<color=red>BŁĄD</color>
+<color=red>ODMOWA DOSTĘPU</color>
+<color=green>UDZIELONO DOSTĘPU</color>
+<color=#07A2FF>KARTA WYMAGANA</color>
+<color=orange>PROSZĘ PRZEJŚĆ</color>
+<color=orange>ZAMYKANIE</color>
