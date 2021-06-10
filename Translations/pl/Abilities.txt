@@ -1,7 +1,7 @@
 Nie znaleziono umiejętności:Umiejętność o podanym ID nie istnieje.
 Sprint:Zwiększa twoją prędkość ruchu, lecz poruszasz się wówczas głośniej.
 Skradanie:Twoje ruchy są cichsze, lecz wolniejsze.
-Ekwipunek:Otwórz ekwipunek i wybierz przedmiot, który podniosłeś używając LPM lub upuść go używając PPM.
+Ekwipunek:Otwórz ekwipunek i wybierz przedmiot, używając LPM lub upuść go, używając PPM.
 Bezbronny:Niczego nie masz. Znajdź coś. Cokolwiek.
 Karta dostępu:Masz kartę dostępu, nie jest najlepsza, ale postaraj się jej nie zgubić.
 Standardowe wyposażenie:Jesteś wyposażony w karabin, granaty, radio, rozbrajacz i kartę dostępu.
@@ -20,7 +20,7 @@ Drapieżnik:Twoje kroki są prawie niesłyszalne. Trzymanie przypisanego klawisz
 Imitacja:Możesz głośno mówić do graczy w pobliżu, wliczając w to ludzi.
 Gryzienie:Atakujesz człowieka z bliska, zadając poważne obrażenia.
 Antidotum:Dotykając człowieka, natychmiastowo go zabijasz.
-Lekarstwo:Wskrzesasz niedawno zabitą osobę. Uleczone osoby grają jako zombie z dużą prędkością ruchu oraz małą ilością życia.\nNie ma maksymalnej liczby ludzi, których możesz wskrzesić.
+Lekarstwo:Wskrzesasz niedawno zabitą osobę. Uleczone osoby grają jako zombie z dużą prędkością ruchu oraz małą ilością życia.\nNie ma maksymalnej liczby osób, których możesz wskrzesić.
 Uderzenie:Atakujesz człowieka zadając mu niewielką ilość obrażeń.
 Otwórz/Zamknij drzwi:Możesz wchodzić w interakcję z drzwiami za 5 punktów energii. Możesz również je zablokować, wyczerpując powoli swą energię, lecz zapobiegając ich otworzeniu lub zamknięciu, dopóki ich nie odblokujesz lub nie stracisz całej energii.
 Przeciążenie tesli:Możesz aktywować bramę tesli za 50 punktów energii, aby natychmiast ją uruchomić, zabijając każdego gracza znajdującego się w niej lub w jej otoczeniu.
