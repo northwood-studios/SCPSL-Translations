@@ -1,18 +1,18 @@
-Ölj meg mindenkit.\nNe engedj elszökni senkit.\nMűködj együtt a többi <color=#f00>SCP-vel.</color><color=#ffff00>\nTartsd lenyomva a bal egérgombot+W-t és célozz az ellenségre hogy megöld.\nMinél kevesebb HP-d van, annál gyorsabb vagy..</color>
-Menekülj el a létesítményből.\nMűködj együtt a <color=#008f1e>Chaos Insurgency-vel.</color>\nKerüld a többi csapatot.
+Ölj meg mindenkit.\nNe engedj elszökni senkit.\nMűködj együtt a többi <color=#f00>SCP</color>-vel.<color=#ffff00>\nTartsd lenyomva a bal egérgombot+W-t és célozz az ellenségre hogy megöld.\nMinél kevesebb HP-d van, annál gyorsabb vagy.</color>
+Menekülj el a létesítményből.\nMűködj együtt a <color=#008f1e>Chaos Insurgency</color>-vel.\nKerüld a többi csapatot.
 Hamarosan újraéledsz.
-Ölj meg mindenkit.\nNe engedj elszökni senkit.\nMűködj együtt a többi <color=#f00>SCP-vel.</color><color=#ffff00>\nÁt tudsz sétálni az ajtókon.\nBal egérgomb sebzi, és elteleportálja a célpontokat a dimenziódba.\nTartsd lenyomva a TAB-ot hogy előhozd a TP menüt.</color>
+Ölj meg mindenkit.\nNe engedj elszökni senkit.\nMűködj együtt a többi <color=#f00>SCP</color>-vel.<color=#ffff00>\nÁt tudsz sétálni az ajtókon.\nBal egérgomb sebzi, és elteleportálja a célpontokat a dimenziódba.\nTartsd lenyomva a TAB-ot hogy előhozd a TP menüt.</color>
 Segíts a <color=#FFFF7CFF>tudósoknak</color> elmenekülni.\nSemlegesítsd a többi ellenfelet.\nUtasítsd a katonáidat. \nKövesd a feletteseid utasításait.
-Ölj meg mindenkit.\nNe engedj elszökni senkit.\nMűködj együtt a többi <color=#f00>SCP-vel.</color>\nBal egérgombbal azonnal ölhetsz, rövid várakozási idővel. Újraéleszthetsz egy nemrég elhunyt embert szövetségesként.
-Menekülj el a létesítményből.\nMűködj együtt az <color=#0096FF>MTF-fel</color>.\nKerüld a többi csapatot.
-Ölj meg mindenkit.\nNe engedj elszökni senkit.\nMűködj együtt a többi <color=#f00>SCP-vel.</color>
+Ölj meg mindenkit.\nNe engedj elszökni senkit.\nMűködj együtt a többi <color=#f00>SCP</color>-vel.\nBal egérgombbal azonnal ölhetsz, rövid várakozási idővel. Újraéleszthetsz egy nemrég elhunyt embert szövetségesként.
+Menekülj el a létesítményből.\nMűködj együtt az <color=#0096FF>MTF</color>-fel.\nKerüld a többi csapatot.
+Ölj meg mindenkit.\nNe engedj elszökni senkit.\nMűködj együtt a többi <color=#f00></color>SCP-vel.
 Segíts a <color=#FF8E00>D-osztályú személyzetnek</color> elmenekülni.\nLikvidáld a többi ellenfelet.
-Ölj meg mindenkit.\nNe engedj elszökni senkit.\nMűködj együtt a többi <color=#f00>SCP-vel.</color>
-Ölj meg mindenkit.\nNe engedj elszökni senkit.\nMűködj együtt a többi <color=#f00>SCP-vel.</color><color=#ffff00>\nA bal egérgombbal támadsz.\nMinél kevesebb HP-d van, annál gyorsabban támadsz.</color>
+Ölj meg mindenkit.\nNe engedj elszökni senkit.\nMűködj együtt a többi <color=#f00>SCP</color>-vel.
+Ölj meg mindenkit.\nNe engedj elszökni senkit.\nMűködj együtt a többi <color=#f00>SCP</color>-vel.<color=#ffff00>\nA bal egérgombbal támadsz.\nMinél kevesebb HP-d van, annál gyorsabban támadsz.</color>
 Segíts a <color=#FFFF7CFF>tudósoknak</color> elmenekülni.\nSemlegesítsd a többi ellenfelet.\nUtasítsd a katonáidat. \nKövesd a feletteseid utasításait.
 Segíts a <color=#FFFF7CFF>tudósoknak</color> elmenekülni.\nSemlegesítsd a többi ellenfelet.\nUtasítsd a katonáidat.
 Segíts a <color=#FFFF7CFF>tudósoknak</color> elmenekülni.\nSemlegesítsd a többi ellenfelet.\nKövesd a feletteseid utasításait.
-Kövesd a feladatokat, hogy teljesítsd a célokat.
-Segíts a <color=#FFFF7CFF>tudósoknak</color> elmenekülni.\nMűködj együtt az <color=#0096FF>MTF-fel</color>.\nSemlegesítsd a többi ellenfelet.
-Ölj meg mindenkit.\nNe engedj elszökni senkit.\nMűködj együtt a többi <color=#f00>SCP-vel.</color>
-Ölj meg mindenkit.\nNe engedj elszökni senkit.\nMűködj együtt a többi <color=#f00>SCP-vel.</color>
+Kövesd a feladatokat a céljaid teljesítéséhez.
+Segíts a <color=#FFFF7CFF>tudósoknak</color> elmenekülni.\nMűködj együtt az <color=#0096FF>MTF</color>-fel.\nSemlegesítsd a többi ellenfelet.
+Ölj meg mindenkit.\nNe engedj elszökni senkit.\nMűködj együtt a többi <color=#f00>SCP</color>-vel.
+Ölj meg mindenkit.\nNe engedj elszökni senkit.\nMűködj együtt a többi <color=#f00>SCP</color>-vel.

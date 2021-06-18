@@ -44,3 +44,6 @@ SCP:SL Controllo Qualità
 SCP:SL Supervisore Controllo Qualità
 SCP:SL Abbonato Twitch
 SCP:SL Gestore Audio
+Northwood Team di Feedback
+Northwood Supervisore delle Verifiche
+SCP:SL Supervisore del Server Ufficiale

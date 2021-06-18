@@ -37,10 +37,13 @@ SCP:SL 程式設計師
 SCP:SL 品質管理經理
 SCP:SL 音效設計師
 SCP:SL 遊戲總監
-SCP:SL 官方伺服器主管
+SCP:SL 官方伺服器經理
 Northwood工作室 審核專員
 Northwood工作室 原生碼專家
 SCP:SL 質量保證測試員
 SCP:SL 質量保證主管
 SCP:SL Twitch 訂閱者
 SCP:SL 音訊經理
+Northwood工作室 回饋團隊
+Northwood工作室 審核主管
+SCP:SL 官方伺服器主管

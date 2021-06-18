@@ -1,6 +1,6 @@
-<size=100>TYÖPISTE - LUKITTU</size>\nvaltuuttomien henkilöiden pääsy kielletty\nyhdistä asehallintatablettisi varmistaaksesi henkilöllisyytesi
+<size=100>TYÖPISTE\n<color=#00EE00FF>LUKITTU</color></size>\nvaltuuttomien henkilöiden pääsy kielletty\nyhdistä asehallintatablettisi varmistaaksesi henkilöllisyytesi
 <size=100>PIENI HETKI</size>\nvahvistetaan yhdistettyä asehallintatablettia
-<size=100>TYÖPISTE - VALMIS</size>\n\nota esiin ase jota haluat modifioida
+<size=100>TYÖPISTE\n<color=#00EE00FF>VALMIS</color></size>\n\nota esiin ase jota haluat modifioida
 <size=80>MITÄ HALUAISIT MUUTTAA?</size>
 tähtäimet ({0} valmiina)
 piipunjatkeet ({0} ready)

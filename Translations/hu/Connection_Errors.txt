@@ -1,4 +1,4 @@
-<size=80>Ki lettél rúgva</size>\nA szerver kénytelen volt megszüntetni a kapcsolatot.\n<size=26>\nIdeiglenesen ki lettél tiltva egy adminisztrátor által\ nem felelsz meg a szerver követelményeinek (pl. csatlakozás a Steamhez).\nAz esetleges tiltásokért - a játék készítői <u>nem</u> felelősek.\n</size>
+<size=80>Ki lettél rúgva</size>\nA szerver kénytelen volt megszüntetni a kapcsolatot.\n<size=26>\nIdeiglenesen ki lettél tiltva egy adminisztrátor által\nem felelsz meg a szerver követelményeinek (pl. csatlakozás a Steamhez).\nAz esetleges kitiltásokért - a játék készítői <u>nem</u> felelősek.\n</size>
 <size=80>SZÉTKAPCSOLVA</size>\nA kijelölt host jelenleg nem elérhető.
 <size=80>SZÉTKAPCSOLVA</size>\nA kijelölt kapcsolat azonosítója nem létezik.
 <size=80>SZÉTKAPCSOLVA</size>\nA kijelölt csatorna nem létezik.
@@ -14,7 +14,7 @@
 <size=80>KÉRLEK VÁRJ</size>\n<size=35>Kapcsolat létrehozása...</size>
 <size=80>A KÖR ÚJRAINDUL</size>\n<size=35>A kör újraindul...</size>
 <size=80>KÉREM VÁRJON</size>\n<size=35>Tutorial betöltése...</size>
-<size=80>A VERZIÓ INKOMPATIBILIS</size>\nA játék verziója más mint a szerveré\n(Te - [your]; Szerver - [server])
+<size=80>A VERZIÓ INKOMPATIBILIS</size>\nA játék verziója más mint a szerveré.\n(Te - [your]; Szerver - [server])
 <size=80>CSATLAKOZVA</size>\n<size=35>A pálya betöltése...</size>
 <size=35>A létesítmény betöltése...</size>
 <size=80>SZÉTKAPCSOLVA</size>\nIsmeretlen hiba történt a szerveren.
