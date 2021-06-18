@@ -1,7 +1,7 @@
 <color=green>ОТКРЫТО</color>
 <color=#07A2FF>ЗАКРЫТО</color>
-<color=orange>→\n←</color>
-<color=red>ЗАБЛОКИРОВАНО</color>
+<color=orange><size=40>→\n←</size></color>
+<color=red><size=18>ЗАБЛОКИРОВАНО</size></color>
 <color=red>ОШИБКА</color>
 <color=red>ДОСТУП ЗАПРЕЩЁН</color>
 <color=green>ДОСТУП РАЗРЕШЁН</color>
