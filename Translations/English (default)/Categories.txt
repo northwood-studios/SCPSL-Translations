@@ -1,0 +1,10 @@
+None
+Keycard
+Medical Items
+Radio
+Firearms
+Grenades
+SCP Items
+Micro H.I.D.
+Ammo
+Body Armor
