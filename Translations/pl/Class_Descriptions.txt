@@ -9,7 +9,7 @@ Zabij wszystkich.\nNie pozwól nikomu uciec.\nWspółpracuj z innymi <color=#f00
 Pomóż <color=#FF8E00>personelowi klasy D</color> w ucieczce.\nWyeliminuj każdą przeszkodę.
 Zabij wszystkich.\nNie pozwól nikomu uciec.\nWspółpracuj z innymi <color=#f00>SCP</color>.
 Zabij wszystkich.\nNie pozwól nikomu uciec.\nWspółpracuj z innymi <color=#f00>SCP</color>.\n<color=#ffff00>Naciśnij lewy przycisk myszy, aby zaatakować.</color>
-Pomóż <color=#FFFF7CFF>naukowcom</color> w ucieczce.\nWyeliminuj zagrożenie.\nWydawaj polecenia żołnierzom.\nWykonuj rozkazy od dowódcy.
+Pomóż <color=#FFFF7CFF>naukowcom</color> w ucieczce.\nWyeliminuj zagrożenie.\nWydawaj polecenia żołnierzom.\nWykonuj rozkazy od kapitana.
 Pomóż <color=#FFFF7CFF>naukowcom</color> w ucieczce.\nWyeliminuj zagrożenie.\nWydawaj polecenia żołnierzom.
 Pomóż <color=#FFFF7CFF>naukowcom</color> w ucieczce.\nWyeliminuj zagrożenie.\nWykonuj rozkazy od swoich przełożonych.
 Podążaj za wskazówkami, aby ukończyć poradnik.
