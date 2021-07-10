@@ -14,4 +14,4 @@ Hlavice Alpha nebyla detonována toto kolo.
 Mise zabrala [summary_round_minutes] minut a [summary_round_seconds] vteřin.
 [summary_scp_terminated] zabitých SCP
 Další kolo za [summary_next_round_countdown] vteřin.
-You have dealt [summary_damages] damage and killed [summary_kills] players.
+Způsobili jste [summary_damages] poškození a zabili [summary_kills] hráčů.
