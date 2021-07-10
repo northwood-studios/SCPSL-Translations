@@ -1,0 +1,15 @@
+Náboje {0}/{1} {2}
+Poškození
+Rychlost střelby
+Hip Accuracy
+Přesnost systému ADS
+Hmotnost
+Délka
+DROP:
+Helmet Efficacy
+Účinnost vesty
+Použítí výdrže
+Rychlost pohybu
+Limit Itemu:
+Limit Náboje:
+{0} Celkem

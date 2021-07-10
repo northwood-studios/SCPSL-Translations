@@ -1,0 +1,39 @@
+0~Karta uklízeče
+1~Karta Vědce
+2~Research Supervisor Karta
+3~Zone Manager Karta
+4~Strážnikova karta
+5~MTF Cadet Karta
+6~Containment Engineer Karta
+7~MTF Seržant karta
+8~MTF kapitán karta
+9~Facility Manager Karta
+10~Chaos Insurgency Hackerské zařízení
+11~O5-level Karta
+12~Radio
+13~COM-15 Boční zbraň
+14~First AID Kit~Vyléčí tvoje zranění.65HP
+15~Svítilna~Budiž světlo!
+16~Micro H.I.D.~Mobilní intezivní elektrický kanón na jedno použití.
+17~SCP-500~Všelék.Obnoví MAX. tvého HP
+18~SCP-207~Škodlivě zvyšuje tvoji rychlost
+20~MTF-E11-SR
+21~Crossvec
+23~FSP-9
+24~Logicer
+25~Granát~Boom!
+26~Oslepující granát~Oslepí vaše nepřátele.
+30~COM-18
+31~SCP-018~Superbalón schopen odrazit se s extrémní účinností.
+32~SCP-268~Při nošení vás dočasně zneviditelní, ale přeruší se po jakékoliv interakci uživatele.
+33~Adrenalin~Dočasně zvyšuje vytrvalost a obnovuje HP.
+34~Léky proti bolesti~Ulehčete lehká zranění.45Hp
+35~Peníz~Nejsem si jist, proč bych ji měl mít u sebe ...
+36~Lehká vesta
+37~Bojový vesta
+38~Těžký vesta
+39~.44 Revolver
+40~AK
+41~Brokovnice
+
+
