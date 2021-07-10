@@ -1,0 +1,37 @@
+0~Siivoajan Avainkortti
+1~Tutkijan Avainkortti
+2~Tutkimusvalvojan Avainkortti Keycard
+3~Aluehallinnan Avainkortti
+4~Vartijan Avainkortti
+5~MTF-sotamiehen Avainkortti
+6~Suojausinsinöörin Avainkortti
+7~MTF-kersantin Avainkortti
+8~MTF-kapteenin Avainkortti
+9~Laitoshallinnan Avainkortti
+10~Chaos Insurgencyn Pääsylaite
+11~O5-tason Avainkortti
+12~Radio
+13~COM-15
+14~Ensiapupakkaus~Parantaa haavasi.
+15~Taskulamppu~Tulkoon valo!
+16~Micro H.I.D.~Liikutettava korkean-intensiteetin sähköpurkauskone.
+17~SCP-500~Ihmelääke.
+18~SCP-207~Haitallisesti lisää motorisia taitoja.
+20~MTF-E11-SR
+21~Crossvec
+23~FSP-9
+24~Logicer
+25~Sirpalekranaatti~Pam!
+26~Tainnutuskranaatti~Sokaisee vihollisesi.
+30~COM-18
+31~SCP-018~Superpallo joka kykenee pomppimaan erittäin tehokkaasti.
+32~SCP-268~Puettuna tekee sinut väliaikaisesti näkymättömäksi, ellei käyttäjä keskeytä sitä.
+33~Adrenaliini~Tilapäisesti lisää kestävyyttä.
+34~Kipulääke~Paranna pieniä vammoja.
+35~Kolikko~Et tiedä miksi haluaisit kantaa tätä mukanasi...
+36~Kevyt luotiliivi
+37~Taisteluliivi
+38~Raskas luotiliivi
+39~.44 Revolveri
+40~AK
+41~Haulikko
