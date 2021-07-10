@@ -2,17 +2,20 @@ SCP-173
 D-Sınıf Personeli
 İzleyici
 SCP-106
-Dokuz-Kuyruklu Tilki Bilim Adamı
+Dokuz-Kuyruklu Tilki Uzman Tabip
 SCP-049
 Bilim Adamı
 SCP-079
-Kaos İsyancısı
+Kaos İsyancısı Seferber
 SCP-096
 SCP-049-2
-Dokuz-Kuyruklu Tilki Teğmeni
-Dokuz-Kuyruklu Tilki Kumandanı
-Dokuz-Kuyruklu Tilki Eri
+Dokuz-Kuyruklu Tilki Çavuş
+Dokuz-Kuyruklu Tilki Yüzbaşı
+Dokuz-Kuyruklu Tilki Nefer
 EĞİTİM
 Tesis Görevlisi
 SCP-939-53
 SCP-939-89
+Kaos İsyancısı Piyade
+Kaos İsyancısı Akıncı
+Kaos İsyancısı Çapulcu
