@@ -1,0 +1,37 @@
+0~Hausmeister Zugangskarte
+1~Wissenschaftler Zugangskarte
+2~Hauptwissenschaftler Zugangskarte
+3~Zonenmanager Zugangskarte
+4~Sicherheitspersonal Zugangskarte
+5~MTF Kadett Zugangskarte
+6~Eindämmungsingenieur Zugangskarte
+7~MTF Leutnant Zugangskarte
+8~MTF Kommandant Zugangskarte
+9~Einrichtungsmanager Zugangskarte
+10~Chaos Insurgency Zugangsgerät
+11~O5-Level Zugangskarte
+12~Radio
+13~COM-15
+14~Erste Hilfe Paket~Heilt deine Wunden!
+15~Taschenlampe~Es werde Licht!
+16~Micro H.I.D.~Mobiler\nHochintensiver\nEnergieentladungswerfer
+17~SCP-500~Das Allheilmittel
+18~SCP-207~Erhöht auf schädliche Weise die motorischen Fähigkeiten.
+20~MTF-E11-SR
+21~Crossvec
+23~FSP-9
+24~Logicer
+25~Splittergranate~Es macht Boom!
+26~Blendgranate~Blendet deine Feinde!
+30~COM-18
+31~SCP-018~Superball, welcher mit extremer Effizienz umher springt.
+32~SCP-268~Wenn ausgerüstet, macht dich vorübergehend unsichtbar, außer es wird mit der Umgebung interagiert.
+33~Adrenaline~Erhöht deine Ausdauer vorübergehend.
+34~Painkillers~Lindert leichte Verletzungen.
+35~Coin~Du bist dir nicht sicher warum du sowas mit dir herum tragen solltest...
+36~Leichte Körperpanzerung
+37~Kampfpanzerung
+38~Schwere Körperpanzerung
+39~.44 Revolver
+40~AK
+41~Schrotflinte
