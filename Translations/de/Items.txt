@@ -3,10 +3,10 @@
 2~Hauptwissenschaftler Zugangskarte
 3~Zonenmanager Zugangskarte
 4~Sicherheitspersonal Zugangskarte
-5~MTF Kadett Zugangskarte
+5~MTF Gefreiter Zugangskarte
 6~Eindämmungsingenieur Zugangskarte
-7~MTF Leutnant Zugangskarte
-8~MTF Kommandant Zugangskarte
+7~MTF Hauptmann Zugangskarte
+8~MTF Unteroffizier Zugangskarte
 9~Einrichtungsmanager Zugangskarte
 10~Chaos Insurgency Zugangsgerät
 11~O5-Level Zugangskarte
