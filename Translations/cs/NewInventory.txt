@@ -1,13 +1,13 @@
-Karta uklízeče:No description
-Karta Vědce:No description
-Research Supervisor Karta:No description
-Zone Manager Karta:No description
-Strážnikova karta:No description
-MTF Cadet Karta:No description
-Containment Engineer Karta:No description
-MTF Lieutenant Karta:No description
-MTF Commander Karta:No description
-Facility Manager Kearta:No description
+Karta uklízeče: Žádný popis
+Karta Vědce: Žádný popis
+Research Supervisor Karta: Žádný popis
+Zone Manager Karta: Žádný popis
+Strážnikova karta: Žádný popis
+MTF Cadet Karta: Žádný popis
+Containment Engineer Karta: Žádný popis
+MTF Lieutenant Karta: Žádný popis
+MTF Commander Karta: Žádný popis
+Facility Manager Kearta: Žádný popis
 Chaos Insurgency Hackerské zařízení
 O5-level Karta
 Rádio:SR = Dlouhá vzdálenost \nMR = Střední vzdálenost \nLR = Daleká vzdálenost\nUR = Ultra vzdálenost \nPoužitím delších vzdálenostích vede k větší spotřebě baterie.
@@ -21,8 +21,8 @@ Weapon Manager:Můžeš odhodit náboje & Vylepšit zbraně.
 MTF-E11-SR:No description
 Project 90:No description
 Dropped 5.56:Náboje do MTF epsilon
-MP7:No description
-Logicer:No description
+MP7:Žádný popis
+Logicer:Žádný popis
 Granát:Boom!
 Oslepující granát:Oslepí vaše nepřátele.
 Pouta:Levým tlačítkem myši odzbrojíš a zatkneš nepřítele. \nDrž E pro propuštění hráče.
