@@ -4,8 +4,8 @@ Rateo di Fuoco
 Precisione inaccurata
 Precisione accurata
 Peso
-Length
-DROP:
+Ampiezza
+Fai cadere:
 Efficienza dell'Elmetto
 Efficienza del Giubotto
 Stamina impiegata
