@@ -1,0 +1,15 @@
+Munition {0}/{1} {2}
+Schaden
+Feuerrate
+Hüftfeuer Genauigkeit
+Zielende Genauigkeit
+Gewicht
+Länge
+DROP:
+Helm Wirksamkeit
+Vesten Wirksamkeit
+Ausdauerverbrauch
+Bewegungsgeschwindigkeit
+Itemlimit:
+Munitionslimit:
+{0} total
