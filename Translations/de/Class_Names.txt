@@ -2,17 +2,20 @@ SCP-173
 Klasse-D Personal
 Zuschauer
 SCP-106
-Nine-Tailed Fox Wissenschaftler
+Nine-Tailed Fox Spezialist
 SCP-049
 Wissenschaftler
 SCP-079
-Chaos Insurgent
+Chaos Insurgency Rekrut
 SCP-096
 SCP-049-2
-Nine-Tailed Fox Leutnant
-Nine-Tailed Fox Kommandant
-Nine-Tailed Fox Kadett
+Nine-Tailed Fox Unteroffizier
+Nine-Tailed Fox Hauptmann
+Nine-Tailed Fox Gefreiter
 Tutorial
 Sicherheitspersonal
 SCP-939-53
 SCP-939-89
+Chaos Insurgency Gewehrschütze
+Chaos Insurgecny Unterdrücker
+Chaos Insurgency Marodeur
