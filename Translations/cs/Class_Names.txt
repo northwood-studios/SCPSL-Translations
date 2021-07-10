@@ -6,7 +6,7 @@ Nine-Tailed Fox Specialista
 SCP-049
 Vědec
 SCP-079
-Chaos Insurgency Branec
+Vzbouženec chaosu Branec
 SCP-096
 SCP-049-2
 Nine-Tailed Fox Seržant
@@ -16,6 +16,6 @@ Tutoriál
 Facility Guard
 SCP-939-53
 SCP-939-89
-Chaos Insurgency Střelec
-Chaos Insurgency Represor
-Chaos Insurgency Nájezdník
+Vzbouženec chaosu Střelec
+Vzbouženec chaosu Represor
+Vzbouženec chaosu Nájezdník
