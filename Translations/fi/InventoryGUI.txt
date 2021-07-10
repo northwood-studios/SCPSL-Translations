@@ -1,0 +1,15 @@
+Ammukset {0}/{1} {2}
+Vahinko
+Tulinopeus
+Lonkkatarkkuus
+Tähtäintarkkuus
+Paino
+Pituus
+PUDOTA:
+Kypärän Tehokkuus
+Liivin Tehokkuus
+Kestävyys
+Liikkumisnopeus
+Esineraja:
+Ammusraja:
+{0} yhteensä
