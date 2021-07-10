@@ -7,7 +7,7 @@ Gewicht
 Länge
 DROP:
 Helm Wirksamkeit
-Vesten Wirksamkeit
+Westen Wirksamkeit
 Ausdauerverbrauch
 Bewegungsgeschwindigkeit
 Itemlimit:
