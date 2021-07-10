@@ -5,8 +5,8 @@
 4~Scheda Magnetica della Guardia della Struttura
 5~Scheda Magnetica del Soldato Nine-Tailed Fox
 6~Scheda Magnetica dell'Ingegnere di Contenimento
-7~Scheda Magnetica del Tenente Nine-Tailed Fox
-8~Scheda Magnetica del Comandante Nine-Tailed Fox
+7~Scheda Magnetica del Sergente Nine-Tailed Fox
+8~Scheda Magnetica del Capitano Nine-Tailed Fox
 9~Scheda Magnetica del Responsabile della Struttura
 10~Dispositivo di accesso del Chaos Insurgency
 11~Scheda Magnetica Livello-O5
