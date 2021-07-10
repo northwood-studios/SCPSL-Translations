@@ -2,17 +2,20 @@ SCP-173
 Personel Klasy D
 Obserwator
 SCP-106
-Naukowiec Nine-Tailed Fox
+Specjalista Nine-Tailed Fox
 SCP-049
 Naukowiec
 SCP-079
-Agent Rebelii Chaosu
+Poborowy Rebelii Chaosu
 SCP-096
 SCP-049-2
-Porucznik Nine-Tailed Fox
-Dowódca Nine-Tailed Fox
-Kadet Nine-Tailed Fox
+Sierżant Nine-Tailed Fox
+Kapitan Nine-Tailed Fox
+Szeregowy Nine-Tailed Fox
 Poradnik
 Ochroniarz
 SCP-939-53
 SCP-939-89
+Strzelec Rebelii Chaosu
+Represor Rebelii Chaosu
+Maruder Rebelii Chaosu
