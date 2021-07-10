@@ -1,0 +1,15 @@
+Munizioni {0}/{1} {2}
+Danno
+Rateo di Fuoco
+Precisione inaccurata
+Precisione accurata
+Peso
+Length
+DROP:
+Efficienza dell'Elmetto
+Efficienza del Giubotto
+Stamina impiegata
+Velocità
+Limite degli oggetti:
+Limite delle munizioni:
+{0} complessivamente
