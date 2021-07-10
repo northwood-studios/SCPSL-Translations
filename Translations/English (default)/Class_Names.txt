@@ -17,5 +17,5 @@ Facility Guard
 SCP-939-53
 SCP-939-89
 Chaos Insurgency Rifleman
-Chaos Insurgecny Repressor
+Chaos Insurgency Repressor
 Chaos Insurgency Marauder
