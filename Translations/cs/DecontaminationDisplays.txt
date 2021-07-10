@@ -4,4 +4,4 @@ PROSÍM OPUSŤTE OBLAST
 Probíhá analýza hrozeb
 PŘÍPRAVA BEZPEČNOSTNÍCH SYSTÉMŮ
 Systémy připraveny k zahájení
-inicializační postup p-b-3
+Inicializační postup p-b-3
