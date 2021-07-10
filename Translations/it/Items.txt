@@ -4,7 +4,7 @@
 3~Scheda Magnetica del Responsabile di Zona
 4~Scheda Magnetica della Guardia della Struttura
 5~Scheda Magnetica del Soldato Nine-Tailed Fox
-6~Scheda Magnetica del Ingegnere di Contenimento
+6~Scheda Magnetica dell'Ingegnere di Contenimento
 7~Scheda Magnetica del Tenente Nine-Tailed Fox
 8~Scheda Magnetica del Comandante Nine-Tailed Fox
 9~Scheda Magnetica del Responsabile della Struttura
