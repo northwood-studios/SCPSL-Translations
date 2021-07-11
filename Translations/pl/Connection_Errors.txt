@@ -33,5 +33,5 @@
 <size=80>ROZŁĄCZONO</size>\nZostałeś zbanowany z tego serwera.\nBan wygasa: [date] [time]\nPowód: [reason]
 <size=80>PROSZĘ CZEKAĆ</size>\nTrwa przetwarzanie wyzwania bezpieczeństwa...
 <size=80>ROZŁĄCZONO</size>\nOdpowiedź na wyzwanie bezpieczeństwa została odrzucona przez serwer
-<size=80>ROZŁĄCZONO</size>\Odpowiedź na wyzwanie bezpieczeństwa została przesłana zbyt późno.\nProszę spróbować ponownie lub skontaktować się z administracją serwera.
+<size=80>ROZŁĄCZONO</size>\nOdpowiedź na wyzwanie bezpieczeństwa została przesłana zbyt późno.\nProszę spróbować ponownie lub skontaktować się z administracją serwera.
 <size=80>BŁĄD UWIERZYTELNIANIA</size>\nWiadomość od serwerów centralnych: [message].
