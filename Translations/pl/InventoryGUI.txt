@@ -1,0 +1,15 @@
+Amunicja {0}/{1} {2}
+Obrażenia
+Szybkostrzelność
+Celność z biodra
+Celność z przybliżeniem
+Waga
+Długość
+UPUŚĆ:
+Skuteczność Hełmu
+Skuteczność Kamizelki
+Zużycie Staminy
+Prędkość Ruchu
+Limit Przedmiotów:
+Limit Amunicji:
+{0} ogółem
