@@ -2,17 +2,20 @@ SCP-173
 Personale di Classe-D
 Spettatore
 SCP-106
-Scienziato Nine-Tailed Fox
+Specialista Nine-Tailed Fox
 SCP-049
 Scienziato
 SCP-079
-Chaos Insurgency
+Chaos Insurgency Arruolato
 SCP-096
 SCP-049-2
-Tenente Nine-Tailed Fox
-Comandante Nine-Tailed Fox
-Guardia Nine-Tailed Fox
-TUTORIAL
+Sergente Nine-Tailed Fox
+Capitano Nine-Tailed Fox
+Soldato Nine-Tailed Fox
+Tutorial
 Guardia della Struttura
 SCP-939-53
 SCP-939-89
+Chaos Insurgency Fuciliere
+Chaos Insurgency Repressore
+Chaos Insurgency Predatore

@@ -1,0 +1,7 @@
+NAHLÁŠENÍ HRÁČE
+Komu:\nPlayer ID:\nDůvod:
+Zrušit
+Nahlášení o porušení pravidel serveru
+Nahlášení o podvádění nebo raidu
+NAHLÁŠEN
+Prosím čekejte...

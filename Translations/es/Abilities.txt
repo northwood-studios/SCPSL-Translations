@@ -1,30 +1,30 @@
 Habilidad no encontrada:El ID asociado a la habilidad no existe.
-Carrera:Aumenta tu velocidad de movimiento, pero también aumenta el sonido que haces al moverte.
+Correr:Aumenta tu velocidad de movimiento, pero también aumenta el sonido que haces al moverte.
 Sigilo:Tu movimiento se hace más silencioso a costa de velocidad de movimiento.
-Inventario:Abre tu inventario y selecciona el objeto usando clic izquierdo, también puedes usar clic derecho para soltar.
-Desarmado:No tienes nada. Encuentra algo. Lo que sea, y rápido.
+Inventario:Abre tu inventario y selecciona el objeto usando clic izquierdo. Usa clic derecho para soltar.
+Desarmado:No tienes nada. Encuentra algo, lo que sea, y rápido.
 Tarjeta de acceso:Tienes una tarjeta de acceso, no es la mejor, pero no la pierdas.
-Equipamiento estándar:Tienes en el inventario un Rifle, granadas, una radio, un desarmador y una tarjeta de acceso.
-Armado y Peligroso:Te han asignado una ametralladora ligera, una herramienta de hackeo (Tarjeta de acceso) y un botiquín.
+Equipamiento estándar:Tienes en el inventario un rifle, granadas, una radio, un desarmador y una tarjeta de acceso.
+Armado y Peligroso:Te han asignado una ametralladora ligera, una herramienta de hackeo (tarjeta de acceso) y un botiquín.
 Velocidad vertiginosa:Cuando ningún humano puede verte te mueves muy rápido. Si un humano te mira directamente no podrás moverte ni atacar, pero todos los humanos parpadean simultáneamente cada varios segundos dándote la oportunidad de actuar.
-Pánico:Te mueves mas rápido según tu vida disminuye.
-Portal:Colocas o te teletransportas a tu portal, el cual es representado con una mancha negra en el suelo.\nSolo puedes tener un solo portal a la vez el cual puedes mover en cualquier momento. Teletransportarse tarda unos segundos.
-Corrosión:Puedes traspasar puertas solo con caminar en ellas.
-Canción del Cisne: Prácticamente no recibes daño de ninguna fuente, excepto explosivos y electricidad, pero puedes ser recontenido por un sacrificio humano en tu cámara.
-Dimensión de Bolsillo:Capturas a un humano al cual le teletransportas a tu Dimensión de Bolsillo, la cual, los mata rapida y dolorosamente. Los humanos capturados deben elegir la salida correcta o elegir la muerte.
-Scopophobia:Eres dócil y tranquilo la mayoría del tiempo, pero no te gusta que te ataquen y ni mucho menos que te vean la cara. Una vez que te han visto la cara o has sido herido, sofoca tu ira asesinando a tus agresores. Sigue su rastro antes de que tu ira desaparezca. Cada agresor aumenta tu AHP mientras tu estado de ira permanezca.
-Intenta no llorar (Dócil): Es muy difícil, apoyarte en una puerta ayuda; te vuelves silencioso mientras estés apoyado contra una puerta intentando calmarte... o esperando a alguien...
-Ataque cuerpo a cuerpo (Ira):Normalmente te controlas. Pero cuando te provocan... Destrozas todo a tu paso en tu buscada de quien te ha hecho daño. Destrozas puertas y carne por igual, ya pueden correr.
-Ultrasentidos:No puedes ver humanos hasta que corren, te golpean o disparan un arma cerca tuya.
-Depredador:Tus pasos son silenciosos. Mantén tu tecla asignada aumenta tu velocidad, pero esto hace tus pasos audibles.
-Imitador:Puedes hablar en voz alta con los jugadores cercanos, incluidos humanos.
-Mordisco:Atacas a un humano mientras esté cerca tuya, infligiendo graves heridas.
-Antídoto:Atacas a un humano cercano matándolo al instante.
-La Cura:Reanima un humano recientemente muerto. Humanos reanimados se convierten en zombis con rápido movimiento y poca vida.\nNo hay límite en cuantos humanos pueden ser reanimados.
+Pánico:Te mueves más rápido según tu vida disminuye.
+Portal:Colocas o te teletransportas a tu portal, el cual se representa con una mancha negra en el suelo.\nSolo puedes tener un único portal a la vez, el cual puedes mover en cualquier momento. Teletransportarse tarda unos segundos.
+Corrosión:Puedes traspasar puertas al caminar a través ellas.
+Canción del Cisne: Prácticamente no recibes daño de ninguna fuente, excepto de explosivos y electricidad, pero puedes ser recontenido por un sacrificio humano en tu cámara.
+Dimensión de Bolsillo:Capturas a un humano al cual teletransportas a tu Dimensión de Bolsillo, la cual los mata rápida y dolorosamente. Los humanos capturados deben elegir la salida correcta o elegir la muerte.
+Scopophobia:Eres dócil y tranquilo la mayor parte del tiempo, pero no te gusta que te ataquen y mucho menos que te vean la cara. Una vez que te han visto la cara o has sido herido, sofoca tu ira asesinando a tus agresores. Perígueles antes de que tu ira desaparezca. Cada agresor aumenta tu AHP mientras estés en estado de ira.
+Intenta no llorar (Dócil): Es muy difícil. Apoyarte en una puerta ayuda; te vuelves silencioso mientras estás apoyado contra una puerta intentando calmarte... o esperando a alguien...
+Ataque cuerpo a cuerpo (Ira):Normalmente te controlas. Pero cuando te provocan... Destrozas todo a tu paso en tu busqueda de quien te ha hecho daño. Destrozas puertas y carne por igual.
+Ultrasensitivo:No puedes ver humanos hasta que corren, te golpean o disparan un arma cerca tuya.
+Depredador:Tus pasos son silenciosos. Manteniendo la tecla asignada aumenta tu velocidad, pero hace que tus pasos se puedan escuchar.
+Imitador:Puedes hablar en voz alta con los jugadores cercanos, incluso con humanos.
+Mordisco:Atacas a un humano mientras esté cerca de ti infligiendo graves heridas.
+Antídoto:Atacas a un humano cercano, matándolo al instante.
+La Cura:Reanima un humano recientemente muerto. Los humanos reanimados se convierten en zombis con rápido movimiento y poca vida.\nNo hay límite de cuántos humanos pueden ser reanimados.
 Golpe:Atacas a un humano y lo dejas malherido.
-Abrir/Cerrar Puertas:Puedes interactuar con las puertas para abrir y cerrarlas por 5 EA (Energía Auxiliar). También puedes bloquearlas, lo cual drenará tu EA, mientras una puerta este bloqueada los jugadores no podrán ni abrir ni cerrar dicha puerta, puedes bloquear varias puertas, cada puerta aumenta la velocidad con la que pierdes energía. Al quedarte sin energía las puertas se desbloquean.
-Sobrecarga Tesla:Puedes activar una tesla por 50 de EA, lo que provocara grandes daños o incluso la muerte a todos los jugadores que estén en ella.
-Apagón:Al llegar al Nivel de Acceso 2 puedes interactuar con algunas salas para bloquear todas las puertas y apagar todas las luces de dicha sala. Mientras las luces estén apagadas los humanos no podrán ver a SCP-173.
-Virtualmente indestructible: Cinco generadores aparecen en la zona de contención pesada, si todos los generadores son activados seras recontenido, los generadores pueden ser desactivados pulsando el boton rojo de "CANCELAR"
-Rompe cuellos:Mantén o pulsa clic izquierdo para romper cuellos. Atacar a un humano que este en rango mientras que parpadean provocará su muerte de forma instantánea.
-Carga (Furia): Ciérrales las vías de escape - se lo merecen. Corres a derecho, derrumbando todo lo que encuentras a tu paso en un rango. Si chocas contra una puerta pesada, la atraviesas.
+Abrir/Cerrar Puertas:Puedes interactuar con las puertas para abrir y cerrarlas por 5 EA (Energía Auxiliar). También puedes bloquearlas, lo cual drenará tu EA. Mientras una puerta este bloqueada, los jugadores no podrán ni abrir ni cerrar dicha puerta. Puedes bloquear varias puertas, pero cada puerta aumenta la velocidad con la que pierdes energía. Al quedarte sin energía las puertas se desbloquean.
+Sobrecarga Tesla:Puedes activar un tesla por 50 de EA, lo que provocará grandes daños o incluso la muerte a todos los jugadores que estén en él.
+Apagón:Al llegar al Nivel de Acceso 2, puedes interactuar con algunas salas para bloquear todas las puertas y apagar todas las luces de dicha sala. Mientras las luces estén apagadas, los humanos no podrán ver a SCP-173.
+Virtualmente indestructible: Cinco generadores aparecen en la zona de contención pesada, si todos los generadores son activados serás recontenido. Los generadores pueden ser desactivados pulsando el boton rojo de "CANCELAR".
+Rompe cuellos:Mantén o pulsa clic izquierdo para romper cuellos. Atacar a un humano que esté en rango mientras parpadean provocará su muerte de forma instantánea.
+Carga (Furia): Ciérrales las vías de escape - se lo merecen. Corres a frenéticamente, derrumbando todo lo que encuentras a tu paso en un rango. Si chocas contra una puerta pesada, la atraviesas.

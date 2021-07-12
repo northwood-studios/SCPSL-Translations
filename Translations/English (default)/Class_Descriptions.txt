@@ -9,7 +9,7 @@ Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color>
 Help <color=#FF8E00>Class-D Personnel</color> escape.\nNeutralize other subjects.
 Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color>
 Kill everyone.\nPrevent escape.\nCooperate with other <color=#F00>SCPs.</color><color=#FFFF00>\nLeft click to attack with a short windup.</color>
-Help <color=#FFFF7CFF>scientists</color> escape.\nNeutralize other subjects.\nInstruct your soldiers. \nFollow the orders of your commanders.
+Help <color=#FFFF7CFF>scientists</color> escape.\nNeutralize other subjects.\nInstruct your soldiers. \nFollow the orders of your captain.
 Help <color=#FFFF7CFF>scientists</color> escape.\nNeutralize other subjects.\nInstruct your soldiers.
 Help <color=#FFFF7CFF>scientists</color> escape.\nNeutralize other subjects.\nFollow the orders of your superiors.
 Follow the tasks to complete your objective.

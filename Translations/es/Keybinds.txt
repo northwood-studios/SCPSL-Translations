@@ -1,0 +1,20 @@
+Disparar
+Zoom
+Saltar
+Interactuar
+Inventario
+Recargar
+Correr
+Chat de Voz
+Ir a hurtadillas
+Moverse Recto
+Moverse Hacia Atrás
+Moverse Hacia la Izquierda
+Moverse Hacia la Derecha
+Lista de Jugadores
+Información del personaje
+Remote Admin
+Alternar modo de linterna
+Chat de Voz Alternativo
+Noclip
+Consola

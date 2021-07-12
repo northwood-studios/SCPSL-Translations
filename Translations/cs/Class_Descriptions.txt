@@ -1,17 +1,18 @@
-Zabij všechny\nNenech kohokoliv uprchnout\nSpolupracuj s ostatními <color=#F00>SCP</color>
-Dostaň se ven z komplexu\nSpolupracuj se <color=#008F1E>Vzbouřenci Chaosu</color>\nDrž si odstup od ostatních týmů
+Zabij všechny.\nNenech nikoho uprchnout.\nSpolupracuj s ostatními <color=#F00>SCPs.</color><color=#FFFF00>\nPodrž levé tlačítko + W a zaměř se na svého nepřítele, aby jsi ho zabil.\nPři nižším HP jsi rychlejší</color>
+Uteč ze zařízení.\nSpolupracuj se <color=#008F1e>Vzbouřenci Chaosu.</color>\nDrž si odstup od ostatních týmů
 Brzy se znovuzrodíš.
-Zabij všechny\nNenech kohokoliv uprchnout\nSpolupracuj s ostatními <color=#F00>SCP</color>
-Pomoz <color=#FFFF7CFF>vědcům</color> uprchnout\nNeutralizuj ostatní objekty
-Zabij všechny\nNenech kohokoliv uprchnout\nSpolupracuj s ostatními <color=#F00>SCP</color>
-Dostaň se ven z komplexu\nSpolupracuj s jednotkami <color=#0096FF>MTF</color>\nDrž si odstup od ostatních týmů
-Zabij všechny\nNenech kohokoliv uprchnout\nSpolupracuj s ostatními <color=#F00>SCP</color>
+Zabij všechny.\nNenech nikoho uprchnout.\nSpolupracuj s ostatními <color=#F00>SCPs.</color><color=#FFFF00>\nMůžeš procházet dveřmi.\nLevým tlačítkem myši chytáš nepřátelé do své dimenze\nPodržením TAB získáš přístup ke svým schopnostem.</color>
+Pomoz <color=#FFFF7CFF>vědcům</color> uprchnout.\nNeutralizuj ostatní objekty.\nPouč své vojáky. \nŘiď se rozkazy svých velitelů.
+Zabij všechny.\nNenech nikoho uprchnout.\nSpolupracuj s ostatními <color=#F00>SCPs.</color><color=#FFFF00>\nLevým tlačítkem myši instatně zabiješ nepřítele s krátkým cooldownem.\nInteraguj s nedávno mrtvým člověkem a oživ ho jako svého spojence.</color>
+Uteč ze zařízení.\nSpolupracuj s <color=#0096FF>MTF.</color>\nDrž si odstup od ostatních týmů
+Zabij všechny.\nVšechny zabíj.\nSpolupracuj s ostatními <color=#F00>SCPs.</color>
 Pomoz <color=#FF8E00>personálu Třídy-D</color> uprchnout\nNeutralizuj ostatní objekty
-Zabij všechny\nNenech kohokoliv uprchnout\nSpolupracuj s ostatními <color=#F00>SCP</color>
-Zabij všechny\nNenech kohokoliv uprchnout\nSpolupracuj s ostatními <color=#F00>SCP</color>
-Pomoz <color=#FFFF7CFF>vědcům</color> uprchnout\nNeutralizuj ostatní objekty
-Pomoz <color=#FFFF7CFF>vědcům</color> uprchnout\nNeutralizuj ostatní objekty
-Pomoz <color=#FFFF7CFF>vědcům</color> uprchnout\nNeutralizuj ostatní objekty
+Zabij všechny.\nNenech nikoho uprchnout.\nSpolupracuj s ostatními <color=#F00>SCPs.</color>
+Zabij všechny.\nNenech nikoho uprchnout.\nSpolupracuj s ostatními <color=#F00>SCPs.</color><color=#FFFF00>\nLevým tlačítkem myši utočíš na krátkou vzdálenost.</color>
+Pomoz <color=#FFFF7CFF>vědcům</color> uprchnout\nNeutralizuj ostatní objekty\nPouč své vojáky. \nŘiď se rozkazy svých velitelů.
+Pomoz <color=#FFFF7CFF>vědcům</color> uprchnout\nNeutralizuj ostatní objekty\nPouč své vojáky.
+Pomoz <color=#FFFF7CFF>vědcům</color> uprchnout\nNeutralizuj ostatní objekty\nŘiďte se pokyny svých nadřízených.
 Pro dokončení postupujte dle pokynů.
-Pomoz <color=#FFFF7CFF>vědcům</color> uprchnout\nSpolupracuj with <color=#0096FF>MTF</color>\nNeutralizuj ostatní objekty
+Pomoz <color=#FFFF7CFF>vědcům</color> uprchnout\nSpolupracuj s <color=#0096FF>MTF</color>\nNeutralizuj ostatní objekty
+Zabij všechny.\nNenech nikoho uprchnout.\nSpolupracuj s ostatními <color=#F00>SCPs.</color>
 Zabij všechny.\nNenech nikoho uprchnout.\nSpolupracuj s ostatními <color=#F00>SCPs.</color>

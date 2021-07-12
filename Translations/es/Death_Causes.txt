@@ -1,19 +1,19 @@
 Vaporizado por el Silo Alfa.
-Pies y piernas destrozadas sugieren que la caída acabó con su vida.
-Señales de trauma severo a ambos huesos fémur indica que murió por un mecanismo.
+Pies y piernas destrozadas sugieren que una caída acabó con su vida.
+Señales de trauma severo en ambos fémurs indica que murió a causa de un mecanismo.
 Deteriorado en la Dimensión de Bolsillo.
 Son restos de SCP-106.
 Tiene varias quemaduras eléctricas de alto voltaje.
 Trauma fatal, el cuerpo está mutilado y machacado.
 Múltiples heridas de balas de la munición [ammotype].
 Cuello roto desde la base del cráneo.
-El cuerpo presenta gran deterioro.
+El cuerpo presenta un gran deterioro.
 Parada de signos de vida repentinos. No tiene ningún golpe.
 Causa de muerte desconocida.
 Es el cadáver de <b>[user]</b>, ¡era [class]!\n\nCausa de muerte: [cause]
-Laceraciones masivas y gran excesiva perdida de sangre.
+Laceraciones masivas y excesiva pérdida de sangre.
 Un gran y profundo mordisco alrededor del cráneo puede ser observado.
-Corroído por una sustancia altamente corrosiva.
+Consumido por una sustancia altamente corrosiva.
 Metralla y quemaduras de tercer grado causadas por una explosión.
 Piel pálida y boca ensangrentada sugieren una hemorragia interna causada por ingerir una sustancia.
 Recontenido por un humano.

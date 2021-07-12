@@ -1,0 +1,37 @@
+0~Janitor Keycard
+1~Scientist Keycard
+2~Research Supervisor Keycard
+3~Zone Manager Keycard
+4~Guard Keycard
+5~MTF Private Keycard
+6~Containment Engineer Keycard
+7~MTF Sergeant Keycard
+8~MTF Captain Keycard
+9~Facility Manager Keycard
+10~Chaos Insurgency Access Device
+11~O5-level Keycard
+12~Radio
+13~COM-15
+14~First Aid Kit~Heals your injuries.
+15~Flashlight~Let there be light!
+16~Micro H.I.D.~Mobile high-intensity electrical discharge thrower.
+17~SCP-500~The panacea.
+18~SCP-207~Harmfully increases motor skills.
+20~MTF-E11-SR
+21~Crossvec
+23~FSP-9
+24~Logicer
+25~High-Explosive Grenade~Boom!
+26~Flashbang Grenade~Blinds your enemies.
+30~COM-18
+31~SCP-018~Superball able to bounce with extreme efficiency.
+32~SCP-268~When worn, temporarily makes you invisible unless it is interrupted by any user interaction.
+33~Adrenaline~Temporarily increases endurance.
+34~Painkillers~Relieve minor injuries.
+35~Coin~You're not sure why you'd want to carry this around...
+36~Light Armor
+37~Combat Armor
+38~Heavy Armor
+39~.44 Revolver
+40~AK
+41~Shotgun

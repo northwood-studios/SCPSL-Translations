@@ -1,5 +1,5 @@
-<size=80>HAS SIDO EXPULSADO</size>\nEl servidor a detenido la conexión.\n<size=26>\nProbablemente has sido vetado por el administrador o no cumples con los requisitos del servidor (ej: conectarse a Steam).\nRespecto a los tiempos de vetación - los creadores del juego <b>no</b> son responsables.\n</size>
-<size=80>DESCONECTADO</size>\nEl host especificado no esta disponible.
+<size=80>HAS SIDO EXPULSADO</size>\nEl servidor ha detenido la conexión.\n<size=26>\nProbablemente has sido vetado por el administrador o no cumples con los requisitos del servidor (ej: conectarse a Steam).\nRespecto a los tiempos de vetación - los creadores del juego <b>no</b> son responsables.\n</size>
+<size=80>DESCONECTADO</size>\nEl host especificado no está disponible.
 <size=80>DESCONECTADO</size>\nLa ID de conexión especificada no existe.
 <size=80>DESCONECTADO</size>\nEl canal especificado no existe.
 <size=80>DESCONECTADO</size>\nServidor lleno.
@@ -9,19 +9,19 @@
 <size=80>DESCONECTADO</size>\nOperación no permitida.
 <size=80>DESCONECTADO</size>\nServidor configurado incorrectamente (versión no compatible).
 <size=80>DESCONECTADO</size>\nServidor configurado incorrectamente.
-<size=80>DESCONECTADO</size>\nLa dirección IP suministrada no puede ser encontrada o es incorrecta.
+<size=80>DESCONECTADO</size>\nLa dirección IP proporcionada no puede ser encontrada o es incorrecta.
 <size=80>DESCONECTADO</size>\n¡Un problema inesperado ha sido detectado!
 <size=80>POR FAVOR ESPERE</size>\n<size=35>¡Estableciendo conexión!</size>
-<size=80>REINICIANDO RONDA</size>\n<size=35>El servidor esta reiniciando el nivel...</size>
+<size=80>REINICIANDO RONDA</size>\n<size=35>El servidor está reiniciando el nivel...</size>
 <size=80>POR FAVOR ESPERE</size>\n<size=35>Cargando tutorial...</size>
 <size=80>VERSIÓN INCOMPATIBLE</size>\nTu versión del juego es diferente a la del servidor\n(Tu versión - [your]; Versión del servidor - [server])
 <size=80>CONECTADO</size>\n<size=35>Cargando el nivel...</size>
 <size=35>Cargando las instalaciones...</size>
 <size=80>DESCONECTADO</size>\nError no especificado en el servidor.
 <size=80>DESCONECTADO</size>\nEste servidor requiere autentificación por el servidor central.
-<size=80>DESCONECTADO</size>\nTu no formas parte de la lista blanca de este servidor.
-<size=80>DESCONECTADO</size>\nHas sido globalmente vetado.
-<size=80>DESCONECTADO</size>\nHas sido globalmente vetado: [reason].
+<size=80>DESCONECTADO</size>\nTú no estás en la lista blanca de este servidor.
+<size=80>DESCONECTADO</size>\nHas sido vetado globalmente.
+<size=80>DESCONECTADO</size>\nHas sido vetado globalmente: [reason].
 <size=80>DESCONECTADO</size>\nHas sido vetado de este servidor.
 <size=80>DESCONECTADO</size>\nHas sido vetado de este servidor.\nExpira en: [date] [time]
 <size=80>DESCONECTADO</size>\nTu token de autentificación ha expirado.\nEl servidor puede tener una hora o franja horaria incorrecta.\nPor favor, contacte con el administrador.
@@ -34,3 +34,4 @@
 <size=80>Espera</size>\nProcesando la verificación de seguridad del servidor...
 <size=80>DESCONECTADO</size>\nHa fallado la comprobación de seguridad del servidor.
 <size=80>DESCONECTADO</size>\nEl procesamiento de la seguridad ha sido demasiado lento para el servidor.\nPrueba de nuevo o contacta al administrador del servidor.
+<size=80>ERROR DE AUTORIZACIÓN</size>\nMensaje del servidor central: [message].

@@ -39,7 +39,7 @@
 ผู้กำกับเกม SCP:SL
 ผู้จัดการเซิฟเวอร์หลัก SCP:SL
 ผู้เชี่ยวชาญการยืนยันตน Northwood
-ผู้เชี่ยวชาญเนทีฟโค้ด Northwood
+ผู้พัฒนาระบบ Anti-Cheat SCP:SL
 ผู้ทดสอบการประกันคุณภาพ SCP:SL
 หัวหน้าแผนกประกันคุณภาพ SCP:SL
 SCP:SL Twitch Subscriber

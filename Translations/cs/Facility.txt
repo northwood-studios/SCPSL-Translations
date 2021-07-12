@@ -30,4 +30,11 @@ Hráčů
 Úspěšně jsi utekl jako vědec a připojíš se k jednotce MTF.
 Úspěšně jsi utekl jako personál Třídy-D a připojíš se k jednotce Vzbouřenců Chaosu.
 Jsi
-Escape time: [escape_minutes] minutes and [escape_seconds] seconds
+Čas útěku: [escape_minutes] minut a [escape_seconds] sekund
+Počkej [time] než budeš moct použít [item] znovu.
+Stiskni <color=yellow><b>F1</b></color> pro nápovědu.
+Byl jsi zatknut.\n<size=40>Řiď se rozkazy nebo požádej o pomoc spoluhráče.</size>
+Byl jsi chycen MTFkem.\nO jednu menší hrozbou v zařízení se dokázali posílit.
+Vzbouřenci Chaosu tě zajali jako vědce. Získali výhodu z informací, které jsi jim poskytli.
+KOLO ZAČNE ZA: <color=yellow>{0}</color>s
+KOLO ZAČNE ZA <color=#FF5050>PAUZA</color>

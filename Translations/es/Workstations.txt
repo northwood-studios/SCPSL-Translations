@@ -1,0 +1,18 @@
+<size=100>MESA DE TRABAJO\n<color=#EE0000FF>BLOQUEADA</color></size>\nacceso por parte de personal no autorizado está terminalmente prohibido\npor favor, conecte su administrador de armas para verificar su identidad
+<size=100>ESPERE</size>\nverificando el administrador de armas conectado
+<size=100>MESA DE TRABAJO\n<color=#00EE00FF>LISTA</color></size>\n\nequipe el arma que desea modificar
+<size=80>¿QUÉ LE GUSTARÍA MODIFICAR?</size>
+miras ({0} lista(s)
+extensiones del cañón ({0} lista(s))
+other attachments ({0} lista(s)
+ATRÁS
+Daño {0}
+Volúmen del disparo {0}
+Retroceso{0}
+Tasa de disparo {0}
+Dispersión (sin apuntar) {0}
+<color=red>Modifica el punto de mira</color>
+<color=green>Mira de tipo telescópica</color>
+Escala de Zoom <color=green>{0}</color>
+Retroceso (apuntando) {0}
+<size=100>GOODBYE!</size>\nTerminando la sesión actual

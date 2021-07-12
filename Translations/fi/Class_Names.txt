@@ -2,17 +2,20 @@ SCP-173
 D-Luokka
 Katsoja
 SCP-106
-Nine-Tailed Fox Tutkija
+Nine-Tailed Fox Erikoisasiantuntija
 SCP-049
 Tutkija
 SCP-079
-Chaos Insurgency
+Chaos Insurgency Varusmies
 SCP-096
 SCP-049-2
-Nine-Tailed Fox Luutnantti
-Nine-Tailed Fox Komentaja
-Nine-Tailed Fox Kadetti
+Nine-Tailed Fox Kersantti
+Nine-Tailed Fox Kapteeni
+Nine-Tailed Fox Sotamies
 Tutoriaali
 Laitosvartija
 SCP-939-53
 SCP-939-89
+Chaos Insurgency Jääkäri
+Chaos Insurgency Tukahduttaja
+Chaos Insurgency Riistäjä

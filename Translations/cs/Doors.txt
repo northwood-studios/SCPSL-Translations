@@ -1,0 +1,10 @@
+<color=green>OTEVŘENO</color>
+<color=#07A2FF>ZAVŘENO</color>
+<color=orange>V POHYBU</color>
+<color=red>ZAMČENO</color>
+<color=red>CHYBA</color>
+<color=red>PŘÍSTUP ZAMÍTNUT</color>
+<color=green>PŘISTUP POVOLEN</color>
+<color=#07A2FF>PŘILOŽTE KARTU</color>
+<color=orange>PROSÍM PROJDĚTE</color>
+<color=orange>UZAVÍRANÍ</color>

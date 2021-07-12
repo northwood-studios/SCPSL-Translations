@@ -1,0 +1,15 @@
+Ammo {0}/{1} {2}
+Damage
+Fire Rate
+Hip Accuracy
+ADS Accuracy
+Weight
+Length
+DROP:
+Helmet Efficacy
+Vest Efficacy
+Stamina Usage
+Movement Speed
+Item Limits:
+Ammo Limits:
+{0} total

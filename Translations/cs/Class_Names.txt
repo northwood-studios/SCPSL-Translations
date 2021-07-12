@@ -9,9 +9,10 @@ SCP-079
 Vzbouřenci Chaosu
 SCP-096
 SCP-049-2
-Poručík Nine-Tailed Fox
-Velitel Nine-Tailed Fox
-Nine-Tailed Fox Cadet
+Nine-Tailed Fox Poručík
+Nine-Tailed Fox Velitel
+Nine-Tailed Fox Kadet
 Tutoriál
 Facility Guard
-SCP-939
+SCP-939-53
+SCP-939-89
