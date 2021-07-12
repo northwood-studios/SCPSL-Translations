@@ -38,8 +38,8 @@ SCP:SL官方 质量保证经理
 SCP:SL官方 音效师
 SCP:SL官方 游戏总监
 SCP:SL 官方服务器经理
-Northwood工作室官方 游戏审核专员
-Northwood工作室官方 本地代码专家
+Northwood工作室 游戏官方审核专员
+SCP:SL官方 反作弊开发人员
 SCP:SL官方 质量保证员
 SCP:SL官方 质量保证主管
 SCP:SL官方 Twitch 订阅者
