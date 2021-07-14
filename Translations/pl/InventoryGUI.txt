@@ -8,7 +8,7 @@ Długość
 UPUŚĆ:
 Skuteczność hełmu
 Skuteczność kamizelki
-Zużycie staminy
+Zużycie wytrzymałości
 Prędkość ruchu
 Limit przedmiotów:
 Limit amunicji:
