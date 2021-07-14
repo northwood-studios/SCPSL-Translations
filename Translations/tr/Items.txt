@@ -6,7 +6,7 @@
 5~MGG Nefer Kartı
 6~Barındırma Mühendisi Kartı
 7~MGG Çavuş Kartı
-8~MGG Yüzbaşı Kartı
+8~MGG Albay Kartı
 9~Tesis Müdürü Kartı
 10~Kaos İsyancısı Erişim Cihazı
 11~O5-seviye Kartı
