@@ -1,8 +1,8 @@
 Brak
-Kart Dostępu
-Przedmiotów Medycznych
+Kart dostępu
+Przedmiotów medycznych
 Radiów
-Broni Palnej
+Broni palnej
 Granatów
 Przedmiotów SCP
 Micro H.I.D.
