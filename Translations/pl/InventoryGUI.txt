@@ -6,10 +6,10 @@ Celność z przybliżeniem
 Waga
 Długość
 UPUŚĆ:
-Skuteczność Hełmu
-Skuteczność Kamizelki
-Zużycie Staminy
-Prędkość Ruchu
-Limit Przedmiotów:
-Limit Amunicji:
+Skuteczność hełmu
+Skuteczność kamizelki
+Zużycie staminy
+Prędkość ruchu
+Limit przedmiotów:
+Limit amunicji:
 {0} ogółem
