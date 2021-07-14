@@ -1,14 +1,14 @@
-0~Karta Dozorcy
-1~Karta Naukowca
-2~Karta Kierownika Badań
-3~Karta Zarządcy Strefy
-4~Karta Ochroniarza
-5~Karta Szeregowego MTF
-6~Karta Technika Zabezpieczeń
-7~Karta Sierżanta MTF
-8~Karta Kapitana MTF
-9~Karta Administratora Placówki
-10~Urządzenie Włamujące Rebelii Chaosu
+0~Karta dozorcy
+1~Karta naukowca
+2~Karta kierownika badań
+3~Karta zarządcy strefy
+4~Karta ochroniarza
+5~Karta szeregowego MTF
+6~Karta technika zabezpieczeń
+7~Karta sierżanta MTF
+8~Karta kapitana MTF
+9~Karta administratora placówki
+10~Urządzenie włamujące Rebelii Chaosu
 11~Karta Rady O5
 12~Radio
 13~COM-15
@@ -21,17 +21,17 @@
 21~Crossvec
 23~FSP-9
 24~Logicer
-25~Granat Zaczepny~Boom!
-26~Granat Błyskowy~Oślepia przeciwnika.
+25~Granat zaczepny~Boom!
+26~Granat błyskowy~Oślepia przeciwnika.
 30~COM-18
 31~SCP-018~Piłka, która odbijając się zwiększa swą prędkość.
 32~SCP-268~Po jej założeniu staniesz się tymczasowo niewidzialny.\nInterakcja z czymkolwiek przerywa ten efekt.
 33~Adrenalina~Tymczasowo zwiększa wytrzymałość.
 34~Leki Przeciwbólowe~Łagodzą drobne obrażenia.
 35~Moneta~Nie masz pewności do czego byłaby ci ona potrzebna...
-36~Lekki Pancerz
-37~Pancerz Bojowy
-38~Ciężki Pancerz
+36~Lekki pancerz
+37~Pancerz bojowy
+38~Ciężki pancerz
 39~Rewolwer
 40~AK
 41~Strzelba
