@@ -1,0 +1,37 @@
+0~Hademe Kartı
+1~Bilimadamı Kartı
+2~Araştırma Gözetmeni Kartı
+3~Bölge Müdürü Kartı
+4~Görevli Kartı
+5~MGG Nefer Kartı
+6~Barındırma Mühendisi Kartı
+7~MGG Çavuş Kartı
+8~MGG Albay Kartı
+9~Tesis Müdürü Kartı
+10~Kaos İsyancısı Erişim Cihazı
+11~O5-seviye Kartı
+12~Telsiz
+13~COM-15
+14~İlk Yardım Kiti~Yaralarını iyileştirir.
+15~El feneri~Işık olsun!
+16~Mikro Y.Y.D.~Mobil yüksek yoğunluklu elektrik deşarj atıcı.
+17~SCP-500~Her derde deva.
+18~SCP-207~Motor gücünü zararlı bir şekilde arttırır.
+20~MGG-E11-ST
+21~Crossvec
+23~FSP-9
+24~Logicer
+25~Yüksek-İnfilaklı Bomba~Bum!
+26~Flaş Bombası~Düşmanlarını kör eder.
+30~COM-18
+31~SCP-018~Yüksek etkinlikte zıplayabilen süper top.
+32~SCP-268~Kuşanıldığında, herhangi bir kullanıcı etkileşimi tarafından kesilmediği sürece sizi geçici olarak görünmez yapar.
+33~Adrenalin~Dayanıklılığını geçiçi olarak arttırır.
+34~Ağrı kesici~Küçük yaralarını dindirir.
+35~Jeton~Bunu neden taşımak istediğin hakkında bir fikrin yok...
+36~Hafif Zırh
+37~Savaş Zırhı
+38~Ağır Zırh
+39~.44 Altıpatlar
+40~AK
+41~Pompalı

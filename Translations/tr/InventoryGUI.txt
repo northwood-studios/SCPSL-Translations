@@ -1,0 +1,15 @@
+Cephane {0}/{1} {2}
+Hasar
+Atış Oranı
+Silah İsabetliliği
+Nişan Doğruluğu
+Ağırlık
+Uzunluk
+DÜŞME:
+Kask Etkinliği
+Yelek Etkinliği
+Enerji Kullanımı
+Koşma Hızı
+Eşya Limiti:
+Cephane Limiti:
+toplamda {0}

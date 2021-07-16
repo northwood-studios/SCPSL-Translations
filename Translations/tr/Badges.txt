@@ -44,3 +44,7 @@ SCP:SL Kalite Güven Deneyen
 SCP:SL Kalite Güven Gözetmeni
 SCP:SL Twitch Abonesi
 SCP:SL Ses Müdürü
+Northwood Geribildirim Koordinatörü
+Northwood Doğrulama Gözetmeni
+SCP:SL Resmi Sunucu Gözetmeni
+Northwood Geribildirim Gözetmeni
