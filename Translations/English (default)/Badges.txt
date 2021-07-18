@@ -16,7 +16,7 @@ Northwood Staff
 Northwood Steam Manager
 Northwood System Administrator
 Northwood Wiki Manager
-SCP:SL Art Director
+SCP:SL Art Manager
 SCP:SL Art Supervisor
 SCP:SL Artist
 SCP:SL Backend Programmer
@@ -48,3 +48,9 @@ Northwood Feedback Coordinator
 Northwood Verification Supervisor
 SCP:SL Official Server Supervisor
 Northwood Feedback Supervisor
+Northwood Verification Manager
+Northwood Bot Manager
+Northwood Wiki Manager
+Northwood Translation Manager
+SCP:SL Game Design Manager
+SCP:SL Animator
