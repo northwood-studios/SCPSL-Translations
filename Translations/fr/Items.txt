@@ -1,0 +1,37 @@
+0~Carte d'accès de Concierge
+1~Carte d'accès de Scientifique
+2~Carte d'accès de Scientifique Senior
+3~Carte d'accès du Manager du Site
+4~Carte d'accès de Garde
+5~Carte d'accès de Soldat Epsilon-11
+6~Carte d'accès d'Ingénieur de confinement
+7~Carte d'accès de Sergent Epsilon-11
+8~Carte d'accès de Capitaine Epsilon-11 
+9~Carte d'accès du Manager du site
+10~Dispositif d'accès de l'Insurrection du Chaos
+11~Carte d'accès niveau O5
+12~Radio
+13~COM-15
+14~Trousse de premiers secours~Soigne
+15~Lampe torche~Que la lumière soit !
+16~Micro H.I.D.~Lanceur mobile de décharges électriques à haute densité.
+17~SCP-500~La panacée.
+18~SCP-207~Amélioration destructrice de vos capacités musculaires.
+20~MTF-E11-SR
+21~Crossvec
+23~FSP-9
+24~Logicer
+25~Grenade à fragmentation~Boom!
+26~Grenade incapacitante~Aveugle vos ennemis.
+30~COM-18
+31~SCP-018~Super balle capable de rebondir avec une efficacité extrême.
+32~SCP-268~Porté, il vous rend temporairement invisible à moins d'être interrompu par la moindre interaction avec l'environnement.
+33~Adrénaline~Augmente temporairement l'endurance.
+34~Aspirine~Fait endurer les douleurs.
+35~Pièce~Vous n'êtes pas sûr pour quelle raison vous voudriez garder ça dans cette situation...
+36~Armure légère
+37~Armure de combat
+38~Armure lourde
+39~.44 Révolver
+40~AK
+41~Fusil à pompe
